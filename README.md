@@ -4,10 +4,10 @@ This repo contains Christ In Song Hymnal files converted to `.json` files.
 Files are used in the [cis-android](https://github.com/TinasheMzondiwa/cis-android) and [cis-ios](https://github.com/TinasheMzondiwa/cis-ios) apps.
 
 ## Found a typo?
-Please open a new [issue](https://github.com/TinasheMzondiwa/cis-hymnals/issues).
+Please open a new [issue](https://github.com/TinasheMzondiwa/cis-hymnals/issues/new/choose).
 
 ## New language?
-Please open a new [pull-request](https://github.com/TinasheMzondiwa/cis-hymnals/pulls) with the desired `.json` file.
+Please open a new [issue](https://github.com/TinasheMzondiwa/cis-hymnals/issues/new/choose) with the suggested language.
 
 ## Copyright info
 The copyrights for each hymnal belong to the respective publishing houses.
