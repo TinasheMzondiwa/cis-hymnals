@@ -1,0 +1,77 @@
+[
+    {
+        "key": "english",
+        "title": "Christ In Song",
+        "language": "English"
+    },
+    {
+        "key": "tswana",
+        "title": "Keresete Mo Kopelong",
+        "language": "Tswana"
+    },
+    {
+        "key": "sotho",
+        "title": "Keresete Pineng",
+        "language": "Sotho"
+    },
+    {
+        "key": "chichewa",
+        "title": "Khristu Mu Nyimbo",
+        "language": "Chichewa"
+    },
+    {
+        "key": "tonga",
+        "title": "Kristu Mu Nyimbo",
+        "language": "Tonga"
+    },
+    {
+        "key": "shona",
+        "title": "Kristu MuNzwiyo",
+        "language": "Shona"
+    },
+    {
+        "key": "venda",
+        "title": "Ngosha YaDzingosha",
+        "language": "Venda"
+    },
+    {
+        "key": "swahili",
+        "title": "Nyimbo Za Kristo",
+        "language": "Swahili"
+    },
+    {
+        "key": "ndebele",
+        "title": "UKrestu Esihlabelelweni",
+        "language": "Ndebele/IsiZulu"
+    },
+    {
+        "key": "xhosa",
+        "title": "UKristu Engomeni",
+        "language": "IsiXhosa"
+    },
+    {
+        "key": "xitsonga",
+        "title": "Risima Ra Vuyimbeleri",
+        "language": "Xitsonga"
+    },
+    {
+        "key": "gikuyu",
+        "title": "Nyimbo cia Agendi",
+        "language": "Kikuyu"
+    },
+    {
+        "key": "abagusii",
+        "title": "Ogotera kw'ogotogia Nyasae",
+        "language": "Abagusii"
+    },
+    {
+        "key": "dholuo",
+        "title": "Wende Nyasaye",
+        "language": "Dholuo"
+    },
+    {
+        "key": "sdah",
+        "title": "SDA Hymnal",
+        "language": "English"
+    }
+]
