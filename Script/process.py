@@ -10,13 +10,13 @@ def process_songBook(book):
         my_song = ""
         
         try:
-            my_song = "# " + str(soup.h1.text) + "\n\n"
+            my_song = "# " + str(soup.h1.text) + "\n\n "
             soup.h1.decompose()
         except:
             pass
         
         try:
-            my_song = "### " + str(soup.h3.text) + "\n\n"
+            my_song = "### " + str(soup.h3.text) + "\n\n "
             soup.h3.decompose()
         except:
             pass
