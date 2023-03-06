@@ -17,6 +17,7 @@ def process_songBook(book):
         
         try:
             my_song = "### " + str(soup.h3.text) + "\n\n"
+            soup.h3.decompose()
         except:
             pass
              
@@ -32,7 +33,7 @@ def process_songBook(book):
     return my_json
 
 new_dir = "New_Files"
-path_ = os.path.normpath(os.getcwd()+os.sep+os.pardir)
+path_ = os.getcwd()
 my_files = os.listdir(path_)
 
 for f in my_files:
