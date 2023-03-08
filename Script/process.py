@@ -24,7 +24,7 @@ def process_songBook(book):
 
         for x in soup.find_all('p'):
             try:
-                my_song += x.text
+                my_song += x.text + "\n"
             except:
                 pass 
         
