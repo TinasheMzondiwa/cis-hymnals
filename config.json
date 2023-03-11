@@ -73,5 +73,10 @@
         "key": "sdah",
         "title": "SDA Hymnal",
         "language": "English"
+    },
+    {
+        "key": "kinyarwanda",
+        "title": "Indirimbo Zo Guhimbaza Iman",
+        "language": "Kinyarwanda"
     }
 ]
