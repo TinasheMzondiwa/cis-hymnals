@@ -88,5 +88,10 @@
         "key": "dg",
         "title": "Donnez-Lui Gloire",
         "language": "Français"
+    },
+    {
+        "key": "kirundi",
+        "title": "Indirimbo",
+        "language": "Kirundi"
     }
 ]
