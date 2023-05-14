@@ -93,5 +93,20 @@
         "key": "kirundi",
         "title": "Indirimbo",
         "language": "Kirundi"
+    },
+    {
+        "key": "pt",
+        "title": "Hinàrio Adventista Do Sétiomo Dia",
+        "language": "Portuguesa"
+    },
+    {
+        "key": "es",
+        "title": "Himnario Adventista",
+        "language": "Español"
+    },
+    {
+        "key": "ru",
+        "title": "Гимн адвентистов седьмого дня",
+        "language": "русский язык"
     }
 ]
