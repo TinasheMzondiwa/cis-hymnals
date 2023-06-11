@@ -9,6 +9,9 @@ Please open a new [issue](https://github.com/TinasheMzondiwa/cis-hymnals/issues/
 ## New language?
 Please open a new [issue](https://github.com/TinasheMzondiwa/cis-hymnals/issues/new/choose) with the suggested language.
 
+## Contribute new files?
+Make sure you check if the file content is valid and that the hymns render as expected here [Hymnal Previewer](https://previewer-psi.vercel.app/)
+
 ## Copyright info
 The copyrights for each hymnal belong to the respective publishing houses.
 
