@@ -93,5 +93,15 @@
         "key": "ru",
         "title": "Гимн адвентистов седьмого дня",
         "language": "русский язык"
+    },
+    {
+        "key": "tumbuka",
+        "title": "Nyimbo za Mpingo wa SDA",
+        "language": "Tumbuka"
+    },
+    {
+        "key": "sepedi",
+        "title": "Kreste Ka Kopelo",
+        "language": "Sepedi"
     }
 ]
