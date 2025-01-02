@@ -103,5 +103,10 @@
         "key": "sepedi",
         "title": "Kreste Ka Kopelo",
         "language": "Sepedi"
+    },
+    {
+        "key": "Icibemba",
+        "title": "Kristu Mu Nyimbo",
+        "language": "Icibemba"
     }
 ]
