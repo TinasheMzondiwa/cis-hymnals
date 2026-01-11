@@ -1,0 +1,292 @@
+:root {
+    --bg-color: #f9f9f9;
+    --paper-color: #ffffff;
+    --sidebar-bg: #f0f0f0;
+    --text-primary: #333333;
+    --text-secondary: #666666;
+    --accent-color: #2563eb;
+    --accent-hover: #1d4ed8;
+    --border-color: #e5e5e5;
+    --font-ui: 'Inter', system-ui, sans-serif;
+    --font-reading: 'Merriweather', serif;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-ui);
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+/* Header */
+.app-header {
+    background-color: var(--paper-color);
+    border-bottom: 1px solid var(--border-color);
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    z-index: 10;
+}
+
+.logo {
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: var(--text-primary);
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.file-label {
+    background-color: var(--accent-color);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background 0.2s;
+    font-weight: 500;
+}
+
+.file-label:hover {
+    background-color: var(--accent-hover);
+}
+
+.file-label input {
+    display: none;
+}
+
+.file-name {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    max-width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Main Layout */
+.app-container {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 320px;
+    background-color: var(--sidebar-bg);
+    border-right: 1px solid var(--border-color);
+    display: flex;
+    flex-direction: column;
+}
+
+.search-box {
+    padding: 1rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.search-box input {
+    width: 100%;
+    padding: 0.6rem 2rem 0.6rem 0.8rem;
+    /* Check padding rights for button space */
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+}
+
+.search-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.clear-btn {
+    position: absolute;
+    right: 0.5rem;
+    background: #ccc;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    line-height: 1;
+    cursor: pointer;
+    padding: 0;
+}
+
+.clear-btn:hover {
+    background: #999;
+}
+
+.clear-btn[hidden] {
+    display: none;
+}
+
+.hymn-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0.5rem 0;
+}
+
+.hymn-item {
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    border-bottom: 1px solid transparent;
+    transition: background 0.15s;
+    display: flex;
+    gap: 0.5rem;
+    align-items: baseline;
+}
+
+.hymn-item:hover {
+    background-color: rgba(0, 0, 0, 0.03);
+}
+
+.hymn-item.active {
+    background-color: #fff;
+    border-left: 4px solid var(--accent-color);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.hymn-number {
+    font-weight: 600;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    min-width: 3ch;
+}
+
+.hymn-title {
+    font-weight: 500;
+    font-size: 0.95rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Content Area */
+.content-area {
+    flex: 1;
+    overflow-y: auto;
+    padding: 2rem;
+    background-color: var(--bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* Ensure items start at top and stretch down */
+}
+
+.hymn-display {
+    background-color: var(--paper-color);
+    width: 100%;
+    max-width: 700px;
+    padding: 3rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    /* Removed min-height: min-content; let it grow naturally */
+}
+
+.hymn-header {
+    text-align: center;
+    margin-bottom: 2.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.hymn-header h1 {
+    font-family: var(--font-reading);
+    font-size: 1.8rem;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.english-title {
+    font-family: var(--font-ui);
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.hymn-body {
+    font-family: var(--font-reading);
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #2a2a2a;
+}
+
+.block {
+    margin-bottom: 1.5rem;
+    position: relative;
+    /* For positioning labels if needed, though we use flow */
+}
+
+.block-label {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.25rem;
+    display: block;
+}
+
+.verse {
+    /* Standard verse styling */
+    margin-bottom: 1.5rem;
+}
+
+.refrain {
+    margin: 1.5rem 0 1.5rem 1.5rem;
+    /* Indent refrain */
+    font-style: italic;
+    color: #444;
+    border-left: 3px solid var(--border-color);
+    padding-left: 1rem;
+}
+
+/* Explicit Verse Number Styling if we put it inline or above */
+.verse-number {
+    font-weight: bold;
+    margin-right: 0.5em;
+    color: var(--accent-color);
+}
+
+.empty-state-small,
+.empty-state-large {
+    color: var(--text-secondary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+}
+
+.empty-state-large code {
+    background: #e2e8f0;
+    padding: 2px 6px;
+    border-radius: 4px;
+}

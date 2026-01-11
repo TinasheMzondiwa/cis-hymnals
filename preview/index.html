@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hymnal Preview</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header class="app-header">
+        <div class="logo">Self-Contained Hymnal Preview</div>
+        <div class="controls">
+            <label for="fileInput" class="file-label">
+                Load JSON File
+                <input type="file" id="fileInput" accept=".json" />
+            </label>
+            <span id="fileName" class="file-name">No file loaded</span>
+        </div>
+    </header>
+
+    <main class="app-container">
+        <aside class="sidebar">
+            <div class="search-box">
+                <div class="search-wrapper">
+                    <input type="text" id="searchInput" placeholder="Search by number or title..." disabled>
+                    <button id="clearSearch" class="clear-btn" aria-label="Clear search" hidden>&times;</button>
+                </div>
+            </div>
+            <div id="hymnList" class="hymn-list">
+                <!-- Hymn items will be injected here -->
+                <div class="empty-state-small">Load a file to see hymns</div>
+            </div>
+        </aside>
+
+        <section id="contentArea" class="content-area">
+            <div class="empty-state-large">
+                <h2>Welcome</h2>
+                <p>Please load a <code>_v2.json</code> hymn file to inspect its content.</p>
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
