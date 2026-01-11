@@ -25,6 +25,26 @@ document.addEventListener('DOMContentLoaded', () => {
             try {
                 const data = JSON.parse(event.target.result);
                 if (Array.isArray(data)) {
+                    // Validation: Check for V2 format (must have 'lyrics' array)
+                    const sample = data.find(h => h.number); // Find first valid item
+
+                    if (!sample) {
+                        alert("Invalid File ⚠️\n\nThis file does not appear to contain hymn data (no hymn numbers found).");
+                        return;
+                    }
+
+                    if (sample) {
+                        if (!sample.lyrics && sample.content) {
+                            const v2Name = file.name.replace('.json', '_v2.json');
+                            alert(`Legacy File Detected ⚠️\n\nYou opened a V1 file ('${file.name}').\nPlease select the V2 version ('${v2Name}') which contains the structured lyrics.`);
+                            return;
+                        }
+                        if (!sample.lyrics) {
+                            alert("Invalid Format ⚠️\n\nThis file does not appear to contain valid lyrics data.");
+                            return;
+                        }
+                    }
+
                     allHymns = data;
                     renderHymnList(allHymns);
                     searchInput.disabled = false;
