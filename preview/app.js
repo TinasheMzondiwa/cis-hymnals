@@ -7,8 +7,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const clearSearchBtn = document.getElementById('clearSearch');
 
     let allHymns = [];
+    let activeHymnNumber = null;
 
     // File Loading
+    fileInput.addEventListener('click', () => {
+        fileInput.value = ''; // Allow re-selecting the same file
+    });
+
     fileInput.addEventListener('change', (e) => {
         const file = e.target.files[0];
         if (!file) return;
@@ -24,12 +29,19 @@ document.addEventListener('DOMContentLoaded', () => {
                     renderHymnList(allHymns);
                     searchInput.disabled = false;
 
-                    // Clear main content
-                    contentArea.innerHTML = `
-                        <div class="flex flex-col items-center justify-center h-full text-gray-400 max-w-md text-center animate-pulse">
-                            <p class="text-sm font-medium">← Select a hymn from the list</p>
-                        </div>
-                    `;
+                    // Smart Refresh: Check if we had an active hymn and try to restore it
+                    if (activeHymnNumber !== null) {
+                        const savedHymn = allHymns.find(h => h.number === activeHymnNumber);
+                        if (savedHymn) {
+                            renderHymn(savedHymn);
+                            // Also scroll hymn list to active item? (Optional refinement)
+                        } else {
+                            // Active hymn no longer exists (deleted/renumbered)
+                            showEmptyState();
+                        }
+                    } else {
+                        showEmptyState();
+                    }
                 } else {
                     alert('Invalid JSON format. Expected an array of hymns.');
                 }
@@ -40,6 +52,14 @@ document.addEventListener('DOMContentLoaded', () => {
         };
         reader.readAsText(file);
     });
+
+    function showEmptyState() {
+        contentArea.innerHTML = `
+            <div class="flex flex-col items-center justify-center h-full text-gray-400 max-w-md text-center animate-pulse">
+                <p class="text-sm font-medium">← Select a hymn from the list</p>
+            </div>
+        `;
+    }
 
     // Search Filtering
     searchInput.addEventListener('input', (e) => {
@@ -117,6 +137,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Render Single Hymn
     function renderHymn(hymn) {
+        activeHymnNumber = hymn.number; // Save state for smart refresh
+
         // Main Card
         let html = `
             <div class="bg-white w-full max-w-2xl px-8 py-10 md:px-12 md:py-14 shadow-lg shadow-gray-200/50 rounded-xl mb-10 transition-all font-serif flex flex-col items-stretch">
