@@ -1381,13 +1381,6 @@
                 "type": "refrain",
                 "lines": [
                     "‘Nkosi yam’, ‘Nkosi yam’,",
-                    "U phas’ imizamo yam’"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "‘Nkosi yam’, ‘Nkosi yam’,",
                     "U ngangiqondisa nam’"
                 ]
             },
@@ -1403,13 +1396,6 @@
                 "type": "refrain",
                 "lines": [
                     "‘Nkosi yam’, ‘Nkosi yam’,",
-                    "U ngangiqondisa nam’"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "‘Nkosi yam’, ‘Nkosi yam’,",
                     "Xolela lesi soni"
                 ]
             },
@@ -1419,13 +1405,6 @@
                 "lines": [
                     "Mninimandl’ osezulwini, Ngi kiph’ ezinsizini",
                     "Ngi sindise ekoneni, Ngithembel’ eNkosini."
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "‘Nkosi yam’, ‘Nkosi yam’,",
-                    "Xolela lesi soni"
                 ]
             },
             {
@@ -2783,6 +2762,40 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
+                    "Wo! Ukwethaba kwami nxa ngi mbona ngobuso,",
+                    "Neliso elinomusa kimina;",
+                    "Inhliziyo yami I zakumbonga ngothando,",
+                    "Olungilungiseleyo ikhaya."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ngi zoma ... zi ngi zomazi, Mina ngi zakum’ eduze kwAkhe",
+                    "Ngi zoma ... zi ngi zomazi, Ngamanxeb’ ezandleni zAkhe."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Wo! Ngokukhumbula-ke, ngabakade ba shona,",
+                    "Nokuvalelisa kweth’ ethuneni;",
+                    "Khona eEdeni asisoze sahlukana,",
+                    "Kodwa ngi fis’ ukumbon’ uMsindisi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ngi zoma ... zi ngi zomazi, Mina ngi zakum’ eduze kwAkhe",
+                    "Ngi zoma ... zi ngi zomazi, Ngamanxeb’ ezandleni zAkhe."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "Ngi zongen’ emzini ngezimhlophe izingubo,",
                     "A ngi selapho kungakhalwa khona;",
                     "Ngi zakuhlabel’ ingoma yabasindisweyo,",
@@ -2824,8 +2837,7 @@
                 "index": 2,
                 "lines": [
                     "Ngi ph’ iBhaibhele nxa ku khon’ usizi, Nanxa umoya wami u pansi",
-                    "Ngi ph’amazwi a khulunywa nguJesu, Kuze ku bonw ‘uMkhululi wethuNgi ph’ iBhaibhele ekhanyis’ indlela  Lize li bonis’ ingozi lapha",
-                    "Li yisiban’ esikhanyisa kahle;  Ukuze ngi mbone ngi mlandele"
+                    "Ngi ph’amazwi a khulunywa nguJesu, Kuze ku bonw ‘uMkhululi wethu"
                 ]
             },
             {
@@ -2838,6 +2850,21 @@
             {
                 "type": "verse",
                 "index": 3,
+                "lines": [
+                    "Ngi ph’ iBhaibhele ekhanyis’ indlela  Lize li bonis’ ingozi lapha",
+                    "Li yisiban’ esikhanyisa kahle;  Ukuze ngi mbone ngi mlandele"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ngi ph’ iBhaibhele ‘sithunyw’ esingcwele Lize nami li ngi khanyisele",
+                    "Izithembiso nothando ndawonye, Ku zohlala phakade ku kunye"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
                 "lines": [
                     "Ngi ph’iBhaibhele yiso isibane  Ozosiphakamis’ elibeni",
                     "Li nokukhanyisa kwasezulwini, Naphesheya kwalo iJordani"
@@ -2915,27 +2942,16 @@
         "title": "Udonga Lwas’ eJordani",
         "lyrics": [
             {
-                "type": "refrain",
-                "lines": [
-                    "Ngi yakuma eJordani, Nangaphesheya le!",
-                    "Ngi pons’ iso lami kulo, Izwe laseKhenan    CHORUS",
-                    "Si zophumula ezweni elihle ..., Se ku yisikhashanyana nje ...,",
-                    "Si hube ingoma ka Mosi neWundlu; Sibe noJesu phakade."
-                ]
-            },
-            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Emagcekeni amahle, A khanya kuphela",
-                    "uJesu ilanga lethu U xosh’ ubusuku"
+                    "Ngi yakuma eJordani, Nangaphesheya le!",
+                    "Ngi pons’ iso lami kulo, Izwe laseKhenan"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ngi yakuma eJordani, Nangaphesheya le!",
-                    "Ngi pons’ iso lami kulo, Izwe laseKhenan    CHORUS",
                     "Si zophumula ezweni elihle ..., Se ku yisikhashanyana nje ...,",
                     "Si hube ingoma ka Mosi neWundlu; Sibe noJesu phakade."
                 ]
@@ -2944,15 +2960,13 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Ngofika nini phezulu, Ngize ngi busiswe!",
-                    "Ng’ombona nini uBaba, Ngi phuml’ eMbusweni!"
+                    "Emagcekeni amahle, A khanya kuphela",
+                    "uJesu ilanga lethu U xosh’ ubusuku"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ngi yakuma eJordani, Nangaphesheya le!",
-                    "Ngi pons’ iso lami kulo, Izwe laseKhenan    CHORUS",
                     "Si zophumula ezweni elihle ..., Se ku yisikhashanyana nje ...,",
                     "Si hube ingoma ka Mosi neWundlu; Sibe noJesu phakade."
                 ]
@@ -2961,6 +2975,21 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
+                    "Ngofika nini phezulu, Ngize ngi busiswe!",
+                    "Ng’ombona nini uBaba, Ngi phuml’ eMbusweni!"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Si zophumula ezweni elihle ..., Se ku yisikhashanyana nje ...,",
+                    "Si hube ingoma ka Mosi neWundlu; Sibe noJesu phakade."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "I thabile inhliziyo, Ngoba ngi yahamba;",
                     "Noma ngi hanqiwe mina, Ngesibindi ngoya!"
                 ]
@@ -2968,8 +2997,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Ngi yakuma eJordani, Nangaphesheya le!",
-                    "Ngi pons’ iso lami kulo, Izwe laseKhenan    CHORUS",
                     "Si zophumula ezweni elihle ..., Se ku yisikhashanyana nje ...,",
                     "Si hube ingoma ka Mosi neWundlu; Sibe noJesu phakade."
                 ]
@@ -6246,7 +6273,23 @@
                     "Nina ‘bantu, qaphelani izwi;",
                     "Liqotho lashiwo yiNkosi ni zve",
                     "Umlayezo kini u veze into -",
-                    "\"Nga ni zalwa futhi!\" (Futhi)    Nin’ enizongen’ ebukhosini,",
+                    "\"Nga ni zalwa futhi!\" (Futhi)"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "\"Nga u zalwa futhi!\" (Futhi)",
+                    "\"Nga u zalwa futhi!\" (Futhi)",
+                    "Ngeqinis’ iqiniso, ngi thi kuwe",
+                    "\"Nga u zalwa futhi!\" (Futhi)"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Nin’ enizongen’ ebukhosini,",
                     "Ni hube ingoma esigodlweni;",
                     "Ni zuze ukuphila kwaphakade;",
                     "\"Nga ni zalwa futhi!\" (Futhi)"
@@ -6351,6 +6394,36 @@
                     "U nokukhulula U nensindiso;",
                     "Uma, mufowethu, U mkholw’ uJesu."
                 ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
+                    "A ngakhulula u qinisile na? A khona amandla a ngangisiza?",
+                    "Ngi tshele u Krestu owabethelwa A ngangikhulula kuSathani na?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "U nokukhulula U nensindiso;",
+                    "Uma, mufowethu, U mkholw’ uJesu."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "A ngakhulula! Mana isibindi U ngesabi, bambelela kuJesu;",
+                    "U ngesabi, bambelela kuJesu Khaul’ ukungabaza, yimi kuYe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "U nokukhulula U nensindiso;",
+                    "Uma, mufowethu, U mkholw’ uJesu."
+                ]
             }
         ],
         "revision": 1
@@ -6381,7 +6454,22 @@
                 "index": 2,
                 "lines": [
                     "Kukhon’ abak’ es’ hlabathini: Ngabakhela emfuyweni.",
-                    "Ba qaphel’ udumo lomhlaba Nokwakhela kokubi.    O! Dwala eliqinileyo, Masakhele phezu kwAkho.",
+                    "Ba qaphel’ udumo lomhlaba Nokwakhela kokubi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Si zokwakhela, (Si zokwakhel’ eDwaleni Lelo)",
+                    "Sakh’ eDwaleni (Sakh’ e Dwalen’ eliqinileyo)",
+                    "Sakh’ eDwalen’ eliqinileyo, uKrestu onamandla."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "O! Dwala eliqinileyo, Masakhele phezu kwAkho.",
                     "Wena Themb’ elingapheliyo, Li Themba loSindiso."
                 ]
             },
@@ -6461,35 +6549,18 @@
         "title": "Ngothando, Ngessa U Yabiza",
         "lyrics": [
             {
-                "type": "refrain",
-                "lines": [
-                    "uJes’ onguMalusi, U yakubizela;",
-                    "Phakath’ esibayeni, Ku khona indawo.",
-                    "Woza ku senamhlanje,",
-                    "Khona u semusha.    CHORUS",
-                    "Ngothand’ uJesu u yasibiza:",
-                    "\"Mhambike, Mhambike, woza kimi.\"",
-                    "U yangibekezelela Wena,",
-                    "Jesu, Malusi wami."
-                ]
-            },
-            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "uJes’ onguMalusi, Wakufela wena;",
-                    "U yakubiza manje; \"Mhambi woza kimi\"",
-                    "Ngaphandle ku yingozi, Woza, uyabizwa,",
-                    "Ngena esibayeni, Sona seqiniso."
+                    "uJes’ onguMalusi, U yakubizela;",
+                    "Phakath’ esibayeni, Ku khona indawo.",
+                    "Woza ku senamhlanje,",
+                    "Khona u semusha."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "uJes’ onguMalusi, U yakubizela;",
-                    "Phakath’ esibayeni, Ku khona indawo.",
-                    "Woza ku senamhlanje,",
-                    "Khona u semusha.    CHORUS",
                     "Ngothand’ uJesu u yasibiza:",
                     "\"Mhambike, Mhambike, woza kimi.\"",
                     "U yangibekezelela Wena,",
@@ -6500,6 +6571,25 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
+                    "uJes’ onguMalusi, Wakufela wena;",
+                    "U yakubiza manje; \"Mhambi woza kimi\"",
+                    "Ngaphandle ku yingozi, Woza, uyabizwa,",
+                    "Ngena esibayeni, Sona seqiniso."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ngothand’ uJesu u yasibiza:",
+                    "\"Mhambike, Mhambike, woza kimi.\"",
+                    "U yangibekezelela Wena,",
+                    "Jesu, Malusi wami."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Ngena u ngalibali, Ku khon’ izimpisi;",
                     "Ezinokulimaza, Ezidukileyo.",
                     "uJes’ onguMalusi, U yakubizake",
@@ -6509,10 +6599,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "uJes’ onguMalusi, U yakubizela;",
-                    "Phakath’ esibayeni, Ku khona indawo.",
-                    "Woza ku senamhlanje,",
-                    "Khona u semusha.    CHORUS",
                     "Ngothand’ uJesu u yasibiza:",
                     "\"Mhambike, Mhambike, woza kimi.\"",
                     "U yangibekezelela Wena,",
@@ -7416,13 +7502,29 @@
                     "Lona li yiNgcwele, Li yiNgcwele, Ngcwele",
                     "Lavela kuBaba, leza lapha",
                     "Leza ngengelosi, Lona ebusuku",
-                    "Ibizo leNkos’ uJesu.            Li letha okuhle kimi Yiloba ‘ngoma yami;",
-                    "Ngi vuma ibizo lAkhe Ngize ngi libabaze."
+                    "Ibizo leNkos’ uJesu."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
+                "lines": [
+                    "Li letha okuhle kimi Yiloba ‘ngoma yami;",
+                    "Ngi vuma ibizo lAkhe Ngize ngi libabaze."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Lona li yiNgcwele, Li yiNgcwele, Ngcwele",
+                    "Lavela kuBaba, leza lapha",
+                    "Leza ngengelosi, Lona ebusuku",
+                    "Ibizo leNkos’ uJesu."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
                 "lines": [
                     "Ngi hlokomisa indaba Yothando nokuhlengwa,",
                     "Lona ngizolidumisa Ibizo lika Jesu."
@@ -7434,8 +7536,7 @@
                     "Lona li yiNgcwele, Li yiNgcwele, Ngcwele",
                     "Lavela kuBaba, leza lapha",
                     "Leza ngengelosi, Lona ebusuku",
-                    "Ibizo leNkos’ uJesu.            Li letha okuhle kimi Yiloba ‘ngoma yami;",
-                    "Ngi vuma ibizo lAkhe Ngize ngi libabaze."
+                    "Ibizo leNkos’ uJesu."
                 ]
             }
         ],
@@ -7510,6 +7611,40 @@
                     "O! kukhanya kwelang’ okuhle, Kukhanya enhlalweni;",
                     "uJes’ u khipha usizi, Kwakhany’ enhliziyweni."
                 ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
+                    "Ngi lahla usizi lwami Njengengubo endala;",
+                    "U ngembese ngokuthaba Wangipha ukubonga.",
+                    "Le ekhaya lobukhosi, Owang’ zuzela lona;",
+                    "Inhliziyo iyavuma, Nawo umoya wami."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "O! kukhanya kwelang’ okuhle, Kukhanya enhlalweni;",
+                    "uJes’ u khipha usizi, Kwakhany’ enhliziyweni."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "uMsindisi wangithenga Se ngi ngo wAkhe mina.",
+                    "Ma si khanye isibane Si khanyele iNkosi;",
+                    "Le ekhaya lobukhosi Owang’ zuzela lona;",
+                    "Inhliziyo iyavuma, Nawo umoya wami."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "O! kukhanya kwelang’ okuhle, Kukhanya enhlalweni;",
+                    "uJes’ u khipha usizi, Kwakhany’ enhliziyweni."
+                ]
             }
         ],
         "revision": 1
@@ -7540,8 +7675,7 @@
                 "index": 2,
                 "lines": [
                     "Ngi noKrest’ obongekayo; Seloko ngahlengwa.",
-                    "Ngi fun’ eyAkhe intando; Seloko ngahlengwa.            ‘Ngi nofakaz’ okhanyayo; Seloko ngahlengwa.",
-                    "Oxosh’ umnyama novalo; Seloko ngahlengwa."
+                    "Ngi fun’ eyAkhe intando; Seloko ngahlengwa."
                 ]
             },
             {
@@ -7555,6 +7689,22 @@
             {
                 "type": "verse",
                 "index": 3,
+                "lines": [
+                    "‘Ngi nofakaz’ okhanyayo; Seloko ngahlengwa.",
+                    "Oxosh’ umnyama novalo; Seloko ngahlengwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Seloko ngahlengwa, Seloko ngahlengwa,",
+                    "Ngi dumisa iNkosi, Seloko ngahlengwa,",
+                    "Ngi dumis’ uMsindisi wami."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
                 "lines": [
                     "Ngi lungiselwa ikhaya; Seloko ngahlengwa",
                     "Phakade lapho ngohlala; Seloko ngahlengwa"
@@ -7642,19 +7792,25 @@
         "title": "Isikhathi Esibusisekile Somkhuleko",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "Is’khathi somkhuleko, Sithob’ inhliziyo.",
                     "Sisondela kuJesu, uMhlobe wethu;",
                     "Siza sikholwa kuYe, oSihlangu sethu.",
-                    "Sithobo sokhathele!, Yeka ubumnandi!            CHORUS",
+                    "Sithobo sokhathele!, Yeka ubumnandi!"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Is’khath’ esihle, Yek’ ubumnandi!",
                     "Sithobo sokhathele!, Yeka ubumnandi!"
                 ]
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Is’khathi somkhuleko, Nx’ uJes’ esondela.",
                     "Ngesisa es’thambile, ukuzw’ abAkhe,",
@@ -7665,17 +7821,13 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Is’khathi somkhuleko, Sithob’ inhliziyo.",
-                    "Sisondela kuJesu, uMhlobe wethu;",
-                    "Siza sikholwa kuYe, oSihlangu sethu.",
-                    "Sithobo sokhathele!, Yeka ubumnandi!            CHORUS",
                     "Is’khath’ esihle, Yek’ ubumnandi!",
                     "Sithobo sokhathele!, Yeka ubumnandi!"
                 ]
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Is’khathi somkhuleko, Nxa abalingwayo.",
                     "Beletha kuJesu lonk’ usizi lwabo;",
@@ -7686,17 +7838,13 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Is’khathi somkhuleko, Sithob’ inhliziyo.",
-                    "Sisondela kuJesu, uMhlobe wethu;",
-                    "Siza sikholwa kuYe, oSihlangu sethu.",
-                    "Sithobo sokhathele!, Yeka ubumnandi!            CHORUS",
                     "Is’khath’ esihle, Yek’ ubumnandi!",
                     "Sithobo sokhathele!, Yeka ubumnandi!"
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Ebumnandini lobu, Sithemba kuJesu.",
                     "Sothol’ iz’ busiso esizidingayo;",
@@ -7707,10 +7855,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Is’khathi somkhuleko, Sithob’ inhliziyo.",
-                    "Sisondela kuJesu, uMhlobe wethu;",
-                    "Siza sikholwa kuYe, oSihlangu sethu.",
-                    "Sithobo sokhathele!, Yeka ubumnandi!            CHORUS",
                     "Is’khath’ esihle, Yek’ ubumnandi!",
                     "Sithobo sokhathele!, Yeka ubumnandi!"
                 ]
@@ -10904,7 +11048,7 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "CHORUSBamba ngi yeza, sihl’ isithembiso,",
+                    "Bamba ngi yeza, sihl’ isithembiso,",
                     "Umbus’ u buyile, Wowunikwa,",
                     "Woz’ u jabule, hlal’ embusweni,",
                     "Im’qhel’ i lindile, bamba ngi yeza."
@@ -10923,7 +11067,7 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "CHORUSBamba ngi yeza, sihl’ isithembiso,",
+                    "Bamba ngi yeza, sihl’ isithembiso,",
                     "Umbus’ u buyile, Wowunikwa,",
                     "Woz’ u jabule, hlal’ embusweni,",
                     "Im’qhel’ i lindile, bamba ngi yeza."
@@ -10942,7 +11086,7 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "CHORUSBamba ngi yeza, sihl’ isithembiso,",
+                    "Bamba ngi yeza, sihl’ isithembiso,",
                     "Umbus’ u buyile, Wowunikwa,",
                     "Woz’ u jabule, hlal’ embusweni,",
                     "Im’qhel’ i lindile, bamba ngi yeza."
@@ -11412,9 +11556,37 @@
                 "type": "refrain",
                 "lines": [
                     "Amandl’ Akhe angakuphendula, Igazi lAkhe li ngak’ khulula",
-                    "Uthando lwAkhe lu gcwale kuwe; U thand’ u vumel’ intando yAkhe.U vum’ akukhulule, wenz’ aku shoyo na? U thand’ ukuthul’ u dele konke na?",
-                    "U fun’ akusindise ungab’ u sawa na? Vumel’ intando yAkhe.U thand’ ukuphumul’ embusweni wAkhe na? Wazini akusiza ngayo wena?",
+                    "Uthando lwAkhe lu gcwale kuwe; U thand’ u vumel’ intando yAkhe."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
+                    "U vum’ akukhulule, wenz’ aku shoyo na? U thand’ ukuthul’ u dele konke na?",
+                    "U fun’ akusindise ungab’ u sawa na? Vumel’ intando yAkhe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Amandl’ Akhe angakuphendula, Igazi lAkhe li ngak’ khulula",
+                    "Uthando lwAkhe lu gcwale kuwe; U thand’ u vumel’ intando yAkhe."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "U thand’ ukuphumul’ embusweni wAkhe na? Wazini akusiza ngayo wena?",
                     "U ngamsebenzela ngako konk’ onako na? Vumel’ intando yAkhe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Amandl’ Akhe angakuphendula, Igazi lAkhe li ngak’ khulula",
+                    "Uthando lwAkhe lu gcwale kuwe; U thand’ u vumel’ intando yAkhe."
                 ]
             }
         ],
@@ -11516,6 +11688,26 @@
                     "Owathambis’ uPaule,",
                     "Wazuz’ amandla ezulu."
                 ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Amandl’ abe kuElijah,",
+                    "A saphela yini namhla?;",
+                    "A khazimlis’ uMosisi,",
+                    "uJobe wabekezela.,"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
+                    "Nkosi, khumbula endulo,",
+                    "Pind’ u thele umsa wAkho;",
+                    "Nxa si zibhekise kuWe,",
+                    "Thel’ uMoya wAkh’ oNgcwele."
+                ]
             }
         ],
         "revision": 1
@@ -11545,7 +11737,6 @@
                 "index": 2,
                 "lines": [
                     "U fis’ ukudela ulaka na? A khon’ amandla egazini;",
-                    "Woza u zohlanzwa kulo wena A khon’ amandl’ egazini.    U yafisa ukuba mhlophe qhwa! A khon’ amandla egazini;",
                     "Woza u zohlanzwa kulo wena A khon’ amandl’ egazini."
                 ]
             },
@@ -11559,6 +11750,21 @@
             {
                 "type": "verse",
                 "index": 3,
+                "lines": [
+                    "U yafisa ukuba mhlophe qhwa! A khon’ amandla egazini;",
+                    "Woza u zohlanzwa kulo wena A khon’ amandl’ egazini."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "A khona mandla egazini, LeWundlu leWundlu",
+                    "A khona mandla egazini, Gazin’ elihle leWundlu"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
                 "lines": [
                     "U ngesebenzele iNkosi na? A khon’ amandla egazini;",
                     "U fisa ukuyidumisa na? A khon’ amandl’ egazini."
@@ -11664,31 +11870,17 @@
         "title": "Isihlobo Esihle NguJesu",
         "lyrics": [
             {
-                "type": "refrain",
-                "lines": [
-                    "O, isihlob’ esihl’ uJesu Nxa u hanqiwe izinsizi.",
-                    "Woqinis’ inhliziyo, Asuse lonk’ uvalo.",
-                    "O, isihlob’  esihl’ uJesu!    CHORUS",
-                    "Isihlob’ esihl’ uJesu, Esihl’ insuku ngensuku",
-                    "Nxa u wa wokusiza, Nxa u khala wokuzwa,",
-                    "O, isihlob’ esihl’ uJesu!"
-                ]
-            },
-            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Yek’ isihlob’ esihl’ uJesu, U za kimi a ngi duduze.",
-                    "Ngencikile kuYena, Ngi ngehlelwe nayini.",
-                    "O, isihlob’ esihl’ uJesu!"
+                    "O, isihlob’ esihl’ uJesu Nxa u hanqiwe izinsizi.",
+                    "Woqinis’ inhliziyo, Asuse lonk’ uvalo.",
+                    "O, isihlob’  esihl’ uJesu!"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "O, isihlob’ esihl’ uJesu Nxa u hanqiwe izinsizi.",
-                    "Woqinis’ inhliziyo, Asuse lonk’ uvalo.",
-                    "O, isihlob’  esihl’ uJesu!    CHORUS",
                     "Isihlob’ esihl’ uJesu, Esihl’ insuku ngensuku",
                     "Nxa u wa wokusiza, Nxa u khala wokuzwa,",
                     "O, isihlob’ esihl’ uJesu!"
@@ -11698,17 +11890,14 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Nxa ngedlul’ ethunzin’ losizi, Amanz’ eJordan’ egubhuza;",
-                    "Ngi ngeshaywe luvalo, uJesu u nosizo.",
+                    "Yek’ isihlob’ esihl’ uJesu, U za kimi a ngi duduze.",
+                    "Ngencikile kuYena, Ngi ngehlelwe nayini.",
                     "O, isihlob’ esihl’ uJesu!"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "O, isihlob’ esihl’ uJesu Nxa u hanqiwe izinsizi.",
-                    "Woqinis’ inhliziyo, Asuse lonk’ uvalo.",
-                    "O, isihlob’  esihl’ uJesu!    CHORUS",
                     "Isihlob’ esihl’ uJesu, Esihl’ insuku ngensuku",
                     "Nxa u wa wokusiza, Nxa u khala wokuzwa,",
                     "O, isihlob’ esihl’ uJesu!"
@@ -11718,6 +11907,23 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
+                    "Nxa ngedlul’ ethunzin’ losizi, Amanz’ eJordan’ egubhuza;",
+                    "Ngi ngeshaywe luvalo, uJesu u nosizo.",
+                    "O, isihlob’ esihl’ uJesu!"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Isihlob’ esihl’ uJesu, Esihl’ insuku ngensuku",
+                    "Nxa u wa wokusiza, Nxa u khala wokuzwa,",
+                    "O, isihlob’ esihl’ uJesu!"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "Nxa si fik’ ezulwin’ ekhaya, Nezingcwele sibendawonye;",
                     "Sohlabelel’ ogwin, Si bonge si ngaphezi.",
                     "O, isihlob’ esihl’ uJesu!"
@@ -11726,9 +11932,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "O, isihlob’ esihl’ uJesu Nxa u hanqiwe izinsizi.",
-                    "Woqinis’ inhliziyo, Asuse lonk’ uvalo.",
-                    "O, isihlob’  esihl’ uJesu!    CHORUS",
                     "Isihlob’ esihl’ uJesu, Esihl’ insuku ngensuku",
                     "Nxa u wa wokusiza, Nxa u khala wokuzwa,",
                     "O, isihlob’ esihl’ uJesu!"
@@ -11910,15 +12113,6 @@
                     "Baze bonke bakubone ngamehlo,",
                     "Kwandisw’ insindis’ eduze nakude",
                     "Bathembele kuNkulunkulu bonke."
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Yang’ khip’ odaken’ ol’bishayo,",
-                    "Yangiqinisa eDwaleni,",
-                    "Yafak’ ingoma kimi namhla,",
-                    "Yokuvula Haleluya!"
                 ]
             },
             {
@@ -13759,15 +13953,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Ku dlul’ ukungabaza,",
-                    "Manje mus’ ukumnqaba",
-                    "Manje vula umnyango,",
-                    "Vumel’ uJes’ enhliz’yweni"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
                     "Ak’ sekh’ ukungabaza,",
                     "Manje angisamlahli Manje ngivul’ umnyango,",
                     "Ngena Jes’ enhliziyweni"
@@ -14029,12 +14214,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "U nesisa, u nesisa, O yek’ isisa sesihle!"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
                     "U nesisa, u nesisa Yek’ ubukhulu besisa!"
                 ]
             },
@@ -14049,12 +14228,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "U nesisa, u nesisa Yek’ ubukhulu besisa!"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
                     "U nesisa, u nesisa Yek’ amandl’ esisa sAkhe!"
                 ]
             },
@@ -14064,12 +14237,6 @@
                 "lines": [
                     "Izinhlupo zi njengefu, Seziduma njengezulu,",
                     "Njalo um’ eduze kwami Yek’ ubuhle bomsa wAkhe!"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "U nesisa, u nesisa Yek’ amandl’ esisa sAkhe!"
                 ]
             },
             {
@@ -15466,13 +15633,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Sohlangana yini? Phesheya kwawo umfula?",
-                    "Sowu wel’umfula yini? Sibe la kuthi cwaka?"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
                     "Siya kuhlangana; Siya kuwu wela umfula",
                     "Siya kuwu wela umfula. Sibe la kuthi cwaka?"
                 ]
@@ -15691,13 +15851,6 @@
                     "Nxa kubuzwa kanje!",
                     "Nawe mKrestu omiyo,",
                     "Kuwo amalingo"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Manje yiw’ umbuzo, I yin’ impendulo?",
-                    "Ngizobethela uJesu, Ngiyek’ uBaraba!"
                 ]
             },
             {

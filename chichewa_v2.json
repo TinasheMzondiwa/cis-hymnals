@@ -506,13 +506,18 @@
                 ]
             },
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 3,
                 "lines": [
                     "Tisaleke kugwirabe ntchito ya Mulunguyo,",
                     "Tibukitse mbiri yake mdzikoli,",
                     "Ndi podzatha moyo wathu ndi zintchito zathuzo,",
-                    "Tidzakondwerera naye komweko.",
-                    "CHORUS (lotsiriza):",
+                    "Tidzakondwerera naye komweko."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Pakwitana Mbuye wathu (Mbuyathu),",
                     "Pakwitana Mbuye wathu (Mbuyathu),",
                     "Pakwitana Mbuye wathu,",
@@ -2860,19 +2865,38 @@
         "title": "Patseni Bible",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "Patseni Bible ndilo ndikufuna, Ndi chotitsogolera njirayo;",
-                    "Monga mapiri oonetsa kwathu, Obweza anthu osocherawo.",
+                    "Monga mapiri oonetsa kwathu, Obweza anthu osocherawo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Patseni Bible ndilo mau ake, Mau oyera a Mulunguyo,",
-                    "Ndilo pangano la chikondi chake, ndi nyali mnjira yonka m’mwambamo.",
+                    "Ndilo pangano la chikondi chake, ndi nyali mnjira yonka m’mwambamo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Patseni Bible ndilo ndikufuna, Mmene usweka mtima wangawo;",
                     "Patseni mau a Ambuye Yesu, Mau okondweretsa mmtimanga."
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Patseni Bible ndilo mau ake, Mau oyera a Mulunguyo,",
+                    "Ndilo pangano la chikondi chake, ndi nyali mnjira yonka m’mwambamo."
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 1,
+                "index": 3,
                 "lines": [
                     "Patseni Bible ndilo ndikufuna, Nyali ya kusonyeza njirayo,",
                     "Mmene ndingagwe lindipulumutsa, Lindisonyeza tchimo langalo."
@@ -2881,17 +2905,13 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Patseni Bible ndilo ndikufuna, Ndi chotitsogolera njirayo;",
-                    "Monga mapiri oonetsa kwathu, Obweza anthu osocherawo.",
                     "Patseni Bible ndilo mau ake, Mau oyera a Mulunguyo,",
-                    "Ndilo pangano la chikondi chake, ndi nyali mnjira yonka m’mwambamo.",
-                    "Patseni Bible ndilo ndikufuna, Mmene usweka mtima wangawo;",
-                    "Patseni mau a Ambuye Yesu, Mau okondweretsa mmtimanga."
+                    "Ndilo pangano la chikondi chake, ndi nyali mnjira yonka m’mwambamo."
                 ]
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 4,
                 "lines": [
                     "Patseni Bible ndilo ndikufuna, Liunikira a mu mdimawo,",
                     "Ndilo chiyembekezo kwa olira, Ndi nyali m’njira yonka m’mwambamo."
@@ -2900,12 +2920,8 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Patseni Bible ndilo ndikufuna, Ndi chotitsogolera njirayo;",
-                    "Monga mapiri oonetsa kwathu, Obweza anthu osocherawo.",
                     "Patseni Bible ndilo mau ake, Mau oyera a Mulunguyo,",
-                    "Ndilo pangano la chikondi chake, ndi nyali mnjira yonka m’mwambamo.",
-                    "Patseni Bible ndilo ndikufuna, Mmene usweka mtima wangawo;",
-                    "Patseni mau a Ambuye Yesu, Mau okondweretsa mmtimanga."
+                    "Ndilo pangano la chikondi chake, ndi nyali mnjira yonka m’mwambamo."
                 ]
             }
         ],
@@ -3132,19 +3148,38 @@
         "title": "Ganizo Lokoma",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "Ganizo lokoma, Limadza m’mtimamu;",
-                    "Ndili pafupi ndi kwathu, Koposa kalelo.",
+                    "Ndili pafupi ndi kwathu, Koposa kalelo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Pafupitu, Ndi kwathuko;",
-                    "Ndili pafupi ndi kwathu, Koposa kalelo.",
+                    "Ndili pafupi ndi kwathu, Koposa kalelo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Kufupi ndi Tate, Komwe kuli malo;",
                     "Ku mpando wa Yesu Mbuye Ku nyanja yoyera."
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Pafupitu, Ndi kwathuko;",
+                    "Ndili pafupi ndi kwathu, Koposa kalelo."
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 1,
+                "index": 3,
                 "lines": [
                     "Ndili kupitatu, Nditula katundu;",
                     "Ndisiya mtanda wangawo, Kuvala korona."
@@ -3153,12 +3188,8 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Ganizo lokoma, Limadza m’mtimamu;",
-                    "Ndili pafupi ndi kwathu, Koposa kalelo.",
                     "Pafupitu, Ndi kwathuko;",
-                    "Ndili pafupi ndi kwathu, Koposa kalelo.",
-                    "Kufupi ndi Tate, Komwe kuli malo;",
-                    "Ku mpando wa Yesu Mbuye Ku nyanja yoyera."
+                    "Ndili pafupi ndi kwathu, Koposa kalelo."
                 ]
             }
         ],
@@ -3293,7 +3324,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "CHORUS (wotsiriza):",
                     "Tigwadira Inu Mwana wa nkhosa,",
                     "Tikupembedzani kosatha, Amen."
                 ]
@@ -12468,7 +12498,13 @@
                     "Anandibuula m’matope,",
                     "Nandikhazikitsa pa thanthwe;",
                     "Moyo wanga lero uyimba,",
-                    "Matamando Haleluya",
+                    "Matamando Haleluya"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Wandikhazika pa thanthwe lolimba,",
                     "Ndakhazikitsidwa sindicokapo;",
                     "Pano palibe coopsya ndakhala,",
@@ -12476,8 +12512,17 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Anandibuula m’matope,",
+                    "Nandikhazikitsa pa thanthwe;",
+                    "Moyo wanga lero uyimba,",
+                    "Matamando Haleluya"
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Wandipatsa nyimbo ya mayamiko,",
                     "Msana ndi usiku ndidzayimba;",
@@ -12491,11 +12536,7 @@
                     "Anandibuula m’matope,",
                     "Nandikhazikitsa pa thanthwe;",
                     "Moyo wanga lero uyimba,",
-                    "Matamando Haleluya",
-                    "Wandikhazika pa thanthwe lolimba,",
-                    "Ndakhazikitsidwa sindicokapo;",
-                    "Pano palibe coopsya ndakhala,",
-                    "Cisomo cidzandibveka korona."
+                    "Matamando Haleluya"
                 ]
             }
         ],
@@ -13685,28 +13726,8 @@
         "title": "Uyang’ane Mdaniyo",
         "lyrics": [
             {
-                "type": "refrain",
-                "lines": [
-                    "Mkhristuwe dzuka! Alamula Mbuye;",
-                    "Tenga cikopa, ndi lupanga m’dzanja,",
-                    "Ukomane naye, usamuope",
-                    "Ulimbe Mtima, Myang’ane mdaniyo.",
-                    "Limba Mtima, Limba Mtima,",
-                    "Limba Mtima, Pom’yang’ana mdani."
-                ]
-            },
-            {
                 "type": "verse",
                 "index": 1,
-                "lines": [
-                    "Zoopsa ziripo, ucenjeretu,",
-                    "Usafulatire, ungapwekekwe;",
-                    "Unyinji wa ’dani, udzagonjetsa,",
-                    "Ulimbe Mtima, M’yang’ane mdaniyo."
-                ]
-            },
-            {
-                "type": "refrain",
                 "lines": [
                     "Mkhristuwe dzuka! Alamula Mbuye;",
                     "Tenga cikopa, ndi lupanga m’dzanja,",
@@ -13720,21 +13741,20 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
+                    "Zoopsa ziripo, ucenjeretu,",
+                    "Usafulatire, ungapwekekwe;",
+                    "Unyinji wa ’dani, udzagonjetsa,",
+                    "Ulimbe Mtima, M’yang’ane mdaniyo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Ntchito ya Mbuyako uiteteze;",
                     "Dzukatu mwa cangu nkhondoyo ithe;",
                     "Akakulamula, pita mwa cangu,",
                     "Ulimbe Mtima M’yang’ane mdaniyo."
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Mkhristuwe dzuka! Alamula Mbuye;",
-                    "Tenga cikopa, ndi lupanga m’dzanja,",
-                    "Ukomane naye, usamuope",
-                    "Ulimbe Mtima, Myang’ane mdaniyo.",
-                    "Limba Mtima, Limba Mtima,",
-                    "Limba Mtima, Pom’yang’ana mdani."
                 ]
             }
         ],
@@ -13909,11 +13929,16 @@
         "title": "Ndine Njira",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "Monga nkhosa zotayika, Zomwazika konse;",
-                    "Zasiya moyo, mtendere, Njira yandisowa?",
-                    "CHORUS (Sop. & alto):",
+                    "Zasiya moyo, mtendere, Njira yandisowa?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndine njira, co’nadi, moyo",
                     "Sungafike Atate koma mwa Ine,",
                     "Ndine njira, co’nadi, moyo,",
@@ -13927,7 +13952,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Nkhawa zandisokoneza, Mulungu ndifuna;",
                     "Manena-nena ngambiri, Ndingagwire ziti?"
@@ -13936,9 +13961,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Monga nkhosa zotayika, Zomwazika konse;",
-                    "Zasiya moyo, mtendere, Njira yandisowa?",
-                    "CHORUS (Sop. & alto):",
                     "Ndine njira, co’nadi, moyo",
                     "Sungafike Atate koma mwa Ine,",
                     "Ndine njira, co’nadi, moyo,",
@@ -14017,6 +14039,21 @@
                 "lines": [
                     "Leka kukayikatu; Usamkanenso lero,",
                     "Tsegula Mtima wako; Lowetsa Yesu mu Mtima."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 5,
+                "lines": [
+                    "Ngati uyimba nao odala, Lowetsa Yesu mu Mtima;",
+                    "Udzalowe m’nyumba za mpumulo, Lowetsa Yesu mu Mtima."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Leka kukayikaku; Usamkanenso lero,",
+                    "Ndatsegula citseko, Kuti Yesu alowemo."
                 ]
             }
         ],
@@ -14324,14 +14361,29 @@
                     "Akulowa mzinda wa Yerusalemu,",
                     "Asamba m’mazi (wace) wa nkhosa;",
                     "Alowa m’zipata za Yerusalemu,",
-                    "Asamba m’mwazi Wace.",
-                    "Awa ndiwo anapeza Yesu, Pamene anali anyamata,",
-                    "Nalandira cisomo, Asamba m’mwazi Wace."
+                    "Asamba m’mwazi Wace."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
+                "lines": [
+                    "Awa ndiwo anapeza Yesu, Pamene anali anyamata,",
+                    "Nalandira cisomo, Asamba m’mwazi Wace."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Akulowa mzinda wa Yerusalemu,",
+                    "Asamba m’mazi (wace) wa nkhosa;",
+                    "Alowa m’zipata za Yerusalemu,",
+                    "Asamba m’mwazi Wace."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
                 "lines": [
                     "Awa ndiwo mansautso yao, Anapeza kupuma mwa Yesu,",
                     "Mtendere mu mtimamo, Asamba m’mwazi Wace."
@@ -14343,9 +14395,7 @@
                     "Akulowa mzinda wa Yerusalemu,",
                     "Asamba m’mazi (wace) wa nkhosa;",
                     "Alowa m’zipata za Yerusalemu,",
-                    "Asamba m’mwazi Wace.",
-                    "Awa ndiwo anapeza Yesu, Pamene anali anyamata,",
-                    "Nalandira cisomo, Asamba m’mwazi Wace."
+                    "Asamba m’mwazi Wace."
                 ]
             }
         ],
@@ -14956,11 +15006,26 @@
                     "Funsa Mbuye thandizo",
                     "Aszakusunga iwe;",
                     "Ali wolola Iye;",
-                    "Adzasunga iwe.",
+                    "Adzasunga iwe."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Thawani oipa, Ndi otukwana,",
                     "Lemekeza Mlungu, Osamamnyoza;",
                     "Khala waulemu, Ndi wacifuno,",
                     "Yang’ana kwa Yesu, Adzakusunga."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Funsa Mbuye thandizo",
+                    "Aszakusunga iwe;",
+                    "Ali wolola Iye;",
+                    "Adzasunga iwe."
                 ]
             }
         ],
@@ -15996,32 +16061,16 @@
         "title": "Tsamira Pa Manja A Yesu",
         "lyrics": [
             {
-                "type": "refrain",
-                "lines": [
-                    "Tsamira pa manja a Yesu, Akuthangate athagata;",
-                    "Ukamkhulupira ndithu, Adzakusangalatsa.",
-                    "CHORUS (Sop. & Tenor):",
-                    "Tsamiratu m’cikondi cace; Tsamiratu, yesa cifundo;",
-                    "Tsamiratu, yang’ana m’Mwamba, Tsamira Mpulumutsi.",
-                    "(Bass & Alto):",
-                    "Tsamiratu Iye, m’cikondi cace, Tsamira Iye, yesa cifuno;",
-                    "Tsamiratu Iyel, yang’ana m’Mwamba, Tsamira Mpulumutsi."
-                ]
-            },
-            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Tsamira pa manja a Yesu, ’Dzauza njira adzauza;",
-                    "Ingotsala mokondwera, pomvera mau ace."
+                    "Tsamira pa manja a Yesu, Akuthangate athagata;",
+                    "Ukamkhulupira ndithu, Adzakusangalatsa."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Tsamira pa manja a Yesu, Akuthangate athagata;",
-                    "Ukamkhulupira ndithu, Adzakusangalatsa.",
-                    "CHORUS (Sop. & Tenor):",
                     "Tsamiratu m’cikondi cace; Tsamiratu, yesa cifundo;",
                     "Tsamiratu, yang’ana m’Mwamba, Tsamira Mpulumutsi.",
                     "(Bass & Alto):",
@@ -16033,6 +16082,24 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
+                    "Tsamira pa manja a Yesu, ’Dzauza njira adzauza;",
+                    "Ingotsala mokondwera, pomvera mau ace."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tsamiratu m’cikondi cace; Tsamiratu, yesa cifundo;",
+                    "Tsamiratu, yang’ana m’Mwamba, Tsamira Mpulumutsi.",
+                    "(Bass & Alto):",
+                    "Tsamiratu Iye, m’cikondi cace, Tsamira Iye, yesa cifuno;",
+                    "Tsamiratu Iyel, yang’ana m’Mwamba, Tsamira Mpulumutsi."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Tsamira pa manja a Yesu, ’Dzakusamala, kusamala!",
                     "Katundu wolemeretsa Mpereke kwa Ambuye."
                 ]
@@ -16040,9 +16107,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Tsamira pa manja a Yesu, Akuthangate athagata;",
-                    "Ukamkhulupira ndithu, Adzakusangalatsa.",
-                    "CHORUS (Sop. & Tenor):",
                     "Tsamiratu m’cikondi cace; Tsamiratu, yesa cifundo;",
                     "Tsamiratu, yang’ana m’Mwamba, Tsamira Mpulumutsi.",
                     "(Bass & Alto):",
@@ -16566,9 +16630,22 @@
                 "type": "refrain",
                 "lines": [
                     "O! Yesu Mpulumutsi, Mtima wa Mulungu,",
-                    "Tisungeni pompano, Mfupi ndi Mulungu.",
+                    "Tisungeni pompano, Mfupi ndi Mulungu."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
                     "Alipo malo okoma, Mfupi ndi Mulungu,",
                     "Pakukomana ndi Mbuye Mfupi ndi Mulungu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "O! Yesu Mpulumutsi, Mtima wa Mulungu,",
+                    "Tisungeni pompano, Mfupi ndi Mulungu."
                 ]
             }
         ],
@@ -16591,14 +16668,27 @@
                 "type": "refrain",
                 "lines": [
                     "Nditengeni tengeni, Ku Ziyoni",
-                    "Ku mudzi wachikondiwo. Ku mudzi wa Yesu.",
-                    "Ndidzamva Aliluyayo Kwa khamu likuru;",
-                    "Ndikayimba nao nyimbo, Ya oomboledwa."
+                    "Ku mudzi wachikondiwo. Ku mudzi wa Yesu."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
+                "lines": [
+                    "Ndidzamva Aliluyayo Kwa khamu likuru;",
+                    "Ndikayimba nao nyimbo, Ya oomboledwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Nditengeni tengeni, Ku Ziyoni",
+                    "Ku mudzi wachikondiwo. Ku mudzi wa Yesu."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
                 "lines": [
                     "Ndidzakamwone Israel Ndi Yesu Kalonga,",
                     "Ndi mpando wa mfumu yanga Yemwe ’natilenga."
@@ -16608,9 +16698,7 @@
                 "type": "refrain",
                 "lines": [
                     "Nditengeni tengeni, Ku Ziyoni",
-                    "Ku mudzi wachikondiwo. Ku mudzi wa Yesu.",
-                    "Ndidzamva Aliluyayo Kwa khamu likuru;",
-                    "Ndikayimba nao nyimbo, Ya oomboledwa."
+                    "Ku mudzi wachikondiwo. Ku mudzi wa Yesu."
                 ]
             }
         ],
@@ -16843,9 +16931,22 @@
                 "type": "refrain",
                 "lines": [
                     "Tidzatu, Ambuye, Tidzatu tikali ana,",
-                    "Tidzatu, Ambuye, Kumva za Inu.",
+                    "Tidzatu, Ambuye, Kumva za Inu."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Timapazi tiyende m’njirayo, Yopita nayo kumwamba;",
                     "Timaso tiwerenge Bible, Linena cikondi cace."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tidzatu, Ambuye, Tidzatu tikali ana,",
+                    "Tidzatu, Ambuye, Kumva za Inu."
                 ]
             }
         ],
@@ -17254,14 +17355,29 @@
                     "Ee! Tsopano ndi mbanda kucatu!",
                     "Ee! Tsopano ndi mbanda kuca ndithu!",
                     "Usiku wathadi! Usana wadzanso.",
-                    "Ee! Tsopano ndi mbanda kucatu!",
-                    "Zizindikiro za mlengalenga Zilalikiradi;",
-                    "Ndi za pa dziko zinena kuti Ambuye wayandikira"
+                    "Ee! Tsopano ndi mbanda kucatu!"
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
+                "lines": [
+                    "Zizindikiro za mlengalenga Zilalikiradi;",
+                    "Ndi za pa dziko zinena kuti Ambuye wayandikira"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ee! Tsopano ndi mbanda kucatu!",
+                    "Ee! Tsopano ndi mbanda kuca ndithu!",
+                    "Usiku wathadi! Usana wadzanso.",
+                    "Ee! Tsopano ndi mbanda kucatu!"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
                 "lines": [
                     "Ndi nthawi yoti kunyada kuthu Mu mpingo wonsewo;",
                     "Ukhale wofulumira ntchito, Ukhale woyang’aniratu"
@@ -17273,9 +17389,7 @@
                     "Ee! Tsopano ndi mbanda kucatu!",
                     "Ee! Tsopano ndi mbanda kuca ndithu!",
                     "Usiku wathadi! Usana wadzanso.",
-                    "Ee! Tsopano ndi mbanda kucatu!",
-                    "Zizindikiro za mlengalenga Zilalikiradi;",
-                    "Ndi za pa dziko zinena kuti Ambuye wayandikira"
+                    "Ee! Tsopano ndi mbanda kucatu!"
                 ]
             }
         ],
@@ -17662,17 +17776,23 @@
         "title": "Ndifuna Kukhala Ndi Yesu",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "Ndifuna kukhala ndi Yesu, Kuyang’ana nkhope yace,",
-                    "Adzaze mtimanga cisomo cace, Ndifuna kukhala naye.",
+                    "Adzaze mtimanga cisomo cace, Ndifuna kukhala naye."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Khala pafupi, mfupi nd Yesu, Pa mbali ya Iyeyo;",
                     "Kuyang’ana pa nkhope yabwinoyo, Ndifuna kukhala naye."
                 ]
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Ndifuna kukhala ndi Yesu, Kumtsata pafupifupi",
                     "Ndi kuti ndimvetse polankhula ’Ye, ponena lonjezo lace."
@@ -17681,8 +17801,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndifuna kukhala ndi Yesu, Kuyang’ana nkhope yace,",
-                    "Adzaze mtimanga cisomo cace, Ndifuna kukhala naye.",
                     "Khala pafupi, mfupi nd Yesu, Pa mbali ya Iyeyo;",
                     "Kuyang’ana pa nkhope yabwinoyo, Ndifuna kukhala naye."
                 ]
@@ -17697,17 +17815,23 @@
         "title": "E, Mzimuu Wa Mulungu ’Nu",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "E, Mzimu wa Mulungu, ’Nu, Mukhale m’mtimanga;",
-                    "Ndi zangazo ndipatsatu Kwa Inu, Mbuyanga",
+                    "Ndi zangazo ndipatsatu Kwa Inu, Mbuyanga"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mdzaze, mdzaze ’ne, Mdzaze Mzimu Woyera ’Nu,",
                     "Mdzaze, mdzaze ’ne, Wanu ndikhaletu."
                 ]
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Ndifunatu kucitadi Kufuna kwanuko;",
                     "Sin’funa kanthu kena bi, Mndidzaze, mtimamo,"
@@ -17716,8 +17840,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "E, Mzimu wa Mulungu, ’Nu, Mukhale m’mtimanga;",
-                    "Ndi zangazo ndipatsatu Kwa Inu, Mbuyanga",
                     "Mdzaze, mdzaze ’ne, Mdzaze Mzimu Woyera ’Nu,",
                     "Mdzaze, mdzaze ’ne, Wanu ndikhaletu."
                 ]
@@ -17871,9 +17993,22 @@
                 "type": "refrain",
                 "lines": [
                     "Inde, Yesu andikonda, Ine ndikudziwadi",
-                    "Kuti Yesu andikonda, Nandiferakelelo.",
+                    "Kuti Yesu andikonda, Nandiferakelelo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Ndzanka komwe andiuza Sinnacepe konse bi,",
                     "Pakuyenda m’njira yace, Pena mcifuniro ’ce."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Inde, Yesu andikonda, Ine ndikudziwadi",
+                    "Kuti Yesu andikonda, Nandiferakelelo."
                 ]
             }
         ],
@@ -18181,14 +18316,27 @@
                 "type": "refrain",
                 "lines": [
                     "Bvomerani, bvomerani, Bvomerani msangatu (etu)",
-                    "Musacedweranso ai, Landirani Yesuyo.",
-                    "Munacita nthantha kale, Musacedweransobi;",
-                    "Yesu ali kulindira, Inu sadzakanai."
+                    "Musacedweranso ai, Landirani Yesuyo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
+                "lines": [
+                    "Munacita nthantha kale, Musacedweransobi;",
+                    "Yesu ali kulindira, Inu sadzakanai."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Bvomerani, bvomerani, Bvomerani msangatu (etu)",
+                    "Musacedweranso ai, Landirani Yesuyo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
                 "lines": [
                     "Musaope kaamba zinthu Zakuipa zanuzo;",
                     "Mukakhulupira Yesu, Akacotsa zonsezo."
@@ -18198,9 +18346,7 @@
                 "type": "refrain",
                 "lines": [
                     "Bvomerani, bvomerani, Bvomerani msangatu (etu)",
-                    "Musacedweranso ai, Landirani Yesuyo.",
-                    "Munacita nthantha kale, Musacedweransobi;",
-                    "Yesu ali kulindira, Inu sadzakanai."
+                    "Musacedweranso ai, Landirani Yesuyo."
                 ]
             }
         ],
@@ -18448,36 +18594,16 @@
         "title": "Alikuitana Uko Tsidyalo",
         "lyrics": [
             {
-                "type": "refrain",
-                "lines": [
-                    "Alikuitana uko tsidyalo, Tumizani mauawo,",
-                    "Iwo akufuna Mpulumutsiyo, Tumiza mauwo.",
-                    "CHORUS (Bass):",
-                    "Tibukitse mau acewo, Ndi mitima yonseyo",
-                    "Pakumlemekeza Mlunguyo, Ndi kusunga mwauwo,",
-                    "Tuma mau a uthengawo, Kuli konse amvetu,",
-                    "Tuma mau a uthengawo, Osaleka konse bi.",
-                    "(Soprano, Alto, and Tenor):",
-                    "Tibukitse mau acewo, Ndi mitima yakufunatu,",
-                    "Pakumlemekeza Mlunguyo, Ndi kusunga mau acewo",
-                    "Tuma mau a uthengawo, Kuli konse amvetu,",
-                    "Tuma mau a uthengawo, Osaleka konse bi."
-                ]
-            },
-            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Tamva kuitana tsidya lijalo, Tumiza mauwo,",
-                    "Tipereke za cifundo zathuzo, Tumiza mauwo."
+                    "Alikuitana uko tsidyalo, Tumizani mauawo,",
+                    "Iwo akufuna Mpulumutsiyo, Tumiza mauwo."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Alikuitana uko tsidyalo, Tumizani mauawo,",
-                    "Iwo akufuna Mpulumutsiyo, Tumiza mauwo.",
-                    "CHORUS (Bass):",
                     "Tibukitse mau acewo, Ndi mitima yonseyo",
                     "Pakumlemekeza Mlunguyo, Ndi kusunga mwauwo,",
                     "Tuma mau a uthengawo, Kuli konse amvetu,",
@@ -18493,6 +18619,28 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
+                    "Tamva kuitana tsidya lijalo, Tumiza mauwo,",
+                    "Tipereke za cifundo zathuzo, Tumiza mauwo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tibukitse mau acewo, Ndi mitima yonseyo",
+                    "Pakumlemekeza Mlunguyo, Ndi kusunga mwauwo,",
+                    "Tuma mau a uthengawo, Kuli konse amvetu,",
+                    "Tuma mau a uthengawo, Osaleka konse bi.",
+                    "(Soprano, Alto, and Tenor):",
+                    "Tibukitse mau acewo, Ndi mitima yakufunatu,",
+                    "Pakumlemekeza Mlunguyo, Ndi kusunga mau acewo",
+                    "Tuma mau a uthengawo, Kuli konse amvetu,",
+                    "Tuma mau a uthengawo, Osaleka konse bi."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Tipempheretu cisomo caceco, Tumiza mauwo,",
                     "Mzimu wa Ambuye anke ponsepo, Tumiza mauwo."
                 ]
@@ -18500,9 +18648,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Alikuitana uko tsidyalo, Tumizani mauawo,",
-                    "Iwo akufuna Mpulumutsiyo, Tumiza mauwo.",
-                    "CHORUS (Bass):",
                     "Tibukitse mau acewo, Ndi mitima yonseyo",
                     "Pakumlemekeza Mlunguyo, Ndi kusunga mwauwo,",
                     "Tuma mau a uthengawo, Kuli konse amvetu,",

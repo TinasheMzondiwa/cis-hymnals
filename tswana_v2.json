@@ -3405,11 +3405,19 @@
                 ]
             },
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 5,
                 "lines": [
                     "CHORUS YA BOFELO:",
                     "Re ya Go baka kwana e tlhabilweng,",
                     "Re ya Go tlotla, Amen, amen."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Re ya Go rapela Morena Jeso,",
+                    "Ka ’rato le Moya re kolobetse"
                 ]
             }
         ],
@@ -5954,7 +5962,8 @@
                 ]
             },
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 2,
                 "lines": [
                     "CHORUS (SOPRANO):",
                     "Disa o rapele Disa",
@@ -5964,14 +5973,14 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Chorus: (BA BANGWE):",
+                    "(BA BANGWE):",
                     "Disa o rapele, Disa rapela, Disa rapela;",
                     "Disa lefifing le mo motshegaring Mok’reste disa."
                 ]
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Leleka Kotselo, O Se Belaele;",
                     "O solofeditswe; Boikhutso godimong;",
@@ -5982,14 +5991,14 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Chorus: (BA BANGWE):",
+                    "(BA BANGWE):",
                     "Disa o rapele, Disa rapela, Disa rapela;",
                     "Disa lefifing le mo motshegaring Mok’reste disa."
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "O Ikanye Jeso; Disa Mmaba’ Gaufi;",
                     "O tlhomele; sentle; O dise Morena.",
@@ -6000,7 +6009,7 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Chorus: (BA BANGWE):",
+                    "(BA BANGWE):",
                     "Disa o rapele, Disa rapela, Disa rapela;",
                     "Disa lefifing le mo motshegaring Mok’reste disa."
                 ]
@@ -14466,11 +14475,19 @@
                 ]
             },
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 6,
                 "lines": [
                     "CHORUS YA BOFELO",
                     "Janong ga ke belaela; Janong ga ke Mo Latlhe;",
                     "Janong ke butse pelo, Mme Jeso O tsena mo teng."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Janong, latlha pelaelo; Janong, O se Mo latlhe;",
+                    "Janong, O bule pelo; Mma Jeso A tsene pelong."
                 ]
             }
         ],
@@ -16115,11 +16132,19 @@
                 ]
             },
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 5,
                 "lines": [
                     "CHORUS YA BOFELO",
                     "E re tla rakana, Re tla rakana moseja.",
                     "E re tla rakana gone, Kwa go se yong dintelo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "A re tla rakana, Re tla rakana moseja?",
+                    "A re tla rakana gone, Kwa go se yong dintelo?"
                 ]
             }
         ],
@@ -16318,11 +16343,19 @@
                 ]
             },
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 6,
                 "lines": [
                     "CHORUS YA BOFELO:",
                     "E ke potso janong; Karabo ’tla nna eng?",
                     "Ke tla bapola Barabas Ke golole Kgosi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "E ke potso janong; Karabo’ tla nna eng?",
+                    "Ke bapole Kgosi Jeso, Barabas’a tshele?"
                 ]
             }
         ],

@@ -25,7 +25,8 @@
                 ]
             },
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 2,
                 "lines": [
                     "Sound it loud o’er ev’ry hilltop,",
                     "Gloomy shade, and sunny plain;",
@@ -34,8 +35,18 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Blow the trumpet, trusty watchman,",
+                    "Blow it loud o’er land and sea…….",
+                    "(loud o’er land  and sea)",
+                    "God commissions, sound the message!",
+                    "Ev’ry captive may be free."
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Sound it in the hedge and highway,",
                     "Earth’s dark sports where exiles roam;",
@@ -46,15 +57,16 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Sound it loud o’er ev’ry hilltop,",
-                    "Gloomy shade, and sunny plain;",
-                    "Ocean depths repeat the message,",
-                    "full salvation’s glad refrain."
+                    "Blow the trumpet, trusty watchman,",
+                    "Blow it loud o’er land and sea…….",
+                    "(loud o’er land  and sea)",
+                    "God commissions, sound the message!",
+                    "Ev’ry captive may be free."
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Sound it for the heavy laden,",
                     "Weary, longing to be free.",
@@ -65,10 +77,11 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Sound it loud o’er ev’ry hilltop,",
-                    "Gloomy shade, and sunny plain;",
-                    "Ocean depths repeat the message,",
-                    "full salvation’s glad refrain."
+                    "Blow the trumpet, trusty watchman,",
+                    "Blow it loud o’er land and sea…….",
+                    "(loud o’er land  and sea)",
+                    "God commissions, sound the message!",
+                    "Ev’ry captive may be free."
                 ]
             }
         ],
@@ -5745,7 +5758,8 @@
                 ]
             },
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 3,
                 "lines": [
                     "To the work! To the work! There is labor for all,",
                     "For the kingdom of darkness and error shall fall;",
@@ -5756,10 +5770,31 @@
             {
                 "type": "refrain",
                 "lines": [
+                    "Toiling on…… toiling on…….. toiling on",
+                    "(Toiling on)       (Toiling on)(Toiling on)",
+                    "Toiling on……. Let us hope…….. Let us watch",
+                    "(Toiling on)         (And trust)  (And pray)",
+                    "And labor till the Master comes."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "To the work! To the work! Preaching on to the end,",
                     "For the harvest will come, And the reapers descend;",
                     "And the home of the ransomed dwelling will be,",
                     "And our chorus forever, “Salvation is free.”"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Toiling on…… toiling on…….. toiling on",
+                    "(Toiling on)       (Toiling on)(Toiling on)",
+                    "Toiling on……. Let us hope…….. Let us watch",
+                    "(Toiling on)         (And trust)  (And pray)",
+                    "And labor till the Master comes."
                 ]
             }
         ],
@@ -7165,7 +7200,23 @@
                     "Ye children of men, attend to the world,",
                     "So solemnly uttered by Jesus the Lord;",
                     "And let not this message to you be in vain,",
-                    "“Ye must be born again.”                O ye who would enter that glorious rest,",
+                    "“Ye must be born again.”"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "“Ye must be born again,",
+                    "Ye must be born again,",
+                    "I verily, verily, say unto thee,",
+                    "Ye must be born again.”"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "O ye who would enter that glorious rest,",
                     "And sing with the ransomed the song of",
                     "The blest; The life everlasting if you would obtain,",
                     "“Ye must be born again.”"
@@ -7311,6 +7362,25 @@
                     "When you are, my brother",
                     "Able to believe."
                 ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Able to deliver! Courage, trembling one!",
+                    "Are you serving Jesus? He will save his own;",
+                    "Fear not Satan’s power, cling to Jesus’ hand,",
+                    "Cease your fear and doubting,",
+                    "boldly for him stand."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Able to deliver, Able to save,",
+                    "When you are, my brother",
+                    "Able to believe."
+                ]
             }
         ],
         "revision": 1
@@ -7347,7 +7417,24 @@
                     "Some build on the sinking sands of life,",
                     "On visions of earthly treasure;",
                     "Some build on the waves of sin and strife,",
-                    "Of fame, and worldly pleasure.                O build on the Rock, for ever sure,",
+                    "Of fame, and worldly pleasure."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "We’ll build……………… on the Rock,",
+                    "We’ll build………on the Rock;",
+                    "(We’ll build on the Rock, on the solid Rock) (We’ll build on the Rock, on the solid Rock )",
+                    "We’ll build on the Rock, on the solid Rock,",
+                    "On Christ, the mighty Rock."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "O build on the Rock, for ever sure,",
                     "The firm and the true foundation;",
                     "Its hope is the hope which shall endure,",
                     "The hope of salvation."
@@ -7372,7 +7459,8 @@
         "title": "Tell Me The Story Of Jesus.",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "Tell me the story of Jesus,",
                     "Write on my heart every word,",
@@ -7395,7 +7483,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Fasting alone in the desert,",
                     "Tell of the days that He passed,",
@@ -7418,7 +7506,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Tell of the cross where they nailed Him,",
                     "Writhing in anguish and pain;",
@@ -7448,13 +7536,19 @@
         "title": "Lovingly, Tenderly Calling.",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "Jesus, the loving shepherd, Calleth thee now to come,",
                     "Into the fold of safety, Where there is rest and room;",
                     "Come in the strength of manhood,",
                     "Come in the morn of youth,",
-                    "Enter the  fold of safety, Enter the way of truth.                CHORUS",
+                    "Enter the  fold of safety, Enter the way of truth."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lovingly, tenderly calling is he!",
                     "Wanderer, wanderer, come unto me.",
                     "Patiently standing there, waiting I see",
@@ -7463,7 +7557,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Jesus, the loving Shepherd,",
                     "Gave His dear life for thee.",
@@ -7478,11 +7572,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Jesus, the loving shepherd, Calleth thee now to come,",
-                    "Into the fold of safety, Where there is rest and room;",
-                    "Come in the strength of manhood,",
-                    "Come in the morn of youth,",
-                    "Enter the  fold of safety, Enter the way of truth.                CHORUS",
                     "Lovingly, tenderly calling is he!",
                     "Wanderer, wanderer, come unto me.",
                     "Patiently standing there, waiting I see",
@@ -7491,7 +7580,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Lingering is but folly,",
                     "Wolves are abroad today,",
@@ -7506,11 +7595,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Jesus, the loving shepherd, Calleth thee now to come,",
-                    "Into the fold of safety, Where there is rest and room;",
-                    "Come in the strength of manhood,",
-                    "Come in the morn of youth,",
-                    "Enter the  fold of safety, Enter the way of truth.                CHORUS",
                     "Lovingly, tenderly calling is he!",
                     "Wanderer, wanderer, come unto me.",
                     "Patiently standing there, waiting I see",
@@ -8615,7 +8699,14 @@
                     "From the Father’s lips to the earth it came.",
                     "Brought by angels of light,………",
                     "In the stillness of night,",
-                    "Was the dear, dear name of Jesus.    To my heart it brings a blessing,",
+                    "Was the dear, dear name of Jesus."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
+                    "To my heart it brings a blessing,",
                     "And my lips take up the strain;",
                     "And his wond’rous name confessing,",
                     "Tell its sweetness over again."
@@ -8624,10 +8715,33 @@
             {
                 "type": "refrain",
                 "lines": [
+                    "‘Tis the holiest name,………. ‘Tis the holiest name",
+                    "(Blessed name!)         (blessed name!)",
+                    "From the Father’s lips to the earth it came.",
+                    "Brought by angels of light,………",
+                    "In the stillness of night,",
+                    "Was the dear, dear name of Jesus."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Oh, my soul would swell the chorus,",
                     "Singing his redeeming love;",
                     "And ascribe eternal praises,",
                     "To the name all names above."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "‘Tis the holiest name,………. ‘Tis the holiest name",
+                    "(Blessed name!)         (blessed name!)",
+                    "From the Father’s lips to the earth it came.",
+                    "Brought by angels of light,………",
+                    "In the stillness of night,",
+                    "Was the dear, dear name of Jesus."
                 ]
             }
         ],
@@ -8708,6 +8822,52 @@
                     "Jesus’ smile can banish sadness;",
                     "It is sunlight in the heart."
                 ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
+                    "In the dust I leave my sadness,",
+                    "As the garb of other days,",
+                    "For thou robest me with gladness,",
+                    "And thou fillest me with praise;",
+                    "And to that bright home of glory,",
+                    "Which thy love hath won for me,",
+                    "In my heart and mind ascending,",
+                    "My glad spirit follows thee."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "O the sunlight! Beautiful sunlight!",
+                    "O the sunlight in the heart!",
+                    "Jesus’ smile can banish sadness;",
+                    "It is sunlight in the heart."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Loving Saviour, thou hast bought me,",
+                    "And my life, my all, is thine,",
+                    "Let the lamp thy love hath lighted,",
+                    "To thy praise and glory shine;",
+                    "And to that bright home of glory,",
+                    "Which thy love hath won for me;",
+                    "In my heart and might ascending,",
+                    "My glad spirit follows thee."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "O the sunlight! Beautiful sunlight!",
+                    "O the sunlight in the heart!",
+                    "Jesus’ smile can banish sadness;",
+                    "It is sunlight in the heart."
+                ]
             }
         ],
         "revision": 1
@@ -8744,7 +8904,24 @@
                     "I have a Christ that satisfies,",
                     "Since I have been redeemed;",
                     "To do His will my highest prize,",
-                    "Since I have been redeemed.I have a witness bright and clear,",
+                    "Since I have been redeemed."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Since I …………….have been redeemed,",
+                    "Since I …have been redeemed,",
+                    "I will glory in His name,",
+                    "Since I…….have been redeemed,",
+                    "I will glory in my Saviour’s name."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "I have a witness bright and clear,",
                     "Since I have been redeemed;",
                     "Dispelling every doubt and fear,",
                     "Since I have been redeemed."
@@ -8762,7 +8939,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "I have a home prepared for me,",
                     "Since I have been redeemed;",
@@ -8854,7 +9031,8 @@
         "title": "Blessed Hour Of Prayer.",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "‘Tis the blessed hour of prayer,",
                     "when our hearts lowly bend,",
@@ -8863,7 +9041,12 @@
                     "If we come to Him in faith,",
                     "His protection to share,",
                     "What a balm for the weary!",
-                    "O how sweet to be there!CHORUS",
+                    "O how sweet to be there!"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Blessed hour of prayer,",
                     "Blessed hour of prayer,",
                     "What a balm for the weary!",
@@ -8872,7 +9055,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "‘Tis the blessed hour of prayer,",
                     "when the Saviour draws near,",
@@ -8887,14 +9070,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "‘Tis the blessed hour of prayer,",
-                    "when our hearts lowly bend,",
-                    "And we gather to Jesus,",
-                    "our Saviour and Friend!",
-                    "If we come to Him in faith,",
-                    "His protection to share,",
-                    "What a balm for the weary!",
-                    "O how sweet to be there!CHORUS",
                     "Blessed hour of prayer,",
                     "Blessed hour of prayer,",
                     "What a balm for the weary!",
@@ -8903,7 +9078,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "‘Tis the blessed hour of prayer,",
                     "when the tempest and tried,",
@@ -8918,14 +9093,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "‘Tis the blessed hour of prayer,",
-                    "when our hearts lowly bend,",
-                    "And we gather to Jesus,",
-                    "our Saviour and Friend!",
-                    "If we come to Him in faith,",
-                    "His protection to share,",
-                    "What a balm for the weary!",
-                    "O how sweet to be there!CHORUS",
                     "Blessed hour of prayer,",
                     "Blessed hour of prayer,",
                     "What a balm for the weary!",
@@ -8934,7 +9101,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "At the blessed hour of prayer,",
                     "trusting Him we believe,",
@@ -8949,14 +9116,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "‘Tis the blessed hour of prayer,",
-                    "when our hearts lowly bend,",
-                    "And we gather to Jesus,",
-                    "our Saviour and Friend!",
-                    "If we come to Him in faith,",
-                    "His protection to share,",
-                    "What a balm for the weary!",
-                    "O how sweet to be there!CHORUS",
                     "Blessed hour of prayer,",
                     "Blessed hour of prayer,",
                     "What a balm for the weary!",
@@ -12667,7 +12826,7 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "CHORUS    “Hold fast till I come,” sweet promise of heav’n,“The kingdom restored, to you shall be giv’n,”          “Come, enter my joy, sit down on my throne;Bright crowns are in waiting; Hold fast till I come"
+                    "“Hold fast till I come,” sweet promise of heav’n,“The kingdom restored, to you shall be giv’n,”          “Come, enter my joy, sit down on my throne;Bright crowns are in waiting; Hold fast till I come"
                 ]
             },
             {
@@ -12680,7 +12839,7 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "CHORUS    “Hold fast till I come,” sweet promise of heav’n,“The kingdom restored, to you shall be giv’n,”          “Come, enter my joy, sit down on my throne;Bright crowns are in waiting; Hold fast till I come"
+                    "“Hold fast till I come,” sweet promise of heav’n,“The kingdom restored, to you shall be giv’n,”          “Come, enter my joy, sit down on my throne;Bright crowns are in waiting; Hold fast till I come"
                 ]
             },
             {
@@ -12693,7 +12852,7 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "CHORUS    “Hold fast till I come,” sweet promise of heav’n,“The kingdom restored, to you shall be giv’n,”          “Come, enter my joy, sit down on my throne;Bright crowns are in waiting; Hold fast till I come"
+                    "“Hold fast till I come,” sweet promise of heav’n,“The kingdom restored, to you shall be giv’n,”          “Come, enter my joy, sit down on my throne;Bright crowns are in waiting; Hold fast till I come"
                 ]
             }
         ],
@@ -13462,7 +13621,23 @@
                     "Would you be free from your passion and pride?",
                     "There’s power in the blood, power in the blood;",
                     "Come for a cleansing to Calvary’s tide,",
-                    "There’s wonderful power in the blood.                Would you be whiter, much whiter than snow?",
+                    "There’s wonderful power in the blood."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "There is power, power,  wonderworking power",
+                    "in the blood of the Lamb;",
+                    "There is power, power, wonderworking power,",
+                    "In the precious blood of the Lamb."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Would you be whiter, much whiter than snow?",
                     "There’s power in the blood, power in the blood;",
                     "Sin stains are lost in its life-giving flow,",
                     "There’s wonderful power in the blood."
@@ -13479,7 +13654,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Would you do service for Jesus your King?",
                     "There’s power in the blood, power in the blood;",
@@ -13589,40 +13764,19 @@
         "title": "The Best Friend Is Jesus.",
         "lyrics": [
             {
-                "type": "refrain",
-                "lines": [
-                    "Oh, the best friend to have is Jesus,",
-                    "When the cares of life upon you roll,",
-                    "He will heal the wounded heart,",
-                    "He will strength and grace impart;",
-                    "Oh, the best friend to have is Jesus.                CHORUS",
-                    "The best friend to have is Jesus,",
-                    "(Jesus every day)",
-                    "The best friend to have is Jesus",
-                    "(Jesus all the way)",
-                    "He will help you when you fall,",
-                    "He will hear you when you call;",
-                    "Oh, the best friend to have is Jesus."
-                ]
-            },
-            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "What a friend I have found in Jesus!",
-                    "Peace and comfort to my soul He brings;",
-                    "Leaning on His mighty arm, I will fear no ill nor harm;",
+                    "Oh, the best friend to have is Jesus,",
+                    "When the cares of life upon you roll,",
+                    "He will heal the wounded heart,",
+                    "He will strength and grace impart;",
                     "Oh, the best friend to have is Jesus."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Oh, the best friend to have is Jesus,",
-                    "When the cares of life upon you roll,",
-                    "He will heal the wounded heart,",
-                    "He will strength and grace impart;",
-                    "Oh, the best friend to have is Jesus.                CHORUS",
                     "The best friend to have is Jesus,",
                     "(Jesus every day)",
                     "The best friend to have is Jesus",
@@ -13636,20 +13790,15 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Though I pass through the night of sorrow,",
-                    "And the chilly waves of Jordan roll,",
-                    "Never need I shrink nor fear, For my Saviour is so near;",
-                    "Oh the best friend to have is Jesus."
+                    "What a friend I have found in Jesus!",
+                    "Peace and comfort to my soul He brings;",
+                    "Leaning on His mighty arm, I will fear no ill nor harm;",
+                    "Oh, the best friend to have is Jesus."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Oh, the best friend to have is Jesus,",
-                    "When the cares of life upon you roll,",
-                    "He will heal the wounded heart,",
-                    "He will strength and grace impart;",
-                    "Oh, the best friend to have is Jesus.                CHORUS",
                     "The best friend to have is Jesus,",
                     "(Jesus every day)",
                     "The best friend to have is Jesus",
@@ -13663,6 +13812,28 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
+                    "Though I pass through the night of sorrow,",
+                    "And the chilly waves of Jordan roll,",
+                    "Never need I shrink nor fear, For my Saviour is so near;",
+                    "Oh the best friend to have is Jesus."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "The best friend to have is Jesus,",
+                    "(Jesus every day)",
+                    "The best friend to have is Jesus",
+                    "(Jesus all the way)",
+                    "He will help you when you fall,",
+                    "He will hear you when you call;",
+                    "Oh, the best friend to have is Jesus."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "When at last to our home we gather,",
                     "With the faithful who have gone before,",
                     "We will sing upon the shore, Praising Him forevermore;",
@@ -13672,11 +13843,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Oh, the best friend to have is Jesus,",
-                    "When the cares of life upon you roll,",
-                    "He will heal the wounded heart,",
-                    "He will strength and grace impart;",
-                    "Oh, the best friend to have is Jesus.                CHORUS",
                     "The best friend to have is Jesus,",
                     "(Jesus every day)",
                     "The best friend to have is Jesus",
@@ -14659,7 +14825,8 @@
         "title": "Sweet Peace.",
         "lyrics": [
             {
-                "type": "refrain",
+                "type": "verse",
+                "index": 1,
                 "lines": [
                     "There comes to my heart one sweet strain",
                     "(sweet strain)",
@@ -14679,7 +14846,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Through Christ on the cross peace was made,",
                     "(was made)",
@@ -14699,7 +14866,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "When Jesus as Lord I had crowned (had crowned),",
                     "My heart with His peace did abound (abound)",
@@ -14718,7 +14885,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "In Jesus for peace I abide, (abide)",
                     "And as I keep close to His side (His side)",
@@ -15326,8 +15493,7 @@
                 ]
             },
             {
-                "type": "verse",
-                "index": 2,
+                "type": "refrain",
                 "lines": [
                     "Chrous",
                     "O Galilee, sweet Galilee,",
@@ -15338,7 +15504,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 2,
                 "lines": [
                     "Each flow’ry glen (each flow’ry glen)",
                     "and mossy dwell (and mossy dwell),",
@@ -15351,8 +15517,18 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Chrous",
+                    "O Galilee, sweet Galilee,",
+                    "Where Jesus loved so much to be;",
+                    "O Galilee, blue Galilee,",
+                    "Come sing again to me."
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 4,
+                "index": 3,
                 "lines": [
                     "And when I read (and when I read)",
                     "the thrilling lore (the thrilling lore),",
@@ -15362,6 +15538,16 @@
                     "I long once more (I long once more),",
                     "To follow him (to follow him)",
                     "in Galilee (in Galilee)."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Chrous",
+                    "O Galilee, sweet Galilee,",
+                    "Where Jesus loved so much to be;",
+                    "O Galilee, blue Galilee,",
+                    "Come sing again to me."
                 ]
             }
         ],
@@ -16116,16 +16302,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Just now, your doubtings give o’er;",
-                    "Just now reject Him no more;",
-                    "Just now, throw open the door;",
-                    "Let Jesus come into your heart."
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Chorus last stanza:",
                     "Just now, my doubtings are o’er;",
                     "Just now, rejecting no more;",
                     "I open the door,",
