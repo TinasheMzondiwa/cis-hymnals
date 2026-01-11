@@ -41,10 +41,10 @@ def parse_html_to_lyrics(html_content):
 
         # Check if this is a chorus/refrain
         is_refrain = False
-        if re.search(r'\b(CHORUS|REFRAIN)\b', text, re.IGNORECASE):
+        if re.search(r'\b(CHORUS|REFRAIN|GUSUBIRAMO|Coro|Côro|Припев|CIINDULULO|Nnyeso)\b', text, re.IGNORECASE):
             is_refrain = True
             # Remove CHORUS/REFRAIN label
-            text = re.sub(r'^.*?\b(CHORUS|REFRAIN)\b:?\s*', '', text, flags=re.IGNORECASE | re.MULTILINE)
+            text = re.sub(r'^.*?\b(CHORUS|REFRAIN|GUSUBIRAMO|Coro|Côro|Припев|CIINDULULO|Nnyeso)\b:?\s*', '', text, flags=re.IGNORECASE | re.MULTILINE)
 
         # Split into lines and clean
         lines = [line.strip() for line in text.split('\n') if line.strip()]

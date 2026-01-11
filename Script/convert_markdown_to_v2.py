@@ -41,10 +41,10 @@ def parse_markdown_to_lyrics(markdown_content):
 
         # Check if this is a chorus/refrain
         is_refrain = False
-        if re.search(r'\*\*\s*(CHORUS|REFRAIN)\s*:?\s*\*\*', section, re.IGNORECASE):
+        if re.search(r'\*\*\s*(CHORUS|REFRAIN|GUSUBIRAMO|Coro|Côro|Припев|CIINDULULO|Nnyeso)\s*:?\s*\*\*', section, re.IGNORECASE):
             is_refrain = True
             # Remove CHORUS/REFRAIN label
-            section = re.sub(r'\*\*\s*(CHORUS|REFRAIN)\s*:?\s*\*\*\s*', '', section, flags=re.IGNORECASE)
+            section = re.sub(r'\*\*\s*(CHORUS|REFRAIN|GUSUBIRAMO|Coro|Côro|Припев|CIINDULULO|Nnyeso)\s*:?\s*\*\*\s*', '', section, flags=re.IGNORECASE)
 
         # Split into lines and clean
         lines = []
@@ -145,7 +145,7 @@ if __name__ == "__main__":
         print("Example: python convert_markdown_to_v2.py New_Files/english.json v2/english_v2.json")
         sys.exit(1)
     
-    input_file = './New_Files/sdah.json'
+    input_file = sys.argv[1]
     
     if len(sys.argv) >= 3:
         output_file = sys.argv[2]
