@@ -7192,10 +7192,36 @@
                 "index": 2,
                 "lines": [
                     "Kumtegemea Mwokozi, kwangu tamu kabisa,",
-                    "Kuamini damu yake, nimeoshwa kamili.",
-                    "3. Kumtegemea Mwokozi, kwangu tamu kabisa,",
-                    "Kwake daima napata, uzima na amani.",
-                    "4. Nafurahi kwa sababu, nimekutegemea,",
+                    "Kuamini damu yake, nimeoshwa kamili."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Yesu Yesu namwamini, nimemwona thabiti,",
+                    "Yesu Yesu yu thamani, ahadi zake kweli."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Kumtegemea Mwokozi, kwangu tamu kabisa,",
+                    "Kwake daima napata, uzima na amani."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Yesu Yesu namwamini, nimemwona thabiti,",
+                    "Yesu Yesu yu thamani, ahadi zake kweli."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
+                    "Nafurahi kwa sababu, nimekutegemea,",
                     "Yesu mpendwa rafiki, uwe nami dawamu."
                 ]
             },
@@ -7674,8 +7700,21 @@
                     "Saa heri ya sala, wawezapo kuja,",
                     "Kwa Bwana Yesu wanaojaribiwa,",
                     "Moyo wake mpole, atawarehemu,",
-                    "Waliochoka sana, watapata raha.",
-                    "4. Saa heri ya sala, tutakapopewa",
+                    "Waliochoka sana, watapata raha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Saa ya sala, iliyo heri,",
+                    "Waliochoka sana, watapata raha."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
+                    "Saa heri ya sala, tutakapopewa",
                     "Mibaraka ya roho tukimwamini,",
                     "Kwa kuamini kweli, hatutaogopa,",
                     "Waliochoka sana, watapata raha."
