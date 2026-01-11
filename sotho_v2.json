@@ -15763,7 +15763,24 @@
         "index": "280",
         "number": 280,
         "title": "Pina Tsa Nyakallo",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Lipina tsa nyakallo, letsatsing le letle,",
+                    "Re tla boka ’Moloki, Bophelo le tsela.",
+                    "Re bina. . . re bina. . . Pina tsa Morena,",
+                    "Re bina. . . re bina. . . khalalelo ea Hae.",
+                    "O ratile le bana, Ha a sa le lefats’eng.",
+                    "Leha, le leholimong o sa ntse A rata.",
+                    "Re rata thoko tsa Hae, le ho utloa Pale,",
+                    "Ha A le Galilea, Ea boholo-holo.",
+                    "’Moloki ea leseho, Re khumama mona,",
+                    "Re tla u kopa thuso, Ho phelela Uena."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -16251,7 +16268,25 @@
         "index": "297",
         "number": 297,
         "title": "O Bile Teng",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "refrain",
+                "lines": [
+                    "Li thakhisitsoe sefapanong,",
+                    "O ratile ho li jara hakakang!",
+                    "Jesu a ea sefapanong ka masoabi.",
+                    "Teng a ea ka libe tsa rona.",
+                    "O mosa, lerato le sebete,",
+                    "Ha a hloekisa pelo e mafome,",
+                    "Empa ha ho tsuo kea tseba",
+                    "Hoba libe tsa ka li thakhisitsoe.",
+                    "Ke tla khomarela ’Moloki oa ka.",
+                    "Ka mehla ke tla tsamaea ka thabo,",
+                    "Ka pina molomong, pina pelong,",
+                    "Hoba libe tsa ka li tlositsoe."
+                ]
+            }
+        ],
         "revision": 1
     },
     {

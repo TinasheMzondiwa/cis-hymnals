@@ -950,6 +950,20 @@
                     "And shall be till I die, And shall be till I die;",
                     "Redeeming love shall be my theme, And shall be till I die."
                 ]
+            },
+            {
+                "type": "verse",
+                "index": 5,
+                "lines": [
+                    "Lord, I believe Thou hast prepared, Unworthy though I be,",
+                    "For me a blood-bought, free reward, A golden harp for me!",
+                    "A golden harp for me! A golden harp for me!",
+                    "For me a blood-bought, free reward, A golden harp for me!",
+                    "There in a nobler, sweeter song, I’ll sing Thy power to save,",
+                    "When this poor lisping, stammering tongue, Is ransomed from the grave,",
+                    "Is ransomed from the grave, Is ransomed from the grave;",
+                    "When this poor lisping, stammering tongue, Is ransomed from the grave."
+                ]
             }
         ],
         "revision": 1
