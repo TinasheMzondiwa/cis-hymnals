@@ -5990,6 +5990,15 @@
         "title": "Quand s’éveilleront nos cœurs",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Quand s’éveilleront nos cœurs à la voix du Dieu vivant,",
+                    "Nous retrouverons la source du bonheur.",
+                    "Quand se lèveront nos mains pour chanter le Dieu vivant,",
+                    "Nous retrouverons l’espoir des lendemains."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -5998,6 +6007,15 @@
                     "Il saura changer nos cœurs.",
                     "Il viendra sécher nos larmes",
                     "Il viendra chasser nos peurs."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Quand s’éveilleront nos cœurs à la voix du Dieu vivant,",
+                    "Nous retrouverons la source du bonheur.",
+                    "Quand se lèveront nos mains pour chanter le Dieu vivant,",
+                    "Nous retrouverons l’espoir des lendemains."
                 ]
             },
             {
