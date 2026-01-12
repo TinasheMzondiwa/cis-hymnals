@@ -127,15 +127,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "De tout mon être, alors s'élève un chant :",
-                    "« Dieu tout-puissant, que tu es grand! »",
-                    "De tout mon être, alors s'élève un chant :",
-                    "« Dieu tout-puissant, que tu es grand! »"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
                     "Mon coeur heureux, s'écrie à chaque instant :",
                     "« Ô Dieu d'amour, que tu es grand! »",
                     "Mon coeur heureux, s'écrie à chaque instant :",
@@ -156,15 +147,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Mon coeur heureux, s'écrie à chaque instant :",
-                    "« Ô Dieu d'amour, que tu es grand! »",
-                    "Mon coeur heureux, s'écrie à chaque instant :",
-                    "« Ô Dieu d'amour, que tu es grand! »"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
                     "Alors mon coeur redit, la nuit, le jour :",
                     "« Que tu es bon, ô Dieu d'amour! »",
                     "Alors mon coeur redit, la nuit, le jour :",
@@ -180,15 +162,6 @@
                     "Se lèvera de son trône éternel,",
                     "Et que, laissant les douleurs de la terre,",
                     "Je pourrai voir les splendeurs de son ciel."
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Alors mon coeur redit, la nuit, le jour :",
-                    "« Que tu es bon, ô Dieu d'amour! »",
-                    "Alors mon coeur redit, la nuit, le jour :",
-                    "« Que tu es bon, ô Dieu d'amour! »"
                 ]
             },
             {
@@ -20177,14 +20150,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Verse en nos cœurs,",
-                    "Ô Christ, ta charité,",
-                    "Et mets sur nous ta sublime beauté."
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
                     "Rien ne surpasse,",
                     "Ô Christ, ta charité,",
                     "Rien ici-bas n'égale ta beauté."
@@ -22881,6 +22846,14 @@
         "title": "Qu'il est formidable d'aimer",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Qu'il est formidable d'aimer, qu'il est formidable !",
+                    "Qu'il est formidable d'aimer, qu'il est formidable",
+                    "De tout donner pour aimer !"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -22892,6 +22865,14 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Qu'il est formidable d'aimer, qu'il est formidable !",
+                    "Qu'il est formidable d'aimer, qu'il est formidable",
+                    "De tout donner pour aimer !"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 2,
                 "lines": [
@@ -22900,14 +22881,6 @@
                     "Quand on n'a que ses joies à taire ou à partager,",
                     "Quand on n'a que ses rêves à faire voyager,",
                     "Quand on n'a que sa vie et qu'on veut la donner :"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Qu'il est formidable d'aimer, qu'il est formidable !",
-                    "Qu'il est formidable d'aimer, qu'il est formidable",
-                    "De tout donner pour aimer !"
                 ]
             },
             {
