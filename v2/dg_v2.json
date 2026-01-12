@@ -2529,6 +2529,16 @@
         "title": "Aujourd’hui, Dieu...",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Aujourd’hui, Dieu te fait prophète,",
+                    "Aujourd’hui tu es son témoin.",
+                    "L’Esprit saint sur toi repose,",
+                    "Va porter la Bonne Nouvelle,",
+                    "Va porter la Bonne Nouvelle!"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -2537,6 +2547,16 @@
                     "Dieu guérit les yeux blessés.",
                     "Il donne à tous les peuples de marcher vers sa clarté.",
                     "Par Jésus l’aurore luit, la lumière en nous fleurit."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Aujourd’hui, Dieu te fait prophète,",
+                    "Aujourd’hui tu es son témoin.",
+                    "L’Esprit saint sur toi repose,",
+                    "Va porter la Bonne Nouvelle,",
+                    "Va porter la Bonne Nouvelle!"
                 ]
             },
             {
