@@ -7841,6 +7841,13 @@
         "title": "Je chanterai le nom",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Je chanterai le nom du Seigneur",
+                    "Toujours et partout."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -7851,6 +7858,13 @@
                     "Pour sa grandeur,",
                     "Pour sa beauté, pour ses bienfaits,",
                     "Toute ma vie je chanterai son nom."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Je chanterai le nom du Seigneur",
+                    "Toujours et partout."
                 ]
             },
             {
