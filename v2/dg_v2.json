@@ -2972,6 +2972,15 @@
         "title": "Laissez venir à moi",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Laissez venir à moi tous les petits enfants,",
+                    "Car le royaume des cieux est pour ceux qui leur ressemblent.",
+                    "Laissez venir à moi tous les petits enfants,",
+                    "Car le royaume des cieux est pour ceux qui leur ressemblent."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -2984,6 +2993,15 @@
                     "Mon enfant est endormi,",
                     "Quel bruit peut-il faire?",
                     "Ne peut-il être béni?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Laissez venir à moi tous les petits enfants,",
+                    "Car le royaume des cieux est pour ceux qui leur ressemblent.",
+                    "Laissez venir à moi tous les petits enfants,",
+                    "Car le royaume des cieux est pour ceux qui leur ressemblent."
                 ]
             },
             {
@@ -5785,6 +5803,16 @@
         "title": "Les nations marcheront",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Les nations marcheront à la lumière de l’Agneau,",
+                    "Les rois de la terre apporteront leur richesse et leur splendeur.",
+                    "Les portes de la ville plus jamais ne se fermeront.",
+                    "Dans sa gloire Dieu resplendira.",
+                    "Il n’y aura plus de nuit"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -5794,6 +5822,16 @@
                     "Sur la place, l’arbre de la vie",
                     "Chaque mois sera chargé de fruits.",
                     "Par ses feuilles tous seront guéris."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Les nations marcheront à la lumière de l’Agneau,",
+                    "Les rois de la terre apporteront leur richesse et leur splendeur.",
+                    "Les portes de la ville plus jamais ne se fermeront.",
+                    "Dans sa gloire Dieu resplendira.",
+                    "Il n’y aura plus de nuit"
                 ]
             },
             {
