@@ -8781,6 +8781,16 @@
         "title": "Tournez les yeux",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Tournez les yeux vers le Seigneur,",
+                    "Et rayonnez de joie !",
+                    "Chantez son nom de tout votre cœur,",
+                    "Il est votre Sauveur,",
+                    "C’est lui votre Seigneur."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -8789,6 +8799,16 @@
                     "Et il m’a écouté,",
                     "Il m’a guéri de mes peurs",
                     "Et sans fin je le louerai."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tournez les yeux vers le Seigneur,",
+                    "Et rayonnez de joie !",
+                    "Chantez son nom de tout votre cœur,",
+                    "Il est votre Sauveur,",
+                    "C’est lui votre Seigneur."
                 ]
             },
             {
