@@ -18282,6 +18282,15 @@
         "title": "Comme un souffle fragile",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Comme un souffle fragile,",
+                    "Ta parole se donne;",
+                    "Comme un vase d'argile,",
+                    "Ton amour nous façonne."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -18290,6 +18299,15 @@
                     "Comme un secret d'amour,",
                     "Ta parole est blessure",
                     "Qui nous ouvre le jour."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Comme un souffle fragile,",
+                    "Ta parole se donne;",
+                    "Comme un vase d'argile,",
+                    "Ton amour nous façonne."
                 ]
             },
             {
