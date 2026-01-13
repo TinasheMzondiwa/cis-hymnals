@@ -21712,12 +21712,26 @@
         "title": "Seigneur, fais de nous",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Seigneur, fais de nous des ouvriers de paix.",
+                    "Seigneur, fais de nous des bâtisseurs d'amour."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
                     
                     "Là où demeure la haine, que nous apportions l’amour.",
                     "Là où se trouve l’offense, que nous mettions le pardon."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Seigneur, fais de nous des ouvriers de paix.",
+                    "Seigneur, fais de nous des bâtisseurs d'amour."
                 ]
             },
             {
