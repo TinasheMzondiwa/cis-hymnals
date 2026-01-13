@@ -25849,6 +25849,16 @@
         "title": "Mon cœur est comme une flûte",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Mon cœur est comme une flûte de roseau",
+                    "Que Jésus remplit de musique,",
+                    "Mon cœur est comme une flûte de roseau",
+                    "Qu'il fait chanter, Alléluia !",
+                    "Qu'il fait chanter, Alléluia !"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -25857,6 +25867,16 @@
                     "Il me regarde, il me sourit,",
                     "Tel que je suis, je sais qu'il m'aime,",
                     "Je suis joyeux et libre."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Mon cœur est comme une flûte de roseau",
+                    "Que Jésus remplit de musique,",
+                    "Mon cœur est comme une flûte de roseau",
+                    "Qu'il fait chanter, Alléluia !",
+                    "Qu'il fait chanter, Alléluia !"
                 ]
             },
             {
