@@ -22849,6 +22849,15 @@
         "title": "Toi qui aimes",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Toi qui aimes ceux qui s'aiment,",
+                    "Car tu es l'amour,",
+                    "Dans nos vies, comme un poème,",
+                    "Fais chanter l'amour."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -22857,6 +22866,15 @@
                     "Tournés vers le même horizon.",
                     "Les yeux éclairés d'une même lumière,",
                     "Chanter une même chanson."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Toi qui aimes ceux qui s'aiment,",
+                    "Car tu es l'amour,",
+                    "Dans nos vies, comme un poème,",
+                    "Fais chanter l'amour."
                 ]
             },
             {
