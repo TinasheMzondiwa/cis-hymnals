@@ -16216,10 +16216,8 @@
                 ]
             },
             {
-                "type": "verse",
-                "index": 2,
+                "type": "refrain",
                 "lines": [
-                    "Refain",
                     "Oui, prends tout, Seigneur !",
                     "Oui, prends tout, Seigneur !",
                     "Entre tes mains j'abandonne",
@@ -16228,7 +16226,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 2,
                 "lines": [
                     
                     "Je n'ai pas peur de te suivre",
@@ -16248,7 +16246,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 3,
                 "lines": [
                     
                     "Tu connais mieux que moi-même",
@@ -16262,37 +16260,19 @@
                 "lines": [
                     "Oui, prends tout, Seigneur !",
                     "Oui, prends tout, Seigneur !",
-                    "Sans rien garder, je te livre",
-                    "Tout avec bonheur."
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Oui, prends tout, Seigneur !",
-                    "Oui, prends tout, Seigneur !",
                     "Je ne vis plus pour moi-même,",
                     "Mais pour mon Sauveur."
                 ]
             },
             {
                 "type": "verse",
-                "index": 5,
+                "index": 4,
                 "lines": [
                     
                     "Prends mon corps et prends mon âme;",
                     "Que tout en moi soit à toi !",
                     "Que par ta divine flamme",
                     "Tout mal soit détruit en moi !"
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Oui, prends tout, Seigneur !",
-                    "Oui, prends tout, Seigneur !",
-                    "Je ne vis plus pour moi-même,",
-                    "Mais pour mon Sauveur."
                 ]
             },
             {
