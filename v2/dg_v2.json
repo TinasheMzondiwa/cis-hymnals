@@ -12378,6 +12378,15 @@
         "title": "Jésus, apprends-moi",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Jésus, apprends-moi, je t'en prie,",
+                    "À vivre selon ton Esprit.",
+                    "Jésus, apprends-moi, je t'en prie,",
+                    "À vivre selon ton Esprit."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -12386,6 +12395,15 @@
                     "D'hier, d'aujourd'hui, de demain.",
                     "Je ne peux pratiquer le bien;",
                     "Merci de m'avoir pardonné."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Jésus, apprends-moi, je t'en prie,",
+                    "À vivre selon ton Esprit.",
+                    "Jésus, apprends-moi, je t'en prie,",
+                    "À vivre selon ton Esprit."
                 ]
             },
             {
