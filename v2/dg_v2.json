@@ -20799,6 +20799,15 @@
         "title": "Un jour dans tes parvis",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Un jour dans tes parvis",
+                    "Vaut mieux que mille ailleurs;",
+                    "Seigneur, tu nous unis,",
+                    "Nous sommes frères et sœurs."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -20807,6 +20816,15 @@
                     "Nous louons notre Père.",
                     "Voici l'Esprit de Dieu,",
                     "Nous sommes dans la lumière."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Un jour dans tes parvis",
+                    "Vaut mieux que mille ailleurs;",
+                    "Seigneur, tu nous unis,",
+                    "Nous sommes frères et sœurs."
                 ]
             },
             {
