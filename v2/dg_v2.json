@@ -21901,12 +21901,30 @@
         "title": "Toi, lève-toi",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Toi, lève-toi et va au nom du Christ",
+                    "Porter l'amour de Dieu au monde !",
+                    "Toi, lève-toi et va au nom du Christ",
+                    "Porter l'amour de Dieu au monde !"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
                     
                     "Comment les autres croiront-ils ce qu'ils n'ont pas connu ?",
                     "Comment les peuples de la terre serviront-ils Jésus ?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Toi, lève-toi et va au nom du Christ",
+                    "Porter l'amour de Dieu au monde !",
+                    "Toi, lève-toi et va au nom du Christ",
+                    "Porter l'amour de Dieu au monde !"
                 ]
             },
             {
