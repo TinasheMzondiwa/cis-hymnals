@@ -19109,6 +19109,17 @@
         "title": "C'est Jésus qui...",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "C'est Jésus qui nous rassemble !",
+                    "C'est Jésus notre Sauveur !",
+                    "En Église, tous ensemble,",
+                    "Demeurons corps du Seigneur !",
+                    "C'est Jésus qui nous rassemble !",
+                    "C'est Jésus notre Sauveur !"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -19119,6 +19130,17 @@
                     "Le Seigneur est avec nous.",
                     "Fils de l'homme, notre frère,",
                     "Le Seigneur est avec nous"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "C'est Jésus qui nous rassemble !",
+                    "C'est Jésus notre Sauveur !",
+                    "En Église, tous ensemble,",
+                    "Demeurons corps du Seigneur !",
+                    "C'est Jésus qui nous rassemble !",
+                    "C'est Jésus notre Sauveur !"
                 ]
             },
             {
