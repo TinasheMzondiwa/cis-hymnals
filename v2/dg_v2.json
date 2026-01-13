@@ -14892,6 +14892,15 @@
         "title": "Joie pour ceux",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Joie pour ceux qui ont pardonné :",
+                    "L’Esprit de Dieu les a comblés.",
+                    "Ils reçoivent miséricorde,",
+                    "Dieu les a relevés."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -14900,6 +14909,15 @@
                     "Car tout amour vient de Dieu.",
                     "Celui dont le cœur aime",
                     "Devient enfant du Père."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Joie pour ceux qui ont pardonné :",
+                    "L’Esprit de Dieu les a comblés.",
+                    "Ils reçoivent miséricorde,",
+                    "Dieu les a relevés."
                 ]
             },
             {
