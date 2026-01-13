@@ -26755,6 +26755,15 @@
         "title": "Trouver dans ma vie",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Trouver dans ma vie ta présence,",
+                    "Tenir une lampe allumée,",
+                    "Choisir avec toi la confiance,",
+                    "Aimer et se savoir aimé."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -26763,6 +26772,15 @@
                     "Brûler à l'écho de ta voix,",
                     "Rester pour le pain de la route,",
                     "Savoir reconnaître ton pas."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Trouver dans ma vie ta présence,",
+                    "Tenir une lampe allumée,",
+                    "Choisir avec toi la confiance,",
+                    "Aimer et se savoir aimé."
                 ]
             },
             {
