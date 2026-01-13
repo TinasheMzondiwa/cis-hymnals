@@ -21169,6 +21169,21 @@
         "title": "Allez-vous-en sur les places",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Allez-vous-en sur les places",
+                    "Et sur les parvis.",
+                    "Allez-vous-en sur les places",
+                    "Y chercher mes amis,",
+                    "Tous mes enfants de lumière",
+                    "Qui vivent dans la nuit,",
+                    "Tous les enfants de mon Père,",
+                    "Séparés de lui !",
+                    "Allez-vous-en sur les places",
+                    "Et soyez mes témoins chaque jour !"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -21179,6 +21194,21 @@
                     "Qu'en avez-vous donc fait ?",
                     "Quand je vois aujourd'hui mes enfants révoltés,",
                     "Aigris et douloureux d'avoir pleuré..."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Allez-vous-en sur les places",
+                    "Et sur les parvis.",
+                    "Allez-vous-en sur les places",
+                    "Y chercher mes amis,",
+                    "Tous mes enfants de lumière",
+                    "Qui vivent dans la nuit,",
+                    "Tous les enfants de mon Père,",
+                    "Séparés de lui !",
+                    "Allez-vous-en sur les places",
+                    "Et soyez mes témoins chaque jour !"
                 ]
             },
             {
