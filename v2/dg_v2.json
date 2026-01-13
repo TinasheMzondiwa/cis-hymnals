@@ -8217,6 +8217,13 @@
         "title": "Ô ma joie",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Ô ma joie, quand je suis parti",
+                    "Pour la maison du Seigneur."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -8228,6 +8235,13 @@
                     "Devant tes portes, Jérusalem.",
                     "Jérusalem bâtie comme une ville",
                     "Où tout ensemble fait corps."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ô ma joie, quand je suis parti",
+                    "Pour la maison du Seigneur."
                 ]
             },
             {
