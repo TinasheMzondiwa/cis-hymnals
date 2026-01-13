@@ -17570,12 +17570,24 @@
         "title": "Voici mon cœur",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Voici mon cœur, je viens vers toi, Seigneur."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
                     
                     "Jésus, je suis devant ta croix,",
                     "J'y vois tout ton amour pour moi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Voici mon cœur, je viens vers toi, Seigneur."
                 ]
             },
             {
