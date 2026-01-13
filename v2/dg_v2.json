@@ -21053,12 +21053,26 @@
         "title": "Moi et ma maison",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Moi et ma maison, nous servirons l'Éternel.",
+                    "Moi et ma maison, nous servirons le Seigneur."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
                     
                     "Qu'il est doux de célébrer ton nom, réunis en famille.",
                     "Qu'il est doux de célébrer ton nom, réunis en famille."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Moi et ma maison, nous servirons l'Éternel.",
+                    "Moi et ma maison, nous servirons le Seigneur."
                 ]
             },
             {
