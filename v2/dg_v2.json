@@ -28008,6 +28008,15 @@
         "title": "Je ne suis qu'un vase",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Je ne suis qu'un vase entre tes mains",
+                    "Vase d'argile que tu as façonné.",
+                    "Je ne suis qu'un vase entre tes mains."
+                    "Vase fragile entre les mains du potier.",
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -28016,6 +28025,15 @@
                     "Déverse en-moi ton huile pure.",
                     "Déverse en-moi ton huile sainte,",
                     "Et que tu sois toujours glorifié."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Je ne suis qu'un vase entre tes mains",
+                    "Vase d'argile que tu as façonné.",
+                    "Je ne suis qu'un vase entre tes mains."
+                    "Vase fragile entre les mains du potier.",
                 ]
             }
         ],
