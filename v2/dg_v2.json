@@ -27577,6 +27577,15 @@
         "title": "Le vent souffle où il veut",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Le vent souffle où il veut et, toi,",
+                    "tu entends sa voix",
+                    "mais tu ne sais pas d'où il vient",
+                    "et tu ne sais pas où il va, le vent (le vent)."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -27585,6 +27594,15 @@
                     "Sur les bords de la mer ?",
                     "As-tu compris le chant des vagues",
                     "Aux pays des matins clairs ?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Le vent souffle où il veut et, toi,",
+                    "tu entends sa voix",
+                    "mais tu ne sais pas d'où il vient",
+                    "et tu ne sais pas où il va, le vent (le vent)."
                 ]
             },
             {
