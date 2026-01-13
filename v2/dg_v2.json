@@ -20564,6 +20564,13 @@
         "title": "Seigneur, rassemble-nous",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Seigneur, rassemble-nous",
+                    "Dans la paix de ton amour !"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -20572,6 +20579,13 @@
                     "Ta grâce nous unit :",
                     "La joie de ta victoire",
                     "Éclaire notre nuit."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Seigneur, rassemble-nous",
+                    "Dans la paix de ton amour !"
                 ]
             },
             {
