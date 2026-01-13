@@ -27479,6 +27479,15 @@
         "title": "Éternel ! fais-moi connaître",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Éternel ! fais-moi connaître tes voies,",
+                    "Enseigne-moi tes sentiers.",
+                    "Conduis-moi dans ta vérité,",
+                    "Et instruis-moi, et instruis-moi."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -27487,6 +27496,15 @@
                     "Tu es le Dieu de mon salut.",
                     "Tu es toujours mon espérance,",
                     "Tu es toujours mon espérance."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Éternel ! fais-moi connaître tes voies,",
+                    "Enseigne-moi tes sentiers.",
+                    "Conduis-moi dans ta vérité,",
+                    "Et instruis-moi, et instruis-moi."
                 ]
             },
             {
