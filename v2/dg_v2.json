@@ -15855,6 +15855,15 @@
         "title": "Je passerai ma vie",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Je passerai ma vie",
+                    "À dire à tous mes frères que tu es bon.",
+                    "Oui, je passerai ma vie",
+                    "À dire à tous mes frères que tu es bon."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -15865,6 +15874,15 @@
                     "Oh ! donne à ma joie",
                     "Le rythme de ton cœur,",
                     "Ô Seigneur !"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Je passerai ma vie",
+                    "À dire à tous mes frères que tu es bon.",
+                    "Oui, je passerai ma vie",
+                    "À dire à tous mes frères que tu es bon."
                 ]
             },
             {
