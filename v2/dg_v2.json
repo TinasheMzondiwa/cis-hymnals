@@ -13115,6 +13115,13 @@
         "title": "Ô Seigneur dans mon cœur",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Ô Seigneur dans mon cœur je t'écoute,",
+                    "Ta parole est une lampe sur ma route."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -13123,6 +13130,13 @@
                     "Tout ce qui peut te plaire,",
                     "Mais pour le trouver,",
                     "Il nous faut ta lumière."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ô Seigneur dans mon cœur je t'écoute,",
+                    "Ta parole est une lampe sur ma route."
                 ]
             },
             {
