@@ -28012,8 +28012,8 @@
                 "lines": [
                     "Je ne suis qu'un vase entre tes mains",
                     "Vase d'argile que tu as façonné.",
-                    "Je ne suis qu'un vase entre tes mains."
-                    "Vase fragile entre les mains du potier.",
+                    "Je ne suis qu'un vase entre tes mains.",
+                    "Vase fragile entre les mains du potier."
                 ]
             },
             {
@@ -28032,8 +28032,8 @@
                 "lines": [
                     "Je ne suis qu'un vase entre tes mains",
                     "Vase d'argile que tu as façonné.",
-                    "Je ne suis qu'un vase entre tes mains."
-                    "Vase fragile entre les mains du potier.",
+                    "Je ne suis qu'un vase entre tes mains.",
+                    "Vase fragile entre les mains du potier."
                 ]
             }
         ],
@@ -29016,6 +29016,15 @@
         "title": "Heureux serviteurs fidèles",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Heureux serviteurs fidèles",
+                    "Qui gardez les yeux fixés",
+                    "Vers la patrie éternelle,",
+                    "La demeure des rachetés."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -29024,6 +29033,15 @@
                     "Que rien n'ébranlera,",
                     "Veillez et priez sans cesse,",
                     "L'Esprit saint vous conduira."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Heureux serviteurs fidèles",
+                    "Qui gardez les yeux fixés",
+                    "Vers la patrie éternelle,",
+                    "La demeure des rachetés."
                 ]
             },
             {
