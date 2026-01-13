@@ -11785,6 +11785,15 @@
         "title": "Avec toi, Seigneur",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Avec toi Seigneur, tous ensemble,",
+                    "Nous voici, joyeux et sûrs de ton amour.",
+                    "Tu nous as rassemblés dans la joie de ta présence",
+                    "Et c'est toi qui nous unis."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -11792,6 +11801,15 @@
                     "C'est toi qui nous unis,",
                     "Ton amour a fait de nous des frères,",
                     "Tu es vivant au milieu de nous."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Avec toi Seigneur, tous ensemble,",
+                    "Nous voici, joyeux et sûrs de ton amour.",
+                    "Tu nous as rassemblés dans la joie de ta présence",
+                    "Et c'est toi qui nous unis."
                 ]
             },
             {
@@ -11840,15 +11858,6 @@
                     "Ô Christ ressuscité,",
                     "Nous chantons la vie que tu nous donnes,",
                     "Tu es vivant au milieu de nous."
-                ]
-            },
-            {
-                "type": "refrain",
-                "lines": [
-                    "Avec toi Seigneur, tous ensemble,",
-                    "Nous voici, joyeux et sûrs de ton amour.",
-                    "Tu nous as rassemblés dans la joie de ta présence",
-                    "Et c'est toi qui nous unis."
                 ]
             },
             {
