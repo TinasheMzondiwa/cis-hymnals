@@ -26598,6 +26598,15 @@
         "title": "Toi, ne prends rien",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Toi, ne prends rien pour le voyage,",
+                    "J'ai tout prévu, ne t'en fais pas,",
+                    "Toi, ne prends rien, mais prends courage,",
+                    "C'est seulement ce qu'il faudra."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -26610,6 +26619,15 @@
                     "Garde la foi, sème la vie,",
                     "Ouvre les yeux, moi, je t'accueille,",
                     "Lève la tête et puis souris."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Toi, ne prends rien pour le voyage,",
+                    "J'ai tout prévu, ne t'en fais pas,",
+                    "Toi, ne prends rien, mais prends courage,",
+                    "C'est seulement ce qu'il faudra."
                 ]
             },
             {
