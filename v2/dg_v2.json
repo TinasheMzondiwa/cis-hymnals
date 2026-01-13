@@ -24685,6 +24685,13 @@
         "title": "Comme brame le cerf",
         "lyrics": [
             {
+                "type": "refrain",
+                "lines": [
+                    "Comme brame le cerf après les courants d'eau, je crie à toi.",
+                    "Je soupire après toi, mon âme a soif du Dieu vivant."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 1,
                 "lines": [
@@ -24692,6 +24699,13 @@
                     "Tu es, Jésus mon seul soutien,",
                     "Je veux unir mon cœur au tien.",
                     "Comme brame le cerf après les courants d'eau, je crie à toi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Comme brame le cerf après les courants d'eau, je crie à toi.",
+                    "Je soupire après toi, mon âme a soif du Dieu vivant."
                 ]
             },
             {
