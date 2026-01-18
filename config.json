@@ -107,7 +107,8 @@
     {
         "key": "sepedi",
         "title": "Kreste Ka Kopelo",
-        "language": "Sepedi"
+        "language": "Sepedi",
+        "refrain_label": "Pušulošo"
     },
     {
         "key": "icibemba",
