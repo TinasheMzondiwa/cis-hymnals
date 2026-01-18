@@ -3,7 +3,7 @@
         "index": "001",
         "number": 1,
         "title": "LETŠA PHALAFALA MOLETI",
-        "english_title": "WATCHMAN, BLOW THE GOSPEL TRUMPET",
+        "title_english": "WATCHMAN, BLOW THE GOSPEL TRUMPET",
         "hymnal_references": "AH 350 CH 613",
         "lyrics": [
             {
@@ -88,7 +88,7 @@
         "index": "002",
         "number": 2,
         "title": "KGOŠI E ETLA",
-        "english_title": "THE COMING KING",
+        "title_english": "THE COMING KING",
         "hymnal_references": "AH 414 CH 546",
         "lyrics": [
             {
@@ -177,7 +177,7 @@
         "index": "003",
         "number": 3,
         "title": "FAHLOGO DI TLO LEBANA",
-        "english_title": "FACE TO FACE",
+        "title_english": "FACE TO FACE",
         "hymnal_references": "AH 319 CH 545",
         "lyrics": [
             {
@@ -262,7 +262,7 @@
         "index": "004",
         "number": 4,
         "title": "O ETLA KA PELE",
-        "english_title": "HE IS COMING",
+        "title_english": "HE IS COMING",
         "hymnal_references": "AH 407 CH 669",
         "lyrics": [
             {
@@ -347,7 +347,7 @@
         "index": "005",
         "number": 5,
         "title": "A GAE KE KGOLE NA?",
-        "english_title": "HOW FAR FROM HOME",
+        "title_english": "HOW FAR FROM HOME",
         "hymnal_references": "AH 414 CH 665",
         "lyrics": [
             {
@@ -412,7 +412,7 @@
         "index": "006",
         "number": 6,
         "title": "HLOKOMELANG BAKGETHWA",
-        "english_title": "WATCH, YE SAINTS",
+        "title_english": "WATCH, YE SAINTS",
         "hymnal_references": "AH 415 CH 549",
         "lyrics": [
             {
@@ -516,7 +516,7 @@
         "index": "007",
         "number": 7,
         "title": "GE A FIHLA",
-        "english_title": "WHEN HE COMETH",
+        "title_english": "WHEN HE COMETH",
         "hymnal_references": "AH 449 CH 418",
         "lyrics": [
             {
@@ -582,7 +582,7 @@
         "index": "008",
         "number": 8,
         "title": "GE BA BITŠWA GODIMO",
-        "english_title": "WHEN THE ROLL IS CALLED UP YONDER",
+        "title_english": "WHEN THE ROLL IS CALLED UP YONDER",
         "hymnal_references": "CS 865",
         "lyrics": [
             {
@@ -660,7 +660,7 @@
         "index": "009",
         "number": 9,
         "title": "EMIŠANG PHALAFALA",
-        "english_title": "LIFT UP THE TRUMPET",
+        "title_english": "LIFT UP THE TRUMPET",
         "hymnal_references": "CH 541",
         "lyrics": [
             {
@@ -759,7 +759,7 @@
         "index": "010",
         "number": 10,
         "title": "RE TLO PHUTHEGA NOKENG",
-        "english_title": "SHALL WE GATHER AT THE RIVER",
+        "title_english": "SHALL WE GATHER AT THE RIVER",
         "hymnal_references": "AH 430 CH 555",
         "lyrics": [
             {
@@ -844,7 +844,7 @@
         "index": "011",
         "number": 11,
         "title": "KE TLO LATELA M'PHOLOŠI",
-        "english_title": "I WILL FOLLOW THEE MY SAVIOUR",
+        "title_english": "I WILL FOLLOW THEE MY SAVIOUR",
         "hymnal_references": "AH 282 CH 266",
         "lyrics": [
             {
@@ -948,7 +948,7 @@
         "index": "012",
         "number": 12,
         "title": "SEDIBA SE GONA.",
-        "english_title": "THERE IS A FOUNTAIN",
+        "title_english": "THERE IS A FOUNTAIN",
         "hymnal_references": "AH 135 CH 163",
         "lyrics": [
             {
@@ -1041,7 +1041,7 @@
         "index": "013",
         "number": 13,
         "title": "MORENA KE NYAKA GO HLWEKA",
-        "english_title": "LORD JESUS, I LONG TO BE PERFECTLY WHOLE",
+        "title_english": "LORD JESUS, I LONG TO BE PERFECTLY WHOLE",
         "hymnal_references": "AH 200 CH 592",
         "lyrics": [
             {
@@ -1118,7 +1118,7 @@
         "index": "014",
         "number": 14,
         "title": "AH EKWA DIPENI DI E WA",
-        "english_title": "HEAR THE PENNIES DROPPING",
+        "title_english": "HEAR THE PENNIES DROPPING",
         "hymnal_references": "CS 573",
         "lyrics": [
             {
@@ -1207,7 +1207,7 @@
         "index": "015",
         "number": 15,
         "title": "E JESO O WA NTHATA",
-        "english_title": "Ee Jeso a nthata,",
+        "title_english": "Ee Jeso a nthata,",
         "hymnal_references": "AH 455  CS 283",
         "lyrics": [
             {
@@ -1292,7 +1292,7 @@
         "index": "016",
         "number": 16,
         "title": "KE HLAPILE DIATLA",
-        "english_title": "I WASHED MY HANDS",
+        "title_english": "I WASHED MY HANDS",
         "hymnal_references": "AH 459 CS 569",
         "lyrics": [
             {
@@ -1355,7 +1355,7 @@
         "index": "017",
         "number": 17,
         "title": "RE THABA LERATONG",
-        "english_title": "IT'S LOVE THAT MAKES US HAPPY",
+        "title_english": "IT'S LOVE THAT MAKES US HAPPY",
         "hymnal_references": "AH 454 CS 567",
         "lyrics": [
             {
@@ -1427,7 +1427,7 @@
         "index": "018",
         "number": 18,
         "title": "TŠWELANG PELE BAKRESTE",
-        "english_title": "ONWARDS CHRISTIAN SOLDIERS",
+        "title_english": "ONWARDS CHRISTIAN SOLDIERS",
         "hymnal_references": "AH 370 CH 360",
         "lyrics": [
             {
@@ -1522,7 +1522,7 @@
         "index": "019",
         "number": 19,
         "title": "IHLOKOMELE MOYA WA KA",
-        "english_title": "MY SOUL BE ON THY GUARD",
+        "title_english": "MY SOUL BE ON THY GUARD",
         "hymnal_references": "CH 358",
         "lyrics": [
             {
@@ -1561,7 +1561,7 @@
         "index": "020",
         "number": 20,
         "title": "TSOGA KGOTHALA",
-        "english_title": "AWAKE, MY SOUL",
+        "title_english": "AWAKE, MY SOUL",
         "hymnal_references": "AH 323 CH 355",
         "lyrics": [
             {
@@ -1610,7 +1610,7 @@
         "index": "021",
         "number": 21,
         "title": "KE ETLA SEFAPANONG.",
-        "english_title": "I AM COMING TO THE CROSS",
+        "title_english": "I AM COMING TO THE CROSS",
         "hymnal_references": "AH 184 CH 600",
         "lyrics": [
             {
@@ -1714,7 +1714,7 @@
         "index": "022",
         "number": 22,
         "title": "MORENA KEA KWA",
-        "english_title": "LORD I HEAR",
+        "title_english": "LORD I HEAR",
         "hymnal_references": "AH 151 CH 208",
         "lyrics": [
             {
@@ -1791,7 +1791,7 @@
         "index": "023",
         "number": 23,
         "title": "NTLATŠE GONA BJALE.",
-        "english_title": "HOVER O'ER ME, HOLY SPIRIT",
+        "title_english": "HOVER O'ER ME, HOLY SPIRIT",
         "hymnal_references": "AH 152 CH 212",
         "lyrics": [
             {
@@ -1876,7 +1876,7 @@
         "index": "024",
         "number": 24,
         "title": "KE GO HLOKA NAKO TŠOHLE",
-        "english_title": "I NEED THEE EVERY HOUR",
+        "title_english": "I NEED THEE EVERY HOUR",
         "hymnal_references": "AH 222 CH 258",
         "lyrics": [
             {
@@ -1980,7 +1980,7 @@
         "index": "025",
         "number": 25,
         "title": "KE NEELA TŠOHLE",
-        "english_title": "ALL TO JESUS I SURRENDER",
+        "title_english": "ALL TO JESUS I SURRENDER",
         "hymnal_references": "AH 190 CH 573",
         "lyrics": [
             {
@@ -2065,7 +2065,7 @@
         "index": "026",
         "number": 26,
         "title": "BJALO KA GE KE LE",
-        "english_title": "JUST AS I AM",
+        "title_english": "JUST AS I AM",
         "hymnal_references": "AH 191 CH 222",
         "lyrics": [
             {
@@ -2134,7 +2134,7 @@
         "index": "027",
         "number": 27,
         "title": "RE TSOŠOLOŠE",
-        "english_title": "WE PRAISE THEE O GOD",
+        "title_english": "WE PRAISE THEE O GOD",
         "hymnal_references": "AH 157 CS 396",
         "lyrics": [
             {
@@ -2238,7 +2238,7 @@
         "index": "028",
         "number": 28,
         "title": "TŠEA NAKO GO KGETHWAFALA",
-        "english_title": "TAKE TIME TO BE HOLY",
+        "title_english": "TAKE TIME TO BE HOLY",
         "hymnal_references": "AH 276 CH 603",
         "lyrics": [
             {
@@ -2287,7 +2287,7 @@
         "index": "029",
         "number": 29,
         "title": "MPABALELE LE NNA",
-        "english_title": "ABIDE WITH ME",
+        "title_english": "ABIDE WITH ME",
         "hymnal_references": "AH 40 CH 50",
         "lyrics": [
             {
@@ -2346,7 +2346,7 @@
         "index": "030",
         "number": 30,
         "title": "TŠATŠI LE A PHIRIMA",
-        "english_title": "DAY IS DYING IN THE WEST",
+        "title_english": "DAY IS DYING IN THE WEST",
         "hymnal_references": "AH 41 CH 51",
         "lyrics": [
             {
@@ -2432,7 +2432,7 @@
         "index": "031",
         "number": 31,
         "title": "TŠATŠI LA MOYA WA KA.",
-        "english_title": "SUN OF MY SOUL",
+        "title_english": "SUN OF MY SOUL",
         "hymnal_references": "AH 35 CH 321",
         "lyrics": [
             {
@@ -2481,7 +2481,7 @@
         "index": "032",
         "number": 32,
         "title": "MORENA SWIKA LA RENA",
-        "english_title": "THE LORD'S OUR ROCK",
+        "title_english": "THE LORD'S OUR ROCK",
         "hymnal_references": "AH 211 CS 505",
         "lyrics": [
             {
@@ -2566,7 +2566,7 @@
         "index": "033",
         "number": 33,
         "title": "O NKETAPELE",
-        "english_title": "HE LEADETH ME",
+        "title_english": "HE LEADETH ME",
         "hymnal_references": "AH 292 CH 393",
         "lyrics": [
             {
@@ -2651,7 +2651,7 @@
         "index": "034",
         "number": 34,
         "title": "GE KHUTŠO E BJA KA MOTSWEDI",
-        "english_title": "WHEN PEACE LIKE A RIVER",
+        "title_english": "WHEN PEACE LIKE A RIVER",
         "hymnal_references": "AH 250 CH 313",
         "lyrics": [
             {
@@ -2728,7 +2728,7 @@
         "index": "035",
         "number": 35,
         "title": "A KWANO",
-        "english_title": "A kwano 'e kgolo e tletšeng thabo,",
+        "title_english": "A kwano 'e kgolo e tletšeng thabo,",
         "hymnal_references": "AH 261 CH 611",
         "lyrics": [
             {
@@ -2795,7 +2795,7 @@
         "index": "036",
         "number": 36,
         "title": "TUMELO YA KA E LEBELETŠE WENA",
-        "english_title": "MY FAITH LOOKS UP TO THEE.",
+        "title_english": "MY FAITH LOOKS UP TO THEE.",
         "hymnal_references": "AH 204 CH 246",
         "lyrics": [
             {
@@ -2834,7 +2834,7 @@
         "index": "037",
         "number": 37,
         "title": "KGAUSWI LE MODIMO",
-        "english_title": "NEARER MY GOD, TO THEE",
+        "title_english": "NEARER MY GOD, TO THEE",
         "hymnal_references": "AH 312 CH 382",
         "lyrics": [
             {
@@ -2893,7 +2893,7 @@
         "index": "038",
         "number": 38,
         "title": "TSEMELELANG LE EME",
-        "english_title": "FIRMLY STAND FOR GOD",
+        "title_english": "FIRMLY STAND FOR GOD",
         "hymnal_references": "CS 509",
         "lyrics": [
             {
@@ -2965,7 +2965,7 @@
         "index": "039",
         "number": 39,
         "title": "TSHEPO YA KA E TIILEGO.",
-        "english_title": "АН 212 CH 581",
+        "title_english": "АН 212 CH 581",
         "hymnal_references": "CH 581",
         "lyrics": [
             {
@@ -3046,7 +3046,7 @@
         "index": "040",
         "number": 40,
         "title": "TSHEPA O THEETSE",
-        "english_title": "АН 223 CH 582",
+        "title_english": "АН 223 CH 582",
         "hymnal_references": "CH 582",
         "lyrics": [
             {
@@ -3145,7 +3145,7 @@
         "index": "041",
         "number": 41,
         "title": "MODIMO A BE LE LENA",
-        "english_title": "GOD BE WITH YOU",
+        "title_english": "GOD BE WITH YOU",
         "hymnal_references": "AH 479 CH 35",
         "lyrics": [
             {
@@ -3230,7 +3230,7 @@
         "index": "042",
         "number": 42,
         "title": "LE BAGWERA RE KA SE SA LAELANA.",
-        "english_title": "WITH FRIENDS ON EARTH",
+        "title_english": "WITH FRIENDS ON EARTH",
         "hymnal_references": "CS 860",
         "lyrics": [
             {
@@ -3296,7 +3296,7 @@
         "index": "043",
         "number": 43,
         "title": "ROBALA TSHEPONG GO JESO.",
-        "english_title": "АН 477 CS 489",
+        "title_english": "АН 477 CS 489",
         "hymnal_references": "CS 489",
         "lyrics": [
             {
@@ -3345,7 +3345,7 @@
         "index": "044",
         "number": 44,
         "title": "GE MOŠOMO WA KA O FEDILE",
-        "english_title": "WHEN MY LIFE-WORK IS ENDED",
+        "title_english": "WHEN MY LIFE-WORK IS ENDED",
         "hymnal_references": "CS 849",
         "lyrics": [
             {
@@ -3421,7 +3421,7 @@
         "index": "045",
         "number": 45,
         "title": "MPHE BEBELE",
-        "english_title": "GIVE ME THE BIBLE",
+        "title_english": "GIVE ME THE BIBLE",
         "hymnal_references": "AH 164 CH 655",
         "lyrics": [
             {
@@ -3506,7 +3506,7 @@
         "index": "046",
         "number": 46,
         "title": "BUŠA O NKOPELELE",
-        "english_title": "Ke bone botse bja wona, Mantšu a bophelo",
+        "title_english": "Ke bone botse bja wona, Mantšu a bophelo",
         "hymnal_references": "Buša o nkopelele, Mantšu a bophelo",
         "lyrics": [
             {
@@ -3559,7 +3559,7 @@
         "index": "047",
         "number": 47,
         "title": "LEBOPONG LA NOKA YA JORDANE",
-        "english_title": "АН 419 CH 553",
+        "title_english": "АН 419 CH 553",
         "hymnal_references": "CH 553",
         "lyrics": [
             {
@@ -3648,7 +3648,7 @@
         "index": "048",
         "number": 48,
         "title": "GO TLA LETHABO BOFELONG",
-        "english_title": "O THERE'LL BE JOY",
+        "title_english": "O THERE'LL BE JOY",
         "hymnal_references": "CS 863",
         "lyrics": [
             {
@@ -3714,7 +3714,7 @@
         "index": "049",
         "number": 49,
         "title": "KAKANYO E TEE E BOTSE",
-        "english_title": "АН 324 CH 352",
+        "title_english": "АН 324 CH 352",
         "hymnal_references": "CH 352",
         "lyrics": [
             {
@@ -3780,7 +3780,7 @@
         "index": "050",
         "number": 50,
         "title": "GO NA LE LEFASE LE LEBOTSE",
-        "english_title": "АН 432 CH 551",
+        "title_english": "АН 432 CH 551",
         "hymnal_references": "CH 551",
         "lyrics": [
             {
@@ -3846,7 +3846,7 @@
         "index": "051",
         "number": 51,
         "title": "RE KOLOBETŠE",
-        "english_title": "АН 155 CH 525",
+        "title_english": "АН 155 CH 525",
         "hymnal_references": "CH 525",
         "lyrics": [
             {
@@ -3915,7 +3915,7 @@
         "index": "052",
         "number": 52,
         "title": "E TLA SEDIBA SA MAHLATSE",
-        "english_title": "COME FOUNTAIN OF JOY",
+        "title_english": "COME FOUNTAIN OF JOY",
         "hymnal_references": "AH 197 CH 291",
         "lyrics": [
             {
@@ -3966,7 +3966,7 @@
         "index": "053",
         "number": 53,
         "title": "MOYA O MOKGETHWA",
-        "english_title": "АН 148 CH 211",
+        "title_english": "АН 148 CH 211",
         "hymnal_references": "CH 211",
         "lyrics": [
             {
@@ -4017,7 +4017,7 @@
         "index": "054",
         "number": 54,
         "title": "SE SE TEE NNA WA MORENA",
-        "english_title": "АН 243 CH 634",
+        "title_english": "АН 243 CH 634",
         "hymnal_references": "CH 634",
         "lyrics": [
             {
@@ -4107,7 +4107,7 @@
         "index": "055",
         "number": 55,
         "title": "NA O HLAPILE MADING?",
-        "english_title": "HAVE YOU BEEN TO JESUS?",
+        "title_english": "HAVE YOU BEEN TO JESUS?",
         "hymnal_references": "CS 88",
         "lyrics": [
             {
@@ -4192,7 +4192,7 @@
         "index": "056",
         "number": 56,
         "title": "KE LELERILE MORENA",
-        "english_title": "АН 186 CH 560",
+        "title_english": "АН 186 CH 560",
         "hymnal_references": "CH 560",
         "lyrics": [
             {
@@ -4276,7 +4276,7 @@
         "index": "057",
         "number": 57,
         "title": "EO A KWAG",
-        "english_title": "WHOSOEVER HEARETH",
+        "title_english": "WHOSOEVER HEARETH",
         "hymnal_references": "AH 179 CH 571",
         "lyrics": [
             {
@@ -4342,7 +4342,7 @@
         "index": "058",
         "number": 58,
         "title": "BOHLE TUMIŠANG MATLA",
-        "english_title": "ALL HAIL THE POWER",
+        "title_english": "ALL HAIL THE POWER",
         "hymnal_references": "AH 126",
         "lyrics": [
             {
@@ -4399,7 +4399,7 @@
         "index": "059",
         "number": 59,
         "title": "JESO MORATWA KE NNA",
-        "english_title": "JESUS LOVER OF MY SOUL",
+        "title_english": "JESUS LOVER OF MY SOUL",
         "hymnal_references": "AH 116 CH 401",
         "lyrics": [
             {
@@ -4448,7 +4448,7 @@
         "index": "060",
         "number": 60,
         "title": "JESO THABO YA PELO",
-        "english_title": "JESUS THOU JOY OF LOVING HEARTS",
+        "title_english": "JESUS THOU JOY OF LOVING HEARTS",
         "hymnal_references": "AH 128 CH 154",
         "lyrics": [
             {
@@ -4497,7 +4497,7 @@
         "index": "061",
         "number": 61,
         "title": "SE SENGWE KA JESO",
-        "english_title": "MORE ABOUT JESUS",
+        "title_english": "MORE ABOUT JESUS",
         "hymnal_references": "AH 109 CH 154",
         "lyrics": [
             {
@@ -4582,7 +4582,7 @@
         "index": "062",
         "number": 62,
         "title": "JESO KEA GO RATA",
-        "english_title": "MY JESUS I LOVE THEE",
+        "title_english": "MY JESUS I LOVE THEE",
         "hymnal_references": "AH 244 CH 276",
         "lyrics": [
             {
@@ -4631,7 +4631,7 @@
         "index": "063",
         "number": 63,
         "title": "KE ENG SE KA NHLATSWAGO SEBE?",
-        "english_title": "Ke fela madi a Jeso",
+        "title_english": "Ke fela madi a Jeso",
         "hymnal_references": "Ke eng se ka nhlatšwago sebe?",
         "lyrics": [
             {
@@ -4732,7 +4732,7 @@
         "index": "064",
         "number": 64,
         "title": "BOTŠA JESO",
-        "english_title": "ARE YOU WEARY?",
+        "title_english": "ARE YOU WEARY?",
         "hymnal_references": "CS 515",
         "lyrics": [
             {
@@ -4817,7 +4817,7 @@
         "index": "065",
         "number": 65,
         "title": "GO BOTSE GO TSHEPA JESO",
-        "english_title": "АН 201 CH 588",
+        "title_english": "АН 201 CH 588",
         "hymnal_references": "CH 588",
         "lyrics": [
             {
@@ -4902,7 +4902,7 @@
         "index": "066",
         "number": 66,
         "title": "LE MONATE LETŠATŠI",
-        "english_title": "O HAPPY DAY!",
+        "title_english": "O HAPPY DAY!",
         "hymnal_references": "AH 262 CH 310",
         "lyrics": [
             {
@@ -4974,7 +4974,7 @@
         "index": "067",
         "number": 67,
         "title": "TLANG BAO RE RATAGO MORENA",
-        "english_title": "АН 435 CH 640",
+        "title_english": "АН 435 CH 640",
         "hymnal_references": "CH 640",
         "lyrics": [
             {
@@ -5067,7 +5067,7 @@
         "index": "068",
         "number": 68,
         "title": "KE REKOLOTŠWE",
-        "english_title": "АH 195 CH 635",
+        "title_english": "АH 195 CH 635",
         "hymnal_references": "CH 635",
         "lyrics": [
             {
@@ -5171,7 +5171,7 @@
         "index": "069",
         "number": 69,
         "title": "RE TLO IKHUTŠA SEDIBENG",
-        "english_title": "WILL TARRY BY THE LIVING WATERS.",
+        "title_english": "WILL TARRY BY THE LIVING WATERS.",
         "hymnal_references": "AH 149 CS 206",
         "lyrics": [
             {
@@ -5237,7 +5237,7 @@
         "index": "070",
         "number": 70,
         "title": "GE JESO A PUTHA DITŠHABA",
-        "english_title": "АН 396 CH 538",
+        "title_english": "АН 396 CH 538",
         "hymnal_references": "CH 538",
         "lyrics": [
             {
@@ -5341,7 +5341,7 @@
         "index": "071",
         "number": 71,
         "title": "NA KE NGWADILWE?",
-        "english_title": "IS MY NAME WRITTEN THERE?",
+        "title_english": "IS MY NAME WRITTEN THERE?",
         "hymnal_references": "AH 281 CH 617",
         "lyrics": [
             {
@@ -5419,7 +5419,7 @@
         "index": "072",
         "number": 72,
         "title": "KAHLOLO E BEILWE",
-        "english_title": "THE JUDGEMENT HAS SET",
+        "title_english": "THE JUDGEMENT HAS SET",
         "hymnal_references": "AH 378 CH 482",
         "lyrics": [
             {
@@ -5485,7 +5485,7 @@
         "index": "073",
         "number": 73,
         "title": "RE MEMILWE MONYANYENG KGOŠING",
-        "english_title": "CALLED TO THE FEAST",
+        "title_english": "CALLED TO THE FEAST",
         "hymnal_references": "AH 395 CH 537",
         "lyrics": [
             {
@@ -5608,7 +5608,7 @@
         "index": "074",
         "number": 74,
         "title": "RE RWELE DINGATA",
-        "english_title": "SOWING IN THE MORNING",
+        "title_english": "SOWING IN THE MORNING",
         "hymnal_references": "AH 363 CH 621",
         "lyrics": [
             {
@@ -5674,7 +5674,7 @@
         "index": "075",
         "number": 75,
         "title": "E-KWA LENTŠU LA MODIŠI",
-        "english_title": "HARK! 'T IS THE SHEPHERD'S VOICE",
+        "title_english": "HARK! 'T IS THE SHEPHERD'S VOICE",
         "hymnal_references": "AH 347 CH 625",
         "lyrics": [
             {
@@ -5740,7 +5740,7 @@
         "index": "076",
         "number": 76,
         "title": "PHOLOŠA BA BA HWAGO",
-        "english_title": "АН 348 CH 623",
+        "title_english": "АН 348 CH 623",
         "hymnal_references": "CH 623",
         "lyrics": [
             {
@@ -5825,7 +5825,7 @@
         "index": "077",
         "number": 77,
         "title": "KE RATA GO BOLELA DITSHWANTŠHETŠO",
-        "english_title": "I LOVE TO TELL THE STORY",
+        "title_english": "I LOVE TO TELL THE STORY",
         "hymnal_references": "AH 95",
         "lyrics": [
             {
@@ -5926,7 +5926,7 @@
         "index": "078",
         "number": 78,
         "title": "NYAKANG BA LAHLEGI",
-        "english_title": "SEEKING THE LOST",
+        "title_english": "SEEKING THE LOST",
         "hymnal_references": "CS 532",
         "lyrics": [
             {
@@ -6004,7 +6004,7 @@
         "index": "079",
         "number": 79,
         "title": "PITŠO YA BABUNI",
-        "english_title": "АН 338 CH 448",
+        "title_english": "АН 338 CH 448",
         "hymnal_references": "CH 448",
         "lyrics": [
             {
@@ -6070,7 +6070,7 @@
         "index": "080",
         "number": 80,
         "title": "MOŠOMONG",
-        "english_title": "TO THE WORK",
+        "title_english": "TO THE WORK",
         "hymnal_references": "CS 576",
         "lyrics": [
             {
@@ -6151,7 +6151,7 @@
         "index": "081",
         "number": 81,
         "title": "ŠOMA BOŠEGO BO ETLA",
-        "english_title": "АН 362 CH 446",
+        "title_english": "АН 362 CH 446",
         "hymnal_references": "CH 446",
         "lyrics": [
             {
@@ -6202,7 +6202,7 @@
         "index": "082",
         "number": 82,
         "title": "MORENA MO MESONG",
-        "english_title": "LORD, IN THE MORNING",
+        "title_english": "LORD, IN THE MORNING",
         "hymnal_references": "AH 31 CH 39",
         "lyrics": [
             {
@@ -6241,7 +6241,7 @@
         "index": "083",
         "number": 83,
         "title": "GO OPELA KA MALEME",
-        "english_title": "АН 139 CH 155",
+        "title_english": "АН 139 CH 155",
         "hymnal_references": "CH 155",
         "lyrics": [
             {
@@ -6313,7 +6313,7 @@
         "index": "084",
         "number": 84,
         "title": "TUMIŠANG MODIMO",
-        "english_title": "АН 13 CH 683",
+        "title_english": "АН 13 CH 683",
         "hymnal_references": "CH 683",
         "lyrics": [
             {
@@ -6374,7 +6374,7 @@
         "index": "085",
         "number": 85,
         "title": "KE RETA MATLA 'MODIMO",
-        "english_title": "I SING THE MIGHTLY POWER",
+        "title_english": "I SING THE MIGHTLY POWER",
         "hymnal_references": "AH 67 CH 93",
         "lyrics": [
             {
@@ -6425,7 +6425,7 @@
         "index": "086",
         "number": 86,
         "title": "KHUNAMELANG MORENA",
-        "english_title": "АН 51 CH 75",
+        "title_english": "АН 51 CH 75",
         "hymnal_references": "CH 75",
         "lyrics": [
             {
@@ -6474,7 +6474,7 @@
         "index": "087",
         "number": 87,
         "title": "TATE RE TLA GO WENA",
-        "english_title": "АН 244 CH 599",
+        "title_english": "АН 244 CH 599",
         "hymnal_references": "CH 599",
         "lyrics": [
             {
@@ -6534,7 +6534,7 @@
         "index": "088",
         "number": 88,
         "title": "SE MPHETE",
-        "english_title": "PASS ME NOT!",
+        "title_english": "PASS ME NOT!",
         "hymnal_references": "AH 187 CH 559",
         "lyrics": [
             {
@@ -6603,7 +6603,7 @@
         "index": "089",
         "number": 89,
         "title": "BOTSE NAKO YA THAPELO",
-        "english_title": "SWEET HOUR OF PRAYER",
+        "title_english": "SWEET HOUR OF PRAYER",
         "hymnal_references": "AH 267 CH 316",
         "lyrics": [
             {
@@ -6654,7 +6654,7 @@
         "index": "090",
         "number": 90,
         "title": "MOŠOMO WA MATŠATŠI A SELELAGO",
-        "english_title": "ANOTHER SIX DAY'S WORK",
+        "title_english": "ANOTHER SIX DAY'S WORK",
         "hymnal_references": "AH 384 CH 456",
         "lyrics": [
             {
@@ -6704,7 +6704,7 @@
         "index": "091",
         "number": 91,
         "title": "LETANG LE RAPELE",
-        "english_title": "Leta o se fenywe, Rapela Mokreste",
+        "title_english": "Leta o se fenywe, Rapela Mokreste",
         "hymnal_references": "Leta ga go nako, O lebelele lehono",
         "lyrics": [
             {
@@ -6770,7 +6770,7 @@
         "index": "092",
         "number": 92,
         "title": "O SE LEBALE SABATA",
-        "english_title": "АН 380 CH 653",
+        "title_english": "АН 380 CH 653",
         "hymnal_references": "CH 653",
         "lyrics": [
             {
@@ -6830,7 +6830,7 @@
         "index": "093",
         "number": 93,
         "title": "A TŠATŠI LA BOIKHUTŠO LE LETHABO",
-        "english_title": "АН 389 CH 463",
+        "title_english": "АН 389 CH 463",
         "hymnal_references": "CH 463",
         "lyrics": [
             {
@@ -6869,7 +6869,7 @@
         "index": "094",
         "number": 94,
         "title": "AH 294 SEKOLO SA SABATA SE MONATE",
-        "english_title": "SWEET SABBATH SCHOOL",
+        "title_english": "SWEET SABBATH SCHOOL",
         "hymnal_references": "AH 294",
         "lyrics": [
             {
@@ -6935,7 +6935,7 @@
         "index": "095",
         "number": 95,
         "title": "RE BOLOKEGILE BEKENG E NNGWE",
-        "english_title": "АН 386 CH 462",
+        "title_english": "АН 386 CH 462",
         "hymnal_references": "CH 462",
         "lyrics": [
             {
@@ -6984,7 +6984,7 @@
         "index": "096",
         "number": 96,
         "title": "THAKGALELA TŠATŠI LA GO KHUTŠA",
-        "english_title": "WELCOME, WELCOME, DAY OF REST",
+        "title_english": "WELCOME, WELCOME, DAY OF REST",
         "hymnal_references": "AH 383 CH 459",
         "lyrics": [
             {
@@ -7023,7 +7023,7 @@
         "index": "097",
         "number": 97,
         "title": "RE KWELE",
-        "english_title": "АН 196 CH 637",
+        "title_english": "АН 196 CH 637",
         "hymnal_references": "CH 637",
         "lyrics": [
             {
@@ -7088,7 +7088,7 @@
         "index": "098",
         "number": 98,
         "title": "MOPHOLOŠI O NA LE NNA",
-        "english_title": "I MUST HAVE THE SAVIOUR WITH ME",
+        "title_english": "I MUST HAVE THE SAVIOUR WITH ME",
         "hymnal_references": "AH 124 CS 541",
         "lyrics": [
             {
@@ -7172,7 +7172,7 @@
         "index": "099",
         "number": 99,
         "title": "GE KE HLATLOBA SEFAPANO",
-        "english_title": "АН 89/90 CH 120",
+        "title_english": "АН 89/90 CH 120",
         "hymnal_references": "CH 120",
         "lyrics": [
             {
@@ -7221,7 +7221,7 @@
         "index": "100",
         "number": 100,
         "title": "RE NA LE MOGWERA GO JESO",
-        "english_title": "АН 271 CH 320",
+        "title_english": "АН 271 CH 320",
         "hymnal_references": "CH 320",
         "lyrics": [
             {
@@ -7272,7 +7272,7 @@
         "index": "101",
         "number": 101,
         "title": "JESO OA BITŠA",
-        "english_title": "JESUS IS CALLING",
+        "title_english": "JESUS IS CALLING",
         "hymnal_references": "AH 186 CH 569",
         "lyrics": [
             {
@@ -7353,7 +7353,7 @@
         "index": "102",
         "number": 102,
         "title": "MMULELE A TSENE",
-        "english_title": "LET HIM IN",
+        "title_english": "LET HIM IN",
         "hymnal_references": "CH 566",
         "lyrics": [
             {
@@ -7418,7 +7418,7 @@
         "index": "103",
         "number": 103,
         "title": "O SWANETŠE GO TSWALWA LESWA",
-        "english_title": "Go botšiša ka tsela ya polokego",
+        "title_english": "Go botšiša ka tsela ya polokego",
         "hymnal_references": "Mmuši o tlile go Jeso bošego",
         "lyrics": [
             {
@@ -7478,7 +7478,7 @@
         "index": "104",
         "number": 104,
         "title": "ETLA MOPHOLOŠI E MOGOLO ETLA",
-        "english_title": "Tla M'phološi, tla go nna",
+        "title_english": "Tla M'phološi, tla go nna",
         "hymnal_references": "Ekwa sello Morena wa ka",
         "lyrics": [
             {
@@ -7560,7 +7560,7 @@
         "index": "105",
         "number": 105,
         "title": "A KA PHOLOŠA",
-        "english_title": "Wena tokologo yeo",
+        "title_english": "Wena tokologo yeo",
         "hymnal_references": "O goeletše ka kudu",
         "lyrics": [
             {
@@ -7633,7 +7633,7 @@
         "index": "106",
         "number": 106,
         "title": "RE TLO AGA LESWIKENG",
-        "english_title": "BUILD ON THE ROCK",
+        "title_english": "BUILD ON THE ROCK",
         "hymnal_references": "AH 213 CH 579",
         "lyrics": [
             {
@@ -7699,7 +7699,7 @@
         "index": "107",
         "number": 107,
         "title": "MPOTŠE TABA KA JESO",
-        "english_title": "TELL ME THE STORY OF JESUS.",
+        "title_english": "TELL ME THE STORY OF JESUS.",
         "hymnal_references": "AH 82 CH 534",
         "lyrics": [
             {
@@ -7777,7 +7777,7 @@
         "index": "108",
         "number": 108,
         "title": "LERATONG KA BONOLO O A BITŠA",
-        "english_title": "LOVINGLY, TENDERLY CALLING",
+        "title_english": "LOVINGLY, TENDERLY CALLING",
         "hymnal_references": "AH 168 CH 572",
         "lyrics": [
             {
@@ -7843,7 +7843,7 @@
         "index": "109",
         "number": 109,
         "title": "O LEKANYEDITŠWE 'MME O BOFEFO",
-        "english_title": "Lekanyetšago bofelong",
+        "title_english": "Lekanyetšago bofelong",
         "hymnal_references": "Mohlang moahlodi a re",
         "lyrics": [
             {
@@ -7906,7 +7906,7 @@
         "index": "110",
         "number": 110,
         "title": "BA ŠEGOFADITŠWE BA DIRAGO",
-        "english_title": "Ke mantšu a bophelo",
+        "title_english": "Ke mantšu a bophelo",
         "hymnal_references": "Ekwa mantšu a M'phološi",
         "lyrics": [
             {
@@ -7969,7 +7969,7 @@
         "index": "111",
         "number": 111,
         "title": "AOWA GA GO LE O TEE.",
-        "english_title": "Le Jeso, Le o tee ga gona",
+        "title_english": "Le Jeso, Le o tee ga gona",
         "hymnal_references": "Ga go mogwer 'a swanang",
         "lyrics": [
             {
@@ -8070,7 +8070,7 @@
         "index": "112",
         "number": 112,
         "title": "SEFAPANONG BOPHELO BO GONA.",
-        "english_title": "Jes'o rile ke lebelela",
+        "title_english": "Jes'o rile ke lebelela",
         "hymnal_references": "Go bophelo go leba 'fapanong",
         "lyrics": [
             {
@@ -8133,7 +8133,7 @@
         "index": "113",
         "number": 113,
         "title": "JESO O A BITŠA",
-        "english_title": "АН 169 CH 563",
+        "title_english": "АН 169 CH 563",
         "hymnal_references": "CH 563",
         "lyrics": [
             {
@@ -8218,7 +8218,7 @@
         "index": "114",
         "number": 114,
         "title": "SEFERO SE BULETŠWE NNA",
-        "english_title": "THE GATE AJAR FOR ME",
+        "title_english": "THE GATE AJAR FOR ME",
         "hymnal_references": "AH 177 CH 561",
         "lyrics": [
             {
@@ -8303,7 +8303,7 @@
         "index": "115",
         "number": 115,
         "title": "NGAKA E KGOLO",
-        "english_title": "THE GREAT PHYSICIAN",
+        "title_english": "THE GREAT PHYSICIAN",
         "hymnal_references": "AH 118 CH 530",
         "lyrics": [
             {
@@ -8407,7 +8407,7 @@
         "index": "116",
         "number": 116,
         "title": "GA GO SELO SA JESO",
-        "english_title": "Jeso g'a na bodulo?",
+        "title_english": "Jeso g'a na bodulo?",
         "hymnal_references": "O tletše mathata (le) Menate",
         "lyrics": [
             {
@@ -8469,7 +8469,7 @@
         "index": "117",
         "number": 117,
         "title": "KE TLA MORENENG",
-        "english_title": "I AM COMING LORD",
+        "title_english": "I AM COMING LORD",
         "hymnal_references": "AH 173 CH 224",
         "lyrics": [
             {
@@ -8554,7 +8554,7 @@
         "index": "118",
         "number": 118,
         "title": "JESO O LEFILE",
-        "english_title": "АН 119 CS 107",
+        "title_english": "АН 119 CS 107",
         "hymnal_references": "CS 107",
         "lyrics": [
             {
@@ -8639,7 +8639,7 @@
         "index": "119",
         "number": 119,
         "title": "SEDIBA SE HLATSWANG",
-        "english_title": "THE CLEANSING WAVE",
+        "title_english": "THE CLEANSING WAVE",
         "hymnal_references": "AH 375 CH 598",
         "lyrics": [
             {
@@ -8728,7 +8728,7 @@
         "index": "120",
         "number": 120,
         "title": "KE A DUMELA",
-        "english_title": "I DO BELIEVE",
+        "title_english": "I DO BELIEVE",
         "hymnal_references": "AH 202 CH 670",
         "lyrics": [
             {
@@ -8794,7 +8794,7 @@
         "index": "121",
         "number": 121,
         "title": "KE OPELA KA RATO LA JESO",
-        "english_title": "I WILL SING OF JESUS LOVE",
+        "title_english": "I WILL SING OF JESUS LOVE",
         "hymnal_references": "AH 111 CH 529",
         "lyrics": [
             {
@@ -8879,7 +8879,7 @@
         "index": "122",
         "number": 122,
         "title": "KGAUSWI LE PELO",
-        "english_title": "АН 313 CH 390",
+        "title_english": "АН 313 CH 390",
         "hymnal_references": "CH 390",
         "lyrics": [
             {
@@ -8932,7 +8932,7 @@
         "index": "123",
         "number": 123,
         "title": "LEINA LE LE HALALELANG",
-        "english_title": "THE HOLIEST NAME",
+        "title_english": "THE HOLIEST NAME",
         "hymnal_references": "CS 217",
         "lyrics": [
             {
@@ -8998,7 +8998,7 @@
         "index": "124",
         "number": 124,
         "title": "E SENG NNA KRESTE",
-        "english_title": "АН 231 CH 271",
+        "title_english": "АН 231 CH 271",
         "hymnal_references": "CH 271",
         "lyrics": [
             {
@@ -9047,7 +9047,7 @@
         "index": "125",
         "number": 125,
         "title": "LESEDI PELONG",
-        "english_title": "SUNLIGHT IN THE HEART",
+        "title_english": "SUNLIGHT IN THE HEART",
         "hymnal_references": "CH 612",
         "lyrics": [
             {
@@ -9125,7 +9125,7 @@
         "index": "126",
         "number": 126,
         "title": "GE KE PHOLOŠITŠWE",
-        "english_title": "АН 194 CH 638",
+        "title_english": "АН 194 CH 638",
         "hymnal_references": "CH 638",
         "lyrics": [
             {
@@ -9214,7 +9214,7 @@
         "index": "127",
         "number": 127,
         "title": "O 'ANTHATA",
-        "english_title": "АН 456 CS 252",
+        "title_english": "АН 456 CS 252",
         "hymnal_references": "CS 252",
         "lyrics": [
             {
@@ -9280,7 +9280,7 @@
         "index": "128",
         "number": 128,
         "title": "NAKO E BOTSE YA THAPELO",
-        "english_title": "BLESSED HOUR OF PRAYER",
+        "title_english": "BLESSED HOUR OF PRAYER",
         "hymnal_references": "CH 324",
         "lyrics": [
             {
@@ -9357,7 +9357,7 @@
         "index": "129",
         "number": 129,
         "title": "JESO ŠEGOFATŠA",
-        "english_title": "АН 272 CH 602",
+        "title_english": "АН 272 CH 602",
         "hymnal_references": "CH 602",
         "lyrics": [
             {
@@ -9417,7 +9417,7 @@
         "index": "130",
         "number": 130,
         "title": "NKGOGELE KGAUSWI",
-        "english_title": "АН 235 CH 594",
+        "title_english": "АН 235 CH 594",
         "hymnal_references": "CH 594",
         "lyrics": [
             {
@@ -9502,7 +9502,7 @@
         "index": "131",
         "number": 131,
         "title": "NKE KE TSHWANE LE JESO",
-        "english_title": "MORE LIKE JESUS",
+        "title_english": "MORE LIKE JESUS",
         "hymnal_references": "CS 286",
         "lyrics": [
             {
@@ -9541,7 +9541,7 @@
         "index": "132",
         "number": 132,
         "title": "KGAUSWI LE SEFAPANO",
-        "english_title": "АН 240 CH 595",
+        "title_english": "АН 240 CH 595",
         "hymnal_references": "CH 595",
         "lyrics": [
             {
@@ -9626,7 +9626,7 @@
         "index": "133",
         "number": 133,
         "title": "KE SEPELA LE MODIMO",
-        "english_title": "WALKING WITH GOD",
+        "title_english": "WALKING WITH GOD",
         "hymnal_references": "AH 284 CH 395",
         "lyrics": [
             {
@@ -9671,7 +9671,7 @@
         "index": "134",
         "number": 134,
         "title": "LERATO LE MAKATŠAGO LA JESO",
-        "english_title": "WONDERFUL LOVE OF JESUS",
+        "title_english": "WONDERFUL LOVE OF JESUS",
         "hymnal_references": "AH 123 CH 650",
         "lyrics": [
             {
@@ -9737,7 +9737,7 @@
         "index": "135",
         "number": 135,
         "title": "KE A GO RATA MORENA",
-        "english_title": "I LOVE THEE BETTER, LORD",
+        "title_english": "I LOVE THEE BETTER, LORD",
         "hymnal_references": "CS 301",
         "lyrics": [
             {
@@ -9822,7 +9822,7 @@
         "index": "136",
         "number": 136,
         "title": "KE GOPOLA KHALFARI",
-        "english_title": "I REMEMBER CALVARY",
+        "title_english": "I REMEMBER CALVARY",
         "hymnal_references": "CS 305",
         "lyrics": [
             {
@@ -9888,7 +9888,7 @@
         "index": "137",
         "number": 137,
         "title": "MPHE JESO",
-        "english_title": "GIVE ME JESUS",
+        "title_english": "GIVE ME JESUS",
         "hymnal_references": "CS 315",
         "lyrics": [
             {
@@ -9973,7 +9973,7 @@
         "index": "138",
         "number": 138,
         "title": "BOINEELO BJO BO TSENELETŠEGO",
-        "english_title": "ENTIRE CONSECRATION",
+        "title_english": "ENTIRE CONSECRATION",
         "hymnal_references": "CH 273",
         "lyrics": [
             {
@@ -10096,7 +10096,7 @@
         "index": "139",
         "number": 139,
         "title": "KE HUMANE MOGWERA",
-        "english_title": "I'VE FOUND A FRIEND",
+        "title_english": "I'VE FOUND A FRIEND",
         "hymnal_references": "AH 113 CH 531",
         "lyrics": [
             {
@@ -10146,7 +10146,7 @@
         "index": "140",
         "number": 140,
         "title": "LENTŠU LA JESO",
-        "english_title": "THE VOICE OF JESUS",
+        "title_english": "THE VOICE OF JESUS",
         "hymnal_references": "CH 226",
         "lyrics": [
             {
@@ -10197,7 +10197,7 @@
         "index": "141",
         "number": 141,
         "title": "KE WA GAGO KA NNETE",
-        "english_title": "WHOLLY THINE",
+        "title_english": "WHOLLY THINE",
         "hymnal_references": "CH 597",
         "lyrics": [
             {
@@ -10269,7 +10269,7 @@
         "index": "142",
         "number": 142,
         "title": "GO MONATE BJANG",
-        "english_title": "HOW SWEET",
+        "title_english": "HOW SWEET",
         "hymnal_references": "CH 458",
         "lyrics": [
             {
@@ -10308,7 +10308,7 @@
         "index": "143",
         "number": 143,
         "title": "RE PHATLALATE MORENA",
-        "english_title": "LORD DISMISS US",
+        "title_english": "LORD DISMISS US",
         "hymnal_references": "CH 33",
         "lyrics": [
             {
@@ -10353,7 +10353,7 @@
         "index": "144",
         "number": 144,
         "title": "MOBUNG WA GODIMO",
-        "english_title": "АН 317 CH 631",
+        "title_english": "АН 317 CH 631",
         "hymnal_references": "CH 631",
         "lyrics": [
             {
@@ -10438,7 +10438,7 @@
         "index": "145",
         "number": 145,
         "title": "SE NYAKE SEŠIRO",
-        "english_title": "ASK NOT TO BE EXCUSED",
+        "title_english": "ASK NOT TO BE EXCUSED",
         "hymnal_references": "CS 513",
         "lyrics": [
             {
@@ -10528,7 +10528,7 @@
         "index": "146",
         "number": 146,
         "title": "PHELA KA TENG GA KA",
-        "english_title": "АН 247 CH 279",
+        "title_english": "АН 247 CH 279",
         "hymnal_references": "CH 279",
         "lyrics": [
             {
@@ -10593,7 +10593,7 @@
         "index": "147",
         "number": 147,
         "title": "NKGOGELE KGAUSWI NAGO",
-        "english_title": "DRAW ME CLOSER TO THEE",
+        "title_english": "DRAW ME CLOSER TO THEE",
         "hymnal_references": "AH 314 CH 632",
         "lyrics": [
             {
@@ -10672,7 +10672,7 @@
         "index": "148",
         "number": 148,
         "title": "KAE LE KAE LE JESO",
-        "english_title": "АН 224 CH 589",
+        "title_english": "АН 224 CH 589",
         "hymnal_references": "CH 589",
         "lyrics": [
             {
@@ -10735,7 +10735,7 @@
         "index": "149",
         "number": 149,
         "title": "SEPELA LESEDING",
-        "english_title": "WALK IN THE LIGHT",
+        "title_english": "WALK IN THE LIGHT",
         "hymnal_references": "CS 540",
         "lyrics": [
             {
@@ -10816,7 +10816,7 @@
         "index": "150",
         "number": 150,
         "title": "BA KAE BABUNI",
-        "english_title": "WHERE ARE THE REAPERS",
+        "title_english": "WHERE ARE THE REAPERS",
         "hymnal_references": "CH 620",
         "lyrics": [
             {
@@ -10901,7 +10901,7 @@
         "index": "151",
         "number": 151,
         "title": "NA GO TLO BA LE DINALEDI?",
-        "english_title": "АН 355 CH 626",
+        "title_english": "АН 355 CH 626",
         "hymnal_references": "CH 626",
         "lyrics": [
             {
@@ -10967,7 +10967,7 @@
         "index": "152",
         "number": 152,
         "title": "BOLELA MOYENG WA KA",
-        "english_title": "SPEAK TO MY SOUL",
+        "title_english": "SPEAK TO MY SOUL",
         "hymnal_references": "CH 554",
         "lyrics": [
             {
@@ -11045,7 +11045,7 @@
         "index": "153",
         "number": 153,
         "title": "LEHONO FELA",
-        "english_title": "O JUST FOR TODAY",
+        "title_english": "O JUST FOR TODAY",
         "hymnal_references": "AH 270 CH 604",
         "lyrics": [
             {
@@ -11084,7 +11084,7 @@
         "index": "154",
         "number": 154,
         "title": "MOLETI MPOTŠE",
-        "english_title": "WATCHMAN TELL ME",
+        "title_english": "WATCHMAN TELL ME",
         "hymnal_references": "AH 409 CH 180",
         "lyrics": [
             {
@@ -11163,7 +11163,7 @@
         "index": "155",
         "number": 155,
         "title": "KE TLO YA MO O RATAGO",
-        "english_title": "АН 352 CH 566",
+        "title_english": "АН 352 CH 566",
         "hymnal_references": "CH 566",
         "lyrics": [
             {
@@ -11241,7 +11241,7 @@
         "index": "156",
         "number": 156,
         "title": "MANTŠU A KGALEFO A SE TŠWE",
-        "english_title": "ANGRY WORDS OH, LE THEM NEVER",
+        "title_english": "ANGRY WORDS OH, LE THEM NEVER",
         "hymnal_references": "CS 581",
         "lyrics": [
             {
@@ -11313,7 +11313,7 @@
         "index": "157",
         "number": 157,
         "title": "NAKO YA GOBUNA",
-        "english_title": "HARVEST TIME",
+        "title_english": "HARVEST TIME",
         "hymnal_references": "CH 627",
         "lyrics": [
             {
@@ -11379,7 +11379,7 @@
         "index": "158",
         "number": 158,
         "title": "AKGOFA TŠATŠI LA THABO",
-        "english_title": "HASTEN ON, GLAD DAY",
+        "title_english": "HASTEN ON, GLAD DAY",
         "hymnal_references": "CH 589",
         "lyrics": [
             {
@@ -11445,7 +11445,7 @@
         "index": "159",
         "number": 159,
         "title": "KE GO HLOKA GA KAKANG",
-        "english_title": "HOW MUCH I NEED THEE",
+        "title_english": "HOW MUCH I NEED THEE",
         "hymnal_references": "CH 578",
         "lyrics": [
             {
@@ -11530,7 +11530,7 @@
         "index": "160",
         "number": 160,
         "title": "KE BOLOKETŠWE JESO",
-        "english_title": "KEPT FO JESUS",
+        "title_english": "KEPT FO JESUS",
         "hymnal_references": "CS 598",
         "lyrics": [
             {
@@ -11615,7 +11615,7 @@
         "index": "161",
         "number": 161,
         "title": "MOREN'A KA LENNA",
-        "english_title": "АН 112 CH 532",
+        "title_english": "АН 112 CH 532",
         "hymnal_references": "CH 532",
         "lyrics": [
             {
@@ -11680,7 +11680,7 @@
         "index": "162",
         "number": 162,
         "title": "TSELENG YOHLE",
-        "english_title": "АН 296 CH 259",
+        "title_english": "АН 296 CH 259",
         "hymnal_references": "CH 259",
         "lyrics": [
             {
@@ -11737,7 +11737,7 @@
         "index": "163",
         "number": 163,
         "title": "KENNA E! ROMA NNA.",
-        "english_title": "HERE AM I, SEND ME",
+        "title_english": "HERE AM I, SEND ME",
         "hymnal_references": "AH 341 CH 447",
         "lyrics": [
             {
@@ -11788,7 +11788,7 @@
         "index": "164",
         "number": 164,
         "title": "KE DUTŠE DINAONG TŠA JESO",
-        "english_title": "AT THE FEET OF JESUS",
+        "title_english": "AT THE FEET OF JESUS",
         "hymnal_references": "CH 618",
         "lyrics": [
             {
@@ -11839,7 +11839,7 @@
         "index": "165",
         "number": 165,
         "title": "KE A GO RATA",
-        "english_title": "ILOVE THEE",
+        "title_english": "ILOVE THEE",
         "hymnal_references": "AH 357 CH 343",
         "lyrics": [
             {
@@ -11888,7 +11888,7 @@
         "index": "166",
         "number": 166,
         "title": "LESWIKA LA BOSAFELEGO",
-        "english_title": "АН 237 CH 474",
+        "title_english": "АН 237 CH 474",
         "hymnal_references": "CH 474",
         "lyrics": [
             {
@@ -11945,7 +11945,7 @@
         "index": "167",
         "number": 167,
         "title": "MOTHEO O TIILEGO",
-        "english_title": "FIRM FOUNDATION",
+        "title_english": "FIRM FOUNDATION",
         "hymnal_references": "AH 215 CH 255",
         "lyrics": [
             {
@@ -12002,7 +12002,7 @@
         "index": "168",
         "number": 168,
         "title": "JESO KE MODIŠI WA KA",
-        "english_title": "THE LORD IS MY SHEPHERD",
+        "title_english": "THE LORD IS MY SHEPHERD",
         "hymnal_references": "AH 295 CH 405",
         "lyrics": [
             {
@@ -12061,7 +12061,7 @@
         "index": "169",
         "number": 169,
         "title": "MOJALEFA LA MMUŠO",
-        "english_title": "HEIR OF THE KINGDOM",
+        "title_english": "HEIR OF THE KINGDOM",
         "hymnal_references": "AH 413 CH 185",
         "lyrics": [
             {
@@ -12110,7 +12110,7 @@
         "index": "170",
         "number": 170,
         "title": "MMOPI LE KGOŠI YA KA",
-        "english_title": "MY MAKER AND MY KING",
+        "title_english": "MY MAKER AND MY KING",
         "hymnal_references": "AH 54 CH 71",
         "lyrics": [
             {
@@ -12167,7 +12167,7 @@
         "index": "171",
         "number": 171,
         "title": "MOLETI BOTONG LA SIONE",
-        "english_title": "WATCHMAN ON THE WALLS OF ZION",
+        "title_english": "WATCHMAN ON THE WALLS OF ZION",
         "hymnal_references": "AH 418 CH 184",
         "lyrics": [
             {
@@ -12212,7 +12212,7 @@
         "index": "172",
         "number": 172,
         "title": "E TLOBA NAKO E KAE",
-        "english_title": "HOW LONG",
+        "title_english": "HOW LONG",
         "hymnal_references": "CH 352",
         "lyrics": [
             {
@@ -12263,7 +12263,7 @@
         "index": "173",
         "number": 173,
         "title": "A TUMELO",
-        "english_title": "АН 203 CH 245",
+        "title_english": "АН 203 CH 245",
         "hymnal_references": "CH 245",
         "lyrics": [
             {
@@ -12327,7 +12327,7 @@
         "index": "174",
         "number": 174,
         "title": "GO THABIŠA BJANG?",
-        "english_title": "HOW CHEERING!",
+        "title_english": "HOW CHEERING!",
         "hymnal_references": "CH 387",
         "lyrics": [
             {
@@ -12396,7 +12396,7 @@
         "index": "175",
         "number": 175,
         "title": "MOPHOLOŠI BJA KA MODIŠI",
-        "english_title": "SAVIOR, LIKE A SHEPHERD",
+        "title_english": "SAVIOR, LIKE A SHEPHERD",
         "hymnal_references": "AH 294 CH 394",
         "lyrics": [
             {
@@ -12447,7 +12447,7 @@
         "index": "176",
         "number": 176,
         "title": "TSHEPO E ŠEGOFADITŠWEGO",
-        "english_title": "BLESSED HOPE",
+        "title_english": "BLESSED HOPE",
         "hymnal_references": "CH 379",
         "lyrics": [
             {
@@ -12496,7 +12496,7 @@
         "index": "177",
         "number": 177,
         "title": "GAGO BOŠEGO KUA",
-        "english_title": "NO NIGHT THERE",
+        "title_english": "NO NIGHT THERE",
         "hymnal_references": "AH 421 CH 558",
         "lyrics": [
             {
@@ -12581,7 +12581,7 @@
         "index": "178",
         "number": 178,
         "title": "KRESTE O A BOYA",
-        "english_title": "E ka ba mesong ge letšatši le hlaba,",
+        "title_english": "E ka ba mesong ge letšatši le hlaba,",
         "hymnal_references": "AH 402 CH 536",
         "lyrics": [
             {
@@ -12630,7 +12630,7 @@
         "index": "179",
         "number": 179,
         "title": "BONANG MONYADI",
-        "english_title": "BEHOLD THE BRIDEGROOM",
+        "title_english": "BEHOLD THE BRIDEGROOM",
         "hymnal_references": "CS 868",
         "lyrics": [
             {
@@ -12697,7 +12697,7 @@
         "index": "180",
         "number": 180,
         "title": "GA RE TSEBE NAKO",
-        "english_title": "АН 400 CH 540",
+        "title_english": "АН 400 CH 540",
         "hymnal_references": "CH 540",
         "lyrics": [
             {
@@ -12763,7 +12763,7 @@
         "index": "181",
         "number": 181,
         "title": "RE LETILE RE LEBELETŠE",
-        "english_title": "WAITING AND WATCHING",
+        "title_english": "WAITING AND WATCHING",
         "hymnal_references": "AH 181 CH 398",
         "lyrics": [
             {
@@ -12850,7 +12850,7 @@
         "index": "182",
         "number": 182,
         "title": "MOSO WA GAUTA",
-        "english_title": "АН 394 CH 547",
+        "title_english": "АН 394 CH 547",
         "hymnal_references": "CH 547",
         "lyrics": [
             {
@@ -12935,7 +12935,7 @@
         "index": "183",
         "number": 183,
         "title": "SWARA O TIISE GO FIHLA KE ETLA",
-        "english_title": "АН 333 CH 548",
+        "title_english": "АН 333 CH 548",
         "hymnal_references": "CH 548",
         "lyrics": [
             {
@@ -13010,7 +13010,7 @@
         "index": "184",
         "number": 184,
         "title": "THABANG LEFASENG",
-        "english_title": "JOY TO THE WORLD",
+        "title_english": "JOY TO THE WORLD",
         "hymnal_references": "AH 403 CH 189",
         "lyrics": [
             {
@@ -13057,7 +13057,7 @@
         "index": "185",
         "number": 185,
         "title": "GO BA NTSHE",
-        "english_title": "TO BE THERE",
+        "title_english": "TO BE THERE",
         "hymnal_references": "CH 199",
         "lyrics": [
             {
@@ -13108,7 +13108,7 @@
         "index": "186",
         "number": 186,
         "title": "MORENA RE KOPANE",
-        "english_title": "LORD WE HAVE MET",
+        "title_english": "LORD WE HAVE MET",
         "hymnal_references": "CH 26",
         "lyrics": [
             {
@@ -13157,7 +13157,7 @@
         "index": "187",
         "number": 187,
         "title": "KOŠA YA RENA YA KAROGANO",
-        "english_title": "OUR PARTING HYMN",
+        "title_english": "OUR PARTING HYMN",
         "hymnal_references": "AH 25 CH 34",
         "lyrics": [
             {
@@ -13196,7 +13196,7 @@
         "index": "188",
         "number": 188,
         "title": "MMUŠI WA BADIRADIBE",
-        "english_title": "Le ge ke dira dibe,",
+        "title_english": "Le ge ke dira dibe,",
         "hymnal_references": "AH 188 CH 238",
         "lyrics": [
             {
@@ -13241,7 +13241,7 @@
         "index": "189",
         "number": 189,
         "title": "GA RE NA MOTSE MOKHWI",
-        "english_title": "АH 417 CH 308",
+        "title_english": "АH 417 CH 308",
         "hymnal_references": "CH 308",
         "lyrics": [
             {
@@ -13294,7 +13294,7 @@
         "index": "190",
         "number": 190,
         "title": "LEINA LE LEBOTSE",
-        "english_title": "PRECIOUS NAME",
+        "title_english": "PRECIOUS NAME",
         "hymnal_references": "AH 100 CH 523",
         "lyrics": [
             {
@@ -13379,7 +13379,7 @@
         "index": "191",
         "number": 191,
         "title": "KA NNETE JESO KE WA KA!",
-        "english_title": "BLESSED ASSURANCE",
+        "title_english": "BLESSED ASSURANCE",
         "hymnal_references": "AH 250 CH 608",
         "lyrics": [
             {
@@ -13445,7 +13445,7 @@
         "index": "192",
         "number": 192,
         "title": "KGALALELO LEINENG LA GAGWE.",
-        "english_title": "GLORY TO HIS NAME",
+        "title_english": "GLORY TO HIS NAME",
         "hymnal_references": "CS 300",
         "lyrics": [
             {
@@ -13527,7 +13527,7 @@
         "index": "193",
         "number": 193,
         "title": "TSELA YA GAGWE LE WENA",
-        "english_title": "HIS WAY WITH THEE",
+        "title_english": "HIS WAY WITH THEE",
         "hymnal_references": "CS 58",
         "lyrics": [
             {
@@ -13593,7 +13593,7 @@
         "index": "194",
         "number": 194,
         "title": "LERATO KA GAE",
-        "english_title": "LOVE AT HOME",
+        "title_english": "LOVE AT HOME",
         "hymnal_references": "CS 580",
         "lyrics": [
             {
@@ -13668,7 +13668,7 @@
         "index": "195",
         "number": 195,
         "title": "KGABO YA MOLLO",
-        "english_title": "O FOR THAT FLAME",
+        "title_english": "O FOR THAT FLAME",
         "hymnal_references": "AH 149 CH 210",
         "lyrics": [
             {
@@ -13717,7 +13717,7 @@
         "index": "196",
         "number": 196,
         "title": "GO MAATLA MADING",
-        "english_title": "THERE IS POWER IN THE BLOOD",
+        "title_english": "THERE IS POWER IN THE BLOOD",
         "hymnal_references": "CS 27",
         "lyrics": [
             {
@@ -13802,7 +13802,7 @@
         "index": "197",
         "number": 197,
         "title": "GA GO SEKOTI SE SE LESWISWI",
-        "english_title": "THERE'LL BE NO DARK VALLEY",
+        "title_english": "THERE'LL BE NO DARK VALLEY",
         "hymnal_references": "CS 854",
         "lyrics": [
             {
@@ -13887,7 +13887,7 @@
         "index": "198",
         "number": 198,
         "title": "MOGWERA WA POTEGO KE JESO.",
-        "english_title": "THE BEST FRIEND IS JESUS",
+        "title_english": "THE BEST FRIEND IS JESUS",
         "hymnal_references": "CH 528",
         "lyrics": [
             {
@@ -13958,7 +13958,7 @@
         "index": "199",
         "number": 199,
         "title": "GO RETWE MORENA",
-        "english_title": "TO GOD BE THE GLORY",
+        "title_english": "TO GOD BE THE GLORY",
         "hymnal_references": "AH 144 CH 647",
         "lyrics": [
             {
@@ -14024,7 +14024,7 @@
         "index": "200",
         "number": 200,
         "title": "MOKGETHWA! MOKGETHWA! MOKGETHWA",
-        "english_title": "HOLY, HOLY HOLY",
+        "title_english": "HOLY, HOLY HOLY",
         "hymnal_references": "AH 30 CH 73",
         "lyrics": [
             {
@@ -14067,7 +14067,7 @@
         "index": "201",
         "number": 201,
         "title": "O NTŠHITŠE",
-        "english_title": "HE BROUGHT ME OUT",
+        "title_english": "HE BROUGHT ME OUT",
         "hymnal_references": "CS 192",
         "lyrics": [
             {
@@ -14150,7 +14150,7 @@
         "index": "202",
         "number": 202,
         "title": "JESO MOPHOLOŠI NKGOGE",
-        "english_title": "JESUS, SAVIOUR PILOT ME",
+        "title_english": "JESUS, SAVIOUR PILOT ME",
         "hymnal_references": "AH 297 CH 398",
         "lyrics": [
             {
@@ -14195,7 +14195,7 @@
         "index": "203",
         "number": 203,
         "title": "MOHOMOTŠI O TLILE",
-        "english_title": "THE COMFORTER HAS COME",
+        "title_english": "THE COMFORTER HAS COME",
         "hymnal_references": "AH 154 CH 526",
         "lyrics": [
             {
@@ -14328,7 +14328,7 @@
         "index": "204",
         "number": 204,
         "title": "BOYA! MOLELERE, BOYA!",
-        "english_title": "WELCOME! WANDERER, WELCOME!",
+        "title_english": "WELCOME! WANDERER, WELCOME!",
         "hymnal_references": "CS 3",
         "lyrics": [
             {
@@ -14442,7 +14442,7 @@
         "index": "205",
         "number": 205,
         "title": "GE JESO A SEBA",
-        "english_title": "WHILE JESUS WHISPERS",
+        "title_english": "WHILE JESUS WHISPERS",
         "hymnal_references": "AH 167 CH 564",
         "lyrics": [
             {
@@ -14481,7 +14481,7 @@
         "index": "206",
         "number": 206,
         "title": "KE NEETŠE BOPHELO BJAKA KA WENA",
-        "english_title": "I GAVE MY LIFE FOR THEE.",
+        "title_english": "I GAVE MY LIFE FOR THEE.",
         "hymnal_references": "AH 178 CH 230",
         "lyrics": [
             {
@@ -14520,7 +14520,7 @@
         "index": "207",
         "number": 207,
         "title": "TIIŠA TSHWARELO YA KA",
-        "english_title": "SEAL MY PARDON",
+        "title_english": "SEAL MY PARDON",
         "hymnal_references": "CH 25",
         "lyrics": [
             {
@@ -14569,7 +14569,7 @@
         "index": "208",
         "number": 208,
         "title": "GATANG KA BONOLO",
-        "english_title": "АН 278 CH 601",
+        "title_english": "АН 278 CH 601",
         "hymnal_references": "CH 601",
         "lyrics": [
             {
@@ -14674,7 +14674,7 @@
         "index": "209",
         "number": 209,
         "title": "GO SEPELA KGAUSWI",
-        "english_title": "АН 310 CH 383",
+        "title_english": "АН 310 CH 383",
         "hymnal_references": "CH 383",
         "lyrics": [
             {
@@ -14723,7 +14723,7 @@
         "index": "210",
         "number": 210,
         "title": "A MOPHOLOŠI YO BOTSE BJANG",
-        "english_title": "АН 101 CH 644",
+        "title_english": "АН 101 CH 644",
         "hymnal_references": "CH 644",
         "lyrics": [
             {
@@ -14846,7 +14846,7 @@
         "index": "211",
         "number": 211,
         "title": "RE TLO NELWA KE MASOTO",
-        "english_title": "АН 153 CH 652",
+        "title_english": "АН 153 CH 652",
         "hymnal_references": "CH 652",
         "lyrics": [
             {
@@ -14931,7 +14931,7 @@
         "index": "212",
         "number": 212,
         "title": "KHUTŠO E MONATE",
-        "english_title": "SWEET PEACE",
+        "title_english": "SWEET PEACE",
         "hymnal_references": "AH 253 CH 609",
         "lyrics": [
             {
@@ -15016,7 +15016,7 @@
         "index": "213",
         "number": 213,
         "title": "KOŠA YA KA",
-        "english_title": "MY SONG.",
+        "title_english": "MY SONG.",
         "hymnal_references": "AH 257 CH 613",
         "lyrics": [
             {
@@ -15101,7 +15101,7 @@
         "index": "214",
         "number": 214,
         "title": "A JESO WA HLOKOMELA?",
-        "english_title": "АН 122 CH 613",
+        "title_english": "АН 122 CH 613",
         "hymnal_references": "CH 613",
         "lyrics": [
             {
@@ -15186,7 +15186,7 @@
         "index": "215",
         "number": 215,
         "title": "LETA MME O SE NGONGOREGE",
-        "english_title": "АН 258 CH 616",
+        "title_english": "АН 258 CH 616",
         "hymnal_references": "CH 616",
         "lyrics": [
             {
@@ -15271,7 +15271,7 @@
         "index": "216",
         "number": 216,
         "title": "GA KE NNOŠI",
-        "english_title": "NEVER ALONE",
+        "title_english": "NEVER ALONE",
         "hymnal_references": "CS 557",
         "lyrics": [
             {
@@ -15367,7 +15367,7 @@
         "index": "217",
         "number": 217,
         "title": "SE SENGWE SA JESO",
-        "english_title": "SOMETHING FOR JESUS",
+        "title_english": "SOMETHING FOR JESUS",
         "hymnal_references": "CH 283",
         "lyrics": [
             {
@@ -15430,7 +15430,7 @@
         "index": "218",
         "number": 218,
         "title": "MOTHEO O TEE",
-        "english_title": "ONE FOUNDATION",
+        "title_english": "ONE FOUNDATION",
         "hymnal_references": "AH 334 CH 433",
         "lyrics": [
             {
@@ -15496,7 +15496,7 @@
         "index": "219",
         "number": 219,
         "title": "NKGOGE HLE WENA JEHOFA",
-        "english_title": "АН 303 CH 409",
+        "title_english": "АН 303 CH 409",
         "hymnal_references": "CH 409",
         "lyrics": [
             {
@@ -15554,7 +15554,7 @@
         "index": "220",
         "number": 220,
         "title": "NAGA YA GESO",
-        "english_title": "АН 428 CH 639",
+        "title_english": "АН 428 CH 639",
         "hymnal_references": "CH 639",
         "lyrics": [
             {
@@ -15611,7 +15611,7 @@
         "index": "221",
         "number": 221,
         "title": "BOIKGOPOTŠO BJA GALELIA",
-        "english_title": "GALILEE",
+        "title_english": "GALILEE",
         "hymnal_references": "CS 247",
         "lyrics": [
             {
@@ -15677,7 +15677,7 @@
         "index": "222",
         "number": 222,
         "title": "KE BOLOKEGILE MATSOGONG A JESO",
-        "english_title": "SAFE IN THE ARMS OF JESUS",
+        "title_english": "SAFE IN THE ARMS OF JESUS",
         "hymnal_references": "AH 254 CH 615",
         "lyrics": [
             {
@@ -15755,7 +15755,7 @@
         "index": "223",
         "number": 223,
         "title": "KE GO LATELA GOHLE",
-        "english_title": "FOLLOW ALL THE WAY",
+        "title_english": "FOLLOW ALL THE WAY",
         "hymnal_references": "CS 200",
         "lyrics": [
             {
@@ -15859,7 +15859,7 @@
         "index": "224",
         "number": 224,
         "title": "TSHUBANG MABONE",
-        "english_title": "АН 356 CH 628",
+        "title_english": "АН 356 CH 628",
         "hymnal_references": "CH 628",
         "lyrics": [
             {
@@ -15925,7 +15925,7 @@
         "index": "225",
         "number": 225,
         "title": "EMA BJALO KA MOGALE",
-        "english_title": "STAND LIKE THE BRAVE",
+        "title_english": "STAND LIKE THE BRAVE",
         "hymnal_references": "AH 367 CH 576",
         "lyrics": [
             {
@@ -15985,7 +15985,7 @@
         "index": "226",
         "number": 226,
         "title": "O NYAKILE A DUMELA",
-        "english_title": "АН 183 CH 228",
+        "title_english": "АН 183 CH 228",
         "hymnal_references": "CH 228",
         "lyrics": [
             {
@@ -16025,7 +16025,7 @@
         "index": "227",
         "number": 227,
         "title": "KUA SEFAPANONG.",
-        "english_title": "AT THE CROSS",
+        "title_english": "AT THE CROSS",
         "hymnal_references": "CS 212",
         "lyrics": [
             {
@@ -16091,7 +16091,7 @@
         "index": "228",
         "number": 228,
         "title": "TUMIŠANG! TUMIŠANG!",
-        "english_title": "PRAISE HIM! PRAISE HIM!",
+        "title_english": "PRAISE HIM! PRAISE HIM!",
         "hymnal_references": "AH 140 CH 645",
         "lyrics": [
             {
@@ -16151,7 +16151,7 @@
         "index": "229",
         "number": 229,
         "title": "KE MANG YA LEGO MORENENG",
-        "english_title": "WHO IS ON THE LORD'S SIDE",
+        "title_english": "WHO IS ON THE LORD'S SIDE",
         "hymnal_references": "CS 59",
         "lyrics": [
             {
@@ -16229,7 +16229,7 @@
         "index": "230",
         "number": 230,
         "title": "KE NNA TSELA",
-        "english_title": "I AM THE WAY",
+        "title_english": "I AM THE WAY",
         "hymnal_references": "CS 10",
         "lyrics": [
             {
@@ -16307,7 +16307,7 @@
         "index": "231",
         "number": 231,
         "title": "DUMELELA JESO A TSENE PELONG",
-        "english_title": "LET JESUS COME INTO YOUR HEART",
+        "title_english": "LET JESUS COME INTO YOUR HEART",
         "hymnal_references": "CS 25",
         "lyrics": [
             {
@@ -16413,7 +16413,7 @@
         "index": "232",
         "number": 232,
         "title": "NKA SE GO TLOGELE",
-        "english_title": "АН 301 CH 397",
+        "title_english": "АН 301 CH 397",
         "hymnal_references": "CH 397",
         "lyrics": [
             {
@@ -16471,7 +16471,7 @@
         "index": "233",
         "number": 233,
         "title": "MPOTŠE TABA YA KGALE-KGALE",
-        "english_title": "TELL ME THE OLD OLD STORY",
+        "title_english": "TELL ME THE OLD OLD STORY",
         "hymnal_references": "AH 80 CH 524",
         "lyrics": [
             {
@@ -16549,7 +16549,7 @@
         "index": "234",
         "number": 234,
         "title": "JESO 'SEDI LA LEFASE",
-        "english_title": "JESUS, THE LIGHT OF THE WORLD",
+        "title_english": "JESUS, THE LIGHT OF THE WORLD",
         "hymnal_references": "CS 313",
         "lyrics": [
             {
@@ -16634,7 +16634,7 @@
         "index": "235",
         "number": 235,
         "title": "GAPE GO BOWA LETŠATŠI",
-        "english_title": "AGAIN THE DAY RETURNS",
+        "title_english": "AGAIN THE DAY RETURNS",
         "hymnal_references": "CH 466",
         "lyrics": [
             {
@@ -16683,7 +16683,7 @@
         "index": "236",
         "number": 236,
         "title": "'RATO LA GWE PELOHLOMOGI",
-        "english_title": "HIS LOVING KINDNESS",
+        "title_english": "HIS LOVING KINDNESS",
         "hymnal_references": "CH 667",
         "lyrics": [
             {
@@ -16728,7 +16728,7 @@
         "index": "237",
         "number": 237,
         "title": "EMANG, EMELANG JESO",
-        "english_title": "АН 368 CH 354",
+        "title_english": "АН 368 CH 354",
         "hymnal_references": "CH 354",
         "lyrics": [
             {
@@ -16779,7 +16779,7 @@
         "index": "238",
         "number": 238,
         "title": "NA KE BOMANG?",
-        "english_title": "WHO, WHO ARE THESE?",
+        "title_english": "WHO, WHO ARE THESE?",
         "hymnal_references": "CS 890",
         "lyrics": [
             {
@@ -16883,7 +16883,7 @@
         "index": "239",
         "number": 239,
         "title": "A O TENNWE NA?",
-        "english_title": "ART THOU WEARY?",
+        "title_english": "ART THOU WEARY?",
         "hymnal_references": "CH 341",
         "lyrics": [
             {
@@ -16948,7 +16948,7 @@
         "index": "240",
         "number": 240,
         "title": "BONANG MOPHOLOŠI MOJAKO",
-        "english_title": "BEHOLD THE SAVIOUR AT THE DOOR",
+        "title_english": "BEHOLD THE SAVIOUR AT THE DOOR",
         "hymnal_references": "CH 227",
         "lyrics": [
             {
@@ -17017,7 +17017,7 @@
         "index": "241",
         "number": 241,
         "title": "KE TSENE FASENG LE BOTSE",
-        "english_title": "BEULA LAND",
+        "title_english": "BEULA LAND",
         "hymnal_references": "CH 554",
         "lyrics": [
             {
@@ -17110,7 +17110,7 @@
         "index": "242",
         "number": 242,
         "title": "GO ŠEGOFALE KOPANO",
-        "english_title": "BLEST BE THE TIE",
+        "title_english": "BLEST BE THE TIE",
         "hymnal_references": "CH 432",
         "lyrics": [
             {
@@ -17159,7 +17159,7 @@
         "index": "243",
         "number": 243,
         "title": "TSOGA MOYA WA KA",
-        "english_title": "PRAISE MY SOUL, ARISE",
+        "title_english": "PRAISE MY SOUL, ARISE",
         "hymnal_references": "CS 123",
         "lyrics": [
             {
@@ -17220,7 +17220,7 @@
         "index": "244",
         "number": 244,
         "title": "TLA GO JESO",
-        "english_title": "COME TO JESUS",
+        "title_english": "COME TO JESUS",
         "hymnal_references": "CS 179",
         "lyrics": [
             {
@@ -17299,7 +17299,7 @@
         "index": "245",
         "number": 245,
         "title": "GA GO LEINA LE LENGWE",
-        "english_title": "АН 98 CH 517",
+        "title_english": "АН 98 CH 517",
         "hymnal_references": "CH 517",
         "lyrics": [
             {
@@ -17403,7 +17403,7 @@
         "index": "246",
         "number": 246,
         "title": "BJALE BOLELA LENTŠU KA JESO",
-        "english_title": "NOW JUST A WORD FOR JESUS",
+        "title_english": "NOW JUST A WORD FOR JESUS",
         "hymnal_references": "CH 522",
         "lyrics": [
             {
@@ -17507,7 +17507,7 @@
         "index": "247",
         "number": 247,
         "title": "LETŠANG TSHIPI TŠA LEGODIMO",
-        "english_title": "RING THE BELLS OF HEAVEN.",
+        "title_english": "RING THE BELLS OF HEAVEN.",
         "hymnal_references": "CH 29",
         "lyrics": [
             {
@@ -17573,7 +17573,7 @@
         "index": "248",
         "number": 248,
         "title": "KE JESO WA NAZARETA",
-        "english_title": "JESUS OF NAZARETH PASSETH BY",
+        "title_english": "JESUS OF NAZARETH PASSETH BY",
         "hymnal_references": "CS 52",
         "lyrics": [
             {
@@ -17665,7 +17665,7 @@
         "index": "249",
         "number": 249,
         "title": "TŠE MASOME SENYANE LE SENYANE",
-        "english_title": "THE NINETY AND NINE",
+        "title_english": "THE NINETY AND NINE",
         "hymnal_references": "AH 99 CH 675",
         "lyrics": [
             {
@@ -17738,7 +17738,7 @@
         "index": "250",
         "number": 250,
         "title": "SE INEELE MOLEKONG.",
-        "english_title": "YEILD NOT TO TEMPTATION",
+        "title_english": "YEILD NOT TO TEMPTATION",
         "hymnal_references": "AH 468 CH 498",
         "lyrics": [
             {
@@ -17806,7 +17806,7 @@
         "index": "251",
         "number": 251,
         "title": "GO LLA GO KA SE MPHOLOSE",
-        "english_title": "WEEPING WILL NOT SAVE ME",
+        "title_english": "WEEPING WILL NOT SAVE ME",
         "hymnal_references": "CS 92",
         "lyrics": [
             {
@@ -17895,7 +17895,7 @@
         "index": "252",
         "number": 252,
         "title": "TSHEPA YENA FELA",
-        "english_title": "ONLY TRUST HIM",
+        "title_english": "ONLY TRUST HIM",
         "hymnal_references": "CH 567",
         "lyrics": [
             {
@@ -17980,7 +17980,7 @@
         "index": "253",
         "number": 253,
         "title": "BONA MODIŠI WA ISRAELE YO BOLO",
-        "english_title": "SEE, ISRAEL'S GENTLE SHEPHERD",
+        "title_english": "SEE, ISRAEL'S GENTLE SHEPHERD",
         "hymnal_references": "CH 411",
         "lyrics": [
             {
@@ -18019,7 +18019,7 @@
         "index": "254",
         "number": 254,
         "title": "TUMIŠANG LEINA LA JEHOFA",
-        "english_title": "PRAISE YE JEHOVA'S NAME",
+        "title_english": "PRAISE YE JEHOVA'S NAME",
         "hymnal_references": "CS 260",
         "lyrics": [
             {
@@ -18061,7 +18061,7 @@
         "index": "255",
         "number": 255,
         "title": "KE YA GO HLOKA JESO",
-        "english_title": "I NEED THEE, PRECIOUS JESUS",
+        "title_english": "I NEED THEE, PRECIOUS JESUS",
         "hymnal_references": "AH 320 CH 605",
         "lyrics": [
             {
@@ -18112,7 +18112,7 @@
         "index": "256",
         "number": 256,
         "title": "MODIMO THUŠO YA RENA",
-        "english_title": "O GOD, OUR HELP",
+        "title_english": "O GOD, OUR HELP",
         "hymnal_references": "CH 81",
         "lyrics": [
             {
@@ -18161,7 +18161,7 @@
         "index": "257",
         "number": 257,
         "title": "O TLO EMA A TSEPAME BOKA MMOTO.",
-        "english_title": "АН 160 CH 392",
+        "title_english": "АН 160 CH 392",
         "hymnal_references": "CH 392",
         "lyrics": [
             {
@@ -18200,7 +18200,7 @@
         "index": "258",
         "number": 258,
         "title": "TUMELO E PHELAGO",
-        "english_title": "ONE LIVING FAITH",
+        "title_english": "ONE LIVING FAITH",
         "hymnal_references": "CS 790",
         "lyrics": [
             {
@@ -18239,7 +18239,7 @@
         "index": "259",
         "number": 259,
         "title": "RE TLO KOPANA MOSOLA",
-        "english_title": "АН 431 CH 557",
+        "title_english": "АН 431 CH 557",
         "hymnal_references": "CH 557",
         "lyrics": [
             {
@@ -18324,7 +18324,7 @@
         "index": "260",
         "number": 260,
         "title": "MOLAPO WA BEULA",
-        "english_title": "VALE OF BEULAH",
+        "title_english": "VALE OF BEULAH",
         "hymnal_references": "CS 610",
         "lyrics": [
             {
@@ -18390,7 +18390,7 @@
         "index": "261",
         "number": 261,
         "title": "MOLAPONG O MOBOTSE WA EDENE",
-        "english_title": "BEAUTIFUL VALLEY OF EDEN",
+        "title_english": "BEAUTIFUL VALLEY OF EDEN",
         "hymnal_references": "CH 550",
         "lyrics": [
             {
@@ -18456,7 +18456,7 @@
         "index": "262",
         "number": 262,
         "title": "KRESTE GOBA BARABAS.",
-        "english_title": "Ke tlo dirang ka Jeso?",
+        "title_english": "Ke tlo dirang ka Jeso?",
         "hymnal_references": "CS 1",
         "lyrics": [
             {
@@ -18560,7 +18560,7 @@
         "index": "263",
         "number": 263,
         "title": "TLIŠANG TŠA LESOME",
-        "english_title": "BRING YE ALL THE TITHES",
+        "title_english": "BRING YE ALL THE TITHES",
         "hymnal_references": "CS 239",
         "lyrics": [
             {
@@ -18664,7 +18664,7 @@
         "index": "264",
         "number": 264,
         "title": "TŠATŠI LE LEKGETHWA LA JEHOFA",
-        "english_title": "АН 318 CH 654",
+        "title_english": "АН 318 CH 654",
         "hymnal_references": "CH 654",
         "lyrics": [
             {
@@ -18763,7 +18763,7 @@
         "index": "265",
         "number": 265,
         "title": "KHUTŠO E PHETHAGETŠEGO",
-        "english_title": "АН 263 CH 311",
+        "title_english": "АН 263 CH 311",
         "hymnal_references": "CH 311",
         "lyrics": [
             {
@@ -18835,7 +18835,7 @@
         "index": "266",
         "number": 266,
         "title": "JESO KE TLO GO LATELA",
-        "english_title": "JESUS, I WILL FOLLOW THEE",
+        "title_english": "JESUS, I WILL FOLLOW THEE",
         "hymnal_references": "CH 429",
         "lyrics": [
             {
@@ -18901,7 +18901,7 @@
         "index": "267",
         "number": 267,
         "title": "RE BJALA PEU TŠA PELOHLOMOGI",
-        "english_title": "SCATTER SEEDS OF KINDNESS",
+        "title_english": "SCATTER SEEDS OF KINDNESS",
         "hymnal_references": "CS 568",
         "lyrics": [
             {
@@ -19002,7 +19002,7 @@
         "index": "268",
         "number": 268,
         "title": "MORENA BONA SEFEFO",
-        "english_title": "АН 205 CH 677",
+        "title_english": "АН 205 CH 677",
         "hymnal_references": "CH 677",
         "lyrics": [
             {
@@ -19101,7 +19101,7 @@
         "index": "269",
         "number": 269,
         "title": "MOPHOLOŠI YO A MAKATŠAGO",
-        "english_title": "АН 102 CH 651",
+        "title_english": "АН 102 CH 651",
         "hymnal_references": "CH 651",
         "lyrics": [
             {
@@ -19190,7 +19190,7 @@
         "index": "270",
         "number": 270,
         "title": "MOREKOLODI YO A ŠEGOFADITŠWEGO",
-        "english_title": "OUR BLEST REDEEMER",
+        "title_english": "OUR BLEST REDEEMER",
         "hymnal_references": "AH 156 CH 214",
         "lyrics": [
             {
@@ -19249,7 +19249,7 @@
         "index": "271",
         "number": 271,
         "title": "LE GE ŠETŠE E LE TŠE DIKHUBEDU.",
-        "english_title": "THO' YOUR SINS BE AS SCARLET",
+        "title_english": "THO' YOUR SINS BE AS SCARLET",
         "hymnal_references": "CS 79",
         "lyrics": [
             {
@@ -19306,7 +19306,7 @@
         "index": "272",
         "number": 272,
         "title": "LAHLELA THAPO YA BOPHELO.",
-        "english_title": "АН 349 CH 624",
+        "title_english": "АН 349 CH 624",
         "hymnal_references": "CH 624",
         "lyrics": [
             {
@@ -19392,7 +19392,7 @@
         "index": "273",
         "number": 273,
         "title": "ITHEKGE MATSOGONG A JESO",
-        "english_title": "LEARN ON HIS ARMS",
+        "title_english": "LEARN ON HIS ARMS",
         "hymnal_references": "CS 502",
         "lyrics": [
             {
@@ -19509,7 +19509,7 @@
         "index": "274",
         "number": 274,
         "title": "KE NA LE MOPHOLOŠI",
-        "english_title": "I HAVE A SAVIOUR",
+        "title_english": "I HAVE A SAVIOUR",
         "hymnal_references": "AH 174 CH 575",
         "lyrics": [
             {
@@ -19609,7 +19609,7 @@
         "index": "275",
         "number": 275,
         "title": "BOSAFELEGO! KAE?",
-        "english_title": "ETERNITY! WHERE?",
+        "title_english": "ETERNITY! WHERE?",
         "hymnal_references": "CS 37",
         "lyrics": [
             {
@@ -19688,7 +19688,7 @@
         "index": "276",
         "number": 276,
         "title": "JESO MOPHOLOŠI",
-        "english_title": "SEEKING FOR ME",
+        "title_english": "SEEKING FOR ME",
         "hymnal_references": "CS 75",
         "lyrics": [
             {
@@ -19744,7 +19744,7 @@
         "index": "277",
         "number": 277,
         "title": "SEDI LE BONOLO",
-        "english_title": "АН 306 CH 403",
+        "title_english": "АН 306 CH 403",
         "hymnal_references": "CH 403",
         "lyrics": [
             {
@@ -19788,7 +19788,7 @@
         "index": "278",
         "number": 278,
         "title": "E SEGO TSELA YA KA",
-        "english_title": "NOT MY WAY",
+        "title_english": "NOT MY WAY",
         "hymnal_references": "CS 661",
         "lyrics": [
             {
@@ -19839,7 +19839,7 @@
         "index": "279",
         "number": 279,
         "title": "PELO E MAHLOMOLENG.",
-        "english_title": "COME UNTO ME",
+        "title_english": "COME UNTO ME",
         "hymnal_references": "CS 16",
         "lyrics": [
             {
@@ -19932,7 +19932,7 @@
         "index": "280",
         "number": 280,
         "title": "KOŠA TŠA LETHABO",
-        "english_title": "OUR KING",
+        "title_english": "OUR KING",
         "hymnal_references": "CS 256",
         "lyrics": [
             {
@@ -20017,7 +20017,7 @@
         "index": "281",
         "number": 281,
         "title": "NALEDI E BOTSE",
-        "english_title": "A BEAUTIFUL STAR",
+        "title_english": "A BEAUTIFUL STAR",
         "hymnal_references": "CS 242",
         "lyrics": [
             {
@@ -20077,7 +20077,7 @@
         "index": "282",
         "number": 282,
         "title": "HAREPA TŠE MASOME A DIKETE",
-        "english_title": "TEN THOUSAND HARPS",
+        "title_english": "TEN THOUSAND HARPS",
         "hymnal_references": "CS 342",
         "lyrics": [
             {
@@ -20128,7 +20128,7 @@
         "index": "283",
         "number": 283,
         "title": "E MONGWE O TLO TSENA",
-        "english_title": "АН 176 CH 568",
+        "title_english": "АН 176 CH 568",
         "hymnal_references": "CH 568",
         "lyrics": [
             {
@@ -20193,7 +20193,7 @@
         "index": "284",
         "number": 284,
         "title": "GE MATŠATŠI A FETA BJALO",
-        "english_title": "WHILE THE DAYS ARE GOING BY.",
+        "title_english": "WHILE THE DAYS ARE GOING BY.",
         "hymnal_references": "CS 486",
         "lyrics": [
             {
@@ -20271,7 +20271,7 @@
         "index": "285",
         "number": 285,
         "title": "FELO LE GONA LA GOIKHUTŠA",
-        "english_title": "АН 252 CH 681",
+        "title_english": "АН 252 CH 681",
         "hymnal_references": "CH 681",
         "lyrics": [
             {
@@ -20337,7 +20337,7 @@
         "index": "286",
         "number": 286,
         "title": "O NTHWALE",
-        "english_title": "BEAR ME ON",
+        "title_english": "BEAR ME ON",
         "hymnal_references": "CS 946",
         "lyrics": [
             {
@@ -20400,7 +20400,7 @@
         "index": "287",
         "number": 287,
         "title": "NAKONG YA TEKO",
-        "english_title": "АН 277 CH 327",
+        "title_english": "АН 277 CH 327",
         "hymnal_references": "CH 327",
         "lyrics": [
             {
@@ -20441,7 +20441,7 @@
         "index": "288",
         "number": 288,
         "title": "BA TLISA DIMPHO GO JESO.",
-        "english_title": "АН 346 CH 658",
+        "title_english": "АН 346 CH 658",
         "hymnal_references": "CH 658",
         "lyrics": [
             {
@@ -20519,7 +20519,7 @@
         "index": "289",
         "number": 289,
         "title": "NTŠEE KE LE BJALE",
-        "english_title": "TAKE ME AS I AM",
+        "title_english": "TAKE ME AS I AM",
         "hymnal_references": "CS 103",
         "lyrics": [
             {
@@ -20642,7 +20642,7 @@
         "index": "290",
         "number": 290,
         "title": "GO SOMELA JESO",
-        "english_title": "OILING FOR JESUS",
+        "title_english": "OILING FOR JESUS",
         "hymnal_references": "CH 574",
         "lyrics": [
             {
@@ -20708,7 +20708,7 @@
         "index": "291",
         "number": 291,
         "title": "E SWANETSE KONYANA",
-        "english_title": "WORTHY, WORTHY IS THE LAMB",
+        "title_english": "WORTHY, WORTHY IS THE LAMB",
         "hymnal_references": "AH 145 CH 168",
         "lyrics": [
             {
@@ -20774,7 +20774,7 @@
         "index": "292",
         "number": 292,
         "title": "DIATLANYANA TŠE PEDI",
-        "english_title": "TWO LITTLE HANDS",
+        "title_english": "TWO LITTLE HANDS",
         "hymnal_references": "AH 462 CS 251",
         "lyrics": [
             {
@@ -20840,7 +20840,7 @@
         "index": "293",
         "number": 293,
         "title": "KOKO! КОКО",
-        "english_title": "KNOCKING, KNOCKING",
+        "title_english": "KNOCKING, KNOCKING",
         "hymnal_references": "CS 35",
         "lyrics": [
             {
@@ -20887,7 +20887,7 @@
         "index": "294",
         "number": 294,
         "title": "APEŠA KA BOPHELO BJA 'GWE",
-        "english_title": "COVER WITH HIS LIFE",
+        "title_english": "COVER WITH HIS LIFE",
         "hymnal_references": "AH 198 CH 593",
         "lyrics": [
             {
@@ -20964,7 +20964,7 @@
         "index": "295",
         "number": 295,
         "title": "HLABANG MOKGOSI WA NTWA",
-        "english_title": "SOUND THE BATTLE CRY",
+        "title_english": "SOUND THE BATTLE CRY",
         "hymnal_references": "AH 469 CH 499",
         "lyrics": [
             {
@@ -21029,7 +21029,7 @@
         "index": "296",
         "number": 296,
         "title": "NKETE PELE MOPHOLOSI",
-        "english_title": "LEAD ME, SAVIOUR",
+        "title_english": "LEAD ME, SAVIOUR",
         "hymnal_references": "CS 527",
         "lyrics": [
             {
@@ -21088,7 +21088,7 @@
         "index": "297",
         "number": 297,
         "title": "DI KOKOTETŠWE KOTENG",
-        "english_title": "NAILD TO THE CROSS",
+        "title_english": "NAILD TO THE CROSS",
         "hymnal_references": "AH 88 CH 123",
         "lyrics": [
             {
@@ -21154,7 +21154,7 @@
         "index": "298",
         "number": 298,
         "title": "GA GO SELO SA KA GOMME TŠOHLE TŠA 'GO",
-        "english_title": "NONE OF SELF AND ALL OF THEE.",
+        "title_english": "NONE OF SELF AND ALL OF THEE.",
         "hymnal_references": "CS 218",
         "lyrics": [
             {
@@ -21209,7 +21209,7 @@
         "index": "299",
         "number": 299,
         "title": "LETHABO KA DINAKO TŠOHLE",
-        "english_title": "ALWAYS CHEERFUL",
+        "title_english": "ALWAYS CHEERFUL",
         "hymnal_references": "CS 284",
         "lyrics": [
             {
@@ -21249,7 +21249,7 @@
         "index": "300",
         "number": 300,
         "title": "KHUTŠO YA BA LAPILEGO",
-        "english_title": "REST FOR THE WEARY",
+        "title_english": "REST FOR THE WEARY",
         "hymnal_references": "CS 928",
         "lyrics": [
             {
@@ -21350,7 +21350,7 @@
         "index": "301",
         "number": 301,
         "title": "MORENA FELONG LE LEKGETHWA",
-        "english_title": "Moren o dutše felong go kgethwa",
+        "title_english": "Moren o dutše felong go kgethwa",
         "hymnal_references": "Moren 'o dutše felong go kgethwa",
         "lyrics": [
             {
@@ -21367,7 +21367,7 @@
         "index": "302",
         "number": 302,
         "title": "EKWA THAPELO",
-        "english_title": "Ekwa thapelo",
+        "title_english": "Ekwa thapelo",
         "hymnal_references": "Ekwa thapelo",
         "lyrics": [
             {
@@ -21384,7 +21384,7 @@
         "index": "303",
         "number": 303,
         "title": "LA SABATHA",
-        "english_title": "Tšatši le le natefang",
+        "title_english": "Tšatši le le natefang",
         "hymnal_references": "Lasabatha le hlabile",
         "lyrics": [
             {
