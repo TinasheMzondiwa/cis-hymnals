@@ -3,12 +3,12 @@
         "index": "001",
         "number": 1,
         "title": "LETŠA PHALAFALA MOLETI",
+        "english_title": "WATCHMAN, BLOW THE GOSPEL TRUMPET",
+        "hymnal_references": "AH 350 CH 613",
         "lyrics": [
             {
                 "type": "verse",
                 "index": 1,
-                "english_title": "WATCHMAN, BLOW THE GOSPEL TRUMPET",
-                "hymnal_references": "AH 350 CH 613",
                 "lines": [
                     "Letša phalafal'a efangedi",
                     "Bohle ba kgalemelwe",
@@ -19,7 +19,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Letša phalafala moleti",
                     "Ekwagale kgole",
                     "Modimo o a go roma",
@@ -39,7 +38,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Letša phalafala moleti",
                     "Ekwagale kgole",
                     "Modimo o a go roma",
@@ -59,7 +57,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Letša phalafala moleti",
                     "Ekwagale kgole",
                     "Modimo o a go roma",
@@ -79,7 +76,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Letša phalafala moleti",
                     "Ekwagale kgole",
                     "Modimo o a go roma",
@@ -108,7 +104,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monyakong…………",
                     "Monyakong,……………",
                     "Kgoši šetše fihlile",
@@ -129,7 +124,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monyakong…………",
                     "Monyakong,……………",
                     "Kgoši šetše fihlile",
@@ -150,7 +144,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monyakong…………",
                     "Monyakong,……………",
                     "Kgoši šetše fihlile",
@@ -171,7 +164,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monyakong…………",
                     "Monyakong,……………",
                     "Kgoši šetše fihlile",
@@ -201,7 +193,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Fahlego di tlo lebana",
                     "Ka mošola go maru",
                     "Fahlego di tlo lebana",
@@ -221,7 +212,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Fahlego di tlo lebana",
                     "Ka mošola go maru",
                     "Fahlego di tlo lebana",
@@ -241,7 +231,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Fahlego di tlo lebana",
                     "Ka mošola go maru",
                     "Fahlego di tlo lebana",
@@ -261,7 +250,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Fahlego di tlo lebana",
                     "Ka mošola go maru",
                     "Fahlego di tlo lebana",
@@ -290,7 +278,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla, O etla ka pejana",
                     "O etla 'faseng lekhwi gape",
                     "Balelere bona ba",
@@ -310,7 +297,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla, O etla ka pejana",
                     "O etla 'faseng lekhwi gape",
                     "Balelere bona ba",
@@ -330,7 +316,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla, O etla ka pejana",
                     "O etla 'faseng lekhwi gape",
                     "Balelere bona ba",
@@ -350,7 +335,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla, O etla ka pejana",
                     "O etla 'faseng lekhwi gape",
                     "Balelere bona ba",
@@ -444,7 +428,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla! Jeso o etla",
                     "bona! O tla kgalalelong",
                     "O tla go buša ka phenyo",
@@ -464,7 +447,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla! Jeso o etla",
                     "bona! O tla kgalalelong",
                     "O tla go buša ka phenyo",
@@ -484,7 +466,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla! Jeso o etla",
                     "bona! O tla kgalalelong",
                     "O tla go buša ka phenyo",
@@ -504,7 +485,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla! Jeso o etla",
                     "bona! O tla kgalalelong",
                     "O tla go buša ka phenyo",
@@ -524,7 +504,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O etla! Jeso o etla",
                     "bona! O tla kgalalelong",
                     "O tla go buša ka phenyo",
@@ -553,7 +532,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjalo ka dinaledi",
                     "Phadimo mphapahlogong",
                     "Ka botse ba phadime",
@@ -573,7 +551,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjalo ka dinaledi",
                     "Phadimo mphapahlogong",
                     "Ka botse ba phadime",
@@ -593,7 +570,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjalo ka dinaledi",
                     "Phadimo mphapahlogong",
                     "Ka botse ba phadime",
@@ -622,7 +598,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Šetše ba....bitšwa",
                     "'Godi.....mong",
                     "Šetše ba..... bitšwa",
@@ -646,13 +621,12 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Šetše ba....bitšwa",
                     "'Godi.....mong",
                     "Šetše ba..... bitšwa",
                     "'Godi.... mong",
                     "Šetše ba.....bitšwa",
-                    "'Godi",
+                    "'Godi.....mong",
                     "Ba bitšwa",
                     "'Godimong ke tlo ba gona"
                 ]
@@ -670,13 +644,12 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Šetše ba....bitšwa",
                     "'Godi.....mong",
                     "Šetše ba..... bitšwa",
                     "'Godi.... mong",
                     "Šetše ba.....bitšwa",
-                    "'Godi",
+                    "'Godi.....mong",
                     "Ba bitšwa",
                     "'Godimong ke tlo ba gona"
                 ]
@@ -703,7 +676,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O e tla gape",
                     "O e tla gape",
                     "Jeso o e tla gape"
@@ -722,7 +694,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O e tla gape",
                     "O e tla gape",
                     "Jeso o e tla gape"
@@ -741,7 +712,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O e tla gape",
                     "O e tla gape",
                     "Jeso o e tla gape"
@@ -760,7 +730,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O e tla gape",
                     "O e tla gape",
                     "Jeso o e tla gape"
@@ -779,7 +748,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O e tla gape",
                     "O e tla gape",
                     "Jeso o e tla gape"
@@ -807,7 +775,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ee re tlo phuthega nokeng",
                     "Sedibeng se se botse botse",
                     "Le ba kgethwa re kopane",
@@ -827,7 +794,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ee re tlo phuthega nokeng",
                     "Sedibeng se se botse botse",
                     "Le ba kgethwa re kopane",
@@ -847,7 +813,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ee re tlo phuthega nokeng",
                     "Sedibeng se se botse botse",
                     "Le ba kgethwa re kopane",
@@ -867,7 +832,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ee re tlo phuthega nokeng",
                     "Sedibeng se se botse botse",
                     "Le ba kgethwa re kopane",
@@ -896,7 +860,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo latela M'phološi",
                     "yo'a ntshololetseng madi",
                     "Le ge bangwe ba go lathla",
@@ -916,7 +879,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo latela M'phološi",
                     "yo'a ntshololetseng madi",
                     "Le ge bangwe ba go lathla",
@@ -936,7 +898,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo latela M'phološi",
                     "yo'a ntshololetseng madi",
                     "Le ge bangwe ba go lathla",
@@ -956,7 +917,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo latela M'phološi",
                     "yo'a ntshololetseng madi",
                     "Le ge bangwe ba go lathla",
@@ -976,7 +936,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo latela M'phološi",
                     "yo'a ntshololetseng madi",
                     "Le ge bangwe ba go lathla",
@@ -1098,7 +1057,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke sweufale bjalo ka lehlwa",
                     "Nhlatšwe ke sweufale bjalo ka lehlwa"
                 ]
@@ -1116,7 +1074,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke sweufale bjalo ka lehlwa",
                     "Nhlatšwe ke sweufale bjalo ka lehlwa"
                 ]
@@ -1134,7 +1091,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke sweufale bjalo ka lehlwa",
                     "Nhlatšwe ke sweufale bjalo ka lehlwa"
                 ]
@@ -1152,7 +1108,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke sweufale bjalo ka lehlwa",
                     "Nhlatšwe ke sweufale bjalo ka lehlwa"
                 ]
@@ -1179,7 +1134,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Khenkhe! Khenkhe!",
                     "Khenkhe! Khenkhe!",
                     "\"E kwa e tshelwa",
@@ -1200,7 +1154,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Khenkhe! Khenkhe!",
                     "Khenkhe! Khenkhe!",
                     "\"E kwa e tshelwa",
@@ -1221,7 +1174,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Khenkhe! Khenkhe!",
                     "Khenkhe! Khenkhe!",
                     "\"E kwa e tshelwa",
@@ -1242,7 +1194,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Khenkhe! Khenkhe!",
                     "Khenkhe! Khenkhe!",
                     "\"E kwa e tshelwa",
@@ -1272,7 +1223,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso oa nthata",
                     "Ee oa nthata",
                     "Jeso oa nthata",
@@ -1292,7 +1242,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso oa nthata",
                     "Ee oa nthata",
                     "Jeso oa nthata",
@@ -1312,7 +1261,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso oa nthata",
                     "Ee oa nthata",
                     "Jeso oa nthata",
@@ -1332,7 +1280,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso oa nthata",
                     "Ee oa nthata",
                     "Jeso oa nthata",
@@ -1361,7 +1308,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A maotonyana a hlokomele",
                     "Se sengwe le se",
                     "sengwe ke direle Jeso"
@@ -1380,7 +1326,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A maotonyana a hlokomele",
                     "Se sengwe le se",
                     "sengwe ke direle Jeso"
@@ -1399,7 +1344,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A maotonyana a hlokomele",
                     "Se sengwe le se",
                     "sengwe ke direle Jeso"
@@ -1427,7 +1371,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke Modimo ya tletšego rato",
                     "Re ba 'Gwe re swana le Yena",
                     "Re thabišwa ke 'rato",
@@ -1449,7 +1392,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke Modimo ya tletšego rato",
                     "Re ba 'Gwe re swana le Yena",
                     "Re thabišwa ke 'rato",
@@ -1471,7 +1413,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke Modimo ya tletšego rato",
                     "Re ba 'Gwe re swana le Yena",
                     "Re thabišwa ke 'rato",
@@ -1502,7 +1443,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "tšwelelang Mašole, A re yeng ntweng!",
                     "Fapano sa Jeso se le ka pele"
                 ]
@@ -1520,7 +1460,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "tšwelelang Mašole, A re yeng ntweng!",
                     "Fapano sa Jeso se le ka pele"
                 ]
@@ -1539,7 +1478,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "tšwelelang Mašole, A re yeng ntweng!",
                     "Fapano sa Jeso se le ka pele"
                 ]
@@ -1557,7 +1495,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "tšwelelang Mašole, A re yeng ntweng!",
                     "Fapano sa Jeso se le ka pele"
                 ]
@@ -1575,7 +1512,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "tšwelelang Mašole, A re yeng ntweng!",
                     "Fapano sa Jeso se le ka pele"
                 ]
@@ -1690,7 +1626,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tshepile Morena",
                     "Konyana ya Khalefari",
                     "Ke khunama fapanong",
@@ -1710,7 +1645,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tshepile Morena",
                     "Konyana ya Khalefari",
                     "Ke khunama fapanong",
@@ -1730,7 +1664,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tshepile Morena",
                     "Konyana ya Khalefari",
                     "Ke khunama fapanong",
@@ -1750,7 +1683,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tshepile Morena",
                     "Konyana ya Khalefari",
                     "Ke khunama fapanong",
@@ -1770,7 +1702,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tshepile Morena",
                     "Konyana ya Khalefari",
                     "Ke khunama fapanong",
@@ -1799,7 +1730,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le nna le nna o",
                     "rothisetse le nna"
                 ]
@@ -1817,7 +1747,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le nna le nna o",
                     "rothisetse le nna"
                 ]
@@ -1835,7 +1764,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le nna le nna o",
                     "rothisetse le nna"
                 ]
@@ -1853,7 +1781,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le nna le nna o",
                     "rothisetse le nna"
                 ]
@@ -1880,7 +1807,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O ntlatše bjale hle",
                     "Jeso tla o ntlatše bjale",
                     "Ntlatše ka bogona bja Gago",
@@ -1900,7 +1826,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O ntlatše bjale hle",
                     "Jeso tla o ntlatše bjale",
                     "Ntlatše ka bogona bja Gago",
@@ -1920,7 +1845,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O ntlatše bjale hle",
                     "Jeso tla o ntlatše bjale",
                     "Ntlatše ka bogona bja Gago",
@@ -1940,7 +1864,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O ntlatše bjale hle",
                     "Jeso tla o ntlatše bjale",
                     "Ntlatše ka bogona bja Gago",
@@ -1969,7 +1892,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kea go hloka Jeso",
                     "ka dinako tšohle",
                     "Ntshegofatse Mpholosi",
@@ -1989,7 +1911,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kea go hloka Jeso",
                     "ka dinako tšohle",
                     "Ntshegofatse Mpholosi",
@@ -2009,7 +1930,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kea go hloka Jeso",
                     "ka dinako tšohle",
                     "Ntshegofatse Mpholosi",
@@ -2029,7 +1949,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kea go hloka Jeso",
                     "ka dinako tšohle",
                     "Ntshegofatse Mpholosi",
@@ -2049,7 +1968,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kea go hloka Jeso",
                     "ka dinako tšohle",
                     "Ntshegofatse Mpholosi",
@@ -2078,7 +1996,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke a neela……",
                     "Ke a neela………",
                     "Tšohle go wena",
@@ -2098,7 +2015,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke a neela……",
                     "Ke a neela………",
                     "Tšohle go wena",
@@ -2118,7 +2034,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke a neela……",
                     "Ke a neela………",
                     "Tšohle go wena",
@@ -2138,7 +2053,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke a neela……",
                     "Ke a neela………",
                     "Tšohle go wena",
@@ -2236,7 +2150,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aleluya! Motumišeng!",
                     "Aleluya! Amen!",
                     "Aleluya! Aleluya!",
@@ -2256,7 +2169,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aleluya! Motumišeng!",
                     "Aleluya! Amen!",
                     "Aleluya! Aleluya!",
@@ -2276,7 +2188,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aleluya! Motumišeng!",
                     "Aleluya! Amen!",
                     "Aleluya! Aleluya!",
@@ -2296,7 +2207,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aleluya! Motumišeng!",
                     "Aleluya! Amen!",
                     "Aleluya! Aleluya!",
@@ -2316,7 +2226,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aleluya! Motumišeng!",
                     "Aleluya! Amen!",
                     "Aleluya! Aleluya!",
@@ -2453,7 +2362,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a halalela Morena Modimo!",
                     "Legodimo le lefase",
                     "Di tumiša wena",
@@ -2474,7 +2382,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a halalela Morena Modimo!",
                     "Legodimo le lefase",
                     "Di tumiša wena",
@@ -2494,7 +2401,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a halalela Morena Modimo!",
                     "Legodimo le lefase",
                     "Di tumiša wena",
@@ -2514,7 +2420,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a halalela Morena Modimo!",
                     "Legodimo le lefase",
                     "Di tumiša wena",
@@ -2592,7 +2497,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leswika………..Le nang le maatla",
                     "Morithi …..ge go fiša",
                     "Ketapele………..Ya rena",
@@ -2612,7 +2516,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leswika………..Le nang le maatla",
                     "Morithi …..ge go fiša",
                     "Ketapele………..Ya rena",
@@ -2632,7 +2535,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leswika………..Le nang le maatla",
                     "Morithi …..ge go fiša",
                     "Ketapele………..Ya rena",
@@ -2652,7 +2554,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leswika………..Le nang le maatla",
                     "Morithi …..ge go fiša",
                     "Ketapele………..Ya rena",
@@ -2681,7 +2582,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O nketapele Morena",
                     "Ka seatla o a nhlatla",
                     "Ke latele tshepagalong",
@@ -2701,7 +2601,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O nketapele Morena",
                     "Ka seatla o a nhlatla",
                     "Ke latele tshepagalong",
@@ -2721,7 +2620,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O nketapele Morena",
                     "Ka seatla o a nhlatla",
                     "Ke latele tshepagalong",
@@ -2741,7 +2639,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O nketapele Morena",
                     "Ka seatla o a nhlatla",
                     "Ke latele tshepagalong",
@@ -2770,7 +2667,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Goloki…………. Le moyeng",
                     "Golokile, \"lokile moyeng"
                 ]
@@ -2788,7 +2684,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Goloki…………. Le moyeng",
                     "Golokile, \"lokile moyeng"
                 ]
@@ -2806,7 +2701,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Goloki…………. Le moyeng",
                     "Golokile, \"lokile moyeng"
                 ]
@@ -2824,7 +2718,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Goloki…………. Le moyeng",
                     "Golokile, \"lokile moyeng"
                 ]
@@ -2851,7 +2744,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ithekge, ithekge",
                     "o bolokege go tšohle",
                     "Ithekge, Ithekge",
@@ -2871,7 +2763,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ithekge, ithekge",
                     "o bolokege go tšohle",
                     "Ithekge, Ithekge",
@@ -2892,7 +2783,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ithekge, ithekge",
                     "o bolokege go tšohle",
                     "Ithekge, Ithekge",
@@ -3019,7 +2909,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A re emeng leswikeng",
                     "Re tsepame swikeng",
                     "Swika leo e leng Kreste",
@@ -3041,7 +2930,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A re emeng leswikeng",
                     "Re tsepame swikeng",
                     "Swika leo e leng Kreste",
@@ -3063,7 +2951,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A re emeng leswikeng",
                     "Re tsepame swikeng",
                     "Swika leo e leng Kreste",
@@ -3094,7 +2981,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go Jeso swika ke eme",
                     "Lešabašaba le fele",
                     "Lešabašaba le fele"
@@ -3113,7 +2999,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go Jeso swika ke eme",
                     "Lešabašaba le fele",
                     "Lešabašaba le fele"
@@ -3132,7 +3017,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go Jeso swika ke eme",
                     "Lešabašaba le fele",
                     "Lešabašaba le fele"
@@ -3151,7 +3035,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go Jeso swika ke eme",
                     "Lešabašaba le fele",
                     "Lešabašaba le fele"
@@ -3179,7 +3062,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tshep 'o theetse ga",
                     "go tselapedi ya go thaba",
                     "Moreneng, Ka ntle le go mokwa"
@@ -3198,7 +3080,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tshep 'o theetse ga",
                     "go tselapedi ya go thaba",
                     "Moreneng, Ka ntle le go mokwa"
@@ -3217,7 +3098,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tshep 'o theetse ga",
                     "go tselapedi ya go thaba",
                     "Moreneng, Ka ntle le go mokwa"
@@ -3236,7 +3116,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tshep 'o theetse ga",
                     "go tselapedi ya go thaba",
                     "Moreneng, Ka ntle le go mokwa"
@@ -3255,7 +3134,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tshep 'o theetse ga",
                     "go tselapedi ya go thaba",
                     "Moreneng, Ka ntle le go mokwa"
@@ -3283,7 +3161,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re kopa.........ne, Re Kopane",
                     "Re kopane naong tša Jeso",
                     "Re kopa.......ne, Re kopane",
@@ -3303,7 +3180,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re kopa.........ne, Re Kopane",
                     "Re kopane naong tša Jeso",
                     "Re kopa.......ne, Re kopane",
@@ -3323,7 +3199,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re kopa.........ne, Re Kopane",
                     "Re kopane naong tša Jeso",
                     "Re kopa.......ne, Re kopane",
@@ -3343,7 +3218,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re kopa.........ne, Re Kopane",
                     "Re kopane naong tša Jeso",
                     "Re kopa.......ne, Re kopane",
@@ -3372,7 +3246,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Godimong ga go kgaoganwe",
                     "Ga go laelanwe",
                     "Go lona fase le botse",
@@ -3392,7 +3265,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Godimong ga go kgaoganwe",
                     "Ga go laelanwe",
                     "Go lona fase le botse",
@@ -3412,7 +3284,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Godimong ga go kgaoganwe",
                     "Ga go laelanwe",
                     "Go lona fase le botse",
@@ -3490,7 +3361,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo.... motseba",
                     "Ke tlo motseba",
                     "Ke phološitšwe",
@@ -3515,7 +3385,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo.... motseba",
                     "Ke tlo motseba",
                     "Ke phološitšwe",
@@ -3538,7 +3407,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo.... motseba",
                     "Ke tlo motseba",
                     "Ke phološitšwe",
@@ -3569,7 +3437,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mphe Bebele ntšu le lekgethwa",
                     "Sedi la gago le tlo ntlhatla",
                     "Ke ditshepišo molao le lerato",
@@ -3589,7 +3456,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mphe Bebele ntšu le lekgethwa",
                     "Sedi la gago le tlo ntlhatla",
                     "Ke ditshepišo molao le lerato",
@@ -3609,7 +3475,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mphe Bebele ntšu le lekgethwa",
                     "Sedi la gago le tlo ntlhatla",
                     "Ke ditshepišo molao le lerato",
@@ -3629,7 +3494,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mphe Bebele ntšu le lekgethwa",
                     "Sedi la gago le tlo ntlhatla",
                     "Ke ditshepišo molao le lerato",
@@ -3653,7 +3517,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke mantšu a mabotse bjang, Mantšu a makatšang",
                     "Ke mantšu a mabotse bjang, Mantšu a bophelo"
                 ]
@@ -3670,7 +3533,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke mantšu a mabotse bjang, Mantšu a makatšang",
                     "Ke mantšu a mabotse bjang, Mantšu a bophelo"
                 ]
@@ -3687,7 +3549,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke mantšu a mabotse bjang, Mantšu a makatšang",
                     "Ke mantšu a mabotse bjang, Mantšu a bophelo"
                 ]
@@ -3714,7 +3575,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ikhutša nageng",
                     "E botse ya thabo",
                     "Ka mošola ka bosafeleng",
@@ -3735,7 +3595,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ikhutša nageng",
                     "E botse ya thabo",
                     "Ka mošola ka bosafeleng",
@@ -3756,7 +3615,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ikhutša nageng",
                     "E botse ya thabo",
                     "Ka mošola ka bosafeleng",
@@ -3777,7 +3635,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ikhutša nageng",
                     "E botse ya thabo",
                     "Ka mošola ka bosafeleng",
@@ -3807,7 +3664,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... tha ... bo, kwa pele",
                     "Le....tha .... bo, Lesafeleng",
                     "Go se fele ga thabo",
@@ -3827,7 +3683,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... tha ... bo, kwa pele",
                     "Le....tha .... bo, Lesafeleng",
                     "Go se fele ga thabo",
@@ -3847,7 +3702,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... tha ... bo, kwa pele",
                     "Le....tha .... bo, Lesafeleng",
                     "Go se fele ga thabo",
@@ -3876,7 +3730,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgauswi gae",
                     "Legae la ka",
                     "Kgauswi gae lehono",
@@ -3896,7 +3749,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgauswi gae",
                     "Legae la ka",
                     "Kgauswi gae lehono",
@@ -3916,7 +3768,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgauswi gae",
                     "Legae la ka",
                     "Kgauswi gae lehono",
@@ -3945,7 +3796,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monate kua pele",
                     "re kopane faseng le botse",
                     "Monate kua pele",
@@ -3965,7 +3815,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monate kua pele",
                     "re kopane faseng le botse",
                     "Monate kua pele",
@@ -3985,7 +3834,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monate kua pele",
                     "re kopane faseng le botse",
                     "Monate kua pele",
@@ -4012,7 +3860,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re ya go rapela Morena Jeso",
                     "Ka ‘rato le moya re kolobetše"
                 ]
@@ -4028,7 +3875,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re ya go rapela Morena Jeso",
                     "Ka ‘rato le moya re kolobetše"
                 ]
@@ -4044,7 +3890,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re ya go rapela Morena Jeso",
                     "Ka ‘rato le moya re kolobetše"
                 ]
@@ -4060,7 +3905,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re ya go rapela Morena Jeso",
                     "Ka ‘rato le moya re kolobetše"
                 ]
@@ -4189,7 +4033,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntlhatšwe ka ntle le ka teng",
                     "ka mollo",
                     "Le ge go le bjang ga ke gane",
@@ -4210,7 +4053,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntlhatšwe ka ntle le ka teng",
                     "ka mollo",
                     "Le ge go le bjang ga ke gane",
@@ -4232,7 +4074,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntlhatšwe ka ntle le ka teng",
                     "ka mollo",
                     "Le ge go le bjang ga ke gane",
@@ -4253,7 +4094,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntlhatšwe ka ntle le ka teng",
                     "ka mollo",
                     "Le ge go le bjang ga ke gane",
@@ -4283,7 +4123,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O hlapile mading ",
                     "Mading a hlapišang le moya?",
                     "Aparo tša gago dibja ka lehlwa",
@@ -4303,7 +4142,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O hlapile mading ",
                     "Mading a hlapišang le moya?",
                     "Aparo tša gago dibja ka lehlwa",
@@ -4323,7 +4161,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O hlapile mading ",
                     "Mading a hlapišang le moya?",
                     "Aparo tša gago dibja ka lehlwa",
@@ -4343,7 +4180,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O hlapile mading ",
                     "Mading a hlapišang le moya?",
                     "Aparo tša gago dibja ka lehlwa",
@@ -4370,7 +4206,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke etla, ke eta; Ke tšwa tahlegong",
                     "Moulele atla tša go, Jeso nkamogele"
                 ]
@@ -4386,7 +4221,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke etla, ke eta; Ke tšwa tahlegong",
                     "Moulele atla tša go, Jeso nkamogele"
                 ]
@@ -4402,7 +4236,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke etla, ke eta; Ke tšwa tahlegong",
                     "Moulele atla tša go, Jeso nkamogele"
                 ]
@@ -4418,7 +4251,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke etla, ke eta; Ke tšwa tahlegong",
                     "Moulele atla tša go, Jeso nkamogele"
                 ]
@@ -4434,7 +4266,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke etla, ke eta; Ke tšwa tahlegong",
                     "Moulele atla tša go, Jeso nkamogele"
                 ]
@@ -4461,7 +4292,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le ge e le mang, Le ge e le mang",
                     "A botšeng bohle baleng mo lefaseng",
                     "Tate wa ba bitša 'O re batle gae'",
@@ -4481,7 +4311,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le ge e le mang, Le ge e le mang",
                     "A botšeng bohle baleng mo lefaseng",
                     "Tate wa ba bitša 'O re batle gae'",
@@ -4501,7 +4330,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le ge e le mang, Le ge e le mang",
                     "A botšeng bohle baleng mo lefaseng",
                     "Tate wa ba bitša 'O re batle gae'",
@@ -4685,7 +4513,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bogolo ka Jeso",
                     "Bogolo ka Jeso",
                     "Ke bone poloko ya 'Gwe",
@@ -4705,7 +4532,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bogolo ka Jeso",
                     "Bogolo ka Jeso",
                     "Ke bone poloko ya 'Gwe",
@@ -4725,7 +4551,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bogolo ka Jeso",
                     "Bogolo ka Jeso",
                     "Ke bone poloko ya 'Gwe",
@@ -4745,7 +4570,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bogolo ka Jeso",
                     "Bogolo ka Jeso",
                     "Ke bone poloko ya 'Gwe",
@@ -4820,7 +4644,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Al ke a bohlokwa a",
                     "nhlatšwago bošweu",
                     "Ga ke tsebe se sengwe",
@@ -4840,7 +4663,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Al ke a bohlokwa a",
                     "nhlatšwago bošweu",
                     "Ga ke tsebe se sengwe",
@@ -4860,7 +4682,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Al ke a bohlokwa a",
                     "nhlatšwago bošweu",
                     "Ga ke tsebe se sengwe",
@@ -4880,7 +4701,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Al ke a bohlokwa a",
                     "nhlatšwago bošweu",
                     "Ga ke tsebe se sengwe",
@@ -4900,7 +4720,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Al ke a bohlokwa a",
                     "nhlatšwago bošweu",
                     "Ga ke tsebe se sengwe",
@@ -4929,7 +4748,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Tsebiša Jeso",
                     "ke mogwera 'potego",
                     "Ga go mogwera goba ngwaneno",
@@ -4949,7 +4767,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Tsebiša Jeso",
                     "ke mogwera 'potego",
                     "Ga go mogwera goba ngwaneno",
@@ -4969,7 +4786,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Tsebiša Jeso",
                     "ke mogwera 'potego",
                     "Ga go mogwera goba ngwaneno",
@@ -4989,7 +4805,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Tsebiša Jeso",
                     "ke mogwera 'potego",
                     "Ga go mogwera goba ngwaneno",
@@ -5018,7 +4833,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Jeso kea mo tshepa",
                     "Ke mo lekile gohle",
                     "Jeso, Jeso ya rategang",
@@ -5038,7 +4852,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Jeso kea mo tshepa",
                     "Ke mo lekile gohle",
                     "Jeso, Jeso ya rategang",
@@ -5058,7 +4871,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Jeso kea mo tshepa",
                     "Ke mo lekile gohle",
                     "Jeso, Jeso ya rategang",
@@ -5078,7 +4890,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Jeso kea mo tshepa",
                     "Ke mo lekile gohle",
                     "Jeso, Jeso ya rategang",
@@ -5107,7 +4918,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monate tšatši le Jeso",
                     "A nhlatswitšeng sebeng",
                     "O nthutile go rapela le",
@@ -5129,7 +4939,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monate tšatši le Jeso",
                     "A nhlatswitšeng sebeng",
                     "O nthutile go rapela le",
@@ -5151,7 +4960,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Monate tšatši le Jeso",
                     "A nhlatswitšeng sebeng",
                     "O nthutile go rapela le",
@@ -5184,7 +4992,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re ya kua Sione",
                     "O mobotse Sione",
                     "Re ya legodimong",
@@ -5206,7 +5013,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re ya kua Sione",
                     "O mobotse Sione",
                     "Re ya legodimong",
@@ -5228,7 +5034,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re ya kua Sione",
                     "O mobotse Sione",
                     "Re ya legodimong",
@@ -5250,7 +5055,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re ya kua Sione",
                     "O mobotse Sione",
                     "Re ya legodimong",
@@ -5279,7 +5083,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Reko..……..lotšwe",
                     "Ke re kolotšwe ka madi",
                     "Rekolotšwe, Rekolotšwe",
@@ -5299,7 +5102,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Reko..……..lotšwe",
                     "Ke re kolotšwe ka madi",
                     "Rekolotšwe, Rekolotšwe",
@@ -5319,7 +5121,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Reko..……..lotšwe",
                     "Ke re kolotšwe ka madi",
                     "Rekolotšwe, Rekolotšwe",
@@ -5339,7 +5140,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Reko..……..lotšwe",
                     "Ke re kolotšwe ka madi",
                     "Rekolotšwe, Rekolotšwe",
@@ -5359,7 +5159,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Reko..……..lotšwe",
                     "Ke re kolotšwe ka madi",
                     "Rekolotšwe, Rekolotšwe",
@@ -5388,7 +5187,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ikhutša sedibeng",
                     "Re ikhutše sedibeng",
                     "Re ikhutše sedibeng",
@@ -5408,7 +5206,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ikhutša sedibeng",
                     "Re ikhutše sedibeng",
                     "Re ikhutše sedibeng",
@@ -5428,7 +5225,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ikhutša sedibeng",
                     "Re ikhutše sedibeng",
                     "Re ikhutše sedibeng",
@@ -5457,7 +5253,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlo phutha mabele sebokeng",
                     "Mme mmoko o tlo gašagana",
                     "Re tho go ema bjang kahlolong",
@@ -5477,7 +5272,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlo phutha mabele sebokeng",
                     "Mme mmoko o tlo gašagana",
                     "Re tho go ema bjang kahlolong",
@@ -5497,7 +5291,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlo phutha mabele sebokeng",
                     "Mme mmoko o tlo gašagana",
                     "Re tho go ema bjang kahlolong",
@@ -5517,7 +5310,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlo phutha mabele sebokeng",
                     "Mme mmoko o tlo gašagana",
                     "Re tho go ema bjang kahlolong",
@@ -5537,7 +5329,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlo phutha mabele sebokeng",
                     "Mme mmoko o tlo gašagana",
                     "Re tho go ema bjang kahlolong",
@@ -5570,7 +5361,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A ke ngwadilwe nna",
                     "Bukung tšweu ya 'Go",
                     "Bukung kgolo ya mmušo",
@@ -5594,7 +5384,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A ke ngwadilwe nna",
                     "Bukung tšweu ya 'Go",
                     "Bukung kgolo ya mmušo",
@@ -5618,7 +5407,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A ke ngwadilwe nna",
                     "Bukung tšweu ya 'Go",
                     "Bukung kgolo ya mmušo",
@@ -5647,7 +5435,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ema bjang tšatšing leo?",
                     "Re tlo ema bjang tšatšing leo?",
                     "Na re tlo humana, Re ahlola?",
@@ -5667,7 +5454,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ema bjang tšatšing leo?",
                     "Re tlo ema bjang tšatšing leo?",
                     "Na re tlo humana, Re ahlola?",
@@ -5687,7 +5473,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tlo ema bjang tšatšing leo?",
                     "Re tlo ema bjang tšatšing leo?",
                     "Na re tlo humana, Re ahlola?",
@@ -5716,7 +5501,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohlang Kgoši e tsena",
                     "Nwanešo o reng",
                     "Go tloba bjang go wean le nna",
@@ -5736,7 +5520,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohlang Kgoši e tsena",
                     "Nwanešo o reng",
                     "Go tloba bjang go wean le nna",
@@ -5756,7 +5539,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohlang Kgoši e tsena",
                     "Nwanešo o reng",
                     "Go tloba bjang go wean le nna",
@@ -5776,7 +5558,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohlang Kgoši e tsena",
                     "Nwanešo o reng",
                     "Go tloba bjang go wean le nna",
@@ -5796,7 +5577,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohlang Kgoši e tsena",
                     "Nwanešo o reng",
                     "Go tloba bjang go wean le nna",
@@ -5816,7 +5596,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohlang Kgoši e tsena",
                     "Nwanešo o reng",
                     "Go tloba bjang go wean le nna",
@@ -5845,7 +5624,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re rwele ngata, Re rwele ngata",
                     "Re tlo thaba ge re rwele dingata",
                     "Re rwele ngata, re rwele ngata",
@@ -5865,7 +5643,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re rwele ngata, Re rwele ngata",
                     "Re tlo thaba ge re rwele dingata",
                     "Re rwele ngata, re rwele ngata",
@@ -5885,7 +5662,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re rwele ngata, Re rwele ngata",
                     "Re tlo thaba ge re rwele dingata",
                     "Re rwele ngata, re rwele ngata",
@@ -5914,7 +5690,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Di tsenyeng, di tsenyeng",
                     "di tšwa kgole dithabeng",
                     "Di tsenyeng, di tsenyeng",
@@ -5934,7 +5709,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Di tsenyeng, di tsenyeng",
                     "di tšwa kgole dithabeng",
                     "Di tsenyeng, di tsenyeng",
@@ -5954,7 +5728,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Di tsenyeng, di tsenyeng",
                     "di tšwa kgole dithabeng",
                     "Di tsenyeng, di tsenyeng",
@@ -5983,7 +5756,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Phološang bao ba hwago",
                     "Ba hlokomeleng",
                     "Jeso o kgaugelo",
@@ -6003,7 +5775,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Phološang bao ba hwago",
                     "Ba hlokomeleng",
                     "Jeso o kgaugelo",
@@ -6023,7 +5794,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Phološang bao ba hwago",
                     "Ba hlokomeleng",
                     "Jeso o kgaugelo",
@@ -6043,7 +5813,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Phološang bao ba hwago",
                     "Ba hlokomeleng",
                     "Jeso o kgaugelo",
@@ -6076,7 +5845,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke rata go e bušeletša",
                     "Tshwantšhetšo e kgethwa",
                     "Tshantšhetšo 'a kgale-kgale",
@@ -6100,7 +5868,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke rata go e bušeletša",
                     "Tshwantšhetšo e kgethwa",
                     "Tshantšhetšo 'a kgale-kgale",
@@ -6124,7 +5891,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke rata go e bušeletša",
                     "Tshwantšhetšo e kgethwa",
                     "Tshantšhetšo 'a kgale-kgale",
@@ -6148,7 +5914,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke rata go e bušeletša",
                     "Tshwantšhetšo e kgethwa",
                     "Tshantšhetšo 'a kgale-kgale",
@@ -6177,7 +5942,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "E yang kgole, kua Dithabeng tšohle",
                     "(E yang kgole.. kwa.. dithabeng.. tšohle)",
                     "Le ba bušeng",
@@ -6201,7 +5965,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "E yang kgole, kua Dithabeng tšohle",
                     "(E yang kgole.. kwa.. dithabeng.. tšohle)",
                     "Le ba bušeng",
@@ -6225,7 +5988,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "E yang kgole, kua Dithabeng tšohle",
                     "(E yang kgole.. kwa.. dithabeng.. tšohle)",
                     "Le ba bušeng",
@@ -6258,7 +6020,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena roma babuni",
                     ", Re ya go rapela",
                     "Ba romele batlo go",
@@ -6278,7 +6039,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena roma babuni",
                     ", Re ya go rapela",
                     "Ba romele batlo go",
@@ -6298,7 +6058,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena roma babuni",
                     ", Re ya go rapela",
                     "Ba romele batlo go",
@@ -6327,7 +6086,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Šomang....Kodumelang",
                     "Šomang....Kodumelang",
                     "A re tshepeng Morena a be a fihle"
@@ -6346,7 +6104,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Šomang....Kodumelang",
                     "Šomang....Kodumelang",
                     "A re tshepeng Morena a be a fihle"
@@ -6365,7 +6122,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Šomang....Kodumelang",
                     "Šomang....Kodumelang",
                     "A re tshepeng Morena a be a fihle"
@@ -6384,7 +6140,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Šomang....Kodumelang",
                     "Šomang....Kodumelang",
                     "A re tshepeng Morena a be a fihle"
@@ -6502,7 +6257,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le'a halalela",
                     "Le'a halalela",
                     "leina la Mophološi",
@@ -6524,7 +6278,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le'a halalela",
                     "Le'a halalela",
                     "leina la Mophološi",
@@ -6546,7 +6299,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le'a halalela",
                     "Le'a halalela",
                     "leina la Mophološi",
@@ -6738,7 +6490,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tate re tla go wena, Se re lahle",
                     "Re tla re fokola, Re kwe hle"
                 ]
@@ -6756,7 +6507,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tate re tla go wena, Se re lahle",
                     "Re tla re fokola, Re kwe hle"
                 ]
@@ -6774,7 +6524,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tate re tla go wena, Se re lahle",
                     "Re tla re fokola, Re kwe hle"
                 ]
@@ -6799,7 +6548,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Jeso, E kwa thapelo",
                     "Ge o etela ba bangwe, Se mphete le nna"
                 ]
@@ -6815,7 +6563,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Jeso, E kwa thapelo",
                     "Ge o etela ba bangwe, Se mphete le nna"
                 ]
@@ -6831,7 +6578,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Jeso, E kwa thapelo",
                     "Ge o etela ba bangwe, Se mphete le nna"
                 ]
@@ -6847,7 +6593,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso, Jeso, E kwa thapelo",
                     "Ge o etela ba bangwe, Se mphete le nna"
                 ]
@@ -6972,7 +6717,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Letang le rapele",
                     "Leta rapela, rapela",
                     "Letang leswiswing",
@@ -6993,7 +6737,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Letang le rapele",
                     "Leta rapela, rapela",
                     "Letang leswiswing",
@@ -7014,7 +6757,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Letang le rapele",
                     "Leta rapela, rapela",
                     "Letang leswiswing",
@@ -7044,7 +6786,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le amogele le tšatši la Sabata",
                     "Le amogele le tšatši la Sabata"
                 ]
@@ -7062,7 +6803,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le amogele le tšatši la Sabata",
                     "Le amogele le tšatši la Sabata"
                 ]
@@ -7080,7 +6820,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le amogele le tšatši la Sabata",
                     "Le amogele le tšatši la Sabata"
                 ]
@@ -7146,7 +6885,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sabata e botse",
                     "Sabata e botse",
                     "Pelo ya ka e thabile",
@@ -7166,7 +6904,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sabata e botse",
                     "Sabata e botse",
                     "Pelo ya ka e thabile",
@@ -7186,7 +6923,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sabata e botse",
                     "Sabata e botse",
                     "Pelo ya ka e thabile",
@@ -7368,7 +7104,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale nka se boife",
                     "O nkiša moo a ratago",
                     "Ke tlo yak e sa belaele",
@@ -7387,7 +7122,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale nka se boife",
                     "O nkiša moo a ratago",
                     "Ke tlo yak e sa belaele",
@@ -7407,7 +7141,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale nka se boife",
                     "O nkiša moo a ratago",
                     "Ke tlo yak e sa belaele",
@@ -7427,7 +7160,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale nka se boife",
                     "O nkiša moo a ratago",
                     "Ke tlo yak e sa belaele",
@@ -7556,7 +7288,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a bitša, O a bitša",
                     "(O a bitšwa, o a bitšwa lehono)",
                     "Jeso o bitša ka bonolo leholno le"
@@ -7575,7 +7306,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a bitša, O a bitša",
                     "(O a bitšwa, o a bitšwa lehono)",
                     "Jeso o bitša ka bonolo leholno le"
@@ -7594,7 +7324,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a bitša, O a bitša",
                     "(O a bitšwa, o a bitšwa lehono)",
                     "Jeso o bitša ka bonolo leholno le"
@@ -7613,7 +7342,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a bitša, O a bitša",
                     "(O a bitšwa, o a bitšwa lehono)",
                     "Jeso o bitša ka bonolo leholno le"
@@ -7703,7 +7431,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Buša o tswalwe leswa",
                     "Ruri! Ruri! Ke re go wena",
                     "'Buša o tswalwe leswa'"
@@ -7722,7 +7449,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Buša o tswalwe leswa",
                     "Ruri! Ruri! Ke re go wena",
                     "'Buša o tswalwe leswa'"
@@ -7741,7 +7467,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Buša o tswalwe leswa",
                     "Ruri! Ruri! Ke re go wena",
                     "'Buša o tswalwe leswa'"
@@ -7766,7 +7491,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke lelerile kgole dithabeng",
                     "Lelerile kgole le gae",
                     "O nkuke o mpušetše gae",
@@ -7786,7 +7510,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke lelerile kgole dithabeng",
                     "Lelerile kgole le gae",
                     "O nkuke o mpušetše gae",
@@ -7806,7 +7529,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke lelerile kgole dithabeng",
                     "Lelerile kgole le gae",
                     "O nkuke o mpušetše gae",
@@ -7826,7 +7548,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke lelerile kgole dithabeng",
                     "Lelerile kgole le gae",
                     "O nkuke o mpušetše gae",
@@ -7854,7 +7575,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A ka go lokolla",
                     "O na le phološo",
                     "Wena hle ngwanešo",
@@ -7878,7 +7598,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A ka go lokolla",
                     "O na le phološo",
                     "Wena hle ngwanešo",
@@ -7902,7 +7621,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A ka go lokolla",
                     "O na le phološo",
                     "Wena hle ngwanešo",
@@ -7931,7 +7649,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re aga leswikeng",
                     "'Swika la nnete",
                     "Re tho aga leswikeng ruri",
@@ -7951,7 +7668,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re aga leswikeng",
                     "'Swika la nnete",
                     "Re tho aga leswikeng ruri",
@@ -7971,7 +7687,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re aga leswikeng",
                     "'Swika la nnete",
                     "Re tho aga leswikeng ruri",
@@ -8004,7 +7719,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mpotše taba ka ga Jeso",
                     "E ngwale pelong ya ka",
                     "Mpotše mafoko 'a mabose",
@@ -8028,7 +7742,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mpotše taba ka ga Jeso",
                     "E ngwale pelong ya ka",
                     "Mpotše mafoko 'a mabose",
@@ -8052,7 +7765,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mpotše taba ka ga Jeso",
                     "E ngwale pelong ya ka",
                     "Mpotše mafoko 'a mabose",
@@ -8081,7 +7793,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leratong ka Bonolo o a bitšwa",
                     "Tla motimedi, Tla keno go nna",
                     "Ke mmona a eme Ka kgotlelelong",
@@ -8101,7 +7812,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leratong ka Bonolo o a bitšwa",
                     "Tla motimedi, Tla keno go nna",
                     "Ke mmona a eme Ka kgotlelelong",
@@ -8121,7 +7831,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leratong ka Bonolo o a bitšwa",
                     "Tla motimedi, Tla keno go nna",
                     "Ke mmona a eme Ka kgotlelelong",
@@ -8147,7 +7856,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O lekanyeditšwe ke Morena",
                     "Mme o bofefo",
                     "O lekilwe ka molao",
@@ -8167,7 +7875,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O lekanyeditšwe ke Morena",
                     "Mme o bofefo",
                     "O lekilwe ka molao",
@@ -8187,7 +7894,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O lekanyeditšwe ke Morena",
                     "Mme o bofefo",
                     "O lekilwe ka molao",
@@ -8213,7 +7919,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba šegofaditšwe ba dirago melao",
                     "Ke ba mašoto, ba masoto",
                     "Ba šegofaditšwe ba dirago molao",
@@ -8233,7 +7938,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba šegofaditšwe ba dirago melao",
                     "Ke ba mašoto, ba masoto",
                     "Ba šegofaditšwe ba dirago molao",
@@ -8253,7 +7957,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba šegofaditšwe ba dirago melao",
                     "Ke ba mašoto, ba masoto",
                     "Ba šegofaditšwe ba dirago molao",
@@ -8279,7 +7982,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o tseba mathat 'a rena",
                     "O thuša matšatši ohle",
                     "Ga go mogwer 'a swanang le Jeso",
@@ -8299,7 +8001,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o tseba mathat 'a rena",
                     "O thuša matšatši ohle",
                     "Ga go mogwer 'a swanang le Jeso",
@@ -8319,7 +8020,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o tseba mathat 'a rena",
                     "O thuša matšatši ohle",
                     "Ga go mogwer 'a swanang le Jeso",
@@ -8339,7 +8039,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o tseba mathat 'a rena",
                     "O thuša matšatši ohle",
                     "Ga go mogwer 'a swanang le Jeso",
@@ -8359,7 +8058,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o tseba mathat 'a rena",
                     "O thuša matšatši ohle",
                     "Ga go mogwer 'a swanang le Jeso",
@@ -8385,7 +8083,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bo gona le bophelo",
                     "Go leba sefapanong",
                     "Poloko, Tokologo",
@@ -8405,7 +8102,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bo gona le bophelo",
                     "Go leba sefapanong",
                     "Poloko, Tokologo",
@@ -8425,7 +8121,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bo gona le bophelo",
                     "Go leba sefapanong",
                     "Poloko, Tokologo",
@@ -8454,7 +8149,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlang gae, tlang gae",
                     "Lena ba tennweng, Tlang gae",
                     "Ka bonolo Jeso o a go bitša",
@@ -8474,7 +8168,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlang gae, tlang gae",
                     "Lena ba tennweng, Tlang gae",
                     "Ka bonolo Jeso o a go bitša",
@@ -8494,7 +8187,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlang gae, tlang gae",
                     "Lena ba tennweng, Tlang gae",
                     "Ka bonolo Jeso o a go bitša",
@@ -8514,7 +8206,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlang gae, tlang gae",
                     "Lena ba tennweng, Tlang gae",
                     "Ka bonolo Jeso o a go bitša",
@@ -8543,7 +8234,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O mokakang mogau wona",
                     "Sefero se buletšwe nna",
                     "Le nna, le nna?",
@@ -8563,7 +8253,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O mokakang mogau wona",
                     "Sefero se buletšwe nna",
                     "Le nna, le nna?",
@@ -8583,7 +8272,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O mokakang mogau wona",
                     "Sefero se buletšwe nna",
                     "Le nna, le nna?",
@@ -8603,7 +8291,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O mokakang mogau wona",
                     "Sefero se buletšwe nna",
                     "Le nna, le nna?",
@@ -8632,7 +8319,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O opelwa Godimong",
                     "O ratwa le ke batho",
                     "Monate go Opelwa",
@@ -8652,7 +8338,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O opelwa Godimong",
                     "O ratwa le ke batho",
                     "Monate go Opelwa",
@@ -8672,7 +8357,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O opelwa Godimong",
                     "O ratwa le ke batho",
                     "Monate go Opelwa",
@@ -8692,7 +8376,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O opelwa Godimong",
                     "O ratwa le ke batho",
                     "Monate go Opelwa",
@@ -8712,7 +8395,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O opelwa Godimong",
                     "O ratwa le ke batho",
                     "Monate go Opelwa",
@@ -8803,7 +8485,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tla Morena",
                     "ke tla go wena",
                     "O ntlhapiše mo mading",
@@ -8823,7 +8504,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tla Morena",
                     "ke tla go wena",
                     "O ntlhapiše mo mading",
@@ -8843,7 +8523,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tla Morena",
                     "ke tla go wena",
                     "O ntlhapiše mo mading",
@@ -8863,7 +8542,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tla Morena",
                     "ke tla go wena",
                     "O ntlhapiše mo mading",
@@ -8892,7 +8570,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o lefile",
                     "Ke filwe tšohle",
                     "Sebe se ngaparetše",
@@ -8912,7 +8589,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o lefile",
                     "Ke filwe tšohle",
                     "Sebe se ngaparetše",
@@ -8932,7 +8608,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o lefile",
                     "Ke filwe tšohle",
                     "Sebe se ngaparetše",
@@ -8952,7 +8627,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jes 'o lefile",
                     "Ke filwe tšohle",
                     "Sebe se ngaparetše",
@@ -8981,7 +8655,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sediba ke se se ntlhatšwang",
                     "Bjale ke tsena go hlapa",
                     "Retang Morena wa ntlhatšwa",
@@ -9002,7 +8675,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sediba ke se se ntlhatšwang",
                     "Bjale ke tsena go hlapa",
                     "Retang Morena wa ntlhatšwa",
@@ -9023,7 +8695,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sediba ke se se ntlhatšwang",
                     "Bjale ke tsena go hlapa",
                     "Retang Morena wa ntlhatšwa",
@@ -9044,7 +8715,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sediba ke se se ntlhatšwang",
                     "Bjale ke tsena go hlapa",
                     "Retang Morena wa ntlhatšwa",
@@ -9074,7 +8744,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale ke na le tumelo",
                     "Gore Jes 'o nkhwetše",
                     "A tšholola madi a 'Gwe",
@@ -9094,7 +8763,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale ke na le tumelo",
                     "Gore Jes 'o nkhwetše",
                     "A tšholola madi a 'Gwe",
@@ -9114,7 +8782,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale ke na le tumelo",
                     "Gore Jes 'o nkhwetše",
                     "A tšholola madi a 'Gwe",
@@ -9143,7 +8810,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "K' opela 'rato la 'Gwe",
                     "Jeso ke motumiše",
                     "O nkhwetše nna ke phele",
@@ -9163,7 +8829,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "K' opela 'rato la 'Gwe",
                     "Jeso ke motumiše",
                     "O nkhwetše nna ke phele",
@@ -9183,7 +8848,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "K' opela 'rato la 'Gwe",
                     "Jeso ke motumiše",
                     "O nkhwetše nna ke phele",
@@ -9203,7 +8867,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "K' opela 'rato la 'Gwe",
                     "Jeso ke motumiše",
                     "O nkhwetše nna ke phele",
@@ -9285,7 +8948,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "'Ina le halalelang",
                     "Le tšwang molomong wa Tate Godimo",
                     "Le tlišwa ke mangeloi",
@@ -9305,7 +8967,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "'Ina le halalelang",
                     "Le tšwang molomong wa Tate Godimo",
                     "Le tlišwa ke mangeloi",
@@ -9325,7 +8986,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "'Ina le halalelang",
                     "Le tšwang molomong wa Tate Godimo",
                     "Le tlišwa ke mangeloi",
@@ -9407,7 +9067,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A letšatši le lebotse",
                     "Ke letšatši ka pelong",
                     "Jeso o tloša maswabi",
@@ -9431,7 +9090,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A letšatši le lebotse",
                     "Ke letšatši ka pelong",
                     "Jeso o tloša maswabi",
@@ -9455,7 +9113,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A letšatši le lebotse",
                     "Ke letšatši ka pelong",
                     "Jeso o tloša maswabi",
@@ -9484,7 +9141,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ge ke phološitšwe",
                     "Ge ke phološitšwe",
                     "Ke tlo kganya Moreneng",
@@ -9505,7 +9161,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ge ke phološitšwe",
                     "Ge ke phološitšwe",
                     "Ke tlo kganya Moreneng",
@@ -9526,7 +9181,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ge ke phološitšwe",
                     "Ge ke phološitšwe",
                     "Ke tlo kganya Moreneng",
@@ -9547,7 +9201,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ge ke phološitšwe",
                     "Ge ke phološitšwe",
                     "Ke tlo kganya Moreneng",
@@ -9577,7 +9230,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a nthata, O a nthata",
                     "Kea tseba o a nthata",
                     "Ge a rata tše nyenyane",
@@ -9597,7 +9249,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a nthata, O a nthata",
                     "Kea tseba o a nthata",
                     "Ge a rata tše nyenyane",
@@ -9617,7 +9268,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O a nthata, O a nthata",
                     "Kea tseba o a nthata",
                     "Ge a rata tše nyenyane",
@@ -9646,7 +9296,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Nako 'a thapelo, Nako e botse bjang",
                     "E khutšiša molapi, Go monate go ba ntshe"
                 ]
@@ -9664,7 +9313,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Nako 'a thapelo, Nako e botse bjang",
                     "E khutšiša molapi, Go monate go ba ntshe"
                 ]
@@ -9682,7 +9330,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Nako 'a thapelo, Nako e botse bjang",
                     "E khutšiša molapi, Go monate go ba ntshe"
                 ]
@@ -9700,7 +9347,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Nako 'a thapelo, Nako e botse bjang",
                     "E khutšiša molapi, Go monate go ba ntshe"
                 ]
@@ -9727,7 +9373,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso šegofatša Ge re le mokhwi",
                     "Jeso šegofatša o  Be kgauswi"
                 ]
@@ -9745,7 +9390,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso šegofatša Ge re le mokhwi",
                     "Jeso šegofatša o  Be kgauswi"
                 ]
@@ -9763,7 +9407,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso šegofatša Ge re le mokhwi",
                     "Jeso šegofatša o  Be kgauswi"
                 ]
@@ -9790,7 +9433,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Nkatametše kgauswi Morena",
                     "Le sefapano sa 'Go",
                     "Nkatametše kgauswi Morena",
@@ -9810,7 +9452,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Nkatametše kgauswi Morena",
                     "Le sefapano sa 'Go",
                     "Nkatametše kgauswi Morena",
@@ -9830,7 +9471,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Nkatametše kgauswi Morena",
                     "Le sefapano sa 'Go",
                     "Nkatametše kgauswi Morena",
@@ -9850,7 +9490,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Nkatametše kgauswi Morena",
                     "Le sefapano sa 'Go",
                     "Nkatametše kgauswi Morena",
@@ -9918,7 +9557,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "‘Fapanong, Fapanong",
                     "Ke tumiše gona",
                     "Moya wa ka o ikhutše",
@@ -9938,7 +9576,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "‘Fapanong, Fapanong",
                     "Ke tumiše gona",
                     "Moya wa ka o ikhutše",
@@ -9958,7 +9595,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "‘Fapanong, Fapanong",
                     "Ke tumiše gona",
                     "Moya wa ka o ikhutše",
@@ -9978,7 +9614,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "‘Fapanong, Fapanong",
                     "Ke tumiše gona",
                     "Moya wa ka o ikhutše",
@@ -10052,7 +9687,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Rato lekhwi le makatsang",
                     "Ke rato la ga Jeso",
                     "Rato lekhwi le makatsang",
@@ -10072,7 +9706,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Rato lekhwi le makatsang",
                     "Ke rato la ga Jeso",
                     "Rato lekhwi le makatsang",
@@ -10092,7 +9725,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Rato lekhwi le makatsang",
                     "Ke rato la ga Jeso",
                     "Rato lekhwi le makatsang",
@@ -10121,7 +9753,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ga se go bolelwe tšohle",
                     "Ka rato le ntletšego",
                     "Ga se go bolelwe tšohle",
@@ -10141,7 +9772,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ga se go bolelwe tšohle",
                     "Ka rato le ntletšego",
                     "Ga se go bolelwe tšohle",
@@ -10161,7 +9791,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ga se go bolelwe tšohle",
                     "Ka rato le ntletšego",
                     "Ga se go bolelwe tšohle",
@@ -10181,7 +9810,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ga se go bolelwe tšohle",
                     "Ka rato le ntletšego",
                     "Ga se go bolelwe tšohle",
@@ -10210,7 +9838,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso o ntshepetša gohle",
                     "Jeso o tlo nkgoga tseleng",
                     "Ke mogwera wa potego",
@@ -10230,7 +9857,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso o ntshepetša gohle",
                     "Jeso o tlo nkgoga tseleng",
                     "Ke mogwera wa potego",
@@ -10250,7 +9876,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso o ntshepetša gohle",
                     "Jeso o tlo nkgoga tseleng",
                     "Ke mogwera wa potego",
@@ -10279,7 +9904,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bogolo bja kgaugelo",
                     "Bophara bja lerato",
                     "Botialo bja thekololo",
@@ -10299,7 +9923,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bogolo bja kgaugelo",
                     "Bophara bja lerato",
                     "Botialo bja thekololo",
@@ -10319,7 +9942,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bogolo bja kgaugelo",
                     "Bophara bja lerato",
                     "Botialo bja thekololo",
@@ -10339,7 +9961,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bogolo bja kgaugelo",
                     "Bophara bja lerato",
                     "Botialo bja thekololo",
@@ -10368,7 +9989,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "(Ntlhatšwe mading a kwana,)",
                     "(Ntlhatšwe mading a kwana,)",
                     "Nthatšwe mading a fodišago",
@@ -10388,7 +10008,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "(Ntlhatšwe mading a kwana,)",
                     "(Ntlhatšwe mading a kwana,)",
                     "Nthatšwe mading a fodišago",
@@ -10408,7 +10027,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "(Ntlhatšwe mading a kwana,)",
                     "(Ntlhatšwe mading a kwana,)",
                     "Nthatšwe mading a fodišago",
@@ -10428,7 +10046,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "(Ntlhatšwe mading a kwana,)",
                     "(Ntlhatšwe mading a kwana,)",
                     "Nthatšwe mading a fodišago",
@@ -10448,7 +10065,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "(Ntlhatšwe mading a kwana,)",
                     "(Ntlhatšwe mading a kwana,)",
                     "Nthatšwe mading a fodišago",
@@ -10468,7 +10084,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "(Ntlhatšwe mading a kwana,)",
                     "(Ntlhatšwe mading a kwana,)",
                     "Nthatšwe mading a fodišago",
@@ -10598,7 +10213,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Wa Gago (Jeso)",
                     "Wa Gago (Jeso)",
                     "Kea kana Morena",
@@ -10620,7 +10234,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Wa Gago (Jeso)",
                     "Wa Gago (Jeso)",
                     "Kea kana Morena",
@@ -10642,7 +10255,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Wa Gago (Jeso)",
                     "Wa Gago (Jeso)",
                     "Kea kana Morena",
@@ -10757,7 +10369,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena ntshware ke eme",
                     "Ka tumelo legodimong",
                     "Godimo go feta mokhwi",
@@ -10777,7 +10388,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena ntshware ke eme",
                     "Ka tumelo legodimong",
                     "Godimo go feta mokhwi",
@@ -10797,7 +10407,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena ntshware ke eme",
                     "Ka tumelo legodimong",
                     "Godimo go feta mokhwi",
@@ -10817,7 +10426,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena ntshware ke eme",
                     "Ka tumelo legodimong",
                     "Godimo go feta mokhwi",
@@ -10850,7 +10458,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tla hle, Tla (bjale)",
                     "Senyake seširo",
                     "Tla hle, Tla (bjale)",
@@ -10878,7 +10485,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tla hle, Tla (bjale)",
                     "Senyake seširo",
                     "Tla hle, Tla (bjale)",
@@ -10906,7 +10512,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tla hle, Tla (bjale)",
                     "Senyake seširo",
                     "Tla hle, Tla (bjale)",
@@ -11004,7 +10609,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgauswi ka lerato",
                     "Nkgogele go wena",
                     "Nkgogele go wena kgauswi",
@@ -11028,7 +10632,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgauswi ka lerato",
                     "Nkgogele go wena",
                     "Nkgogele go wena kgauswi",
@@ -11053,7 +10656,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgauswi ka lerato",
                     "Nkgogele go wena",
                     "Nkgogele go wena kgauswi",
@@ -11086,7 +10688,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kae le kae, Kae le kae",
                     "Ga go poifo, Ge ke na le",
                     "Jeso nka ya kae le kae"
@@ -11105,7 +10706,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kae le kae, Kae le kae",
                     "Ga go poifo, Ge ke na le",
                     "Jeso nka ya kae le kae"
@@ -11124,7 +10724,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kae le kae, Kae le kae",
                     "Ga go poifo, Ge ke na le",
                     "Jeso nka ya kae le kae"
@@ -11152,7 +10751,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Se...pela Leseding.…",
                     "(Le botse la Modimo)",
                     "Sepela 'seding la Modimo"
@@ -11171,7 +10769,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Se...pela Leseding.…",
                     "(Le botse la Modimo)",
                     "Sepela 'seding la Modimo"
@@ -11190,7 +10787,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Se...pela Leseding.…",
                     "(Le botse la Modimo)",
                     "Sepela 'seding la Modimo"
@@ -11209,7 +10805,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Se...pela Leseding.…",
                     "(Le botse la Modimo)",
                     "Sepela 'seding la Modimo"
@@ -11237,7 +10832,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba kae babuni? Go tlo tla mang",
                     "Go newa kgalalelo ya bona?",
                     "Ke mang ya tlo re thusa go wala",
@@ -11257,7 +10851,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba kae babuni? Go tlo tla mang",
                     "Go newa kgalalelo ya bona?",
                     "Ke mang ya tlo re thusa go wala",
@@ -11277,7 +10870,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba kae babuni? Go tlo tla mang",
                     "Go newa kgalalelo ya bona?",
                     "Ke mang ya tlo re thusa go wala",
@@ -11297,7 +10889,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba kae babuni? Go tlo tla mang",
                     "Go newa kgalalelo ya bona?",
                     "Ke mang ya tlo re thusa go wala",
@@ -11326,7 +10917,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mphapahlogo o tlo ba le dinaledi",
                     "Ge letšatši le tlo phirima?",
                     "Ge ke tsoga le bakgethwa ke ya khutšong",
@@ -11346,7 +10936,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mphapahlogo o tlo ba le dinaledi",
                     "Ge letšatši le tlo phirima?",
                     "Ge ke tsoga le bakgethwa ke ya khutšong",
@@ -11366,7 +10955,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mphapahlogo o tlo ba le dinaledi",
                     "Ge letšatši le tlo phirima?",
                     "Ge ke tsoga le bakgethwa ke ya khutšong",
@@ -11399,7 +10987,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bolela ka go seba",
                     "Seba ka lerato",
                     "O tho fenya ka gohle",
@@ -11423,7 +11010,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bolela ka go seba",
                     "Seba ka lerato",
                     "O tho fenya ka gohle",
@@ -11447,7 +11033,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bolela ka go seba",
                     "Seba ka lerato",
                     "O tho fenya ka gohle",
@@ -11598,7 +11183,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo ya moo o ratago Morena",
                     "Thabeng, lebaleng, lewatleng",
                     "Ke tlo bolela thato ya 'Go Morena",
@@ -11622,7 +11206,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo ya moo o ratago Morena",
                     "Thabeng, lebaleng, lewatleng",
                     "Ke tlo bolela thato ya 'Go Morena",
@@ -11646,7 +11229,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo ya moo o ratago Morena",
                     "Thabeng, lebaleng, lewatleng",
                     "Ke tlo bolela thato ya 'Go Morena",
@@ -11675,7 +11257,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Lena ratanang (le ratane)",
                     "Go bolela phološi (le ratane)",
                     "Bana ekwang taelo ya Tate",
@@ -11697,7 +11278,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Lena ratanang (le ratane)",
                     "Go bolela phološi (le ratane)",
                     "Bana ekwang taelo ya Tate",
@@ -11719,7 +11299,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Lena ratanang (le ratane)",
                     "Go bolela phološi (le ratane)",
                     "Bana ekwang taelo ya Tate",
@@ -11750,7 +11329,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Hlokomela ge wena molemi!",
                     "Mabele a budule",
                     "Bona mašemo a šweufetše",
@@ -11770,7 +11348,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Hlokomela ge wena molemi!",
                     "Mabele a budule",
                     "Bona mašemo a šweufetše",
@@ -11790,7 +11367,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Hlokomela ge wena molemi!",
                     "Mabele a budule",
                     "Bona mašemo a šweufetše",
@@ -11819,7 +11395,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Akgofa... tšatši",
                     "Tla tšatši, rwala di... ngata",
                     "Akgofa... tšatši",
@@ -11839,7 +11414,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Akgofa... tšatši",
                     "Tla tšatši, rwala di... ngata",
                     "Akgofa... tšatši",
@@ -11859,7 +11433,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Akgofa... tšatši",
                     "Tla tšatši, rwala di... ngata",
                     "Akgofa... tšatši",
@@ -11888,7 +11461,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ka dinako tšohle",
                     "Morena ke go hloka bjang",
                     "Ka dinako tšohle",
@@ -11908,7 +11480,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ka dinako tšohle",
                     "Morena ke go hloka bjang",
                     "Ka dinako tšohle",
@@ -11928,7 +11499,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ka dinako tšohle",
                     "Morena ke go hloka bjang",
                     "Ka dinako tšohle",
@@ -11948,7 +11518,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ka dinako tšohle",
                     "Morena ke go hloka bjang",
                     "Ka dinako tšohle",
@@ -11977,7 +11546,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke bolokelwe Jeso",
                     "Ke wele naong tša 'Gwe",
                     "Ke be lefela la mafela",
@@ -11997,7 +11565,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke bolokelwe Jeso",
                     "Ke wele naong tša 'Gwe",
                     "Ke be lefela la mafela",
@@ -12017,7 +11584,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke bolokelwe Jeso",
                     "Ke wele naong tša 'Gwe",
                     "Ke be lefela la mafela",
@@ -12037,7 +11603,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke bolokelwe Jeso",
                     "Ke wele naong tša 'Gwe",
                     "Ke be lefela la mafela",
@@ -12947,7 +12512,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Modim'o tlo phumula",
                     "Dikeledi le lehu",
                     "Ga go balwe mengwaga",
@@ -12967,7 +12531,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Modim'o tlo phumula",
                     "Dikeledi le lehu",
                     "Ga go balwe mengwaga",
@@ -12987,7 +12550,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Modim'o tlo phumula",
                     "Dikeledi le lehu",
                     "Ga go balwe mengwaga",
@@ -13007,7 +12569,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Modim'o tlo phumula",
                     "Dikeledi le lehu",
                     "Ga go balwe mengwaga",
@@ -13085,7 +12646,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bonang mnyadi o etla, O etla",
                     "Bonang myadi o etla, O etla",
                     "Bonang mnyadi o etla, O etla",
@@ -13106,7 +12666,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bonang mnyadi o etla, O etla",
                     "Bonang myadi o etla, O etla",
                     "Bonang mnyadi o etla, O etla",
@@ -13126,7 +12685,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bonang mnyadi o etla, O etla",
                     "Bonang myadi o etla, O etla",
                     "Bonang mnyadi o etla, O etla",
@@ -13155,7 +12713,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlo tla... A re emeng re loke",
                     "O tlo tla... haleluya, haleluya",
                     "O tla ka maru kgalalelong ya Tate",
@@ -13175,7 +12732,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlo tla... A re emeng re loke",
                     "O tlo tla... haleluya, haleluya",
                     "O tla ka maru kgalalelong ya Tate",
@@ -13195,7 +12751,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlo tla... A re emeng re loke",
                     "O tlo tla... haleluya, haleluya",
                     "O tla ka maru kgalalelong ya Tate",
@@ -13228,7 +12783,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... ta, Lebe.... lela",
                     "Le... ta, Lebe... lela",
                     "(Re letile, Re go lebeletše)",
@@ -13255,7 +12809,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... ta, Lebe.... lela",
                     "Le... ta, Lebe... lela",
                     "(Re letile, Re go lebeletše)",
@@ -13282,7 +12835,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... ta, Lebe.... lela",
                     "Le... ta, Lebe... lela",
                     "(Re letile, Re go lebeletše)",
@@ -13314,7 +12866,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re bona 'sedi la moso 'a gauta",
                     "Le phunyeletša bosegong",
                     "Re bona 'sedi la moso 'a gauta",
@@ -13334,7 +12885,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re bona 'sedi la moso 'a gauta",
                     "Le phunyeletša bosegong",
                     "Re bona 'sedi la moso 'a gauta",
@@ -13354,7 +12904,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re bona 'sedi la moso 'a gauta",
                     "Le phunyeletša bosegong",
                     "Re bona 'sedi la moso 'a gauta",
@@ -13374,7 +12923,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re bona 'sedi la moso 'a gauta",
                     "Le phunyeletša bosegong",
                     "Re bona 'sedi la moso 'a gauta",
@@ -13403,7 +12951,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Swara otiiše",
                     "Ke tshepišo e botse",
                     "Bogoši le tlo bo bušetšwa",
@@ -13426,7 +12973,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Swara otiiše",
                     "Ke tshepišo e botse",
                     "Bogoši le tlo bo bušetšwa",
@@ -13449,7 +12995,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Swara otiiše",
                     "Ke tshepišo e botse",
                     "Bogoši le tlo bo bušetšwa",
@@ -13765,7 +13310,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina... le Botse",
                     "Ke tshepo ya lefase",
                     "Leina... le Botse",
@@ -13785,7 +13329,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina... le Botse",
                     "Ke tshepo ya lefase",
                     "Leina... le Botse",
@@ -13805,7 +13348,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina... le Botse",
                     "Ke tshepo ya lefase",
                     "Leina... le Botse",
@@ -13825,7 +13367,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina... le Botse",
                     "Ke tshepo ya lefase",
                     "Leina... le Botse",
@@ -13854,7 +13395,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tshwantšhišong ya ka le kopelong",
                     "Ke reta M'phološi ka mehla",
                     "Tshwantšhišong ya ka le kopelong",
@@ -13874,7 +13414,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tshwantšhišong ya ka le kopelong",
                     "Ke reta M'phološi ka mehla",
                     "Tshwantšhišong ya ka le kopelong",
@@ -13894,7 +13433,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tshwantšhišong ya ka le kopelong",
                     "Ke reta M'phološi ka mehla",
                     "Tshwantšhišong ya ka le kopelong",
@@ -13924,7 +13462,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgalalelo leineng la Gagwe",
                     "Madi a tlotša pelo ya ka",
                     "Tumišang 'ina"
@@ -13943,7 +13480,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgalalelo leineng la Gagwe",
                     "Madi a tlotša pelo ya ka",
                     "Tumišang 'ina"
@@ -13962,7 +13498,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgalalelo leineng la Gagwe",
                     "Madi a tlotša pelo ya ka",
                     "Tumišang 'ina"
@@ -13981,7 +13516,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgalalelo leineng la Gagwe",
                     "Madi a tlotša pelo ya ka",
                     "Tumišang 'ina"
@@ -14009,7 +13543,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Maatla a 'Gwe a ka go lokiša",
                     "Madi a 'Gwe a ka go matlafatša",
                     "Rato la 'Gwe le ka go šupetša",
@@ -14029,7 +13562,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Maatla a 'Gwe a ka go lokiša",
                     "Madi a 'Gwe a ka go matlafatša",
                     "Rato la 'Gwe le ka go šupetša",
@@ -14049,7 +13581,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Maatla a 'Gwe a ka go lokiša",
                     "Madi a 'Gwe a ka go matlafatša",
                     "Rato la 'Gwe le ka go šupetša",
@@ -14082,7 +13613,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... rato ka gae",
                     "Nako e feta botse",
                     "'Rato le lentshe"
@@ -14105,7 +13635,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... rato ka gae",
                     "Nako e feta botse",
                     "'Rato le lentshe"
@@ -14128,7 +13657,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le... rato ka gae",
                     "Nako e feta botse",
                     "'Rato le lentshe"
@@ -14205,7 +13733,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A gona... maatla mo mading",
                     "A kwana... a kwana",
                     "A gona... maatla le mading",
@@ -14225,7 +13752,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A gona... maatla mo mading",
                     "A kwana... a kwana",
                     "A gona... maatla le mading",
@@ -14245,7 +13771,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A gona... maatla mo mading",
                     "A kwana... a kwana",
                     "A gona... maatla le mading",
@@ -14265,7 +13790,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A gona... maatla mo mading",
                     "A kwana... a kwana",
                     "A gona... maatla le mading",
@@ -14294,7 +13818,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go tlo phutha ba Gagwe",
                     "Go tlo tšea ba Gagwe",
                     "Ga go 'koti sa 'swiswi Jeso'a tla",
@@ -14314,7 +13837,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go tlo phutha ba Gagwe",
                     "Go tlo tšea ba Gagwe",
                     "Ga go 'koti sa 'swiswi Jeso'a tla",
@@ -14334,7 +13856,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go tlo phutha ba Gagwe",
                     "Go tlo tšea ba Gagwe",
                     "Ga go 'koti sa 'swiswi Jeso'a tla",
@@ -14354,7 +13875,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go tlo phutha ba Gagwe",
                     "Go tlo tšea ba Gagwe",
                     "Ga go 'koti sa 'swiswi Jeso'a tla",
@@ -14383,7 +13903,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mogwera potego ke Jeso",
                     "Mogwer'a potego ke Jeso",
                     "Yena o tlo go thuša",
@@ -14405,7 +13924,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mogwera potego ke Jeso",
                     "Mogwer'a potego ke Jeso",
                     "Yena o tlo go thuša",
@@ -14427,7 +13945,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mogwera potego ke Jeso",
                     "Mogwer'a potego ke Jeso",
                     "Yena o tlo go thuša",
@@ -14457,7 +13974,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tumišang! Morena lefase le mokwe",
                     "Tumišang Morena thabang lena batho",
                     "Etlang go Tate ka yena morwa",
@@ -14477,7 +13993,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tumišang! Morena lefase le mokwe",
                     "Tumišang Morena thabang lena batho",
                     "Etlang go Tate ka yena morwa",
@@ -14497,7 +14012,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tumišang! Morena lefase le mokwe",
                     "Tumišang Morena thabang lena batho",
                     "Etlang go Tate ka yena morwa",
@@ -14569,7 +14083,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O ntšhitše mo lerageng le la",
                     "A mpea mo leswikeng go dula",
                     "O bea sefela mo moyeng",
@@ -14589,7 +14102,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O ntšhitše mo lerageng le la",
                     "A mpea mo leswikeng go dula",
                     "O bea sefela mo moyeng",
@@ -14609,7 +14121,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O ntšhitše mo lerageng le la",
                     "A mpea mo leswikeng go dula",
                     "O bea sefela mo moyeng",
@@ -14627,7 +14138,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O ntšhitše mo lerageng le la",
                     "A mpea mo leswikeng go dula",
                     "O bea sefela mo moyeng",
@@ -14703,7 +14213,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohomotš 'o gona",
                     "Mohomotš'o gona",
                     "Moya o mokgethwa",
@@ -14729,7 +14238,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohomotš 'o gona",
                     "Mohomotš'o gona",
                     "Moya o mokgethwa",
@@ -14755,7 +14263,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohomotš 'o gona",
                     "Mohomotš'o gona",
                     "Moya o mokgethwa",
@@ -14781,7 +14288,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohomotš 'o gona",
                     "Mohomotš'o gona",
                     "Moya o mokgethwa",
@@ -14807,7 +14313,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mohomotš 'o gona",
                     "Mohomotš'o gona",
                     "Moya o mokgethwa",
@@ -14837,7 +14342,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boya motimedi, Tla keno gae",
                     "Kgale o timetše, Tla gae, Tla gae"
                 ]
@@ -14853,7 +14357,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boya motimedi, Tla keno gae",
                     "Kgale o timetše, Tla gae, Tla gae"
                 ]
@@ -14869,7 +14372,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boya motimedi, Tla keno gae",
                     "Kgale o timetše, Tla gae, Tla gae"
                 ]
@@ -14885,7 +14387,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boya motimedi, Tla keno gae",
                     "Kgale o timetše, Tla gae, Tla gae"
                 ]
@@ -14901,7 +14402,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boya motimedi, Tla keno gae",
                     "Kgale o timetše, Tla gae, Tla gae"
                 ]
@@ -14917,7 +14417,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boya motimedi, Tla keno gae",
                     "Kgale o timetše, Tla gae, Tla gae"
                 ]
@@ -14933,7 +14432,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boya motimedi, Tla keno gae",
                     "Kgale o timetše, Tla gae, Tla gae"
                 ]
@@ -15087,7 +14585,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Gatang ka bonolo",
                     "Moreno mokhwi",
                     "Gatang ka gonanya",
@@ -15108,7 +14605,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Gatang ka bonolo",
                     "Moreno mokhwi",
                     "Gatang ka gonanya",
@@ -15128,7 +14624,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Gatang ka bonolo",
                     "Moreno mokhwi",
                     "Gatang ka gonanya",
@@ -15148,7 +14643,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Gatang ka bonolo",
                     "Moreno mokhwi",
                     "Gatang ka gonanya",
@@ -15168,7 +14662,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Gatang ka bonolo",
                     "Moreno mokhwi",
                     "Gatang ka gonanya",
@@ -15246,7 +14739,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "M'phološi ya fenyago!",
                     "Ke Jeso, Jeso wa ka",
                     "M'phološi ya makatšago",
@@ -15266,7 +14758,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "M'phološi ya fenyago!",
                     "Ke Jeso, Jeso wa ka",
                     "M'phološi ya makatšago",
@@ -15286,7 +14777,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "M'phološi ya fenyago!",
                     "Ke Jeso, Jeso wa ka",
                     "M'phološi ya makatšago",
@@ -15306,7 +14796,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "M'phološi ya fenyago!",
                     "Ke Jeso, Jeso wa ka",
                     "M'phološi ya makatšago",
@@ -15326,7 +14815,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "M'phološi ya fenyago!",
                     "Ke Jeso, Jeso wa ka",
                     "M'phološi ya makatšago",
@@ -15346,7 +14834,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "M'phološi ya fenyago!",
                     "Ke Jeso, Jeso wa ka",
                     "M'phološi ya makatšago",
@@ -15375,7 +14862,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go na mašoto",
                     "Mašoto re a hloka",
                     "Re welwa ke tšhegofatšo",
@@ -15395,7 +14881,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go na mašoto",
                     "Mašoto re a hloka",
                     "Re welwa ke tšhegofatšo",
@@ -15415,7 +14900,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go na mašoto",
                     "Mašoto re a hloka",
                     "Re welwa ke tšhegofatšo",
@@ -15435,7 +14919,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Go na mašoto",
                     "Mašoto re a hloka",
                     "Re welwa ke tšhegofatšo",
@@ -15464,7 +14947,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Khutšo neo e",
                     "Tšwago godimo",
                     "Khutšo e makatšago",
@@ -15484,7 +14966,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Khutšo neo e",
                     "Tšwago godimo",
                     "Khutšo e makatšago",
@@ -15504,7 +14985,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Khutšo neo e",
                     "Tšwago godimo",
                     "Khutšo e makatšago",
@@ -15524,7 +15004,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Khutšo neo e",
                     "Tšwago godimo",
                     "Khutšo e makatšago",
@@ -15553,7 +15032,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso Morekolodi",
                     "Ke opela wena",
                     "Ga ke na le mogwera",
@@ -15573,7 +15051,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso Morekolodi",
                     "Ke opela wena",
                     "Ga ke na le mogwera",
@@ -15593,7 +15070,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso Morekolodi",
                     "Ke opela wena",
                     "Ga ke na le mogwera",
@@ -15613,7 +15089,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso Morekolodi",
                     "Ke opela wena",
                     "Ga ke na le mogwera",
@@ -15642,7 +15117,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke'a tseba oa hlokomela",
                     "Go kgoma pelo ya 'Gwe",
                     "Dinakong tše thata ke a tseba",
@@ -15662,7 +15136,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke'a tseba oa hlokomela",
                     "Go kgoma pelo ya 'Gwe",
                     "Dinakong tše thata ke a tseba",
@@ -15682,7 +15155,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke'a tseba oa hlokomela",
                     "Go kgoma pelo ya 'Gwe",
                     "Dinakong tše thata ke a tseba",
@@ -15702,7 +15174,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke'a tseba oa hlokomela",
                     "Go kgoma pelo ya 'Gwe",
                     "Dinakong tše thata ke a tseba",
@@ -15731,7 +15202,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leta, mme o se ngongorege",
                     "Leta mme o se ngongorege",
                     "Leta... leta... leta",
@@ -15751,7 +15221,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leta, mme o se ngongorege",
                     "Leta mme o se ngongorege",
                     "Leta... leta... leta",
@@ -15771,7 +15240,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leta, mme o se ngongorege",
                     "Leta mme o se ngongorege",
                     "Leta... leta... leta",
@@ -15791,7 +15259,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leta, mme o se ngongorege",
                     "Leta mme o se ngongorege",
                     "Leta... leta... leta",
@@ -15824,7 +15291,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aowa ga ke nnoši",
                     "E ga ke nnoši",
                     "O tshepišitše gore",
@@ -15845,7 +15311,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aowa ga ke nnoši",
                     "E ga ke nnoši",
                     "O tshepišitše gore",
@@ -15869,7 +15334,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aowa ga ke nnoši",
                     "E ga ke nnoši",
                     "O tshepišitše gore",
@@ -15891,7 +15355,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Aowa ga ke nnoši",
                     "E ga ke nnoši",
                     "O tshepišitše gore",
@@ -16164,7 +15627,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Galelia, Galelia",
                     "Moo Jeso a ratilego gona",
                     "Galelia, Galelia",
@@ -16184,7 +15646,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Galelia, Galelia",
                     "Moo Jeso a ratilego gona",
                     "Galelia, Galelia",
@@ -16204,7 +15665,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Galelia, Galelia",
                     "Moo Jeso a ratilego gona",
                     "Galelia, Galelia",
@@ -16237,7 +15697,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Matsogong a ga Jeso",
                     "Ke bolokegile",
                     "Tšhireletšo leratong",
@@ -16261,7 +15720,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Matsogong a ga Jeso",
                     "Ke bolokegile",
                     "Tšhireletšo leratong",
@@ -16285,7 +15743,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Matsogong a ga Jeso",
                     "Ke bolokegile",
                     "Tšhireletšo leratong",
@@ -16314,7 +15771,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tšea 'fapano sa ka",
                     "Mme ke latele M'phološi",
                     "Moo a nkisang ke latele",
@@ -16334,7 +15790,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tšea 'fapano sa ka",
                     "Mme ke latele M'phološi",
                     "Moo a nkisang ke latele",
@@ -16354,7 +15809,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tšea 'fapano sa ka",
                     "Mme ke latele M'phološi",
                     "Moo a nkisang ke latele",
@@ -16374,7 +15828,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tšea 'fapano sa ka",
                     "Mme ke latele M'phološi",
                     "Moo a nkisang ke latele",
@@ -16394,7 +15847,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tšea 'fapano sa ka",
                     "Mme ke latele M'phološi",
                     "Moo a nkisang ke latele",
@@ -16423,7 +15875,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgantšhang mabone'a lena",
                     "A ye kgole mo bathong",
                     "Ba ba lelerang leswiswing",
@@ -16443,7 +15894,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgantšhang mabone'a lena",
                     "A ye kgole mo bathong",
                     "Ba ba lelerang leswiswing",
@@ -16463,7 +15913,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgantšhang mabone'a lena",
                     "A ye kgole mo bathong",
                     "Ba ba lelerang leswiswing",
@@ -16492,7 +15941,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ema, Ema ka bogale",
                     "Ema o lebelele sera"
                 ]
@@ -16510,7 +15958,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ema, Ema ka bogale",
                     "Ema o lebelele sera"
                 ]
@@ -16528,7 +15975,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ema, Ema ka bogale",
                     "Ema o lebelele sera"
                 ]
@@ -16595,7 +16041,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sefapanong, Moo ke boneng lesedi",
                     "Mme morwalo wa pelo wa rolwa",
                     "Ka tumelo ka bona lesedi",
@@ -16615,7 +16060,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sefapanong, Moo ke boneng lesedi",
                     "Mme morwalo wa pelo wa rolwa",
                     "Ka tumelo ka bona lesedi",
@@ -16635,7 +16079,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Sefapanong, Moo ke boneng lesedi",
                     "Mme morwalo wa pelo wa rolwa",
                     "Ka tumelo ka bona lesedi",
@@ -16722,7 +16165,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgetha bjale",
                     "Botse goba bobe o eme kae?",
                     "Kgetha bjale",
@@ -16741,7 +16183,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgetha bjale",
                     "Botse goba bobe o eme kae?",
                     "Kgetha bjale",
@@ -16759,7 +16200,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgetha bjale",
                     "Botse goba bobe o eme kae?",
                     "Kgetha bjale",
@@ -16777,7 +16217,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgetha bjale",
                     "Botse goba bobe o eme kae?",
                     "Kgetha bjale",
@@ -16806,7 +16245,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke nna tsel'a nnete",
                     "Le bophelo",
                     "Ga go yo a tlago go",
@@ -16830,7 +16268,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke nna tsel'a nnete",
                     "Le bophelo",
                     "Ga go yo a tlago go",
@@ -16854,7 +16291,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke nna tsel'a nnete",
                     "Le bophelo",
                     "Ga go yo a tlago go",
@@ -16887,7 +16323,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale se ngongorege",
                     "Bjale o se mo lahle",
                     "Bjale o bule pelo",
@@ -16907,7 +16342,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale se ngongorege",
                     "Bjale o se mo lahle",
                     "Bjale o bule pelo",
@@ -16927,7 +16361,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale se ngongorege",
                     "Bjale o se mo lahle",
                     "Bjale o bule pelo",
@@ -16948,7 +16381,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale se ngongorege",
                     "Bjale o se mo lahle",
                     "Bjale o bule pelo",
@@ -16969,7 +16401,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale se ngongorege",
                     "Bjale o se mo lahle",
                     "Bjale o bule pelo",
@@ -17060,7 +16491,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le ke le mpotše taba",
                     "Le ke le mpotše taba",
                     "Le ke le mpotše taba",
@@ -17084,7 +16514,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le ke le mpotše taba",
                     "Le ke le mpotše taba",
                     "Le ke le mpotše taba",
@@ -17108,7 +16537,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le ke le mpotše taba",
                     "Le ke le mpotše taba",
                     "Le ke le mpotše taba",
@@ -17137,7 +16565,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tsama 'a 'seding Le le botse",
                     "Tlang mo phadimong ya tšhegofatšo",
                     "Le re phadimele nako tšohle",
@@ -17157,7 +16584,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tsama 'a 'seding Le le botse",
                     "Tlang mo phadimong ya tšhegofatšo",
                     "Le re phadimele nako tšohle",
@@ -17177,7 +16603,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tsama 'a 'seding Le le botse",
                     "Tlang mo phadimong ya tšhegofatšo",
                     "Le re phadimele nako tšohle",
@@ -17197,7 +16622,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re tsama 'a 'seding Le le botse",
                     "Tlang mo phadimong ya tšhegofatšo",
                     "Le re phadimele nako tšohle",
@@ -17371,7 +16795,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba sena menyakong ya Jerusalema",
                     "Ba hlapile mo mading a kwana",
                     "Ba tsena menyakong ya Jerusalema",
@@ -17391,7 +16814,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba sena menyakong ya Jerusalema",
                     "Ba hlapile mo mading a kwana",
                     "Ba tsena menyakong ya Jerusalema",
@@ -17411,7 +16833,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba sena menyakong ya Jerusalema",
                     "Ba hlapile mo mading a kwana",
                     "Ba tsena menyakong ya Jerusalema",
@@ -17431,7 +16852,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba sena menyakong ya Jerusalema",
                     "Ba hlapile mo mading a kwana",
                     "Ba tsena menyakong ya Jerusalema",
@@ -17451,7 +16871,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ba sena menyakong ya Jerusalema",
                     "Ba hlapile mo mading a kwana",
                     "Ba tsena menyakong ya Jerusalema",
@@ -17614,7 +17033,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Oh! Kanana nag'e botse",
                     "Ke tlo ema mo go wena",
                     "Ke lebelele mosola",
@@ -17636,7 +17054,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Oh! Kanana nag'e botse",
                     "Ke tlo ema mo go wena",
                     "Ke lebelele mosola",
@@ -17658,7 +17075,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Oh! Kanana nag'e botse",
                     "Ke tlo ema mo go wena",
                     "Ke lebelele mosola",
@@ -17680,7 +17096,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Oh! Kanana nag'e botse",
                     "Ke tlo ema mo go wena",
                     "Ke lebelele mosola",
@@ -17900,7 +17315,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina botse, Leina botse",
                     "Ga go le swanang nalo",
                     "Leina botse, Leina botse",
@@ -17920,7 +17334,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina botse, Leina botse",
                     "Ga go le swanang nalo",
                     "Leina botse, Leina botse",
@@ -17940,7 +17353,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina botse, Leina botse",
                     "Ga go le swanang nalo",
                     "Leina botse, Leina botse",
@@ -17960,7 +17372,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina botse, Leina botse",
                     "Ga go le swanang nalo",
                     "Leina botse, Leina botse",
@@ -17980,7 +17391,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Leina botse, Leina botse",
                     "Ga go le swanang nalo",
                     "Leina botse, Leina botse",
@@ -18009,7 +17419,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boleala lentšu ka Jeso",
                     "Le tlo thusa tseleng",
                     "Lentšwana ka Jeso",
@@ -18029,7 +17438,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boleala lentšu ka Jeso",
                     "Le tlo thusa tseleng",
                     "Lentšwana ka Jeso",
@@ -18049,7 +17457,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boleala lentšu ka Jeso",
                     "Le tlo thusa tseleng",
                     "Lentšwana ka Jeso",
@@ -18069,7 +17476,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boleala lentšu ka Jeso",
                     "Le tlo thusa tseleng",
                     "Lentšwana ka Jeso",
@@ -18089,7 +17495,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Boleala lentšu ka Jeso",
                     "Le tlo thusa tseleng",
                     "Lentšwana ka Jeso",
@@ -18118,7 +17523,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgethwa! Kgethwa! Go 'Opela mageloi",
                     "Kgethwa! Kgethwa! Ka harepa",
                     "Ke bontši bjo bo rekolotšwego",
@@ -18138,7 +17542,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgethwa! Kgethwa! Go 'Opela mageloi",
                     "Kgethwa! Kgethwa! Ka harepa",
                     "Ke bontši bjo bo rekolotšwego",
@@ -18158,7 +17561,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgethwa! Kgethwa! Go 'Opela mageloi",
                     "Kgethwa! Kgethwa! Ka harepa",
                     "Ke bontši bjo bo rekolotšwego",
@@ -18352,7 +17754,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgopela thušo go M'phološi",
                     "Khomotso le maatla",
                     "O rata go go thuša",
@@ -18374,7 +17775,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgopela thušo go M'phološi",
                     "Khomotso le maatla",
                     "O rata go go thuša",
@@ -18394,7 +17794,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Kgopela thušo go M'phološi",
                     "Khomotso le maatla",
                     "O rata go go thuša",
@@ -18424,7 +17823,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso o ile 'a ntellela",
                     "A nkhwela sefapanong",
                     "Jeso o tlo ntokolla",
@@ -18445,7 +17843,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso o ile 'a ntellela",
                     "A nkhwela sefapanong",
                     "Jeso o tlo ntokolla",
@@ -18466,7 +17863,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso o ile 'a ntellela",
                     "A nkhwela sefapanong",
                     "Jeso o tlo ntokolla",
@@ -18487,7 +17883,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso o ile 'a ntellela",
                     "A nkhwela sefapanong",
                     "Jeso o tlo ntokolla",
@@ -18516,7 +17911,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mo tshepeng, mo tshepeng",
                     "Mo tshepeng bjale",
                     "O'a boloka o'a boloka",
@@ -18536,7 +17930,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mo tshepeng, mo tshepeng",
                     "Mo tshepeng bjale",
                     "O'a boloka o'a boloka",
@@ -18556,7 +17949,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mo tshepeng, mo tshepeng",
                     "Mo tshepeng bjale",
                     "O'a boloka o'a boloka",
@@ -18576,7 +17968,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mo tshepeng, mo tshepeng",
                     "Mo tshepeng bjale",
                     "O'a boloka o'a boloka",
@@ -18864,7 +18255,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Na re tlo kopana gona",
                     "Re tlo kopana mošola?",
                     "Na re tlo kopana gona",
@@ -18884,7 +18274,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Na re tlo kopana gona",
                     "Re tlo kopana mošola?",
                     "Na re tlo kopana gona",
@@ -18904,7 +18293,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Na re tlo kopana gona",
                     "Re tlo kopana mošola?",
                     "Na re tlo kopana gona",
@@ -18924,7 +18312,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Na re tlo kopana gona",
                     "Re tlo kopana mošola?",
                     "Na re tlo kopana gona",
@@ -18953,7 +18340,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Molapo wa Beula",
                     "O a hlokega go nna",
                     "Gobane ke bona fase",
@@ -18973,7 +18359,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Molapo wa Beula",
                     "O a hlokega go nna",
                     "Gobane ke bona fase",
@@ -18993,7 +18378,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Molapo wa Beula",
                     "O a hlokega go nna",
                     "Gobane ke bona fase",
@@ -19022,7 +18406,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Molapo o botse wa Edene",
                     "Legae la bakgethwa",
                     "Gantši ge ke tlalelwa",
@@ -19042,7 +18425,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Molapo o botse wa Edene",
                     "Legae la bakgethwa",
                     "Gantši ge ke tlalelwa",
@@ -19062,7 +18444,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Molapo o botse wa Edene",
                     "Legae la bakgethwa",
                     "Gantši ge ke tlalelwa",
@@ -19091,7 +18472,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ye ke potšišo bjale",
                     "Karab 'e tlo ba efe?",
                     "A ke bapole Kgoši Jeso?",
@@ -19111,7 +18491,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ye ke potšišo bjale",
                     "Karab 'e tlo ba efe?",
                     "A ke bapole Kgoši Jeso?",
@@ -19131,7 +18510,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ye ke potšišo bjale",
                     "Karab 'e tlo ba efe?",
                     "A ke bapole Kgoši Jeso?",
@@ -19151,7 +18529,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ye ke potšišo bjale",
                     "Karab 'e tlo ba efe?",
                     "A ke bapole Kgoši Jeso?",
@@ -19171,7 +18548,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ye ke potšišo bjale",
                     "Karab 'e tlo ba efe?",
                     "A ke bapole Kgoši Jeso?",
@@ -19200,7 +18576,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlišang tša bošome polokelong",
                     "Le nnteke, Go ialo Jehofa",
                     "\"Mme ke tlo le tšhelela mašoto",
@@ -19220,7 +18595,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlišang tša bošome polokelong",
                     "Le nnteke, Go ialo Jehofa",
                     "\"Mme ke tlo le tšhelela mašoto",
@@ -19240,7 +18614,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlišang tša bošome polokelong",
                     "Le nnteke, Go ialo Jehofa",
                     "\"Mme ke tlo le tšhelela mašoto",
@@ -19260,7 +18633,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlišang tša bošome polokelong",
                     "Le nnteke, Go ialo Jehofa",
                     "\"Mme ke tlo le tšhelela mašoto",
@@ -19280,7 +18652,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlišang tša bošome polokelong",
                     "Le nnteke, Go ialo Jehofa",
                     "\"Mme ke tlo le tšhelela mašoto",
@@ -19309,7 +18680,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le 'amogele, Le amogele",
                     "Re a go thabela",
                     "Go ikhutša go Jehofa"
@@ -19328,7 +18698,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le 'amogele, Le amogele",
                     "Re a go thabela",
                     "Go ikhutša go Jehofa"
@@ -19347,7 +18716,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le 'amogele, Le amogele",
                     "Re a go thabela",
                     "Go ikhutša go Jehofa"
@@ -19366,7 +18734,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le 'amogele, Le amogele",
                     "Re a go thabela",
                     "Go ikhutša go Jehofa"
@@ -19385,7 +18752,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Le 'amogele, Le amogele",
                     "Re a go thabela",
                     "Go ikhutša go Jehofa"
@@ -19485,7 +18851,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo latela",
                     "Ke tlo latela",
                     "Ke tlo latela",
@@ -19505,7 +18870,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo latela",
                     "Ke tlo latela",
                     "Ke tlo latela",
@@ -19525,7 +18889,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke tlo latela",
                     "Ke tlo latela",
                     "Ke tlo latela",
@@ -19558,7 +18921,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re bjaleng pelohlomogi",
                     "Re bjale pelohlomogi",
                     "Re bjale pelohlomogi",
@@ -19582,7 +18944,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re bjaleng pelohlomogi",
                     "Re bjale pelohlomogi",
                     "Re bjale pelohlomogi",
@@ -19606,7 +18967,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re bjaleng pelohlomogi",
                     "Re bjale pelohlomogi",
                     "Re bjale pelohlomogi",
@@ -19630,7 +18990,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re bjaleng pelohlomogi",
                     "Re bjale pelohlomogi",
                     "Re bjale pelohlomogi",
@@ -19663,7 +19022,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Diphefo, maphotho",
                     "Di tlo go kwa",
                     "Homolang (le khutše)",
@@ -19694,7 +19052,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Diphefo, maphotho",
                     "Di tlo go kwa",
                     "Homolang (le khutše)",
@@ -19725,7 +19082,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Diphefo, maphotho",
                     "Di tlo go kwa",
                     "Homolang (le khutše)",
@@ -19761,7 +19117,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O fihla moy'a ka farong tša swika",
                     "Leo le širago 'ganateng",
                     "O fihla 'phelo bjaka leratong",
@@ -19782,7 +19137,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O fihla moy'a ka farong tša swika",
                     "Leo le širago 'ganateng",
                     "O fihla 'phelo bjaka leratong",
@@ -19803,7 +19157,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O fihla moy'a ka farong tša swika",
                     "Leo le širago 'ganateng",
                     "O fihla 'phelo bjaka leratong",
@@ -19824,7 +19177,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O fihla moy'a ka farong tša swika",
                     "Leo le širago 'ganateng",
                     "O fihla 'phelo bjaka leratong",
@@ -19970,7 +19322,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Lahlela thapo, Lahlela thapo",
                     "E mongwe o ya kgole",
                     "Lahlela thapo, Lahlela thapo",
@@ -19990,7 +19341,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Lahlela thapo, Lahlela thapo",
                     "E mongwe o ya kgole",
                     "Lahlela thapo, Lahlela thapo",
@@ -20011,7 +19361,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Lahlela thapo, Lahlela thapo",
                     "E mongwe o ya kgole",
                     "Lahlela thapo, Lahlela thapo",
@@ -20031,7 +19380,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Lahlela thapo, Lahlela thapo",
                     "E mongwe o ya kgole",
                     "Lahlela thapo, Lahlela thapo",
@@ -20061,7 +19409,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "S&T",
                     "Ithekge matsogong a Gagwe",
                     "Motshepe hle",
@@ -20085,7 +19432,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "S&T",
                     "Ithekge matsogong a Gagwe",
                     "Motshepe hle",
@@ -20107,7 +19453,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "S&T",
                     "Ithekge matsogong a Gagwe",
                     "Motshepe hle",
@@ -20129,7 +19474,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "S&T",
                     "Ithekge matsogong a Gagwe",
                     "Motshepe hle",
@@ -20151,7 +19495,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "S&T",
                     "Ithekge matsogong a Gagwe",
                     "Motshepe hle",
@@ -20183,7 +19526,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke M'phološi wa go le wena",
                     "M'phološi wa ka o re:",
                     "\"Ke wa go le wena\""
@@ -20202,7 +19544,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke M'phološi wa go le wena",
                     "M'phološi wa ka o re:",
                     "\"Ke wa go le wena\""
@@ -20221,7 +19562,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke M'phološi wa go le wena",
                     "M'phološi wa ka o re:",
                     "\"Ke wa go le wena\""
@@ -20240,7 +19580,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke M'phološi wa go le wena",
                     "M'phološi wa ka o re:",
                     "\"Ke wa go le wena\""
@@ -20259,7 +19598,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke M'phološi wa go le wena",
                     "M'phološi wa ka o re:",
                     "\"Ke wa go le wena\""
@@ -20517,7 +19855,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlang (e tlang) keno go nna (lena)",
                     "Bohle ba le lapilego, Le imelwago (moyeng)",
                     "Ke tlo le lapolosa: (etlang le)",
@@ -20539,7 +19876,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlang (e tlang) keno go nna (lena)",
                     "Bohle ba le lapilego, Le imelwago (moyeng)",
                     "Ke tlo le lapolosa: (etlang le)",
@@ -20561,7 +19897,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlang (e tlang) keno go nna (lena)",
                     "Bohle ba le lapilego, Le imelwago (moyeng)",
                     "Ke tlo le lapolosa: (etlang le)",
@@ -20583,7 +19918,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tlang (e tlang) keno go nna (lena)",
                     "Bohle ba le lapilego, Le imelwago (moyeng)",
                     "Ke tlo le lapolosa: (etlang le)",
@@ -20614,7 +19948,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re opela tumišo",
                     "Tša Kgoši (ya rena)",
                     "Re opela kgalalelo",
@@ -20634,7 +19967,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re opela tumišo",
                     "Tša Kgoši (ya rena)",
                     "Re opela kgalalelo",
@@ -20654,7 +19986,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re opela tumišo",
                     "Tša Kgoši (ya rena)",
                     "Re opela kgalalelo",
@@ -20674,7 +20005,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Re opela tumišo",
                     "Tša Kgoši (ya rena)",
                     "Re opela kgalalelo",
@@ -20703,7 +20033,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "E sa phadima, e sa phadima",
                     "Naledi e botse nageng le thabeng"
                 ]
@@ -20721,7 +20050,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "E sa phadima, e sa phadima",
                     "Naledi e botse nageng le thabeng"
                 ]
@@ -20739,7 +20067,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "E sa phadima, e sa phadima",
                     "Naledi e botse nageng le thabeng"
                 ]
@@ -20886,7 +20213,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A feta, a feta",
                     "A feta, a feta",
                     "Bo botse re ka bo",
@@ -20910,7 +20236,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A feta, a feta",
                     "A feta, a feta",
                     "Bo botse re ka bo",
@@ -20934,7 +20259,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "A feta, a feta",
                     "A feta, a feta",
                     "Bo botse re ka bo",
@@ -20963,7 +20287,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso Morekolodi",
                     "E 'a tswang go Tate",
                     "Re sware re letile",
@@ -20983,7 +20306,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso Morekolodi",
                     "E 'a tswang go Tate",
                     "Re sware re letile",
@@ -21003,7 +20325,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Jeso Morekolodi",
                     "E 'a tswang go Tate",
                     "Re sware re letile",
@@ -21032,7 +20353,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O nthwale, nthwale nkiše Sione",
                     "Nthwale o nkiše motseng wa thabo",
                     "Motse wa bakgethwa"
@@ -21051,7 +20371,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O nthwale, nthwale nkiše Sione",
                     "Nthwale o nkiše motseng wa thabo",
                     "Motse wa bakgethwa"
@@ -21070,7 +20389,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O nthwale, nthwale nkiše Sione",
                     "Nthwale o nkiše motseng wa thabo",
                     "Motse wa bakgethwa"
@@ -21143,7 +20461,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlišitše go Jeso",
                     "Mpho e rategang",
                     "A re, \"ke neela pelo\"!",
@@ -21167,7 +20484,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlišitše go Jeso",
                     "Mpho e rategang",
                     "A re, \"ke neela pelo\"!",
@@ -21191,7 +20507,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O tlišitše go Jeso",
                     "Mpho e rategang",
                     "A re, \"ke neela pelo\"!",
@@ -21220,7 +20535,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntšee Kgoši",
                     "Ntšee ke le bjale",
                     "Batametša phološo",
@@ -21240,7 +20554,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntšee Kgoši",
                     "Ntšee ke le bjale",
                     "Batametša phološo",
@@ -21260,7 +20573,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntšee Kgoši",
                     "Ntšee ke le bjale",
                     "Batametša phološo",
@@ -21280,7 +20592,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntšee Kgoši",
                     "Ntšee ke le bjale",
                     "Batametša phološo",
@@ -21300,7 +20611,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntšee Kgoši",
                     "Ntšee ke le bjale",
                     "Batametša phološo",
@@ -21320,7 +20630,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntšee Kgoši",
                     "Ntšee ke le bjale",
                     "Batametša phološo",
@@ -21349,7 +20658,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Wena Jeso re tlo ya",
                     "Pele ka lethabo",
                     "Re tšweleletše",
@@ -21369,7 +20677,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Wena Jeso re tlo ya",
                     "Pele ka lethabo",
                     "Re tšweleletše",
@@ -21389,7 +20696,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Wena Jeso re tlo ya",
                     "Pele ka lethabo",
                     "Re tšweleletše",
@@ -21418,7 +20724,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tumo haleluya!",
                     "Theto haleluya!",
                     "Tumo haleluya!",
@@ -21438,7 +20743,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tumo haleluya!",
                     "Theto haleluya!",
                     "Tumo haleluya!",
@@ -21458,7 +20762,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Tumo haleluya!",
                     "Theto haleluya!",
                     "Tumo haleluya!",
@@ -21487,7 +20790,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena, re atle",
                     "mešomong bonyenyaneng",
                     "Morena, re atle",
@@ -21507,7 +20809,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena, re atle",
                     "mešomong bonyenyaneng",
                     "Morena, re atle",
@@ -21527,7 +20828,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Morena, re atle",
                     "mešomong bonyenyaneng",
                     "Morena, re atle",
@@ -21603,7 +20903,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke apara bophelo bja 'Gwe",
                     "Bophelo bja 'Gwe ke tlo bo tseba"
                 ]
@@ -21621,7 +20920,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke apara bophelo bja 'Gwe",
                     "Bophelo bja 'Gwe ke tlo bo tseba"
                 ]
@@ -21639,7 +20937,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke apara bophelo bja 'Gwe",
                     "Bophelo bja 'Gwe ke tlo bo tseba"
                 ]
@@ -21657,7 +20954,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ke apara bophelo bja 'Gwe",
                     "Bophelo bja 'Gwe ke tlo bo tseba"
                 ]
@@ -21684,7 +20980,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale emiša mašole",
                     "A re Iweng re emišitše lešela",
                     "Loka! Tsepama! Goelelang hosanna!",
@@ -21703,7 +20998,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale emiša mašole",
                     "A re Iweng re emišitše lešela",
                     "Loka! Tsepama! Goelelang hosanna!",
@@ -21723,7 +21017,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Bjale emiša mašole",
                     "A re Iweng re emišitše lešela",
                     "Loka! Tsepama! Goelelang hosanna!",
@@ -21751,7 +21044,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntshepediše ke šireletšegile go Wena",
                     "Ke dule leratong, M'phološi ntshepediše"
                 ]
@@ -21769,7 +21061,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntshepediše ke šireletšegile go Wena",
                     "Ke dule leratong, M'phološi ntshepediše"
                 ]
@@ -21787,7 +21078,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Ntshepediše ke šireletšegile go Wena",
                     "Ke dule leratong, M'phološi ntshepediše"
                 ]
@@ -21814,7 +21104,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O di kokotetše sefapanong",
                     "O ratile go di belega",
                     "Jeso a ya sefapanong ka maswabi",
@@ -21834,7 +21123,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O di kokotetše sefapanong",
                     "O ratile go di belega",
                     "Jeso a ya sefapanong ka maswabi",
@@ -21854,7 +21142,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "O di kokotetše sefapanong",
                     "O ratile go di belega",
                     "Jeso a ya sefapanong ka maswabi",
@@ -21982,7 +21269,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mošola ga Joredane",
                     "Kua tšhemong ya Edene",
                     "Mohlareng wa bophelo",
@@ -22006,7 +21292,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mošola ga Joredane",
                     "Kua tšhemong ya Edene",
                     "Mohlareng wa bophelo",
@@ -22030,7 +21315,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mošola ga Joredane",
                     "Kua tšhemong ya Edene",
                     "Mohlareng wa bophelo",
@@ -22054,7 +21338,6 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Pušulošo",
                     "Mošola ga Joredane",
                     "Kua tšhemong ya Edene",
                     "Mohlareng wa bophelo",
