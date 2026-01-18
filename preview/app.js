@@ -6,8 +6,131 @@ document.addEventListener('DOMContentLoaded', () => {
     const contentArea = document.getElementById('contentArea');
     const clearSearchBtn = document.getElementById('clearSearch');
 
+    const EMBEDDED_CONFIG = [
+        {
+            "key": "english",
+            "title": "Christ In Song",
+            "language": "English"
+        },
+        {
+            "key": "tswana",
+            "title": "Keresete Mo Kopelong",
+            "language": "Tswana"
+        },
+        {
+            "key": "sotho",
+            "title": "Keresete Pineng",
+            "language": "Sotho"
+        },
+        {
+            "key": "chichewa",
+            "title": "Khristu Mu Nyimbo",
+            "language": "Chichewa"
+        },
+        {
+            "key": "tonga",
+            "title": "Kristu Mu Nyimbo",
+            "language": "Tonga"
+        },
+        {
+            "key": "shona",
+            "title": "Kristu MuNzwiyo",
+            "language": "Shona"
+        },
+        {
+            "key": "venda",
+            "title": "Ngosha YaDzingosha",
+            "language": "Venda"
+        },
+        {
+            "key": "swahili",
+            "title": "Nyimbo Za Kristo",
+            "language": "Swahili"
+        },
+        {
+            "key": "ndebele",
+            "title": "UKrestu Esihlabelelweni",
+            "language": "Ndebele/IsiZulu"
+        },
+        {
+            "key": "xhosa",
+            "title": "UKristu Engomeni",
+            "language": "IsiXhosa"
+        },
+        {
+            "key": "xitsonga",
+            "title": "Risima Ra Vuyimbeleri",
+            "language": "Xitsonga"
+        },
+        {
+            "key": "gikuyu",
+            "title": "Nyimbo cia Agendi",
+            "language": "Kikuyu"
+        },
+        {
+            "key": "abagusii",
+            "title": "Ogotera kw'ogotogia Nyasae",
+            "language": "Abagusii"
+        },
+        {
+            "key": "dholuo",
+            "title": "Wende Nyasaye",
+            "language": "Dholuo"
+        },
+        {
+            "key": "sdah",
+            "title": "SDA Hymnal",
+            "language": "English"
+        },
+        {
+            "key": "kinyarwanda",
+            "title": "Indirimbo Zo Guhimbaza Imana",
+            "language": "Kinyarwanda"
+        },
+        {
+            "key": "pt",
+            "title": "Hinàrio Adventista Do Sétiomo Dia",
+            "language": "Portuguesa"
+        },
+        {
+            "key": "es",
+            "title": "Himnario Adventista",
+            "language": "Español"
+        },
+        {
+            "key": "dg",
+            "title": "Donnez-Lui Gloire",
+            "language": "Français"
+        },
+        {
+            "key": "ru",
+            "title": "Гимн адвентистов седьмого дня",
+            "language": "русский язык"
+        },
+        {
+            "key": "tumbuka",
+            "title": "Nyimbo za Mpingo wa SDA",
+            "language": "Tumbuka"
+        },
+        {
+            "key": "sepedi",
+            "title": "Kreste Ka Kopelo",
+            "language": "Sepedi",
+            "refrain_label": "Pušulošo"
+        },
+        {
+            "key": "icibemba",
+            "title": "Kristu Mu Nyimbo",
+            "language": "Icibemba"
+        }
+    ];
+
     let allHymns = [];
     let activeHymnNumber = null;
+    let appConfig = EMBEDDED_CONFIG;
+    let currentLanguageConfig = null;
+
+    console.log('Config loaded:', appConfig.length, 'languages');
 
     // File Loading
     fileInput.addEventListener('click', () => {
@@ -19,6 +142,14 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!file) return;
 
         fileNameDisplay.textContent = file.name;
+
+        if (appConfig.length > 0) {
+            const cleanName = file.name.toLowerCase().replace('.json', '');
+            currentLanguageConfig = appConfig.find(c => c.key === cleanName);
+            if (currentLanguageConfig) {
+                console.log('Language detected:', currentLanguageConfig.language);
+            }
+        }
 
         const reader = new FileReader();
         reader.onload = (event) => {
@@ -35,8 +166,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     if (sample) {
                         if (!sample.lyrics && sample.content) {
-                            const v2Name = file.name.replace('.json', '_v2.json');
-                            alert(`Legacy File Detected ⚠️\n\nYou opened a V1 file ('${file.name}').\nPlease select the V2 version ('${v2Name}') which contains the structured lyrics.`);
+                            alert(`Legacy File Detected ⚠️\n\nYou opened a V1 file ('${file.name}').\nPlease generate the compatible JSON format first.`);
                             return;
                         }
                         if (!sample.lyrics) {
@@ -166,6 +296,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="text-center mb-10 pb-6 border-b border-gray-100">
                     <h1 class="font-bold text-3xl text-gray-900 mb-2 leading-tight">${hymn.number}. ${hymn.title}</h1>
                     ${hymn.title_english ? `<div class="text-xs font-sans font-bold text-gray-400 uppercase tracking-widest mt-2">${hymn.title_english}</div>` : ''}
+                    ${hymn.hymnal_references ? `<div class="text-xs font-sans font-medium text-gray-500 mt-2 bg-gray-100 inline-block px-2 py-1 rounded">${hymn.hymnal_references}</div>` : ''}
                 </div>
                 
                 <!-- Body -->
@@ -173,9 +304,11 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
 
         if (hymn.lyrics && Array.isArray(hymn.lyrics)) {
+            const refrainLabel = currentLanguageConfig?.refrain_label || 'CHORUS';
+
             hymn.lyrics.forEach(block => {
                 const isRefrain = block.type === 'refrain';
-                const labelText = isRefrain ? 'CHORUS' : `VERSE ${block.index}`;
+                const labelText = isRefrain ? refrainLabel : `VERSE ${block.index}`;
 
                 // Refrain Styling vs Verse Styling
                 const containerClasses = isRefrain
