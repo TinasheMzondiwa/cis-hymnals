@@ -121,7 +121,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             "key": "icibemba",
             "title": "Kristu Mu Nyimbo",
-            "language": "Icibemba"
+            "language": "Icibemba",
+            'refrain_label': "Cibwekesho"
         }
     ];
 

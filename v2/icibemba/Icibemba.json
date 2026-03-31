@@ -2,24 +2,31 @@
     {
         "index": "001",
         "number": 1,
-        "title": "Lishisheni Ulupenga",
+        "title": "LISHISHENI ULUPENGA",
+        "title_english": "WATCHMAN BLOW YOUR TRUMPET",
+        "hymnal_references": "AH 350 CH 613",
         "lyrics": [
             {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Lishisheni ulupenga, Mucenjeshe na bonse.",
-                    "Bonse baleumfwe landwe, Babwelela ku mwabo.",
-                    "Lishisheni ulupenga. Lishisheni konse fye.",
-                    "Lesa atupela bonse. Kusose 'landwe Iyakwe."
+                    "Lishisheni ulupenga. Mucenjeshe na bonse:",
+                    "Bonse baleumfwe landwe, Babwelela ku mwabo"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Lishisheni ulupenga, Lishisheni konse fye; ",
+                    "Lesa atupela bonse, Kusose landwe lyakwe "
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Lishisheni pa mapili, Mumfimfi mumalungu;",
-                    "Na kabinge pa fimana. \"Yesu e Mupusushi.\""
+                    "Lishisheni pa mapili. Mumfimfi mumalungu:",
+                    "Na kabinge pa fimana. Yesu e Mupusushi."
                 ]
             },
             {
@@ -39,8 +46,7 @@
                 ]
             }
         ],
-        "revision": 1,
-        "title_english": "WATCHMAN BLOW YOUR TRUMPET"
+        "revision": 1
     },
     {
         "index": "002",
@@ -52,7 +58,12 @@
                 "index": 1,
                 "lines": [
                     "Mfumu ili fye mupepi, Asendele bubi bwesu;",
-                    "Nomba abantu basuma Akesa kusenda.",
+                    "Nomba abantu basuma Akesa kusenda."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mupepi ... mupepi ... mupepi 'ye nomba mupepi",
                     "Akesa, akesa ili nomba mupepi."
                 ]
@@ -95,7 +106,12 @@
                 "index": 1,
                 "lines": [
                     "Lintu nkamona ici-nso Ca kwa Yesu Katula,",
-                    "Nkasekela pakala-mba Kumona Mupusushi.",
+                    "Nkasekela pakala-mba Kumona Mupusushi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nkamona icinso cakwe ‘ko kumulu kumwakwe;",
                     "Nkamumona mululumbi Yesu Kristu Katula."
                 ]
@@ -138,7 +154,12 @@
                 "index": 1,
                 "lines": [
                     "Ilandwe lyawama twaumfwa nomba, Lintu tuleluba mu mpanga;",
-                    "Yesu Kristu akesa kuno bwangu Ukututwala ku bufumu.",
+                    "Yesu Kristu akesa kuno bwangu Ukututwala ku bufumu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Akesa, a-ke-sa bwangu nomba, Akabwela ukuteka,",
                     "Na'basambi bakwe baya ku mulu Lintu akabwela kuteka."
                 ]
@@ -230,7 +251,12 @@
                 "index": 1,
                 "lines": [
                     "Pempuleni imwe bonse, Nomba macusho yafula;",
-                    "Wamisheni nyali shenu, Bwino ku-kwisa kwakwe",
+                    "Wamisheni nyali shenu, Bwino ku-kwisa kwakwe"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Akesa! Yesu akesa! Mululumbi lwacilile;",
                     "Yesu akesa no bwansho, Akesa bwangu nomba"
                 ]
@@ -273,7 +299,12 @@
                 "index": 1,
                 "lines": [
                     "Aleisa, aleisa Kusenda a-bakwe,",
-                    "Abo bonse ababuta Abatemwikwa",
+                    "Abo bonse ababuta Abatemwikwa"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nge ntanda kubeka Mu- ci tebo cakwe,",
                     "Bakabeka ku mulu Abantu bakwe."
                 ]
@@ -309,7 +340,12 @@
                 "lines": [
                     "Apo ipenga lya Mfumu likapelelekesha,",
                     "Apo bukaca no lubuto tutu;",
-                    "Apo abasalwa bakaya longana pe shilya,",
+                    "Apo abasalwa bakaya longana pe shilya,"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Apwe penga likalila nkabako",
                     "Apwe pe 'nga likeli-la, Apwe pe-nga likali-la,",
                     "Apwe pe-nga likali-la, Apwe penga likalila nkabako"
@@ -349,7 +385,12 @@
                 "index": 1,
                 "lines": [
                     "Lisheni inta-ndala namaka; Yesu Mfumu akesa!",
-                    "Angisheni mwi-mbe imwe beni; Yesu Mfumu akesa",
+                    "Angisheni mwi-mbe imwe beni; Yesu Mfumu akesa"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu akesa, Yesu akesa, Yesu Mfumu akesa!"
                 ]
             },
@@ -399,7 +440,12 @@
                 "index": 1,
                 "lines": [
                     "Bushe twaya ku mulonga, Kulya fyonse fisuma;",
-                    "Amenshi ayenda pe pe Yafuma kwa Yehofa",
+                    "Amenshi ayenda pe pe Yafuma kwa Yehofa"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Eya twaya ku mulonga. Menshi yawama yawama-kulya;",
                     "Tulongana pa-mo nabo abatemwa-Yehofa"
                 ]
@@ -443,7 +489,12 @@
                     "Ndemukonka mwe Katula,",
                     "Lintu fye M'ntangilila.",
                     "Konse fye muntangilila,",
-                    "Mwe Mfumu ndemukonka",
+                    "Mwe Mfumu ndemukonka"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndemukonka mwe Katula,",
                     "Mwamfwilile ine,",
                     "Nangu bonse bamufilwa,",
@@ -555,7 +606,12 @@
                     "Mwe, Yesu ndefwaya ubutuntulu;",
                     "Kaleni shonse mu mutima wandi;",
                     "Tobeni filubi, posa balwani;",
-                    "Munsambe ine elyo ndebatutu.",
+                    "Munsambe ine elyo ndebatutu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndebatutu ye, ndebatutu;",
                     "Munsambe ine elyo ndebatutu."
                 ]
@@ -596,7 +652,12 @@
                     "Bupe bwa kwa Lesa",
                     "Tuleta nomba",
                     "Fyonse kuli Yesu",
-                    "Apoka ifi.",
+                    "Apoka ifi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Leta, leta, leta, leta,",
                     "Ubupe nomba:",
                     "Fyonse kuli Yesu",
@@ -637,7 +698,12 @@
                 "index": 1,
                 "lines": [
                     "Yesu antemwa ine! Ilandwe lyanjebele;",
-                    "Bana bonse ebakwe, Yesu atutemwisha.",
+                    "Bana bonse ebakwe, Yesu atutemwisha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu antemwa, Antemwa ine;",
                     "Yesu antemwa, Ndimwana wakwe pe."
                 ]
@@ -682,7 +748,12 @@
                     "Nasamba ndupi shandi,",
                     "Bwino bwino tutu;",
                     "Nashiashima Yesu",
-                    "Kumubombela pe.",
+                    "Kumubombela pe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Imwe tumakasa,",
                     "Mulentwala kwi,",
                     "Fyonse muli Yesu,",
@@ -723,7 +794,12 @@
                 "index": 1,
                 "lines": [
                     "Temwa kutusekesha, Yawamisha nshila;",
-                    "Itwafwa ifwe kutemwa Bambi inshiku pe.",
+                    "Itwafwa ifwe kutemwa Bambi inshiku pe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Atemwa, ifwe twana twakwe;",
                     "Atemwa tukonka Yesu;",
                     "Temwa kutusekesha, Yawamisha nshila;",
@@ -762,7 +838,12 @@
                     "Mwe mpuka ya Kristu mwende ku fita,",
                     "Lupanda lwa Yesu lwamulondola",
                     "Kristu Mfumu yesu aletangila,",
-                    "Bulwi na satana alemwanshisha",
+                    "Bulwi na satana alemwanshisha"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mwe mpuka ya Kristu mwende ku fita",
                     "Lupanda lwa Yesu lwamulondola."
                 ]
@@ -893,7 +974,12 @@
                 "index": 1,
                 "lines": [
                     "Naisa ku Lupanda, ndi mupina nempofu;",
-                    "Fyonse fyandi ifyafye, Ndefwaya mpusushiwe.",
+                    "Fyonse fyandi ifyafye, Ndefwaya mpusushiwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndemusumina mweka, Mwana Lesa wapalwa;",
                     "Ku Lupanda mfukama, Untule Yesu nomba,",
                     "(Ibeshi lyakupelekesha) Yesu antula ine."
@@ -945,7 +1031,12 @@
                 "index": 1,
                 "lines": [
                     "Mfumu naumfwa mapalo, Mwapela bantu benu;",
-                    "Ayaba kubakosesha, Paleni ine nomba.",
+                    "Ayaba kubakosesha, Paleni ine nomba."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Paleni na ine, Paleni ine nomba."
                 ]
             },
@@ -987,7 +1078,12 @@
                 "index": 1,
                 "lines": [
                     "Mwikale na ine nomba, Mupashi Wamushilo;",
-                    "Mwikale muli ine pe, Mwise mube na ine.",
+                    "Mwikale muli ine pe, Mwise mube na ine."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mwikale, mwikale, Yesu mube na ine;",
                     "Mwikale muli ine pe, mwise mube na ine"
                 ]
@@ -1030,7 +1126,12 @@
                 "index": 1,
                 "lines": [
                     "Ndemukabila pe. Mfumu ya luse;",
-                    "Tapali upela mutende nga Imwe.",
+                    "Tapali upela mutende nga Imwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndemukabila Mfumu, nshita shonse kuno;",
                     "Mumpale ine Yesu Naisa nomba."
                 ]
@@ -1081,7 +1182,12 @@
                 "index": 1,
                 "lines": [
                     "Fyonse nacimbila Yesu Fyonse ndemupela fye;",
-                    "Nkamutemwa nshiku shonse, No kwikala nankwe pe.",
+                    "Nkamutemwa nshiku shonse, No kwikala nankwe pe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Fyonse nacimba, Fyonse nacimba,",
                     "Kuli lmwe Mupusushi, nacimba fyonse."
                 ]
@@ -1125,7 +1231,12 @@
                 "lines": [
                     "Nge fintu ndi, ndi wafibi,",
                     "lelo M'lopa wasumine,",
-                    "Elyo mwanjita kuli Mwe.",
+                    "Elyo mwanjita kuli Mwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mwe Mwana Lesa, naisa."
                 ]
             },
@@ -1188,7 +1299,12 @@
                 "index": 1,
                 "lines": [
                     "Twatasha mwe Le-sa ku Mwana wenu,",
-                    "Ye-su afwile ukutula ifwe.",
+                    "Ye-su afwile ukutula ifwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Aleluya! Aleluya! Aleluya! Ameni;",
                     "Aleluya! Aleluya! Mutwimye limbi."
                 ]
@@ -1337,7 +1453,12 @@
                 "index": 1,
                 "lines": [
                     "Kasuba kawa nomba, Twapelwa ukutusha,",
-                    "Nomba toteni Lesa Ku mapalo twapelwa pa kasuba",
+                    "Nomba toteni Lesa Ku mapalo twapelwa pa kasuba"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lesa Wamushilo mukalamba;",
                     "Bonse kuno no mulu",
                     "Bamutotela nomba Lesa Wesu."
@@ -1430,7 +1551,12 @@
                 "index": 1,
                 "lines": [
                     "Mfumu e cilibwe cesu, E Iinga lyesu pe na pe",
-                    "Mu macusho tulekosa, E linga lyesu pe na pe",
+                    "Mu macusho tulekosa, E linga lyesu pe na pe"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Cilibwe-e cesu ca maka, cintelelwe muciswebebe,",
                     "Ntungulu-shi yesu yacine E linga lyesu pe na pe."
                 ]
@@ -1473,7 +1599,12 @@
                 "index": 1,
                 "lines": [
                     "Antungulula konse fye! Mashiwi yalenkosesha!",
-                    "No ko konse kuntu ndeya, A cili alenondola.",
+                    "No ko konse kuntu ndeya, A cili alenondola."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Anondola, anondola! Anondola no kuboko;",
                     "Nkaba kakonka wawama Pantu anondola ine."
                 ]
@@ -1516,7 +1647,12 @@
                 "index": 1,
                 "lines": [
                     "Lintu mweo wandi waenda bwino, Nangu malanda yafula;",
-                    "Muli fyonse 'fi mwalinsambilisha ukuti, Cawama mutima.",
+                    "Muli fyonse 'fi mwalinsambilisha ukuti, Cawama mutima."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Cawama .... Mutima .... Cawama mutima wandi pe."
                 ]
             },
@@ -1560,7 +1696,12 @@
                     "E busibusa, e busekesha",
                     "Lintu Yesu aletusunga;",
                     "Umutende pe aletupela,",
-                    "Lintu tulemusumina fye.",
+                    "Lintu tulemusumina fye."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ta-tu-ti-na Pantu Yesu e Katula;",
                     "Ta-tu-ti-na Lintu Yesu aletusunga."
                 ]
@@ -1636,7 +1777,12 @@
                 "lines": [
                     "Lesa Mfumu yandi kampalame,",
                     "Nangu kulupanda naninikwa;",
-                    "Elyo, lwimbo lwandi nkamupalamina",
+                    "Elyo, lwimbo lwandi nkamupalamina"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nkamupalamina Lesa wandi."
                 ]
             },
@@ -1690,7 +1836,12 @@
                 "index": 1,
                 "lines": [
                     "Mwe bakwa Lesa koseni nomba, Nangu amachushyo yafulishya,",
-                    "Ali libwe amupela maka, Lintu Ciwa apalama.",
+                    "Ali libwe amupela maka, Lintu Ciwa apalama."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Kaleni pa Libwe, kaleni pa Libwe, Yesu Klistu e Libwe.",
                     "\"Nga twansho bubi ci-ne tukekala, Mubufumu bwa Katula."
                 ]
@@ -1727,7 +1878,12 @@
                     "Busumino bwandi nomba,",
                     "Mu mulopa wakwa Yesu;",
                     "Mu bantu nshilesumina,",
-                    "Kano Mfumu Yesu eka.",
+                    "Kano Mfumu Yesu eka."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu ni Li bwe lya maka,",
                     "Ifintu fimbi ifya fye",
                     "Ifintu fimbi ifya fye."
@@ -1779,7 +1935,12 @@
                     "Nga twaya ne Mfumu mu mashiwi yakwe",
                     "Atupelo lubuto pefye:",
                     "Lintu tunakila, Ekala mupepi,",
-                    "Na kuli bonse banakila",
+                    "Na kuli bonse banakila"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mumfwile pe, pantu kuli bonse,",
                     "Basumina na Yesu, Abapela kwanga"
                 ]
@@ -1828,7 +1989,12 @@
                 "index": 1,
                 "lines": [
                     "Lesa'be nemwe tukumane; Amutungulula bwino,",
-                    "Amufimba no luse lwakwe; Lesa 'be nemwe tukumane.",
+                    "Amufimba no luse lwakwe; Lesa 'be nemwe tukumane."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lintu twakumana, bonse fye kuli Yesu;",
                     "Lintu twakumana, Lesa 'be nemwe tukumane."
                 ]
@@ -1871,9 +2037,14 @@
                 "index": 1,
                 "lines": [
                     "Kuli bamunyinane kuno tulesekelela,",
-                    "Lelo bulanda bwaisa kulekana libili.",
-                    "Tatwakalekane uko ku calo ca Lesa,",
-                    "Mu calo ico cawama tatwakalekane."
+                    "Lelo bulanda bwaisa kulekana libili."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Lintu twakumana, bonse fye kuli Yesu;",
+                    "Lintu twakumana, Lesa 'be nemwe tukumane."
                 ]
             },
             {
@@ -1908,7 +2079,13 @@
                     "Tulo twapalwa, twapalwa,",
                     "Ukulila konse kwapwa;",
                     "Ukulala utulo fye,",
-                    "Amacusho yonse yapwa.",
+                    "Amacusho yonse yapwa."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Tulo twapalwa, cawama,",
                     "Ukuteyanya kul’ici:",
                     "Kutusha mu busumino,",
@@ -1917,7 +2094,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Tulo twapalwa, twapalwa,",
                     "Kubuka pamo kwapalwa:",
@@ -1927,7 +2104,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Tulo twapalwa. twapalwa,",
                     "Yesu, Katula akesa;",
@@ -1951,7 +2128,12 @@
                     "Lintu imilimo yandi yapwa muno mu calo,",
                     "Lintu Lesa ampelo mweo wa pe,",
                     "Nkamwishi-ba Katula lintu nkafika uko,",
-                    "Pantanshi nkamona Yesu Katula.",
+                    "Pantanshi nkamona Yesu Katula."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nkamwishiba, nkamwishiba,",
                     "Lintu nkafika mu bufumu;"
                 ]
@@ -2006,6 +2188,13 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Mpeni Cipingo, lubuto lwa mweo, Lubuto lwenu kuti lwa mbaka;",
+                    "Kutemwa na malayo fikaba pe, Bu kasuke bushiku bu kapwe."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 2,
                 "lines": [
@@ -2044,7 +2233,12 @@
                 "lines": [
                     "Imba kabili kuli'ne Mashiwi ya mweo;",
                     "Nangu kuwama kwayako, Mashiwi ya mweo,",
-                    "Mashiwi ya wama, Ya tusambilisha.",
+                    "Mashiwi ya wama, Ya tusambilisha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ayawama, ayawama, Mashiwi ya mweo;",
                     "Ayawama, ayawama, Mashiwi ya mweo."
                 ]
@@ -2081,7 +2275,12 @@
                 "index": 1,
                 "lines": [
                     "Pa mipuma ya Yodani Ndemona kwishilya,",
-                    "Eko icalo ca Kenani Fintu fyandi uko.",
+                    "Eko icalo ca Kenani Fintu fyandi uko."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tukatusha mu calo cisuma,",
                     "Kwishilya pa mipuma Kulya,",
                     "Nokwimba ulwimbo lwa Mpanga pe na pe,",
@@ -2126,7 +2325,12 @@
                 "index": 1,
                 "lines": [
                     "Lintu imilimo ikapwa, Elyo tukaba no kwanga;",
-                    "Lintu baleta mipasa ku musumba wa Lesa.",
+                    "Lintu baleta mipasa ku musumba wa Lesa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tukaba no kwanga kulya, Tukaba nokwanga pefye",
                     "Pantu inshita yapalama kuli bonse kutusha"
                 ]
@@ -2161,7 +2365,12 @@
                 "index": 1,
                 "lines": [
                     "Ndetontonkanya 'ne Libili libili;",
-                    "Napalama kwesu lelo, Nomba ndi mupepi",
+                    "Napalama kwesu lelo, Nomba ndi mupepi"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Napalama, napalama, Napalama kwesu",
                     "Lelo, Nomba ndi mupepi."
                 ]
@@ -2196,7 +2405,12 @@
                 "index": 1,
                 "lines": [
                     "Calo tusumina ciliko, No busumino tucimona",
-                    "Pantu Tata alepembela, Tukekala mu calo cilya.",
+                    "Pantu Tata alepembela, Tukekala mu calo cilya."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tukaya kumana Kucalo Yesu ateyanya (teyanya);",
                     "Tukaya kumana Na Yesu na bonse basuma."
                 ]
@@ -2231,7 +2445,12 @@
                 "index": 1,
                 "lines": [
                     "Mwe Lesa wesu mu lubatisho,",
-                    "Na maka ya mulu Lesa palama",
+                    "Na maka ya mulu Lesa palama"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Twapapata nomba Katula wesu",
                     "Kutemwa no M'pashi mulubatisho."
                 ]
@@ -2314,7 +2533,12 @@
                 "lines": [
                     "Mupashi Wamushilo, Mwikale mupepi pe;",
                     "Munjikata 'kuboko, Ine mu matololo;",
-                    "Ndesekela ukumfwa Kwitwa kwa kutemwikwa",
+                    "Ndesekela ukumfwa Kwitwa kwa kutemwikwa"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mutepeta, Munkonka ku mwesu ukutusha"
                 ]
             },
@@ -2352,7 +2576,12 @@
                     "Cintu cimo ndefwaisha",
                     "Pantu nshila shabipa fye,",
                     "Munsambe Imwe mwebene,",
-                    "Ndefwaisha ici nomba",
+                    "Ndefwaisha ici nomba"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Munsambe ine konse fye,",
                     "Napela fyonse kuli 'Mwe;",
                     "Ndemufwaya ukufumya",
@@ -2403,7 +2632,12 @@
                 "index": 1,
                 "lines": [
                     "Bushe waya kuli Yesu kusambwa. Mum’lopa wa Yesu wamweo?",
-                    "Wasumina cine cine m'cikuku, Wasambwa mum’lopa wa Yesu?",
+                    "Wasumina cine cine m'cikuku, Wasambwa mum’lopa wa Yesu?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Wasambwa ... mum'lopa ... Wabuta wa Mwana wa Mpanga ... ?",
                     "Bushe fyakufwala fyenu fyabuta? Kanshi musambwe mu mulopa."
                 ]
@@ -2446,7 +2680,12 @@
                 "index": 1,
                 "lines": [
                     "Naendawike kutali, Nomba ndebwela;",
-                    "Mpulumushi shafulile, Nomba ndebwela.",
+                    "Mpulumushi shafulile, Nomba ndebwela."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndebwela ndebwela, Nanako kwenda;",
                     "Mumpokelele mwe Mfumu, Nomba ndebwela."
                 ]
@@ -2491,7 +2730,12 @@
                     "Bonse baleumfwa amashiwi,",
                     "Tumeni ilandwe mu calo conse,",
                     "Soseni ilandwe kuli bonse,",
-                    "\"Iseni bonse mwandi",
+                    "\"Iseni bonse mwandi"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "\"Iseni bonse mwe balubile,\"",
                     "Yesu alefwaya bonse ukwisa;",
                     "Tata watemwika atwita nomba,",
@@ -2667,7 +2911,12 @@
                 "index": 1,
                 "lines": [
                     "Njishibe fingi fya Mfumu; Nkatungulule banandi;",
-                    "Monemo 'lupusukilo, Ndetemwa pantu afwile.",
+                    "Monemo 'lupusukilo, Ndetemwa pantu afwile."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "E, fimbi fya Yesu, E, fimbi fya Yesu,",
                     "Monemo ‘lupusukilo, Ndetemwa pantu afwile."
                 ]
@@ -2761,7 +3010,12 @@
                     "Cinshi cingasamba 'ne?",
                     "Umulopa wakwa Yesu",
                     "Mutima wasambwa nshi?",
-                    "Umulopa wakwa Yesu.",
+                    "Umulopa wakwa Yesu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mulopa usuma, Ukasamba ine;",
                     "Nshikwete nacimbi, Umulopa wakwe weka,"
                 ]
@@ -2821,7 +3075,12 @@
                 "lines": [
                     "Bushe mulenaka no bulanda? Mwebeni Yesu;",
                     "Mwebeni Yesu; Bushe ubuseko bwenu bwaya?",
-                    "Mwebeni Yesu eka",
+                    "Mwebeni Yesu eka"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mwebeni Yesu, mwebeni Yesu, E cibusa mupepi;",
                     "Tapali umbi pamo nga Yesu, Mwebeni Yesu eka"
                 ]
@@ -2867,7 +3126,12 @@
                 "index": 1,
                 "lines": [
                     "Ecawama kusumina, Muli Yesu Katula;",
-                    "Ukusumina mashiwi, Yakwe ayamweo pe.",
+                    "Ukusumina mashiwi, Yakwe ayamweo pe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu! Yesu! ndesumina.",
                     "Namweseshe kale fye",
                     "Yesu! Yesu! Mfumu yandi",
@@ -2912,7 +3176,12 @@
                 "index": 1,
                 "lines": [
                     "We kasuba katemwikwa, Lintu nasalile Yesu;",
-                    "Nomba umutima wandi, Ukalanda luse lwakwe,",
+                    "Nomba umutima wandi, Ukalanda luse lwakwe,"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Kasuba kasuba, Lintu Yesu ansambile;",
                     "Ansambilishe 'kupepa, Nokusekela konse pe;",
                     "Kasuba kasuba, Lintu Yesu ansambila."
@@ -2949,7 +3218,12 @@
                 "lines": [
                     "Mwe bantu ba Mfumu nomba tusekela;",
                     "Twimbe ulwimbo lusuma, Twimbe ulwimbo lusuma,",
-                    "No kwisa ku Mfumu, No kwisa ku Mfumu.",
+                    "No kwisa ku Mfumu, No kwisa ku Mfumu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tuleya ku Zion, Yawama Zion yawama;",
                     "Tuleya nomba kwi sano, Mu musumba wakwa Lesa."
                 ]
@@ -2995,7 +3269,12 @@
                 "index": 1,
                 "lines": [
                     "Nalipusushiwa, nasosa, Mu mulopa wa Mwana Lesa;",
-                    "Ampususha no luse lwa-kwe, Nomba ndi mwana wakwe pe",
+                    "Ampususha no luse lwa-kwe, Nomba ndi mwana wakwe pe"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu Yesu, Yesu ni Katula wandi;",
                     "Yesu, Yesu, Nomba ndi mwana wakwe pe."
                 ]
@@ -3046,7 +3325,12 @@
                 "index": 1,
                 "lines": [
                     "Amenshi ya mweo yaliko, Mukafukauka;",
-                    "Kwena Yesu aletulinda, Ukutuposhako",
+                    "Kwena Yesu aletulinda, Ukutuposhako"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Amenshi ya mweo yaliko,",
                     "Menshi ya mweo yaliko;",
                     "Menshi ya mweo yaliko.",
@@ -3083,7 +3367,12 @@
                 "index": 1,
                 "lines": [
                     "Lintu Yesu akesa pa calo kupingula bantu bonse,",
-                    "Na ifwe tukeminina shani ilyo mashina yaketwa",
+                    "Na ifwe tukeminina shani ilyo mashina yaketwa"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Akatutile ngano mubutala. Lelo misungu akaposa;",
                     "Na ifwe tukeminina shani, pa bupingulo bukulu."
                 ]
@@ -3136,7 +3425,12 @@
                     "Mfumu nshisakamana na fyuma kuno,",
                     "Ndeiteyanishisha kwingila ku mulu;",
                     "Muli buku lya mweo lyalembwa ku mulu,",
-                    "Njeba nomba Katula 'shina lyandi uko.",
+                    "Njeba nomba Katula 'shina lyandi uko."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bushe shina lyandi lyalilembwa uko?",
                     "Bushe ishina lyandi mwi buku lya mweo?"
                 ]
@@ -3175,7 +3469,12 @@
                 "index": 1,
                 "lines": [
                     "Inshita shepingulo shatendeka, Elyo tukekala shani,",
-                    "Lintu matontonkanyo na fyonse Fikapingulwa na Lesa?",
+                    "Lintu matontonkanyo na fyonse Fikapingulwa na Lesa?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Elyo tukekala shani, Mu bupingulo bwa Lesa;",
                     "Nangu Lesa akatukana, Nangu bubi bwafutilwe"
                 ]
@@ -3210,7 +3509,12 @@
                 "index": 1,
                 "lines": [
                     "Twitwa ku cimuno ca Mfumu, Nangu tuli pamo nga bakwe,",
-                    "Tukacita nshi munyina Lintu ikesa?",
+                    "Tukacita nshi munyina Lintu ikesa?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lintu ikesa mwandi, Lintu ikesa;",
                     "Tukacitanshi munyina Lintu ikesa?"
                 ]
@@ -3271,7 +3575,12 @@
                     "Tanda kulucelo, Mbuto shabusuma,",
                     "Tuletanda nomba, Mbuto sha Mfumu;",
                     "Tulolela nshita, Yakusepa mbuto,",
-                    "Tukabwela bonse No kusekela.",
+                    "Tukabwela bonse No kusekela."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tukasekela, tukasekela,",
                     "Lintu tukabwela tukasekela;",
                     "Tukasekela, tukasekela,",
@@ -3312,7 +3621,12 @@
                 "index": 1,
                 "lines": [
                     "Umfwe mashiwi ya Yesu, Uyu mu mpanga yamfimfi,",
-                    "Aita abo baluba, Balekele ng'anda yakwe.",
+                    "Aita abo baluba, Balekele ng'anda yakwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Leteni leteni bwesheni bampulumushi;",
                     "Leteni leteni bwesheni kuli Yesu"
                 ]
@@ -3349,7 +3663,12 @@
                     "Mwafwe abaluba, 'sunge balefwa,",
                     "Cita no luse kufumya kumfwa,",
                     "Bebeni baluba kuli Katula,",
-                    "Alifwilile ku bubi bwabo.",
+                    "Alifwilile ku bubi bwabo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mwafwe abaluba, 'sunge balefwa,",
                     "Yesu abatemwa abafwila."
                 ]
@@ -3399,7 +3718,12 @@
                     "Natemwa ukusosa, Fya fintu fya Lesa;",
                     "Fya lulumbi lwa Yesu, No kutemwa kwakwe;",
                     "Natemwa ukusosa, Ilandwe lisuma,",
-                    "Lisansamusha ine ukucila fyonse",
+                    "Lisansamusha ine ukucila fyonse"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Natemwa ukusosa ilandwe lyakwa Yesu,",
                     "Ilandwe lya kutemwa, Kutemwa kwa Yesu."
                 ]
@@ -3450,7 +3774,12 @@
                     "Fwayeni ba-lu-ba no kute-mwa,",
                     "Abaluba mu calo conse;",
                     "Basosheni fye ilandwe lya-kwe,",
-                    "Bebeni bo-mfwe shiwi lyakwe",
+                    "Bebeni bo-mfwe shiwi lyakwe"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Kabiyeni ... mu calo, mu mpi-li;",
                     "Leteni a ... balubi-lile; Mwi cinka lya ... kwa Mu-pusu-shi,",
                     "Yes'aipa .. .ililwe- 'babi."
@@ -3490,7 +3819,12 @@
                 "index": 1,
                 "lines": [
                     "Konse fye mabala yapya. Yapemba ukusepwa;",
-                    "Konse fye ngano nashipya, Shibengeshima bwino",
+                    "Konse fye ngano nashipya, Shibengeshima bwino"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mwe Lesa tuma babomfi mutumfwe Lesa nomba;",
                     "Mubatuma ukusepa Pantu 'nshita yacepa."
                 ]
@@ -3527,7 +3861,12 @@
                     "Tuleya kubomba tuli bamilimo,",
                     "Konkeni mu nshila Yesu aendele;",
                     "Na mashiwi aletupela amaka,",
-                    "Tukacita maka 'ncito atupela",
+                    "Tukacita maka 'ncito atupela"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tuleya Kubomba Tuleya ... kubomba",
                     "Sumina pempula Bomba milimo ya Mfumu."
                 ]
@@ -3644,7 +3983,12 @@
                 "index": 1,
                 "lines": [
                     "Ndefwaisha kwimbe-shi nyimbo, Lyashuka ishina lyenu:",
-                    "Mfumu yandi iya lulumbi, Lyashuka ishina lyenu.",
+                    "Mfumu yandi iya lulumbi, Lyashuka ishina lyenu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lyashuke shina, Lyashuke shina,",
                     "Lyashuka ishina lyenu;",
                     "Lyashuke shina, Lyashuke shina,",
@@ -3790,7 +4134,12 @@
                     "Kuli Imwe Tata twaisa ilelo,",
                     "Mwe ilinga lyesu twapapata;",
                     "Mu calo camfimfi, takuli lubuto,",
-                    "Mutusansamusha Tata wesu.",
+                    "Mutusansamusha Tata wesu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Kuli Imwe Tata tuleisa",
                     "Ku mapepo yesu mumfwe nomba."
                 ]
@@ -3831,7 +4180,12 @@
                     "Mwinchila ine Katula,",
                     "Mumfwe kuli 'ne;",
                     "Apo mulemona bambi,",
-                    "Mwinchila ine.",
+                    "Mwinchila ine."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu, Yesu, mumfwe kuli 'ne;",
                     "Apo mulemona bambi, Mwinchila ine."
                 ]
@@ -3970,7 +4324,12 @@
                     "Pempuleni lintwi nshita ilya pepi;",
                     "Mwe bena Kristu, pempuleni mupepe;",
                     "Tengeleleni umulwani nakosa;",
-                    "Pempuleni Shibwinga aisa bwangu.",
+                    "Pempuleni Shibwinga aisa bwangu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Pempuleni no kupepa,",
                     "Pempuleni akasuba no bushiku,",
                     "No kupepa pe."
@@ -4012,7 +4371,12 @@
                     "Mwilaba Sabata Mfumu yapalile,",
                     "Ilya palwa kucila Lya mulungu onse;",
                     "Liletuletelo butusho no buseko,",
-                    "Bwisa pe mu bulesa ilyo tulemona.",
+                    "Bwisa pe mu bulesa ilyo tulemona."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Isa, isa nomba isa Kasuba ka Mfumu,",
                     "Isa, isa, nomba isa kasuba ka Mfumu."
                 ]
@@ -4094,7 +4458,12 @@
                     "Skulu yesu ye Sabata,",
                     "Yatemwikwa nefwe;",
                     "M'tima wandi uitemwa;",
-                    "Skulu ye Saba",
+                    "Skulu ye Saba"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Skulu ye ... Sabata,",
                     "Skulu ye ... Sabata;",
                     "M'tima wandi uitemwa",
@@ -4262,7 +4631,12 @@
                 "index": 1,
                 "lines": [
                     "Ndefwayo kwenda na yesu, Tekuti nyende neka;",
-                    "Ndekabile cinso cakwe, Na maboko yambake;",
+                    "Ndekabile cinso cakwe, Na maboko yambake;"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Elyo nsha katine i,",
                     "Nga anta ... ngililako;",
                     "Nkaya nsha kang'wing'wintike.",
@@ -4395,7 +4769,12 @@
                 "index": 1,
                 "lines": [
                     "Yesu wa cikuku alekwita, Alekwita, Alekwita,",
-                    "Cinshi 'we wingafumino kwali, No kuye ciyeyeye?",
+                    "Cinshi 'we wingafumino kwali, No kuye ciyeyeye?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "A ... lekwita, A ... lekwita,",
                     "Wa-cikuku, Wa luse Yesu alekwita."
                 ]
@@ -4487,7 +4866,12 @@
                 "lines": [
                     "Chilolo aishi-le kuli Yesu,",
                     "Kumwipusha ifya lupusukilo,",
-                    "Mfumu nayo yamwaswike bwino,",
+                    "Mfumu nayo yamwaswike bwino,"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "\"Mufya-lwe libili.\"",
                     "\"Mufya-lwe libili. Mufya-lwe libili,",
                     "Ndemweba ine ifya cine cine, mufyalwe libili.\""
@@ -4527,7 +4911,12 @@
                 "index": 1,
                 "lines": [
                     "Ngumfwe Mfumu, umbelelyo luse kalubula isa;",
-                    "Mweo wandi ule mufuluka, kalubula isa;",
+                    "Mweo wandi ule mufuluka, kalubula isa;"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Naile kumpili kwa talala,",
                     "kutalyu kufuma kumwesu.",
                     "Shi mbuleni mbikeni mwicinka",
@@ -4574,7 +4963,12 @@
                     "We-na li na maka E-nga pususha,",
                     "Uku-pokolo-lo Yo wasumina:",
                     "Kufuma mumulilo kubonaushi;",
-                    "Yesu apususha uwasumina.",
+                    "Yesu apususha uwasumina."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Kut‘ akupusu-sha ku-poko-lola,",
                     "we we munyi-na nga wasu-mina."
                 ]
@@ -4615,7 +5009,12 @@
                     "Fwe tu-le kula. Pe bwe lyesu,",
                     "Libwe lya bumi ni Ye-su;",
                     "Emo tukoba fya bu-kali,",
-                    "Ilyo kukabo bubi.",
+                    "Ilyo kukabo bubi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Kuleni ... Palibwe .. ,",
                     "Kuleni ... palibwe,",
                     "Tukule pa mwalala wakosa,",
@@ -4658,7 +5057,12 @@
                     "Njeba mulumbe wa Yesu, Ulembe pa mutima:",
                     "Njeba mulumbe usuma. Ndeutemwisha kumfwa",
                     "Njeba ifyo baimbile, ilyo Yesu afyelwe,",
-                    "Ululumbi kuli Lesa, No mutende ku bantu.",
+                    "Ululumbi kuli Lesa, No mutende ku bantu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Njeba mulumbe wa Yesu, Ulembe pa mutima;",
                     "Njeba mulumbe usuma, Ndeutemwisha kumfwa."
                 ]
@@ -4699,7 +5103,12 @@
                     "Yesu ni Kakumba, alekwitila",
                     "Mukati ke cinka emofili fifulo;",
                     "Iseni mwe-bakulu, na baice bonse;",
-                    "Mwingile mubutusho, mwingile mu cine.",
+                    "Mwingile mubutusho, mwingile mu cine."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nokutemwa Yesu alekwita,",
                     "We waluba Yesu alekwita,",
                     "Naiminina lekulindila;",
@@ -4740,7 +5149,12 @@
                 "index": 1,
                 "lines": [
                     "Lintu Kapingula 'ka-tu-pima fya mu mutima,",
-                    "Bushe tukaba baci-ne, Nangula ifinangwa?",
+                    "Bushe tukaba baci-ne, Nangula ifinangwa?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Wabika 'we pa cipimo, Na-upelu-ka;",
                     "Nupimwa ne shiwi lyakwe, Na-upelu-ka,"
                 ]
@@ -4775,7 +5189,12 @@
                 "index": 1,
                 "lines": [
                     "Amashiwi ya Mupusushi,Umfwa yali aya mweo,",
-                    "Uyasakamane umfwa Yes' ati, \"Balishu-ka basu-nge funde.\"",
+                    "Uyasakamane umfwa Yes' ati, \"Balishu-ka basu-nge funde.\""
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Balishu-ka bo bacite funde, Balishuka-, balishuka;",
                     "Balishu-ka bo bacite funde, Bali-shuka, balishuka."
                 ]
@@ -4810,7 +5229,12 @@
                 "index": 1,
                 "lines": [
                     "Tatwaba na chibusa nga Yesu takuli nakalya,",
-                    "Uinga tuposhe mitima yesu takuli nakalya.",
+                    "Uinga tuposhe mitima yesu takuli nakalya."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Alishibo kuchula kwesu twakula sungwa suke se,",
                     "Takwaba na chibusa nga Yesu takuli nakalya"
                 ]
@@ -4861,7 +5285,12 @@
                 "index": 1,
                 "lines": [
                     "Pa lupanda pa-liba umweo. Yes' ati, \"Lolesha Ine;\"",
-                    "Ifyuma fya mu calo fibi, Kano ifyuma fya pa lupanda.",
+                    "Ifyuma fya mu calo fibi, Kano ifyuma fya pa lupanda."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Kupusu ka lolesha, lolesha pa Kalvari",
                     "Tupelwa kupusuka Kumona pa Kalvari."
                 ]
@@ -4896,7 +5325,12 @@
                 "index": 1,
                 "lines": [
                     "Ne cikuku Yesu aleita 'we, Kwita iwe na ine;",
-                    "A-Ii pa mwinshi alekulolela, Kulolela na ine.",
+                    "A-Ii pa mwinshi alekulolela, Kulolela na ine."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Isa ... Isa ... We waluba we bwela-;",
                     "No kutemwa Yesu alepapata.: ati, \"We mubi isa.\""
                 ]
@@ -4939,7 +5373,12 @@
                 "index": 1,
                 "lines": [
                     "Icipata nacisulwa, Mukati mulebeka;",
-                    "Kubeka kwa pa lupanda, Kutemwa kwamoneka.",
+                    "Kubeka kwa pa lupanda, Kutemwa kwamoneka."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yangu luse lukalamba, Cipata canjiswililwe;",
                     "Ukwi-swilwa ine."
                 ]
@@ -4982,7 +5421,12 @@
                 "index": 1,
                 "lines": [
                     "Shing’anga ali mupepi, Uwa luse ni Yesu;",
-                    "Lisansamusho mutima, Ishina lya kwa Yesu.",
+                    "Lisansamusho mutima, Ishina lya kwa Yesu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "I-mba lwimbo lusuma, Lwe-shina lya kwa Yesu;",
                     "'Shina ili lyacila, Yesu uwapalwa."
                 ]
@@ -5074,7 +5518,12 @@
                 "index": 1,
                 "lines": [
                     "l-shi-wi ndeumfwa, Lyanji-ta kuli 'We;",
-                    "U-ku-sambwa mu mulopa, Ulya wasumine.",
+                    "U-ku-sambwa mu mulopa, Ulya wasumine."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nde-isa Mfumu, Nji-se kuli 'We;",
                     "U-nsambe mu mulopa, Ulya wasumine."
                 ]
@@ -5117,7 +5566,12 @@
                 "index": 1,
                 "lines": [
                     "Ye-su anjeba 'ti, \"Maka taukwete;",
-                    "Pe-mpula upepe, Le-ta fyonse 'ko ndi.'",
+                    "Pe-mpula upepe, Le-ta fyonse 'ko ndi.'"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "A-pele fyonse, I-ne ndi wakwe,",
                     "Bu-bi e bwafitishe, Nde-bu-ta nge mpemba."
                 ]
@@ -5160,7 +5614,12 @@
                 "index": 1,
                 "lines": [
                     "l-bimbi i-lya kashika Ku Kafukauka;",
-                    "Ye-su Mfumu walashilwe, A-le tupususha.",
+                    "Ye-su Mfumu walashilwe, A-le tupususha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "U-mumana naumona, 'Wa kunsangu-lula ine;",
                     "Na-mutasha Mfumu yandi, Pakubutisho mutima."
                 ]
@@ -5203,7 +5662,12 @@
                 "index": 1,
                 "lines": [
                     "Tata nomba naisa fye, Mwe Katula wandi;",
-                    "Nga mulefuma kuli ‘ne Tata one nkaya kwi?",
+                    "Nga mulefuma kuli ‘ne Tata one nkaya kwi?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndesumina shakalabe. Yesu amfwilile;",
                     "Asumishe umulopa, Kupususha ine."
                 ]
@@ -5238,7 +5702,12 @@
                 "index": 1,
                 "lines": [
                     "Kutemwa kwakwa Yesu, Eko na ... kulaimba;",
-                    "Pantu a- ntemwa kale, No kufwa pa Kalvari.",
+                    "Pantu a- ntemwa kale, No kufwa pa Kalvari."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nakula ... i-mba lyonse, Kutemwa ... kwa-kwa Yesu;",
                     "Ukuti mbe no mweo, Wene e wamfwilile."
                 ]
@@ -5333,7 +5802,12 @@
                 "index": 1,
                 "lines": [
                     "Ishina ilya temwikwa Pa-calo na mu mulu;",
-                    "Lyapelwe na Lesa Tata, U-mwana watemwikwa.",
+                    "Lyapelwe na Lesa Tata, U-mwana watemwikwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lyena Iya mushilo 'Shina lya kwa Yesu,",
                     "Ilyapelwe na Tata pa calo,",
                     "Lyaletelwe na bangeli ubushiku,",
@@ -5421,7 +5895,12 @@
                     "Akasuba pa lupili. Pamo na pa cimana;",
                     "Ulubuto lwa kasuba, Lulapwa lulaleka,",
                     "Lelo lubuto lwa cine. Lwaisulo mutima;",
-                    "Pantu umwikala Yesu, Mulabuta fye lyonse.",
+                    "Pantu umwikala Yesu, Mulabuta fye lyonse."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ulubuto ulwawamisha. Lwamu mutima wandi,",
                     "Cimwemwe ica kwa Yesu, Lubuto ku mutima."
                 ]
@@ -5460,7 +5939,12 @@
                 "index": 1,
                 "lines": [
                     "Ndi nolwimbo ulo natemwa, Ilyo nalubwilwe;",
-                    "Kwimbile Mfumu Katula, Ilyo nalubwilwe.",
+                    "Kwimbile Mfumu Katula, Ilyo nalubwilwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ilyo nalubwilwe, Ndelumbanya Katula,",
                     "Nakulalumbe Shina Pantu andubwile,",
                     "Nakulalumbo Mupusushi."
@@ -5504,7 +5988,12 @@
                 "index": 1,
                 "lines": [
                     "Lesa amona ifyuni, Ena ‘lafitemwa;",
-                    "Nga alitemwa ifyuni, Alintemwa ine.",
+                    "Nga alitemwa ifyuni, Alintemwa ine."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Alintemwa Alintemwa, Alintemwa ine:",
                     "Pantu alitemwa fyonse, Alintemwa ine."
                 ]
@@ -5541,7 +6030,12 @@
                     "Inshita ya kupepa ni ‘lyo twafininwa;",
                     "'Lyo tuya kuli Yesu cibusa wesu;",
                     "Nga twamucetekela, ena katulama,",
-                    "Emuti ku-banaka, cisumo kuyo kwali.",
+                    "Emuti ku-banaka, cisumo kuyo kwali."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nshita yapalwa, nshita ya kupepa,",
                     "Emuti kubanaka, cisumo kuyo kwali."
                 ]
@@ -5592,7 +6086,12 @@
                     "Yesu mwalilaya, Ko mwalongana,",
                     "Babili, batatu, mwishina lyandi,",
                     "Ndi pakati kenu, ici ca cine;",
-                    "Twafukama Mfumu isa tupale.",
+                    "Twafukama Mfumu isa tupale."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "'Seni mutupale twamulolela",
                     "Yesu mutupale twamulo-lela."
                 ]
@@ -5631,7 +6130,12 @@
                 "index": 1,
                 "lines": [
                     "Ndi wenu Mfumu. naumfwe shiwi. lyanjeba kumutemwa;",
-                    "Lelo ndefwaya kupalamina. Pepi pepi mwe Mfumu.",
+                    "Lelo ndefwaya kupalamina. Pepi pepi mwe Mfumu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mpalamine pepi mwe Mfumu.",
                     "palya 'po mwamfwilile.",
                     "Mpalamine pepi mwe Mfumu.",
@@ -5715,7 +6219,12 @@
                 "index": 1,
                 "lines": [
                     "Mbe pepi no lupanda, Ekafukauka,",
-                    "Ukundapwa kwa bonse, Kufuma ku Mfumu.",
+                    "Ukundapwa kwa bonse, Kufuma ku Mfumu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "M’lupanda M‘lupanda, Elulumbi lwandi,",
                     "Kufiko mweo wandi, Ukatushe kulya."
                 ]
@@ -5794,7 +6303,12 @@
                 "index": 1,
                 "lines": [
                     "Mucifulo ca mushilo, Mutima wandi waanga,",
-                    "Bushe n' ani ungalanda, Ukutemwa kwakwa Yesu",
+                    "Bushe n' ani ungalanda, Ukutemwa kwakwa Yesu"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ukutemwa, kwakupapa; Kutemwa kwakwa Yesu;",
                     "Ukutemwa, Kwakupapa; Kutemwa kwakwa Yesu."
                 ]
@@ -5829,7 +6343,12 @@
                 "index": 1,
                 "lines": [
                     "Nalikutemwa we Mfumu, Ukucila fyonse,",
-                    "Pamutendyo yo wampela, Ushingonaulwa.",
+                    "Pamutendyo yo wampela, Ushingonaulwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tatulati twebwe fyonse, Fyakutemwa kobe",
                     "Tatulati twebwe fyonse, Fyamulopa obe"
                 ]
@@ -5874,7 +6393,12 @@
                     "Konse kantwala 'ne nkaya.",
                     "Pantu namu cetekela;",
                     "Ndeibukisha pa lwandi;",
-                    "Afwilile pa kalfali.",
+                    "Afwilile pa kalfali."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yes' akula ntangilila, Akasuba no bushiku",
                     "Cibusa wandi wacine, Amfwilile pa kalufali."
                 ]
@@ -5915,7 +6439,12 @@
                     "Bule calo umpe Yesu,",
                     "Pantwi calo 'ci cafye;",
                     "Pantu ukutemwa kwakwe,",
-                    "Kwabafyo kwa penape;",
+                    "Kwabafyo kwa penape;"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yangu ukutemwa kwakwe,",
                     "No luse lwafulisha;",
                     "Ubupususho kuli ‘fwe,",
@@ -5966,7 +6495,12 @@
                 "index": 1,
                 "lines": [
                     "Bulen'umweo wandi. Mfumu yand'ube wenu,",
-                    "Pamo ne minwe yandi. Icite fyo mwatemwa.",
+                    "Pamo ne minwe yandi. Icite fyo mwatemwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nsambeni mbute mumulopa, (mumulopa)",
                     "Nsambeni mbute mumulopa. (mumulopa)",
                     "Mfumu napela. Umweo nafyonse, Kube ukwa penape."
@@ -6116,7 +6650,12 @@
                     "Ine mbe wenu Mupusushi,",
                     "Mfundisha we Mfumu;",
                     "Ine ncite kufwaya kwenu,",
-                    "Ngafweni Mfumu",
+                    "Ngafweni Mfumu"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mbe wenu (Mfumu). Mbe wenu (Mfumu).",
                     "Uku kulaya kwandi Mbe wenu (Mfumu).",
                     "Mbe wenu (Mfumu),",
@@ -6226,7 +6765,12 @@
                     "Mpimpilo kuya ku mulu,",
                     "Ndanina inshiku shonse;",
                     "Ndalomba ilyo nde enda,",
-                    "Ntila Mfumu nje ku mulu.",
+                    "Ntila Mfumu nje ku mulu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mfumu njimya njiminine.",
                     "Busumino bwa ku mulu;",
                     "Icifulo cacile ci,",
@@ -6279,7 +6823,12 @@
                     "Iwe wilakana, eko ili ncito",
                     "'yo Lesa 'Iefwaya iwe kuyabomba;",
                     "Umfwa bwite bwakwe kuli 'we 'lekwita,",
-                    "Cisumo kubomba, kubombelo mulu.",
+                    "Cisumo kubomba, kubombelo mulu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Iseni (seni) mwikana kubomba,",
                     "Iteya (teya) nisheni kubomba,",
                     "Mwikana kubomba mukomfwa 'katila,",
@@ -6369,7 +6918,12 @@
                 "index": 1,
                 "lines": [
                     "Tata mumpalamike, Ndefwaya mfukatilwe ;",
-                    "Mbe fye mu maboko yenu, Kuti nsange kutusha.",
+                    "Mbe fye mu maboko yenu, Kuti nsange kutusha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mpa-lamikwe mupepi,",
                     "Mpa-lamikwe kuli Imwe,",
                     "Mpa-lamine pepi na 'Mwe"
@@ -6407,7 +6961,12 @@
                     "Konse konse na Yesu kuti naya.",
                     "Konse ngantungulula mu calo 'ci,",
                     "Nga Yesu talipo tekuti ntemwe,",
-                    "Konse konse nge pwali kuti naya.",
+                    "Konse konse nge pwali kuti naya."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Konse fye. konse fye. tekuti ntine;",
                     "Konse nga Yesu alipo kuti naya."
                 ]
@@ -6446,7 +7005,12 @@
                 "index": 1,
                 "lines": [
                     "E-nda mu lubuto wape-lwa lukutungulule,",
-                    "'Mupa-shi kufuma ku mulu, Winga fumye mfifi",
+                    "'Mupa-shi kufuma ku mulu, Winga fumye mfifi"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "E-nda mu lubuto, E-nda mu lubuto,",
                     "E-nda mu lubuto, Mu lubuto ulwa Mfumu."
                 ]
@@ -6491,7 +7055,12 @@
                     "Yangu bakusepa nga bali kwi,",
                     "Abengalobolola mu fibi,",
                     "Ukulobolola ukwa cine,",
-                    "Kukana 'tusha basuke bapwe.",
+                    "Kukana 'tusha basuke bapwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Abakusepa nga bali kwi,",
                     "Bakwisa bomba bulobololo?",
                     "Abakutwafwa ukusepa,",
@@ -6544,7 +7113,12 @@
                     "Ndetontonkanya le-Io calo cisuma,",
                     "Nkafika-ko bushi-ku bumo,",
                     "Mu luse lwa Mupusushi nkeminina,",
-                    "Mukabe ntanda mu citebo.",
+                    "Mukabe ntanda mu citebo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bushe mukaba ne ntanda mu citebo,",
                     "Ilyo a kasuba kakawa?",
                     "Ilyo nkashibuka muma sano yakwe,",
@@ -6587,7 +7161,12 @@
                     "Landa kuli- ‘ne Yesu, Ne shiwi lya luse,",
                     "Ne shiwi lya kutemwa; \"Taushele weka.\"",
                     "Njiswila umuti-ma, Umfwe shiwi lyobe,",
-                    "Muti wa-ndi wange no kutasha Imwe.",
+                    "Muti wa-ndi wange no kutasha Imwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Landeni kuli ine, Shiwi lya mutembo,",
                     "\"Ukaba wa kucimfya, Ukaba muntungwa.\"",
                     "Landa kuli 'ne Mfumu, Shiwi lya kutemwa,",
@@ -6727,7 +7306,12 @@
                     "Limbi teti cibe pa mpili, nangula ni kwishilya;",
                     "Nangu tekubulwi ‘lemfwaya, Ukuti ine njeko;",
                     "Lelo nga nau-mfwa i-shiwi kuntu-ma uko nshishibe,",
-                    "Nkayasuke Mfumu yandi nkatila, Ntuma konse fye 'ne ndeya.",
+                    "Nkayasuke Mfumu yandi nkatila, Ntuma konse fye 'ne ndeya."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nkaya, konse 'ko lefwaya Mfumu.",
                     "Mu mpili, mu fimana monse;",
                     "Nkalanda ico ulefwaya nande,",
@@ -6768,7 +7352,12 @@
                 "index": 1,
                 "lines": [
                     "Amashiwi yabukali, Yeba mutunwa twenu,",
-                    "Eyabifya umutima Nokukowesha milomo",
+                    "Eyabifya umutima Nokukowesha milomo"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "\"Temwaneni\" -- efyasose Mfumu,",
                     "Bana umfwileni funde lyakwe,",
                     "\"Temwaneni\" -- efyasose Mfumu.",
@@ -6805,7 +7394,12 @@
                 "index": 1,
                 "lines": [
                     "Ulya uya ilya lila, Nokutanda imbuto-o,",
-                    "Ukwabula ukunaka, Akabelelwo luse.",
+                    "Ukwabula ukunaka, Akabelelwo luse."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Shilolesha! We mulimi, Imbuto nomba shapya;",
                     "Mona amabala yapya yapembwa Ukusepwa"
                 ]
@@ -6842,7 +7436,12 @@
                     "Kusombole calo nakupalama,",
                     "Imfumu leita bakusombola,",
                     "Ingano nashipya kutal’apepi,",
-                    "Shilongelwe nombe 'ilyo talaisa.",
+                    "Shilongelwe nombe 'ilyo talaisa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "'Sa we bu-shiku, Ubwaku-sekela,",
                     "Sendeni mipo, Ku-mu-shi."
                 ]
@@ -6881,7 +7480,12 @@
                 "index": 1,
                 "lines": [
                     "Mfumu 'ne, Ndamufwaisha! Nangu ndi mubi mpofu;",
-                    "Mundame, muntungulule, ukuti mbe na maka.",
+                    "Mundame, muntungulule, ukuti mbe na maka."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "We mfumu nshita sho-nse",
                     "Ndakufwa-isha lyo-nse",
                     "Undame, Mfumu yandi,",
@@ -6926,7 +7530,12 @@
                 "index": 1,
                 "lines": [
                     "Nindaminwa fye Yesu! mpe-lwa maka yakwe;",
-                    "Nokufuma kubu-bi, Kwendo mwaendele",
+                    "Nokufuma kubu-bi, Kwendo mwaendele"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nalaminwa fye Yesu! Ndi pankasa shakwe;",
                     "Nshilipwe cintu, Ndifyo wafye, kano Yesu eka."
                 ]
@@ -7714,7 +8323,12 @@
                 "index": 1,
                 "lines": [
                     "Mu mpanga ya kumulu, Mwalibo \"Musumba,\"",
-                    "Ukekalilila pe, \"Bushiku takwaba.\"",
+                    "Ukekalilila pe, \"Bushiku takwaba.\""
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Akafute filamba, Mu \"musumba ulya;\"",
                     "Tabaka lepende myaka, \"Bushiku takwaba.\""
                 ]
@@ -7759,7 +8373,12 @@
                     "Limbi lucelo, lyakasuba katula.",
                     "Lye mfimfi yaya, nakasuba katula,",
                     "Kuti aisa mululumbi ulwakwe.",
-                    "Kwisa senda abantu bakwe.",
+                    "Kwisa senda abantu bakwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nililali Mfumu ilyo tukembo lwimbolu?",
                     "Aleisa Aleluya, Aleluya Ameni, Aleluya Ameni."
                 ]
@@ -7809,7 +8428,12 @@
                 "lines": [
                     "Bushe wate-yanishisha shibwinga ngaisa?",
                     "Bushe iwe wamuteyanishisha iwe;",
-                    "Moneni Aisa isa fwalila umukumanye, shibwinga Aisa.",
+                    "Moneni Aisa isa fwalila umukumanye, shibwinga Aisa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mona shibwinga Aisa Aisa! Mona fwalila Aisa Aisa!",
                     "Mona shibwinga Aisa Aisa! Iteyanishishe shibwinga Aisa."
                 ]
@@ -7857,7 +8481,12 @@
                     "Mfumwi leisa; Inshita tatwishibe;",
                     "Malangililo yaleti Alaisa,",
                     "Lintwa kabwela, Bulayo bu bwacine,",
-                    "Nshita ta-twishibe.",
+                    "Nshita ta-twishibe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Akesa (Akesa), Pempuleni teyanyeni;",
                     "Akesa (Akesa), Haleluya! Haleluya!",
                     "'Kesa mu makumbi, Mululumbi lwakwa Wishi.",
@@ -7900,7 +8529,12 @@
                     "Tatwaishiba ilya kesa, Cungulo nelyo lucelo,",
                     "Limbi kuti fye ubushiku, Limbi kuti ni kumaca,",
                     "Aleti kanshi pempuleni, Mwileka nyali shishime,",
-                    "Ilya kabwela katusange, Abaiteyanishisha.",
+                    "Ilya kabwela katusange, Abaiteyanishisha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Li-nda pempu-la, Li-nda pempu-la;",
                     "Li-nda pempu-la, Uku mulolela Yesu."
                 ]
@@ -7939,7 +8573,12 @@
                 "index": 1,
                 "lines": [
                     "Bushiku bulya nabupalama; Yesu alaisa.",
-                    "Ukwisa senda babusumino, Ukuya kumushi.",
+                    "Ukwisa senda babusumino, Ukuya kumushi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yangu twamona mibengelele kutandule mfifi yonse!",
                     "Mibengelele yakwisa kwakwe, Nshishi shikesuka."
                 ]
@@ -7984,7 +8623,12 @@
                     "Bulayo bwakwe kubasumina",
                     "\"mona naisa ukwisa basenda,",
                     "Ikatisha we kufika njise,",
-                    "Wilala we buka, ndeisa bwangu.\"",
+                    "Wilala we buka, ndeisa bwangu.\""
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "\"Ikatisheni insuke njise,\"",
                     "Bufumu bukapelwa kulimwe,",
                     "Ingila mubuseko bwa Mfumu,",
@@ -8274,7 +8918,12 @@
                     "Bule shina lyakwa Yesu,",
                     "we mwana wa bulanda,",
                     "Li ka kupelo buseko,",
-                    "nakonse kuntu kaya.",
+                    "nakonse kuntu kaya."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ishina -- lisuma --",
                     "lya cetekelwa muno;",
                     "Ishina -- lisuma --",
@@ -8327,7 +8976,12 @@
                     "Cacine cine Yesu wandi,",
                     "Kuwama kwakwe kwa lulumbi!",
                     "Ndi mpyani nali-shitwa nankwe,",
-                    "Kufyalwa ku Mupashi wakwe.",
+                    "Kufyalwa ku Mupashi wakwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Elyashi lyandi, lwimbo lwandi,",
                     "ndetasha Yesu Mfumu yandi,",
                     "Elyashi lyandi, lwimbo lwandi,",
@@ -8370,7 +9024,12 @@
                     "Ali mfwilile pa lupanda,",
                     "epo nsamba ifibi fyandi.",
                     "Mumulopa wakwe ndebuta,",
-                    "Lumbeni Yesu.",
+                    "Lumbeni Yesu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lumbeni Yesu, Lumbeni Yesu,",
                     "mu mulopa wakwe ndebuta,",
                     "Lumbeni Yesu."
@@ -8422,7 +9081,12 @@
                     "Cinshi ushingekalila ngo mweo wakwe?",
                     "Nokwenda nankwe munshila yacepa?",
                     "Cinshi shinga muleka sende icisendo?",
-                    "Sumina ifya fwaya.",
+                    "Sumina ifya fwaya."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ube muntungwa kumaka yakwe;",
                     "Umulopa wakwe ukusambe;",
                     "Elyo kaba mu kutemwa kwakwe,",
@@ -8465,7 +9129,12 @@
                     "Mulawama mu ng'anda nga mwatemwana;",
                     "Nokusekela konse nga mwatemwana.",
                     "Ngo mutende wafula nokusekela konse,",
-                    "Nshita taikokola ilapwa bwino.",
+                    "Nshita taikokola ilapwa bwino."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mu ng'anda, Mu ng'anda,",
                     "Nshita taikokola",
                     "Nga mwatemwana."
@@ -8566,7 +9235,12 @@
                     "Busho lefwaya kwelelwo bubi,",
                     "mwaliba maka mumulopa,",
                     "Taulefwaya ukwansho bubi?",
-                    "Muli maka mu mulopa.",
+                    "Muli maka mu mulopa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mulya maka yakupapisha,",
                     "Mum‘lopa wampanga,",
                     "Amaka ayakupapisha,",
@@ -8619,7 +9293,12 @@
                     "Tapali kwicusha ilya isa;",
                     "tapati kwicusha ilya isa;",
                     "Tapali kwicusha ilya isa;",
-                    "kusenda bantu bakwe.",
+                    "kusenda bantu bakwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Kusenda bantu bakwe:",
                     "kusenda bantu bakwe;",
                     "Tapali kwicusha ilya isa,",
@@ -8672,7 +9351,12 @@
                     "Ukuba yesu e cibusa;",
                     "Ilyo macusho yafulisha,",
                     "Aposha umutima, alapela, amaka;",
-                    "Cibusa wacine ni Yesu.",
+                    "Cibusa wacine ni Yesu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu e cibusa wesu (Yesu wine)",
                     "cibusa wesu wacine (Yesu wesu)",
                     "Kulakwafwa nga wawa, nokukumfwa nga waita,",
@@ -8725,7 +9409,12 @@
                     "Natotelwe Lesa, pafint' a cita;",
                     "Atemenwe calo apele mwane;",
                     "Uwa tufwilile elambo lyesu,",
-                    "Atwiswilyo mulu 'fwe twingile mo.",
+                    "Atwiswilyo mulu 'fwe twingile mo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Imbileni Mfumu, calo cumfwe naco,",
                     "Imbileni Mfumu bantu basekele;",
                     "Isa kuli Tata, mu mwana wakwe;",
@@ -8901,7 +9590,12 @@
                     "Bile-ni imbila, konse kulyu muntu,",
                     "Uku-li mitima ya cula cibi,",
                     "Bena Kristu bonse, Bile-ni no kwanga,",
-                    "Mupa-shi na-isa.",
+                    "Mupa-shi na-isa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mupa-shi Naisa, Mupa-shi Naisa,",
                     "Kufu-ma kumulu, Kuli Tala wesu,",
                     "Bile-ni imbila konse kulyu muntu;",
@@ -8962,7 +9656,12 @@
                 "index": 1,
                 "lines": [
                     "Mu-mpanga ya bwe-ni mo walubila",
-                    "Ukomfwe shiwi, \"We mwana wandi.\"",
+                    "Ukomfwe shiwi, \"We mwana wandi.\""
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bwela wewalubile, Bwela ku mushi!",
                     "Waliye chiyeyeye, We bwela! Bwela!"
                 ]
@@ -9148,7 +9847,12 @@
                 "index": 1,
                 "lines": [
                     "Tondolo, Tondolo, Umfweni shiwi;",
-                    "Talaleni mumfwe kutikisheni.",
+                    "Talaleni mumfwe kutikisheni."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Endeni bwino Shikulu 'li pano,",
                     "Mwende bwino bwino aletufwaya"
                 ]
@@ -9240,7 +9944,12 @@
                 "index": 1,
                 "lines": [
                     "Kristu e watufwilile Yesu Wakupapisha",
-                    "Twashitilwe no mutengo Yesu Wakupapisha.",
+                    "Twashitilwe no mutengo Yesu Wakupapisha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu Wakupapisha Mupusushi wandi;",
                     "Yesu Wakupapisha e Mfumu yandi."
                 ]
@@ -9299,7 +10008,12 @@
                 "index": 1,
                 "lines": [
                     "Kukabe mfula ye pa-lo, Bulayo bwa kutemwa;",
-                    "Nshita isuma ike-sa, Kufuma kuli Yesu.",
+                    "Nshita isuma ike-sa, Kufuma kuli Yesu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mfula ye palo Eyo tulekabila;",
                     "Mu luse lwenu twalomba, Imfula ya bupalo"
                 ]
@@ -9342,7 +10056,12 @@
                 "index": 1,
                 "lines": [
                     "Mu mutima muli lwimbo, Natemwa kulubwekesha;",
-                    "Ndemba libili libili-, Mutende wa kutemwa.",
+                    "Ndemba libili libili-, Mutende wa kutemwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "U-mu-te-nde. E bupe bwa ku mulu;",
                     "Mutende wakupapisha, E bupe bwakwa Lesa."
                 ]
@@ -9385,7 +10104,12 @@
                 "index": 1,
                 "lines": [
                     "Yesu we Mu-pusu-shi, Niwe lwimbo-lwandi;",
-                    "We ka-lubu-la wa-ndi, Ilyo nape-lelwa.",
+                    "We ka-lubu-la wa-ndi, Ilyo nape-lelwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "We Mu-pusu-shi wa-ndi, Naku-lakwi-mbila;",
                     "Niwe Cibu-sa wa-ndi, Yesu ndeku-temwa"
                 ]
@@ -9428,7 +10152,12 @@
                 "index": 1,
                 "lines": [
                     "Bushe Yesu kuti ansunga, Ilyo ndi mu macusho?",
-                    "'Lyo nafininwa ne fya mu calo, Fyalenge nshilo kulepa",
+                    "'Lyo nafininwa ne fya mu calo, Fyalenge nshilo kulepa"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ala-nsunga, Ninji-shiba, Tatemwa ilyo ncula,",
                     "Inshiku nasho shanasha, Mupusushi wandi alansunga."
                 ]
@@ -9471,7 +10200,12 @@
                 "index": 1,
                 "lines": [
                     "Ku mushu 'ko tabaluka, macusho yonse takwaba;",
-                    "E mushi uwawamisha, Eko 'fwe tukayatusha.",
+                    "E mushi uwawamisha, Eko 'fwe tukayatusha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lole-la wilailishanya, Lole-la wilailishanya; Shilo-lela wilailishanya"
                 ]
             },
@@ -9515,7 +10249,12 @@
                     "Nshili no mwenso ine nga Yesu ali pepi;",
                     "Ukubapo kwakwe kulansansamusha lyonse,",
                     "Nangu nshili na Cibusa Yesu Cibusa;",
-                    "Ndaluka, Ena lantemwisha lyonse ukwa pe na pe.",
+                    "Ndaluka, Ena lantemwisha lyonse ukwa pe na pe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Takanshe neka, kunsha neka, nkaba nankwe;",
                     "Alindaya takanshe neka, Akulaba na Ine."
                 ]
@@ -9733,7 +10472,12 @@
                 "index": 1,
                 "lines": [
                     "Kalelila ... Koni kakwe ... Icungulo ... Icapalwa ...",
-                    "Cilelanga ... Bumushilo .... Ndefuluka ... Ku Galile ...",
+                    "Cilelanga ... Bumushilo .... Ndefuluka ... Ku Galile ..."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "O Galile, Waliwama, uko Yesu Atemenwe,",
                     "O Galile. Waliwama, Imba ulwimbo kuli 'ne."
                 ]
@@ -9761,7 +10505,7 @@
     {
         "index": "222",
         "number": 222,
-        "title": "MUMABOKO Y AKWA YESU",
+        "title": "MUMABOKO YAKWA YESU",
         "lyrics": [
             {
                 "type": "verse",
@@ -9770,7 +10514,12 @@
                     "Nindamwa bwino mwandi mumaboko yakwe;",
                     "Na mukutemwa kwakwe nakulatusha mo,",
                     "Bangeli baleimba ciunda ndeumfwa",
-                    "Mu mabala yasuma kwishilya Iya bemba-.",
+                    "Mu mabala yasuma kwishilya Iya bemba-."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Njikale muli Yesu mumaboko yakwe;",
                     "Na mukutemwa kwakwe nakulatushamo."
                 ]
@@ -9809,7 +10558,12 @@
                 "index": 1,
                 "lines": [
                     "Ndeumfwa Yesu 'lenjita, Noluse Wen' alanjita;",
-                    "Ndeumfwa shiwi lileti, 'Sa unkonke lyonse, unkonke.",
+                    "Ndeumfwa shiwi lileti, 'Sa unkonke lyonse, unkonke."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Nakula sendo lupanda, no kukonko Mupusushi;",
                     "Uko konse ntungulula, Ku mukonka konse fye."
                 ]
@@ -9860,7 +10614,12 @@
                 "index": 1,
                 "lines": [
                     "Uluse lwakwa Shikulu, Lulabeka nshiku pe;",
-                    "Atupa kasunge nyali pa cabu ca cimana.",
+                    "Atupa kasunge nyali pa cabu ca cimana."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Inyali shibengeshime, Bashimone pe bimbi,",
                     "Ku balecula mu fibi, Ukuti bapusuke."
                 ]
@@ -9897,7 +10656,12 @@
                     "Mu Kristu ima! Shikulu akwita;",
                     "Fwala ku mutwe, Lupanga ku minwe;",
                     "Ulwishe Satana, Kwabulo mwenso;",
-                    "Ima nge cita ulwishe mulwani.",
+                    "Ima nge cita ulwishe mulwani."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Wilatina, Wilatina, Wilatina; ulwishe mulwani"
                 ]
             },
@@ -9982,7 +10746,12 @@
                 "index": 1,
                 "lines": [
                     "Mupu-sushi andu-bwile no mulopa wakwe;",
-                    "Acu-lile pali ine kuti nsange mweo.",
+                    "Acu-lile pali ine kuti nsange mweo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Palya pa lupanda namwene-lubuto;",
                     "Cisendo ca mutima casendwa .....",
                     "Mu busu-mi-no napelwa menso,",
@@ -10021,7 +10790,12 @@
                     "Lumbanyeni Yesu uwatulubula;",
                     "Mwimbe bonse ukutemwa kwakwe;",
                     "Cindikeni umungeli mukalamba,",
-                    "E wamaka natumucindike",
+                    "E wamaka natumucindike"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mulumbeni! Lumbuleni ubukulu;",
                     "Mulumbeni! Mu lwimbo no kwanga."
                 ]
@@ -10060,7 +10834,12 @@
                 "index": 1,
                 "lines": [
                     "N'ani uwasala Imfumu,",
-                    "Bubi no busu-ma salapo.",
+                    "Bubi no busu-ma salapo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Sa-la, le-lo, Busuma no bubi salapo."
                 ]
             },
@@ -10094,7 +10873,12 @@
                 "index": 1,
                 "lines": [
                     "Pamo nge mpanga shaluba, twaye ciye yeye-,",
-                    "Kufuma mwicinka lyakwe, Tusange shani nshila.",
+                    "Kufuma mwicinka lyakwe, Tusange shani nshila."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "I-ne nshila ne cine no mweo; Teti wise kwa Tala kano muli 'ne"
                 ]
             },
@@ -10128,7 +10912,12 @@
                 "index": 1,
                 "lines": [
                     "Nga wafininwa ne mpulumushi, Yesu leka'be mu mweo;",
-                    "Ngo lefwayo be no mweo upya, Yesu leka'be mu mweo.",
+                    "Ngo lefwayo be no mweo upya, Yesu leka'be mu mweo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Le-ko kulengulula, wi-mutamfya kabili;",
                     "Shi-mwi-swile 'mutima Yesu engile mu mweo."
                 ]
@@ -10226,7 +11015,12 @@
                     "Njeba umulumbe wakale wa fya kwa Yesuu no lulumbi,",
                     "Nokutemwa kwaakwe;",
                     "Loondoolola mulumbe, kwati-nikumwana nalikana,",
-                    "Wama cusho, uwabuula maaka.",
+                    "Wama cusho, uwabuula maaka."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Unjebe umulu-mbe, umulumbe wakale,",
                     "Unjebe umulumbe, Yesu nokutemwa."
                 ]
@@ -10265,7 +11059,12 @@
                 "index": 1,
                 "lines": [
                     "Bangeli baleimba, Yesu, Lubuto lwesu,",
-                    "Lulumbi kuli Yesu, E lubuto lwa calo.",
+                    "Lulumbi kuli Yesu, E lubuto lwa calo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Twakulaenda, mulubuto. seni uko luse lulebeka:",
                     "Lubeka kasuba nobushiku, Yesu lubuto lwesu."
                 ]
@@ -10357,7 +11156,12 @@
                 "index": 1,
                 "lines": [
                     "We mutima shibuka, mwimbile kabumba obe",
-                    "Ima ne nseko no kuya kukwimba nokutotela.",
+                    "Ima ne nseko no kuya kukwimba nokutotela."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ima ne nseko no kuya kukwimba nokutotela."
                 ]
             },
@@ -10448,7 +11252,12 @@
                 "index": 1,
                 "lines": [
                     "Bushe nibani 'ba bayabuka Bapusuka ukufuma kumfwa",
-                    "Yesu abapususha basambwa mumulopa",
+                    "Yesu abapususha basambwa mumulopa"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bengile fipata mu Jerusalemu",
                     "Basambwa mumulopa wakwe",
                     "Bengile fipata mu Jerusalemu",
@@ -10623,7 +11432,12 @@
                 "index": 1,
                 "lines": [
                     "Nafike calo cisuma, Ne fyuma fyonse 'ne fyandi;",
-                    "Kasuba kabalika pe, Pantu bushiku nabupwa.",
+                    "Kasuba kabalika pe, Pantu bushiku nabupwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Icalo ici Keneni, Lintu nafiko lupili,",
                     "Kwishilya kwa mumana 'ko namone ng'anda shisuma;",
                     "Icalo ici cawama nkekala uko pe na pe."
@@ -10840,7 +11654,12 @@
                 "index": 1,
                 "lines": [
                     "Takuli Ishina limbi ilyo ifwe twatemwa,",
-                    "Lilasekesha bangeli na baKristu pano nse.",
+                    "Lilasekesha bangeli na baKristu pano nse."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu ... Yesu ... Takuli Ishina limbi.",
                     "Yesu ... Yesu ... Takuli Ishina limbi."
                 ]
@@ -10883,7 +11702,12 @@
                 "index": 1,
                 "lines": [
                     "Natumfwe shiwi lya Yesu Cibusa obe,",
-                    "Bwela iwe utwebeko 'Co akwitila.",
+                    "Bwela iwe utwebeko 'Co akwitila."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tumfwe kuli Yes'i-shiwi. Litwafwe mu nshila;",
                     "Shiwi lyakwa Yesu limo, Imba upepe."
                 ]
@@ -10934,7 +11758,12 @@
                 "index": 1,
                 "lines": [
                     "Lisheni indibu kulyu buseko, Pa muntu wafuma ku bubi;",
-                    "Wishi alemukumanya mu nshila, Amusengela walubile.",
+                    "Wishi alemukumanya mu nshila, Amusengela walubile."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lulu-mbi baimba bangeli, Lulu-mbi lisheni amasese:",
                     "Abalubulwa baleimbo lwimbo, Baleimba lwa kulubulwa"
                 ]
@@ -11080,7 +11909,12 @@
                     "Su-la matunko-ya-twa-la ku bubi,",
                     "Nga 'we wayaci-mfya 'ka-leta bambi,",
                     "Lwi-sha fye nama-ka ka-nisho bubi,",
-                    "U-mwipushe Yesu- E-na lekwafwa.",
+                    "U-mwipushe Yesu- E-na lekwafwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mwi-pushe Yesu E-ka Ma-ka alekupe-la",
                     "A-Ii Uwaipe-Ia U-kukwafwa iwe."
                 ]
@@ -11120,7 +11954,12 @@
                 "lines": [
                     "Nangu ndile sha-ni Tekuti cimpusushe,",
                     "Nangu kufumyo ‘mwenso,",
-                    "Takwingafumya bubi, Teti kumpusu-she.",
+                    "Takwingafumya bubi, Teti kumpusu-she."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Yesu e wamfwilile, Aculile pa muti,",
                     "E winga nkakula, E winga mpusu-sha."
                 ]
@@ -11166,7 +12005,12 @@
                 "index": 1,
                 "lines": [
                     "Isa we wa mpulumushi kuluse lwa Mfumu,",
-                    "Alekupa ukutusha, nga wamusumina.",
+                    "Alekupa ukutusha, nga wamusumina."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ceteke-ela, cetekela, Mucetekele;",
                     "Upusu-uke, Upusuke, 'Lakupususha."
                 ]
@@ -11424,7 +12268,12 @@
                 "index": 1,
                 "lines": [
                     "Bushe tukaya kumana nga amacusho yapwa",
-                    "Kukaba ukusekela, Malanda takwakabe.",
+                    "Kukaba ukusekela, Malanda takwakabe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tukaya - Kumana, Kwishilya ilya ci-mana;",
                     "Nga twaku-mana kwishilya, Pa cabu caku mulu."
                 ]
@@ -11469,7 +12318,12 @@
                     "Ndepita mwilungu ili baletila libi.",
                     "Lelo nasanga mu nshila muli fye amaluba;",
                     "Ilungu lya wama ninshila isuma,",
-                    "Mupusushi nyende nankwe inshita fye shonse",
+                    "Mupusushi nyende nankwe inshita fye shonse"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "We lungu lya wama Walicindamisha;",
                     "We mpanga we yabulayo Nakumona kulya"
                 ]
@@ -11508,7 +12362,12 @@
                 "index": 1,
                 "lines": [
                     "Mpanga isuma ya Edeni, Yabe yawamisha;",
-                    "Ku mitima ya banaka, Yaba yawamisha.",
+                    "Ku mitima ya banaka, Yaba yawamisha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mpanga yawama ya Eden, Mushi wa bapalwa;",
                     "Nangu ningaba mu macusho, Ndota kutusha kulya."
                 ]
@@ -11543,7 +12402,12 @@
                 "index": 1,
                 "lines": [
                     "Ncite nshi na-Yesu 'Yu imwe mwande-tela,",
-                    "Nafwalo mwi-ngilo yu-, Ne myunga ku mutwe.",
+                    "Nafwalo mwi-ngilo yu-, Ne myunga ku mutwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndemwipusha imwe, Muletila shani?",
                     "Bushe nta-nike Yesu yu, Ndeke Barabba- 'ye?"
                 ]
@@ -11594,7 +12458,12 @@
                 "index": 1,
                 "lines": [
                     "Umfweni mashiwi ayalembelwe-, Leteni icekumi mu ng'anda:",
-                    "Peleni ne Mitima yenu yonse-, Mukapelwa a-ma-pa-lo",
+                    "Peleni ne Mitima yenu yonse-, Mukapelwa a-ma-pa-lo"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Leteni imwe bonse ceku-mi, Lesa 'leti elyo munje-she,",
                     "Nga- nsha-kamupele mapa-lo, Tamwaka-kwate nce-nde paku-bi-ka."
                 ]
@@ -11645,7 +12514,12 @@
                 "index": 1,
                 "lines": [
                     "Kasuba ka Yehofa kapabutendekelo,",
-                    "Akasalile ‘mwine lintwa pwile milimo.",
+                    "Akasalile ‘mwine lintwa pwile milimo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tusekele, Tusekele, Tusekele, Tusekele,",
                     "Kwingila mu butusho, Bwa bushiku bwa Mfumu"
                 ]
@@ -11745,7 +12619,12 @@
                 "index": 1,
                 "lines": [
                     "Yesu ndekonka Imwe, Pantu mwaita ine,",
-                    "Temwa shonse naisa, kukonka ku ng'anda.",
+                    "Temwa shonse naisa, kukonka ku ng'anda."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndeko-nka Imwe, Ndeko-nka Imwe,",
                     "Ndeko-nka Imwe, Shonse muntangila"
                 ]
@@ -11782,7 +12661,12 @@
                     "Tukolonganike mbuto Lyo tuleya mu nshila,",
                     "Isha ngano na maluba, Tufumyemo fisoso.",
                     "Natusange kusekela mu mapalo ya lelo;",
-                    "No kuboko kwatekanya Kufumyemo kalolo.",
+                    "No kuboko kwatekanya Kufumyemo kalolo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tande mbuto sha fuse, Tande mbuto sha luse;",
                     "Tande mbuto sha luse, Kuti tukasombole."
                 ]
@@ -11833,7 +12717,12 @@
                     "Mfumu cipupu capu-nga, Mabimbi yafu-lisha;",
                     "Kumulu kwafita fiti-ti, Umwa kuba mwa-bula;",
                     "Mfumu moneni twala-fwa Mwasendama-shani!",
-                    "Ubwato bwesu bwalabu-nda, Shibukeni mutwafwe.",
+                    "Ubwato bwesu bwalabu-nda, Shibukeni mutwafwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "\"Umwela ulomfwe shiwi lyandi, Ta ... lala ... Mutende, Tondolo",
                     "Nangu mabimbi ya cambeshi, Fibanda, bantu nangu fi-ntu nshi!",
                     "Amenshi teti yabunsho bwato, Umulyu mwine wa fintu fyonse;",
@@ -11875,7 +12764,12 @@
                 "index": 1,
                 "lines": [
                     "Mupusushi wandi ni Yesu Mfumu, Wa kupapisha kuli'ne,",
-                    "Afisa umweo wandi mu libwe, Ukwaba menshi yasuma.",
+                    "Afisa umweo wandi mu libwe, Ukwaba menshi yasuma."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Afisa umweo wandi mu Cilibwe, Cimfule mu chiswebebe",
                     "Afiso mweo mu kutemwa kwakwe, Alemfimba no kuboko",
                     "Alemfimba no kuboko."
@@ -12010,7 +12904,12 @@
                 "index": 1,
                 "lines": [
                     "Poso mwando obe pa mabimbi, Epali umo wingapususha:",
-                    "Nan'engafwaya ku nupususha? Kuti a-pusuke kufuma kumfwa.",
+                    "Nan'engafwaya ku nupususha? Kuti a-pusuke kufuma kumfwa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Poso umwando, posa umwando, Umo asendwa na menshi,",
                     "Paso umwando, posa umwando, Umo asendwa na menshi."
                 ]
@@ -12053,7 +12952,12 @@
                 "index": 1,
                 "lines": [
                     "Shinti-lila we pali Ye-su, A-kula kwafwa Kula kwafwa;",
-                    "Nga wa-cetekela kute-mwa, Uke-mba ulwimbo.",
+                    "Nga wa-cetekela kute-mwa, Uke-mba ulwimbo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Shinti-lila, Mucetekele; Shinti-lila. Mu luse lwakwe;",
                     "Shinti-Iila, Mona ku mulu, Ba, muma-boko yakwe"
                 ]
@@ -12088,7 +12992,12 @@
                 "index": 1,
                 "lines": [
                     "Ninkwato Mu-pusushi-anjita, Aliba no luse e Cibusa candi;",
-                    "Ala-mpepula no kute-mwa kwakwe, Ni Katula wandi e Katula obe",
+                    "Ala-mpepula no kute-mwa kwakwe, Ni Katula wandi e Katula obe"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ndeku-lombela we ndeku-lombela;",
                     "Ndekupe-pelela ko-. Ndeku-pepe-, la."
                 ]
@@ -12295,7 +13204,12 @@
                 "index": 1,
                 "lines": [
                     "We wa-ba no bulanda, Menso tawakwata,",
-                    "Kusu-mina mu Mfumu E mwa-ba buseko.",
+                    "Kusu-mina mu Mfumu E mwa-ba buseko."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Se ... ni kuli 'ne- ... mweba- ... bomba,",
                     "Mwe-ba fininwa, Ndemupa ubutusho,",
                     "Se ... ndeni koli ... ilyandi- ... lyapepu ... ka."
@@ -12339,7 +13253,12 @@
                 "index": 1,
                 "lines": [
                     "Inyimbo e shisu-ma twimba ku-li 'Mwe;",
-                    "Tumutasha Katu-Ia Inshila ya - mwe.",
+                    "Tumutasha Katu-Ia Inshila ya - mwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tule ... tasha E Katula - wesu (tasha)",
                     "Tule… imba Ubufumu - bwakwe."
                 ]
@@ -12382,7 +13301,12 @@
                 "index": 1,
                 "lines": [
                     "Kwalyu lutanda ubu-shiku, Lwabeka na ma-ka ya-mulu:",
-                    "Lwatungul wi Ie aba-mano, Kwafya-lilwe, Mupu-sushi.",
+                    "Lwatungul wi Ie aba-mano, Kwafya-lilwe, Mupu-sushi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lule-beka. Lule-beka, Mu ma-lungu na pa-mpili,",
                     "Lule-beka, Lule-beka, Lupusukilo lwa kwa - Lesa."
                 ]
@@ -12507,7 +13431,12 @@
                     "Kulya bantu balecula, Ilyo nshiku shileya;",
                     "Kuli bambi abalefwa, Ilyo nshiku shileya:",
                     "'Fwe tubakoseleshe. Bonse bali mu nshila,",
-                    "Tulecite fisuma, Ilyo nshiku shileya.",
+                    "Tulecite fisuma, Ilyo nshiku shileya."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Shileya (shileya), Shileya (shileya), Shileya (shileya),",
                     "Shileya (shileya), Tulecite fisuma ilyo nshiku shileya"
                 ]
@@ -12546,7 +13475,12 @@
                 "index": 1,
                 "lines": [
                     "Ku cifulo catalala, Mupepi na Lesa,",
-                    "Ububi tabukowesha, Mupepi na Lesa.",
+                    "Ububi tabukowesha, Mupepi na Lesa."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "O Yesu Mupusushi, Atumwa na Lesa;",
                     "Twikate fwe balinda, Mupepi na Lesa."
                 ]
@@ -12581,7 +13515,12 @@
                 "index": 1,
                 "lines": [
                     "Ndebu-fulu-ka bu-shiku, Ilya-balu-bulwa",
-                    "Bake-ngila-mu Zi-yoni, Mushi wa mu-shilo",
+                    "Bake-ngila-mu Zi-yoni, Mushi wa mu-shilo"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "O nse-ndeni, nsendeni; Ku Zi--yo-ni.",
                     "Nsende-ni ku mushi wa kutemwa: Mushi wa mu-shilo."
                 ]
@@ -12657,7 +13596,12 @@
                     "Baletele- fya bu-pe fyabo kuli- Yesu,",
                     "Pa kumute-mwa Yesu bamupele bupe,",
                     "Imilimo- ya luse, No kwafwa ba-pina;",
-                    "Na fyonse fyo- bapele, Fyalipokelelwe",
+                    "Na fyonse fyo- bapele, Fyalipokelelwe"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bushe teti- ulete bupe ate-mwisha,",
                     "Tila, Napo- mutima Pa makasa yenu."
                 ]
@@ -12696,7 +13640,12 @@
                 "index": 1,
                 "lines": [
                     "Yesu ni 'Mwe ndelilila, Nga tamwangafwe nalafwa;",
-                    "Leteni ubupu-susho, Mumbule nge fyo ndi.",
+                    "Leteni ubupu-susho, Mumbule nge fyo ndi."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mumbule- fyo ndi, Mumbule- fyo ndi,",
                     "Leteni ubupu-susho, Mumbule nge fyo ndi."
                 ]
@@ -12755,7 +13704,12 @@
                 "index": 1,
                 "lines": [
                     "Temwa temwa bombela Imfumu Twafuma bonse ne mitima;",
-                    "Kubombela conse atulanga. No busumino tukacita.",
+                    "Kubombela conse atulanga. No busumino tukacita."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bo-mbela Yesu. Tuleya ifwe tuleimbila.",
                     "Bo-mbela Yesu, Muno mwibala lyakwe."
                 ]
@@ -12790,7 +13744,12 @@
                 "index": 1,
                 "lines": [
                     "Yesu Mwana wa Mpanga. E walinga fye eka,",
-                    "Yesu Mwana wa Mpanga; Wa--fwi--Ie.",
+                    "Yesu Mwana wa Mpanga; Wa--fwi--Ie."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Lu-lumbi ku Mfu-mu, Mwimbe Haleluyah,",
                     "Lu-lumbi ku Mfu-mu, Ku-mwa-na."
                 ]
@@ -12825,7 +13784,12 @@
                 "index": 1,
                 "lines": [
                     "Ndi no tuboko twakubomba na ka lulimi kamutashe,",
-                    "Tu matwi nato twakumfwila, Ka shiwi kamulumbanye.",
+                    "Tu matwi nato twakumfwila, Ka shiwi kamulumbanye."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Twaisa. Twaisa, Fwe bana bobe twaisa,",
                     "Twaisa, Twaisa, Twishibe Imwe."
                 ]
@@ -12899,7 +13863,12 @@
                 "index": 1,
                 "lines": [
                     "Lolesha Ye-su, Wakaele-, Tata abi-ka pali ine",
-                    "Umweo wa-kwe; Ne wabipa-, Kuti nsafi-we Mbute tutu",
+                    "Umweo wa-kwe; Ne wabipa-, Kuti nsafi-we Mbute tutu"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mfimbeni e-lyo mbute tutu-, Nkeshiba bwi-no mwco wenu-,",
                     "Umweo wa-ndi walibipa-, Unsambe ine mbute tutu"
                 ]
@@ -12942,7 +13911,12 @@
                 "index": 1,
                 "lines": [
                     "Lisheni penga, mona mulwani, Imyeni ulu-unga lwakwe;",
-                    "Buleni ifilwilo, mukose, Mwi shiwi lyakwe lya mushilo",
+                    "Buleni ifilwilo, mukose, Mwi shiwi lyakwe lya mushilo"
+                ]
+            },
+             {
+                "type": "refrain",
+                "lines": [
                     "Akuyeni mwe bashilikale, Teyanyeni shiwi lipita;",
                     "Akuyeni no kwimba Hosana! Chilongoshi ‘mwine ni Kristu."
                 ]
@@ -12979,8 +13953,13 @@
                     "Ye-su nyensha niluba (niluba)",
                     "Nye-nsha bwino mu nshila (mu nshila)",
                     "Ndi bwino nga ulipo (ulipo)",
-                    "Ku-temwa kobe mbepo (be mbepo)",
-                    "Nye-nshya, Nye-nshya, Ye ... su nyensha niluba;",
+                    "Ku-temwa kobe mbepo (be mbepo)"
+                ]
+            },
+             {
+                "type": "refrain",
+                "lines": [
+                     "Nye-nshya, Nye-nshya, Ye ... su nyensha niluba;",
                     "Nye ... nshya bwino mu nshila, Munsunge nshita shonse"
                 ]
             },
@@ -13018,7 +13997,12 @@
                 "index": 1,
                 "lines": [
                     "Eko a-li uwate-me-nwe kumfwila. Ukuti ine mbe no mweo;",
-                    "Alisu-minishe kuya palupanda, Ukuti 'ne nsange umweo.",
+                    "Alisu-minishe kuya palupanda, Ukuti 'ne nsange umweo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Epo shapopelwe palya pa lupanda, Wene a-shisende-le shonse,",
                     "No kucu-la konse, Yesu pa lupanda, Asende-le ubu-bi bwandi."
                 ]
@@ -13101,29 +14085,39 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Mitima iseke-lele, Te kula-i-Iishanya, Ilyo Lesa atulenga Ukuba bantu bakwe.",
-                    "Tuleseke-Iela Iyonse. Ulubu-to lwaisa, Tulesekelela mu milimo, Lyonse, Twakulasekelela"
+                    "Mitima iseke-lele, Te kula-i-Iishanya,",
+                    "Ilyo Lesa atulenga Ukuba bantu bakwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tuleseke-Iela Iyonse. Ulubu-to lwaisa,",
+                    "Tulesekelela mu milimo, Lyonse, Twakulasekelela"
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Atusunga mu ma-boko, Bubi ta-bwa-ka cimfye, Alitulaya ku-twafwa, E bulayo bwa cine."
+                    "Atusunga mu ma-boko, Bubi ta-bwa-ka cimfye,",
+                    "Alitulaya ku-twafwa, E bulayo bwa cine."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Ilyo twafilwa ku-bomba, Tulomfwa u-bukali, Icinshingwa catu-fimba, Twafilwa kwimba lwimbo."
+                    "Ilyo twafilwa ku-bomba, Tulomfwa u-bukali,",
+                    "Icinshingwa catu-fimba, Twafilwa kwimba lwimbo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Basuma bali ne nsansa, Mu nshita ya-lungama, Tumfwe fya cine tu-konke, Tuleke bubi bwesu."
+                    "Basuma bali ne nsansa, Mu nshita ya-lungama,",
+                    "Tumfwe fya cine tu-konke, Tuleke bubi bwesu."
                 ]
             }
         ],
@@ -13140,7 +14134,12 @@
                 "index": 1,
                 "lines": [
                     "Umushi wa mwina Kristu, Waba mu-Mpanga ilya,",
-                    "Mupusushi atangila, Kuyanteyani-shi-, sha.",
+                    "Mupusushi atangila, Kuyanteyani-shi-, sha."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bacula ba-katusha. Bacula ba-katusha;",
                     "Kulya kwi-shi-lya ilya Yordani, Kulya;",
                     "Bacula ba-katusha, Bacula ba-katusha,",
@@ -13281,7 +14280,12 @@
                 "index": 1,
                 "lines": [
                     "Ukukuta kuleumfwikwa konse, \"Tupeni ulubuto.\"",
-                    "Bantu balelila lupusukilo, Bapeni ulubuto.",
+                    "Bantu balelila lupusukilo, Bapeni ulubuto."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Tumeni ilandwe lyabuta, Libutishishe konse,",
                     "Tumeni ilandwe lyabuta, Libutishishe konse."
                 ]
@@ -13318,7 +14322,12 @@
                     "Lintu wasakamikwa na macusho,",
                     "Lintu wanashiwa mulwendo lobe,",
                     "Penda mapalo yobe limo limo,",
-                    "Fikakupapishe fyacite Mfumu.",
+                    "Fikakupapishe fyacite Mfumu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Penda mapalo limo limo Yantu Lesa akucitila;",
                     "Penda mapalo limo limo Umone ci kakucitile Lesa."
                 ]
@@ -13357,7 +14366,12 @@
                 "index": 1,
                 "lines": [
                     "Bushe ndi mushilikale, Kakonka wa Mpanga?",
-                    "Bushe nkatina munshila no kuba ne nsoni?",
+                    "Bushe nkatina munshila no kuba ne nsoni?"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ishina, ilya wama, Wene amfwilile,",
                     "Mucikuku nkapokela icitebo candi."
                 ]
@@ -13402,7 +14416,12 @@
                     "Sekeleni mu cikuku cakwe co,",
                     "Pantu aletukakula,",
                     "No umulopa cinshi tuletina,",
-                    "Pantu Yesu ni wesu ‘fwe.",
+                    "Pantu Yesu ni wesu ‘fwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bushe nga Lesa ali na ifwe nga kuli nani akatuansha 'fwe,",
                     "Na, ni, Ko? ... Nani akatuansha ifwe."
                 ]
@@ -13453,7 +14472,12 @@
                     "Abantu bakwa Yesu balesekela nomba;",
                     "Abantu bakwa Yesu balesekela nomba;",
                     "Yesu Mfumu yabo alebwela ku calo,",
-                    "Aleisa bwangu.",
+                    "Aleisa bwangu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ululumbi Aleluya, Ululumbi Aleluya;",
                     "Ululumbi Aleluya, Aleisa bwangu."
                 ]
@@ -13584,7 +14608,12 @@
                 "index": 1,
                 "lines": [
                     "Napusuka 'ne mu fibi, Napusuka kuma lwele;",
-                    "Naingila mu lubuto, Nausanga umutende",
+                    "Naingila mu lubuto, Nausanga umutende"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Napusuka, Ndeimbila, Nshita shonse, Kwa pe na pe",
                     "Bapusuka, Baimbila, Nshita shonse, Kristu Mfumu."
                 ]
@@ -13619,7 +14648,12 @@
                 "index": 1,
                 "lines": [
                     "Nshita yapwa Mfumu yalaisa, Ndeumfwa bantu baleti;",
-                    "Ntanda ku mulu nasho shashima, Ubushiku bulu 'pepi no kuca.",
+                    "Ntanda ku mulu nasho shashima, Ubushiku bulu 'pepi no kuca."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Bu-shiku bwandi nomba bwalaca, Bu-shiku bwandi nomba bwalaca-,",
                     "Inshita naipwa Mfumu yalaisa; Teyanishisheni 'kwisa kwakwe."
                 ]
