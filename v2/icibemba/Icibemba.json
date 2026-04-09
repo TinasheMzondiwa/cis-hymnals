@@ -2,8 +2,8 @@
     {
         "index": "001",
         "number": 1,
-        "title": "Lishisheni Ulupenga",
-        "title_english": "Watchman Blow the Trumpet",
+        "title": "LISHISHENI ULUPENGA",
+        "title_english": "WATCHMAN BLOW YOUR TRUMPET",
         "hymnal_references": "AH 350 CH 613",
         "lyrics": [
             {
@@ -10506,7 +10506,7 @@
     {
         "index": "222",
         "number": 222,
-        "title": "Mumaboko Yakwa Yesu",
+        "title": "MUMABOKO YAKWA YESU",
         "lyrics": [
             {
                 "type": "verse",
@@ -13915,7 +13915,7 @@
                     "Buleni ifilwilo, mukose, Mwi shiwi lyakwe lya mushilo"
                 ]
             },
-            {
+             {
                 "type": "refrain",
                 "lines": [
                     "Akuyeni mwe bashilikale, Teyanyeni shiwi lipita;",
@@ -13957,10 +13957,10 @@
                     "Ku-temwa kobe mbepo (be mbepo)"
                 ]
             },
-            {
+             {
                 "type": "refrain",
                 "lines": [
-                    "Nye-nshya, Nye-nshya, Ye ... su nyensha niluba;",
+                     "Nye-nshya, Nye-nshya, Ye ... su nyensha niluba;",
                     "Nye ... nshya bwino mu nshila, Munsunge nshita shonse"
                 ]
             },
