@@ -2,8 +2,8 @@
     {
         "index": "001",
         "number": 1,
-        "title": "LISHISHENI ULUPENGA",
-        "title_english": "WATCHMAN BLOW YOUR TRUMPET",
+        "title": "Lishisheni Ulupenga",
+        "title_english": "Watchman Blow the Trumpet",
         "hymnal_references": "AH 350 CH 613",
         "lyrics": [
             {
@@ -51,7 +51,7 @@
     {
         "index": "002",
         "number": 2,
-        "title": "IMFUMU ILI FYE MUPEPI",
+        "title": "Imfumu ili fye Mupepi",
         "lyrics": [
             {
                 "type": "verse",
@@ -94,12 +94,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE COMING KING"
+        "title_english": "The Coming King"
     },
     {
         "index": "003",
         "number": 3,
-        "title": "LINTU NKAMONA ICINSO",
+        "title": "Lintu Nkamona Icinso",
         "lyrics": [
             {
                 "type": "verse",
@@ -142,12 +142,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "FACE TO FACE"
+        "title_english": "Face to Face"
     },
     {
         "index": "004",
         "number": 4,
-        "title": "ILANDWE LYAWAMA",
+        "title": "Ilandwe Lyawama",
         "lyrics": [
             {
                 "type": "verse",
@@ -190,12 +190,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HE’S COMING"
+        "title_english": "He's Coming"
     },
     {
         "index": "005",
         "number": 5,
-        "title": "KUTALI SHANI KUMWESU",
+        "title": "Kutali Shani Ku Kwesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -239,12 +239,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOW FAR FROM HOME?"
+        "title_english": "How Far From Home?"
     },
     {
         "index": "006",
         "number": 6,
-        "title": "PEMPULENI IMWE BONSE",
+        "title": "Pempuleni Iwe Bonse",
         "lyrics": [
             {
                 "type": "verse",
@@ -287,12 +287,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WATCH, YE SAINTS"
+        "title_english": "Watch, Ye Saints"
     },
     {
         "index": "007",
         "number": 7,
-        "title": "ALEISA ALEISA",
+        "title": "Aleisa Aleisa",
         "lyrics": [
             {
                 "type": "verse",
@@ -327,12 +327,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHEN HE COMETH"
+        "title_english": "When He Cometh"
     },
     {
         "index": "008",
         "number": 8,
-        "title": "APO IPENGA LYA MFUMU LIKAPELELEKESHA",
+        "title": "Apo Ipenga Lya Mfumu Likapelelekesha",
         "lyrics": [
             {
                 "type": "verse",
@@ -373,12 +373,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHEN THE TRUMPET"
+        "title_english": "When The Trumpet"
     },
     {
         "index": "009",
         "number": 9,
-        "title": "LISHENI INTANDALA NA MAKA",
+        "title": "Lisheni Intandala Na Maka",
         "lyrics": [
             {
                 "type": "verse",
@@ -428,12 +428,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LIFT UP THE TRUMPET"
+        "title_english": "Lift Up The Trumpet"
     },
     {
         "index": "010",
         "number": 10,
-        "title": "BUSHE TWAYA KUMULONGA?",
+        "title": "Bushe Twaya Ku Mulonga",
         "lyrics": [
             {
                 "type": "verse",
@@ -475,12 +475,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SHALL WE GATHER?"
+        "title_english": "Shall We Gather?"
     },
     {
         "index": "011",
         "number": 11,
-        "title": "NDEMUKONKA MWE KATULA",
+        "title": "Ndemukonka Mwe Katula",
         "lyrics": [
             {
                 "type": "verse",
@@ -533,12 +533,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I WILL FOLLOW THEE"
+        "title_english": "I Will Follow Thee"
     },
     {
         "index": "012",
         "number": 12,
-        "title": "EKWALl KAFUKAUKA",
+        "title": "Ekwali Kafukauka",
         "lyrics": [
             {
                 "type": "verse",
@@ -592,12 +592,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THERE IS A FOUNTAIN"
+        "title_english": "There Is A Fountain"
     },
     {
         "index": "013",
         "number": 13,
-        "title": "MWE YESU NDEFWAYA UBUTUNTULU",
+        "title": "Mwe Yesu Ndefwaya Ubutuntulu",
         "lyrics": [
             {
                 "type": "verse",
@@ -638,12 +638,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LORD JESUS, I LONG TO BE PERFECTLY WHOLE"
+        "title_english": "Lord Jesus, I Long To Be Perfectly Whole"
     },
     {
         "index": "014",
         "number": 14,
-        "title": "BUPE BWA KWA LESA",
+        "title": "Bupe Bwa Kwa Lesa",
         "lyrics": [
             {
                 "type": "verse",
@@ -686,12 +686,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HEAR THE PENNIES DROPPING"
+        "title_english": "Hear The Pennies Dropping"
     },
     {
         "index": "015",
         "number": 15,
-        "title": "YESU ANTEMWA INE",
+        "title": "Yesu Antemwa Ine",
         "lyrics": [
             {
                 "type": "verse",
@@ -734,12 +734,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS LOVES ME"
+        "title_english": "Jesus Loves Me"
     },
     {
         "index": "016",
         "number": 16,
-        "title": "NASAMBA NDUPI SHANDI",
+        "title": "Nasamba Ndupi Shandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -782,12 +782,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I WASHED MY HANDS"
+        "title_english": "I Washed My Hands"
     },
     {
         "index": "017",
         "number": 17,
-        "title": "TEMWA KUTUSEKESHA",
+        "title": "Temwa kutusekesha",
         "lyrics": [
             {
                 "type": "verse",
@@ -824,12 +824,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "‘TIS LOVE THAT MAKES US HAPPY"
+        "title_english": "‘Tis Love That Makes Us Happy"
     },
     {
         "index": "018",
         "number": 18,
-        "title": "MWE MPUKA YA KRISTU",
+        "title": "Mwe Mpuka Ya Kristu",
         "lyrics": [
             {
                 "type": "verse",
@@ -880,12 +880,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ONWARD CHRISTIAN SOLDIERS"
+        "title_english": "Onward Christian Soldiers"
     },
     {
         "index": "019",
         "number": 19,
-        "title": "UMUTIMA WANDI",
+        "title": "Umutima Wandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -913,12 +913,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MY SOUL BE ON THY GUARD"
+        "title_english": "My Soul Be On Thy Guard"
     },
     {
         "index": "020",
         "number": 20,
-        "title": "SHIBUKA MUTIMA WANDI",
+        "title": "Shibuka Mutima Wandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -962,12 +962,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "AWAKE MY SOUL"
+        "title_english": "Awake My Soul"
     },
     {
         "index": "021",
         "number": 21,
-        "title": "NAISA KULUPANDA",
+        "title": "Naisa Kulupanda",
         "lyrics": [
             {
                 "type": "verse",
@@ -1019,12 +1019,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I AM COMING TO THE CROSS"
+        "title_english": "I Am Coming To The Cross"
     },
     {
         "index": "022",
         "number": 22,
-        "title": "MFUMU NAUMFWA MAPALO",
+        "title": "Mfumu Naumfwa Mapalo",
         "lyrics": [
             {
                 "type": "verse",
@@ -1066,12 +1066,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LORD, I HEAR"
+        "title_english": "Lord, I Hear"
     },
     {
         "index": "023",
         "number": 23,
-        "title": "MWIKALE NA INE",
+        "title": "Mwikale Na Ine",
         "lyrics": [
             {
                 "type": "verse",
@@ -1114,12 +1114,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOVER O’ER ME HOLY SPIRIT"
+        "title_english": "Hover O’er Me Holy Spirit"
     },
     {
         "index": "024",
         "number": 24,
-        "title": "NDEMUKABILA PE",
+        "title": "Ndemukabila Pe",
         "lyrics": [
             {
                 "type": "verse",
@@ -1170,12 +1170,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I NEED THEE EVERY HOUR"
+        "title_english": "I Need Thee Every Hour"
     },
     {
         "index": "025",
         "number": 25,
-        "title": "FYONSE NACIMBILA YESU",
+        "title": "Fyonse Nacimbila Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -1218,12 +1218,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ALL TO JESUS I SURRENDER"
+        "title_english": "All To Jesus I Surrender"
     },
     {
         "index": "026",
         "number": 26,
-        "title": "NGE FINTU NDI",
+        "title": "Nge Fintu Ndi",
         "lyrics": [
             {
                 "type": "verse",
@@ -1287,12 +1287,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JUST AS I AM"
+        "title_english": "Just As I Am"
     },
     {
         "index": "027",
         "number": 27,
-        "title": "TWATASHA  MWE  LESA",
+        "title": "Twatasha Mwe Lesa",
         "lyrics": [
             {
                 "type": "verse",
@@ -1343,12 +1343,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WE PRAISE THEE O GOD"
+        "title_english": "We Praise Thee O God"
     },
     {
         "index": "028",
         "number": 28,
-        "title": "BULENI INSHlTA KUKONKA YESU",
+        "title": "Buleni Inshlta Kukonka Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -1392,12 +1392,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TAKE TIME TO BE HOLY"
+        "title_english": "Take Time To Be Holy"
     },
     {
         "index": "029",
         "number": 29,
-        "title": "UBE NA INE",
+        "title": "Ube Na Ine",
         "lyrics": [
             {
                 "type": "verse",
@@ -1441,12 +1441,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ABIDE WITH ME"
+        "title_english": "Abide With Me"
     },
     {
         "index": "030",
         "number": 30,
-        "title": "KASUBA KAWA NOMBA",
+        "title": "Kasuba Kawa Nomba",
         "lyrics": [
             {
                 "type": "verse",
@@ -1490,12 +1490,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "DAY IS DYING IN THE WEST"
+        "title_english": "Day Is Dying In The West"
     },
     {
         "index": "031",
         "number": 31,
-        "title": "MWE KATULA WATEMWIKWA",
+        "title": "Mwe Katula Watemwikwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -1539,12 +1539,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SUN OF MY SOUL"
+        "title_english": "Sun Of My Soul"
     },
     {
         "index": "032",
         "number": 32,
-        "title": "MFUMU E CILIBWE",
+        "title": "Mfumu E Cilibwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -1587,12 +1587,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE LORD’S OUR ROCK"
+        "title_english": "The Lord’s Our Rock"
     },
     {
         "index": "033",
         "number": 33,
-        "title": "ANTUNGULULA KONSE FYE",
+        "title": "Antungulula Konse Fye",
         "lyrics": [
             {
                 "type": "verse",
@@ -1635,12 +1635,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HE LEADTH ME"
+        "title_english": "He Leadth Me"
     },
     {
         "index": "034",
         "number": 34,
-        "title": "LINTU MWEO WANDI WAENDA BWINO",
+        "title": "Lintu Mweo Wandi Waenda Bwino",
         "lyrics": [
             {
                 "type": "verse",
@@ -1682,12 +1682,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHEN PEACE LIKE A RIVER"
+        "title_english": "When Peace Like A River"
     },
     {
         "index": "035",
         "number": 35,
-        "title": "E BUCIBUSA E BUSEKESHA",
+        "title": "E Bucibusa E Busekesha",
         "lyrics": [
             {
                 "type": "verse",
@@ -1728,12 +1728,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHAT A FELLOWSHIP"
+        "title_english": "What A Fellowship"
     },
     {
         "index": "036",
         "number": 36,
-        "title": "NDEMUMONA IMWE",
+        "title": "Ndemumona Imwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -1764,12 +1764,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MY FAITH LOOKS UP TO THEE"
+        "title_english": "My Faith Looks Up To Thee"
     },
     {
         "index": "037",
         "number": 37,
-        "title": "LESA MFUMU Y ANDI",
+        "title": "Lesa Mfumu Y Andi",
         "lyrics": [
             {
                 "type": "verse",
@@ -1824,12 +1824,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NEARER, MY GOD TO THEE"
+        "title_english": "Nearer, My God To Thee"
     },
     {
         "index": "038",
         "number": 38,
-        "title": "MWE BAKWA LESA",
+        "title": "Mwe Bakwa Lesa",
         "lyrics": [
             {
                 "type": "verse",
@@ -1864,12 +1864,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "FIRMLY STAND FOR GOD"
+        "title_english": "Firmly Stand For God"
     },
     {
         "index": "039",
         "number": 39,
-        "title": "BUSUMINO BWANDI",
+        "title": "Busumino Bwandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -1921,12 +1921,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MY HOPE IS BUILT"
+        "title_english": "My Hope Is Built"
     },
     {
         "index": "040",
         "number": 40,
-        "title": "NGA TWAYA NE MFUMU",
+        "title": "Nga Twaya Ne Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -1977,12 +1977,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TRUST AND OBEY"
+        "title_english": "Trust And Obey"
     },
     {
         "index": "041",
         "number": 41,
-        "title": "LESA 'BE NEMWE",
+        "title": "Lesa 'Be Nemwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -2025,12 +2025,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "GOD BE WITH YOU!"
+        "title_english": "God Be With You!"
     },
     {
         "index": "042",
         "number": 42,
-        "title": "KULI BAMUNYINANE KUNO",
+        "title": "Kuli Bamunyinane Kuno",
         "lyrics": [
             {
                 "type": "verse",
@@ -2065,12 +2065,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WITH FRIENDS ON EARTH"
+        "title_english": "With Friends On Earth"
     },
     {
         "index": "043",
         "number": 43,
-        "title": "TULO TWAPALWA",
+        "title": "Tulo Twapalwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -2114,12 +2114,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ASLEEP IN JESUS"
+        "title_english": "Asleep In Jesus"
     },
     {
         "index": "044",
         "number": 44,
-        "title": "LINTU IMILIMO YANDI YAPWA",
+        "title": "Lintu Imilimo Yandi Yapwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -2170,12 +2170,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHEN MY LIFE WORK IS ENDED"
+        "title_english": "When My Life Work Is Ended"
     },
     {
         "index": "045",
         "number": 45,
-        "title": "MPENI CIPINGO",
+        "title": "Mpeni Cipingo",
         "lyrics": [
             {
                 "type": "verse",
@@ -2220,12 +2220,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "GIVE ME THE BIBLE"
+        "title_english": "Give Me The Bible"
     },
     {
         "index": "046",
         "number": 46,
-        "title": "IMBA KABILI KULI 'NE",
+        "title": "Imba Kabili Kuli 'Ne",
         "lyrics": [
             {
                 "type": "verse",
@@ -2263,12 +2263,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SING THEM OVER AGAIN"
+        "title_english": "Sing Them Over Again"
     },
     {
         "index": "047",
         "number": 47,
-        "title": "PA MIPUMA YA YODANI",
+        "title": "Pa Mipuma Ya Yodani",
         "lyrics": [
             {
                 "type": "verse",
@@ -2313,12 +2313,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ON JORDAN’S STORMY BANKS"
+        "title_english": "On Jordan’s Stormy Banks"
     },
     {
         "index": "048",
         "number": 48,
-        "title": "TUKABA NO KWANGA",
+        "title": "Tukaba No Kwanga",
         "lyrics": [
             {
                 "type": "verse",
@@ -2353,12 +2353,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O THERE’LL BE JOY"
+        "title_english": "O There’ll Be Joy"
     },
     {
         "index": "049",
         "number": 49,
-        "title": "NDETONTONKANYA ‘NE",
+        "title": "Ndetontonkanya ‘ne",
         "lyrics": [
             {
                 "type": "verse",
@@ -2393,12 +2393,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ONE SWEETLY SOLEMN THOUGHT"
+        "title_english": "One Sweetly Solemn Thought"
     },
     {
         "index": "050",
         "number": 50,
-        "title": "CALO TUSUMINA",
+        "title": "Calo Tusumina",
         "lyrics": [
             {
                 "type": "verse",
@@ -2433,12 +2433,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THERE’S A LAND"
+        "title_english": "There’s A Land"
     },
     {
         "index": "051",
         "number": 51,
-        "title": "MWE LESA WESU MULUBATISHO",
+        "title": "Mwe Lesa Wesu Mulubatisho",
         "lyrics": [
             {
                 "type": "verse",
@@ -2481,12 +2481,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BAPTIZE US A NEW"
+        "title_english": "Baptize Us A New"
     },
     {
         "index": "052",
         "number": 52,
-        "title": "ISENI NOMBA KATULA",
+        "title": "Iseni Nomba Katula",
         "lyrics": [
             {
                 "type": "verse",
@@ -2520,12 +2520,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "COME, THOU FOUNT"
+        "title_english": "Come, Thou Fount"
     },
     {
         "index": "053",
         "number": 53,
-        "title": "MUPASHI WAMUSHILO",
+        "title": "Mupashi Wamushilo",
         "lyrics": [
             {
                 "type": "verse",
@@ -2562,12 +2562,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOLY SPIRIT, FAITHFUL GUIDE"
+        "title_english": "Holy Spirit, Faithful Guide"
     },
     {
         "index": "054",
         "number": 54,
-        "title": "CINTU CIMO NDEFWAISHA",
+        "title": "Cintu Cimo Ndefwaisha",
         "lyrics": [
             {
                 "type": "verse",
@@ -2620,12 +2620,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ONE THING I OF THE LORD"
+        "title_english": "One Thing I Of The Lord"
     },
     {
         "index": "055",
         "number": 55,
-        "title": "BUSHE WAYA KULI YESU KUSAMBWA?",
+        "title": "Bushe Waya Kuli Yesu Kusambwa?",
         "lyrics": [
             {
                 "type": "verse",
@@ -2668,12 +2668,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HAVE YOU BEEN TO JESUS!"
+        "title_english": "Have You Been To Jesus!"
     },
     {
         "index": "056",
         "number": 56,
-        "title": "NAENDAWIKE UKUTALI",
+        "title": "Naendawike Ukutali",
         "lyrics": [
             {
                 "type": "verse",
@@ -2716,12 +2716,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I’VE WANDERED FAR AWAY"
+        "title_english": "I’ve Wandered Far Away"
     },
     {
         "index": "057",
         "number": 57,
-        "title": "BONSE BALEUMFWA AMASHIWI",
+        "title": "Bonse Baleumfwa Amashiwi",
         "lyrics": [
             {
                 "type": "verse",
@@ -2764,12 +2764,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHOSOEVER HEARETH"
+        "title_english": "Whosoever Heareth"
     },
     {
         "index": "058",
         "number": 58,
-        "title": "CHINDIKENI MFUMU BONSE",
+        "title": "Chindikeni Mfumu Bonse",
         "lyrics": [
             {
                 "type": "verse",
@@ -2809,12 +2809,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ALL HAIL THE POWER"
+        "title_english": "All Hail The Power"
     },
     {
         "index": "059",
         "number": 59,
-        "title": "YESU E WAKUTEMWA",
+        "title": "Yesu E Wakutemwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -2858,12 +2858,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS LOVER OF MY SOUL"
+        "title_english": "Jesus Lover Of My Soul"
     },
     {
         "index": "060",
         "number": 60,
-        "title": "YESU MWE KATULA WESU",
+        "title": "Yesu Mwe Katula Wesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -2899,12 +2899,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS THOU JOY OF LOVING HEARTS"
+        "title_english": "Jesus Thou Joy Of Loving Hearts"
     },
     {
         "index": "061",
         "number": 61,
-        "title": "NJISHIBE FINGI FYAMFUMU",
+        "title": "Njishibe Fingi Fyamfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -2947,12 +2947,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MORE ABOUT JESUS"
+        "title_english": "More About Jesus"
     },
     {
         "index": "062",
         "number": 62,
-        "title": "YESU NDEMUTEMWA KATULA WANDI",
+        "title": "Yesu Ndemutemwa Katula Wandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -2996,12 +2996,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MY JESUS, I LOVE THEE"
+        "title_english": "My Jesus, I Love Thee"
     },
     {
         "index": "063",
         "number": 63,
-        "title": "CINSHI CINGASAMBA INE?",
+        "title": "Cinshi Cingasamba Ine?",
         "lyrics": [
             {
                 "type": "verse",
@@ -3062,12 +3062,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHAT CAN WASH AWAY MY SIN?"
+        "title_english": "What Can Wash Away My Sin?"
     },
     {
         "index": "064",
         "number": 64,
-        "title": "BUSHE MULENAKA NO BULANDA",
+        "title": "Bushe Mulenaka No Bulanda",
         "lyrics": [
             {
                 "type": "verse",
@@ -3114,12 +3114,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ARE YOU WEARY"
+        "title_english": "Are You Weary"
     },
     {
         "index": "065",
         "number": 65,
-        "title": "ECAWAMA KUSUMINA MULI YESU KATULA",
+        "title": "Ecawama Kusumina Muli Yesu Katula",
         "lyrics": [
             {
                 "type": "verse",
@@ -3164,12 +3164,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TIS SO SWEET TO TRUST"
+        "title_english": "Tis So Sweet To Trust"
     },
     {
         "index": "066",
         "number": 66,
-        "title": "WE KASUBA KATEMWIKWA",
+        "title": "We Kasuba Katemwikwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -3205,12 +3205,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O HAPPY DAY"
+        "title_english": "O Happy Day"
     },
     {
         "index": "067",
         "number": 67,
-        "title": "MWE BANTU BA MFUMU",
+        "title": "Mwe Bantu Ba Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -3257,12 +3257,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "COME, WE THAT LOVE THE LORD"
+        "title_english": "Come, We That Love The Lord"
     },
     {
         "index": "068",
         "number": 68,
-        "title": "YESU AMPUSUSHA NATEMWA",
+        "title": "Yesu Ampususha Natemwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -3313,12 +3313,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "REDEEMED! HOW I LOVE TO PROCLAIM IT"
+        "title_english": "Redeemed! How I Love To Proclaim It"
     },
     {
         "index": "069",
         "number": 69,
-        "title": "AMENSHI YA MWEO YALIKO",
+        "title": "Amenshi Ya Mweo Yaliko",
         "lyrics": [
             {
                 "type": "verse",
@@ -3355,12 +3355,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WE’LL TARRY BY THE LIVING WATERS"
+        "title_english": "We’ll Tarry By The Living Waters"
     },
     {
         "index": "070",
         "number": 70,
-        "title": "LINTU YESU AKESA",
+        "title": "Lintu Yesu Akesa",
         "lyrics": [
             {
                 "type": "verse",
@@ -3411,12 +3411,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHEN JESUS SHALL GATHER"
+        "title_english": "When Jesus Shall Gather"
     },
     {
         "index": "071",
         "number": 71,
-        "title": "BUSHE ISHINA LYANDI LYALILEMBWA UKO?",
+        "title": "Bushe Ishina Lyandi Lyalilembwa Uko?",
         "lyrics": [
             {
                 "type": "verse",
@@ -3457,12 +3457,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "IS MY NAME WRITTEN THERE?"
+        "title_english": "Is My Name Written There?"
     },
     {
         "index": "072",
         "number": 72,
-        "title": "INSHITA SHEPINGULO SHATENDEKA",
+        "title": "Inshita Shepingulo Shatendeka",
         "lyrics": [
             {
                 "type": "verse",
@@ -3497,12 +3497,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE JUDGEMENT HAS SET"
+        "title_english": "The Judgement Has Set"
     },
     {
         "index": "073",
         "number": 73,
-        "title": "TWITWA KU CIMUNO",
+        "title": "Twitwa Ku Cimuno",
         "lyrics": [
             {
                 "type": "verse",
@@ -3561,12 +3561,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "CALLED TO THE FEAST"
+        "title_english": "Called To The Feast"
     },
     {
         "index": "074",
         "number": 74,
-        "title": "TANDA KU LUCELO",
+        "title": "Tanda Ku Lucelo",
         "lyrics": [
             {
                 "type": "verse",
@@ -3609,12 +3609,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SOWING IN THE MORNING"
+        "title_english": "Sowing In The Morning"
     },
     {
         "index": "075",
         "number": 75,
-        "title": "UMFWE MASHIWI YA YESU",
+        "title": "Umfwe Mashiwi Ya Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -3649,12 +3649,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HARK! TIS THE SHEPHERD’S VOICE"
+        "title_english": "Hark! Tis The Shepherd’s Voice"
     },
     {
         "index": "076",
         "number": 76,
-        "title": "MWAFWE ABALUBA",
+        "title": "Mwafwe Abaluba",
         "lyrics": [
             {
                 "type": "verse",
@@ -3704,12 +3704,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "RESCUE THE PERISHING"
+        "title_english": "Rescue The Perishing"
     },
     {
         "index": "077",
         "number": 77,
-        "title": "NATEMWA UKUSOSA ‘FYA FINTU FYA LESA",
+        "title": "Natemwa Ukusosa ‘fya Fintu Fya Lesa",
         "lyrics": [
             {
                 "type": "verse",
@@ -3760,12 +3760,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I LOVE TO THE STORY"
+        "title_english": "I Love To The Story"
     },
     {
         "index": "078",
         "number": 78,
-        "title": "FWAYENI BALUBA",
+        "title": "Fwayeni Baluba",
         "lyrics": [
             {
                 "type": "verse",
@@ -3807,12 +3807,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SEEKING THE LOST"
+        "title_english": "Seeking The Lost"
     },
     {
         "index": "079",
         "number": 79,
-        "title": "KONSE FYE MABALA YAPYA",
+        "title": "Konse Fye Mabala Yapya",
         "lyrics": [
             {
                 "type": "verse",
@@ -3847,12 +3847,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "FAR AND NEAR THE FIELDS"
+        "title_english": "Far And Near The Fields"
     },
     {
         "index": "080",
         "number": 80,
-        "title": "TULEYA KUBOMBA",
+        "title": "Tuleya Kubomba",
         "lyrics": [
             {
                 "type": "verse",
@@ -3893,12 +3893,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TO THE WORK"
+        "title_english": "To The Work"
     },
     {
         "index": "081",
         "number": 81,
-        "title": "MWE BANTU BAKWA LESA",
+        "title": "Mwe Bantu Bakwa Lesa",
         "lyrics": [
             {
                 "type": "verse",
@@ -3932,12 +3932,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WORK FOR THE NIGHT IS COMING"
+        "title_english": "Work For The Night Is Coming"
     },
     {
         "index": "082",
         "number": 82,
-        "title": "INFUMU MULUCELO PE",
+        "title": "Infumu Mulucelo Pe",
         "lyrics": [
             {
                 "type": "verse",
@@ -3971,12 +3971,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LORD IN THE MORNING"
+        "title_english": "Lord In The Morning"
     },
     {
         "index": "083",
         "number": 83,
-        "title": "NDEFWAYA UKWIMBA ISHI NYIMBO",
+        "title": "Ndefwaya Ukwimba Ishi Nyimbo",
         "lyrics": [
             {
                 "type": "verse",
@@ -4013,12 +4013,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BLESSED BE THE NAME"
+        "title_english": "Blessed Be The Name"
     },
     {
         "index": "084",
         "number": 84,
-        "title": "LUMBENI LESA WAPALWA",
+        "title": "Lumbeni Lesa Wapalwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -4032,12 +4032,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "PRAISE GOD FROM WHOM"
+        "title_english": "Praise God From Whom"
     },
     {
         "index": "085",
         "number": 85,
-        "title": "NDEIMBA MAKA YA MFUMU",
+        "title": "Ndeimba Maka Ya Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -4071,12 +4071,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I SING THE MIGHTY POWER"
+        "title_english": "I Sing The Mighty Power"
     },
     {
         "index": "086",
         "number": 86,
-        "title": "MUTOTE MFUMU",
+        "title": "Mutote Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -4120,12 +4120,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O WORSHIP THE KING"
+        "title_english": "O Worship The King"
     },
     {
         "index": "087",
         "number": 87,
-        "title": "KULI IMWE TATA TWAISA ILELO",
+        "title": "Kuli Imwe Tata Twaisa Ilelo",
         "lyrics": [
             {
                 "type": "verse",
@@ -4166,12 +4166,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "FATHER WE COME TO THEE"
+        "title_english": "Father We Come To Thee"
     },
     {
         "index": "088",
         "number": 88,
-        "title": "MWINCILA INE KATULA",
+        "title": "Mwincila Ine Katula",
         "lyrics": [
             {
                 "type": "verse",
@@ -4222,12 +4222,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "PASS ME NOT"
+        "title_english": "Pass Me Not"
     },
     {
         "index": "089",
         "number": 89,
-        "title": "YAWAMA E YAWAMA PE",
+        "title": "Yawama E Yawama Pe",
         "lyrics": [
             {
                 "type": "verse",
@@ -4261,12 +4261,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SWEET HOUR OF PRAYER"
+        "title_english": "Sweet Hour Of Prayer"
     },
     {
         "index": "090",
         "number": 90,
-        "title": "UMBI UMULUNGU WAPWA",
+        "title": "Umbi Umulungu Wapwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -4310,12 +4310,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ANOTHER SIX DAYS’ WORK"
+        "title_english": "Another Six Days’ Work"
     },
     {
         "index": "091",
         "number": 91,
-        "title": "PEMPULENI",
+        "title": "Pempuleni",
         "lyrics": [
             {
                 "type": "verse",
@@ -4357,12 +4357,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WATCH FOR THE TIME IS SHORT"
+        "title_english": "Watch For The Time Is Short"
     },
     {
         "index": "092",
         "number": 92,
-        "title": "MWILABA SABATA",
+        "title": "Mwilaba Sabata",
         "lyrics": [
             {
                 "type": "verse",
@@ -4405,12 +4405,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "DON’T FORGET THE SABBATH"
+        "title_english": "Don’t Forget The Sabbath"
     },
     {
         "index": "093",
         "number": 93,
-        "title": "KASUBA KAKUTUSHA",
+        "title": "Kasuba Kakutusha",
         "lyrics": [
             {
                 "type": "verse",
@@ -4444,12 +4444,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O DAY OF REST AND GLADNESS"
+        "title_english": "O Day Of Rest And Gladness"
     },
     {
         "index": "094",
         "number": 94,
-        "title": "SKULU YESU YE SABATA",
+        "title": "Skulu Yesu Ye Sabata",
         "lyrics": [
             {
                 "type": "verse",
@@ -4492,12 +4492,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SWEET SABBATH SCHOOL"
+        "title_english": "Sweet Sabbath School"
     },
     {
         "index": "095",
         "number": 95,
-        "title": "LESA ATUPALILE MUMULUNGU WAPITA",
+        "title": "Lesa Atupalile Mumulungu Wapita",
         "lyrics": [
             {
                 "type": "verse",
@@ -4541,12 +4541,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SAFELY THROUGH ANOTHER WEEK"
+        "title_english": "Safely Through Another Week"
     },
     {
         "index": "096",
         "number": 96,
-        "title": "SABATA LYA TEMWIKWA",
+        "title": "Sabata Lya Temwikwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -4580,12 +4580,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WELCOME, WELCOME, DAY OF REST"
+        "title_english": "Welcome, Welcome, Day Of Rest"
     },
     {
         "index": "097",
         "number": 97,
-        "title": "TWAUMFWILE ILANDWE",
+        "title": "Twaumfwile Ilandwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -4619,12 +4619,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WE HAVE HEARD"
+        "title_english": "We Have Heard"
     },
     {
         "index": "098",
         "number": 98,
-        "title": "NDEFWAYO KWENDA NA YESU",
+        "title": "Ndefwayo Kwenda Na Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -4669,12 +4669,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I MUST HAVE TH SAVIOUR WITH ME"
+        "title_english": "I Must Have Th Saviour With Me"
     },
     {
         "index": "099",
         "number": 99,
-        "title": "LINTU NAMONA LUPANDA",
+        "title": "Lintu Namona Lupanda",
         "lyrics": [
             {
                 "type": "verse",
@@ -4718,12 +4718,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHEN I SURVEY THE WONDEROUS"
+        "title_english": "When I Survey The Wonderous"
     },
     {
         "index": "100",
         "number": 100,
-        "title": "YESU NICIBUSA CINE",
+        "title": "Yesu Nicibusa Cine",
         "lyrics": [
             {
                 "type": "verse",
@@ -4757,12 +4757,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHAT A FRIEND WE HAVE IN JESUS!"
+        "title_english": "What A Friend We Have In Jesus!"
     },
     {
         "index": "101",
         "number": 101,
-        "title": "YESU WA CIKUKU ALEKWTA",
+        "title": "Yesu Wa Cikuku Alekwta",
         "lyrics": [
             {
                 "type": "verse",
@@ -4805,12 +4805,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS IS CALLING"
+        "title_english": "Jesus Is Calling"
     },
     {
         "index": "102",
         "number": 102,
-        "title": "MWISWILE ENGILE",
+        "title": "Mwiswile Engile",
         "lyrics": [
             {
                 "type": "verse",
@@ -4853,12 +4853,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LET HIM IN"
+        "title_english": "Let Him In"
     },
     {
         "index": "103",
         "number": 103,
-        "title": "MULEFY ALWA LIBILI",
+        "title": "Mulefy Alwa Libili",
         "lyrics": [
             {
                 "type": "verse",
@@ -4899,12 +4899,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "YE MUST BE BORN AGAIN"
+        "title_english": "Ye Must Be Born Again"
     },
     {
         "index": "104",
         "number": 104,
-        "title": "KALUBULA ISA",
+        "title": "Kalubula Isa",
         "lyrics": [
             {
                 "type": "verse",
@@ -4949,12 +4949,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "COME GREAT DELIVERY, COME"
+        "title_english": "Come Great Delivery, Come"
     },
     {
         "index": "105",
         "number": 105,
-        "title": "WENA ALl NA MAKA",
+        "title": "Wena All Na Maka",
         "lyrics": [
             {
                 "type": "verse",
@@ -4995,12 +4995,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ABLE TO DELIVER"
+        "title_english": "Able To Deliver"
     },
     {
         "index": "106",
         "number": 106,
-        "title": "KULENI PALIBWE",
+        "title": "Kuleni Palibwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -5043,12 +5043,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BUILDING ON THE ROCK"
+        "title_english": "Building On The Rock"
     },
     {
         "index": "107",
         "number": 107,
-        "title": "NJEBO MULUMBE WA YESU",
+        "title": "Njebo Mulumbe Wa Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -5089,12 +5089,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TELL ME THE STORY OF JESUS"
+        "title_english": "Tell Me The Story Of Jesus"
     },
     {
         "index": "108",
         "number": 108,
-        "title": "NO KUTEMWA YESU",
+        "title": "No Kutemwa Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -5137,12 +5137,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LOVINGLY TENDERLY CALLING"
+        "title_english": "Lovingly Tenderly Calling"
     },
     {
         "index": "109",
         "number": 109,
-        "title": "WAPIMWA WAPELUKA",
+        "title": "Wapimwa Wapeluka",
         "lyrics": [
             {
                 "type": "verse",
@@ -5177,12 +5177,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WEIGHED AND WANTING"
+        "title_english": "Weighed And Wanting"
     },
     {
         "index": "110",
         "number": 110,
-        "title": "BALISHUKA ABAYACITA",
+        "title": "Balishuka Abayacita",
         "lyrics": [
             {
                 "type": "verse",
@@ -5217,12 +5217,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BLESSED ARE THEY THAT DO"
+        "title_english": "Blessed Are They That Do"
     },
     {
         "index": "111",
         "number": 111,
-        "title": "TAKULI NAKALYA",
+        "title": "Takuli Nakalya",
         "lyrics": [
             {
                 "type": "verse",
@@ -5273,12 +5273,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NO, NOT ONE"
+        "title_english": "No, Not One"
     },
     {
         "index": "112",
         "number": 112,
-        "title": "KUPUSUKA LOLESHA",
+        "title": "Kupusuka Lolesha",
         "lyrics": [
             {
                 "type": "verse",
@@ -5313,12 +5313,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LIFE IN A LOOK"
+        "title_english": "Life In A Look"
     },
     {
         "index": "113",
         "number": 113,
-        "title": "ALE ITA",
+        "title": "Aleita",
         "lyrics": [
             {
                 "type": "verse",
@@ -5361,12 +5361,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "CALLING"
+        "title_english": "Calling"
     },
     {
         "index": "114",
         "number": 114,
-        "title": "ICIPATA NA CISULWA",
+        "title": "Icipata Na Cisulwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -5409,12 +5409,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE GATE OPEN FOR ME"
+        "title_english": "The Gate Open For Me"
     },
     {
         "index": "115",
         "number": 115,
-        "title": "SHING' ANGA ALl MUPEPI",
+        "title": "Shing' Anga All Mupepi",
         "lyrics": [
             {
                 "type": "verse",
@@ -5457,12 +5457,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE GREAT PHYSICIAN"
+        "title_english": "The Great Physician"
     },
     {
         "index": "116",
         "number": 116,
-        "title": "NANGU KAMO KULI YESU",
+        "title": "Nangu Kamo Kuli Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -5506,12 +5506,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NOTHING FOR JESUS"
+        "title_english": "Nothing For Jesus"
     },
     {
         "index": "117",
         "number": 117,
-        "title": "NDEISA MFUMU",
+        "title": "Ndeisa Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -5554,12 +5554,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I AM COMING LORD"
+        "title_english": "I Am Coming Lord"
     },
     {
         "index": "118",
         "number": 118,
-        "title": "APELE FYONSE",
+        "title": "Apele Fyonse",
         "lyrics": [
             {
                 "type": "verse",
@@ -5602,12 +5602,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS PAID IT ALL"
+        "title_english": "Jesus Paid It All"
     },
     {
         "index": "119",
         "number": 119,
-        "title": "IBIMBI LYA KUBUTISHA",
+        "title": "Ibimbi Lya Kubutisha",
         "lyrics": [
             {
                 "type": "verse",
@@ -5650,12 +5650,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE CLEANSING WAVE"
+        "title_english": "The Cleansing Wave"
     },
     {
         "index": "120",
         "number": 120,
-        "title": "NDESUMINA",
+        "title": "Ndesumina",
         "lyrics": [
             {
                 "type": "verse",
@@ -5690,12 +5690,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I DO BELIEVE"
+        "title_english": "I Do Believe"
     },
     {
         "index": "121",
         "number": 121,
-        "title": "KUTEMWA KWA KWA YESU",
+        "title": "Kutemwa Kwa Kwa Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -5738,12 +5738,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I WILL SING OF JESUS’ LOVE"
+        "title_english": "I Will Sing Of Jesus’ Love"
     },
     {
         "index": "122",
         "number": 122,
-        "title": "KUCILI AFWAAFWI",
+        "title": "Kucili Afwaafwi",
         "lyrics": [
             {
                 "type": "verse",
@@ -5790,12 +5790,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NEARER STILL NEARER"
+        "title_english": "Nearer Still Nearer"
     },
     {
         "index": "123",
         "number": 123,
-        "title": "INSHINA LYA MUSHILO",
+        "title": "Inshina Lya Mushilo",
         "lyrics": [
             {
                 "type": "verse",
@@ -5832,12 +5832,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE HOLIEST NAME"
+        "title_english": "The Holiest Name"
     },
     {
         "index": "124",
         "number": 124,
-        "title": "TE'NE KANO KRISTU",
+        "title": "Te'ne Kano Kristu",
         "lyrics": [
             {
                 "type": "verse",
@@ -5881,12 +5881,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NOT I BUT CHRIST"
+        "title_english": "Not I But Christ"
     },
     {
         "index": "125",
         "number": 125,
-        "title": "AKASUBA PA LUPILI",
+        "title": "Akasuba Pa Lupili",
         "lyrics": [
             {
                 "type": "verse",
@@ -5927,12 +5927,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THERE IS SUNLIGHT IN THE HEART"
+        "title_english": "There Is Sunlight In The Heart"
     },
     {
         "index": "126",
         "number": 126,
-        "title": "NDI NO LWIMBO ULO NATEMWA",
+        "title": "Ndi No Lwimbo Ulo Natemwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -5976,12 +5976,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SINCE I HAVE BEEN REDEEMED"
+        "title_english": "Since I Have Been Redeemed"
     },
     {
         "index": "127",
         "number": 127,
-        "title": "ALINTEMWA",
+        "title": "Alintemwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -6016,12 +6016,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HE LOVES ME TOO"
+        "title_english": "He Loves Me Too"
     },
     {
         "index": "128",
         "number": 128,
-        "title": "INSHITA YA KUPEPA",
+        "title": "Inshita Ya Kupepa",
         "lyrics": [
             {
                 "type": "verse",
@@ -6072,12 +6072,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BLESSED HOUR OF PRAYER"
+        "title_english": "Blessed Hour Of Prayer"
     },
     {
         "index": "129",
         "number": 129,
-        "title": "YESU ISENI MUTUPALE",
+        "title": "Yesu Iseni Mutupale",
         "lyrics": [
             {
                 "type": "verse",
@@ -6118,12 +6118,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS COME AND BLESS US"
+        "title_english": "Jesus Come And Bless Us"
     },
     {
         "index": "130",
         "number": 130,
-        "title": "NDIWENU MFUMU",
+        "title": "Ndiwenu Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -6168,12 +6168,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I AM THINE O LORD"
+        "title_english": "I Am Thine O Lord"
     },
     {
         "index": "131",
         "number": 131,
-        "title": "KUTI NABA NGA YESU",
+        "title": "Kuti Naba Nga Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -6207,12 +6207,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MORE LIKE JESUS"
+        "title_english": "More Like Jesus"
     },
     {
         "index": "132",
         "number": 132,
-        "title": "MBE PEPI NOLUPANDA",
+        "title": "Mbe Pepi Nolupanda",
         "lyrics": [
             {
                 "type": "verse",
@@ -6255,12 +6255,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NEAR THE CROSS"
+        "title_english": "Near The Cross"
     },
     {
         "index": "133",
         "number": 133,
-        "title": "MUNSUMINISHE NYENDE NEMWE",
+        "title": "Munsuminishe Nyende Nemwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -6291,12 +6291,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O LET ME WALK"
+        "title_english": "O Let Me Walk"
     },
     {
         "index": "134",
         "number": 134,
-        "title": "UKUTEMWA KWA KUPAPA KWAKWA YESU",
+        "title": "Ukutemwa Kwa Kupapa Kwakwa Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -6331,12 +6331,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WONDERFUL LOVE OF JESUS"
+        "title_english": "Wonderful Love Of Jesus"
     },
     {
         "index": "135",
         "number": 135,
-        "title": "NALIKUTEMWA",
+        "title": "Nalikutemwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -6379,12 +6379,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I LOVE THEE BETTER LORD"
+        "title_english": "I Love Thee Better Lord"
     },
     {
         "index": "136",
         "number": 136,
-        "title": "KONSE 'KANTWALA",
+        "title": "Konse 'Kantwala",
         "lyrics": [
             {
                 "type": "verse",
@@ -6425,12 +6425,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I REMEMBER CALVARY"
+        "title_english": "I Remember Calvary"
     },
     {
         "index": "137",
         "number": 137,
-        "title": "BULE CALO UMPE YESU",
+        "title": "Bule Calo Umpe Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -6483,12 +6483,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "GIVE ME JESUS"
+        "title_english": "Give Me Jesus"
     },
     {
         "index": "138",
         "number": 138,
-        "title": "BULENI UMWEO WANDI",
+        "title": "Buleni Umweo Wandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -6548,12 +6548,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ENTIRE CONSECRATION"
+        "title_english": "Entire Consecration"
     },
     {
         "index": "139",
         "number": 139,
-        "title": "NINSANGA CIBUSA",
+        "title": "Ninsanga Cibusa",
         "lyrics": [
             {
                 "type": "verse",
@@ -6597,12 +6597,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I’VE FOUND A FRIEND"
+        "title_english": "I’ve Found A Friend"
     },
     {
         "index": "140",
         "number": 140,
-        "title": "NAUMFWILE YESU ANJITA",
+        "title": "Naumfwile Yesu Anjita",
         "lyrics": [
             {
                 "type": "verse",
@@ -6636,12 +6636,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE VOICE OF JESUS"
+        "title_english": "The Voice Of Jesus"
     },
     {
         "index": "141",
         "number": 141,
-        "title": "NABO WENU",
+        "title": "Nabo Wenu",
         "lyrics": [
             {
                 "type": "verse",
@@ -6682,12 +6682,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHOLLY THINE"
+        "title_english": "Wholly Thine"
     },
     {
         "index": "142",
         "number": 142,
-        "title": "BWALI WAMA",
+        "title": "Bwali Wama",
         "lyrics": [
             {
                 "type": "verse",
@@ -6715,12 +6715,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOW SWEET"
+        "title_english": "How Sweet"
     },
     {
         "index": "143",
         "number": 143,
-        "title": "MUTUFUMYE NO BUPALO",
+        "title": "Mutufumye No Bupalo",
         "lyrics": [
             {
                 "type": "verse",
@@ -6751,12 +6751,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LORD DISMISS"
+        "title_english": "Lord Dismiss"
     },
     {
         "index": "144",
         "number": 144,
-        "title": "MPIMPILA UKUYA KU MULU",
+        "title": "Mpimpila Ukuya Ku Mulu",
         "lyrics": [
             {
                 "type": "verse",
@@ -6809,12 +6809,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HIGHER GROUND"
+        "title_english": "Higher Ground"
     },
     {
         "index": "145",
         "number": 145,
-        "title": "IWE WILAKANA",
+        "title": "Iwe Wilakana",
         "lyrics": [
             {
                 "type": "verse",
@@ -6857,12 +6857,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ASK NOT TO BE EXCUSED"
+        "title_english": "Ask Not To Be Excused"
     },
     {
         "index": "146",
         "number": 146,
-        "title": "IKALA MU M'TIMA",
+        "title": "Ikala Mu M'tima",
         "lyrics": [
             {
                 "type": "verse",
@@ -6906,12 +6906,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THY LIFE WITHIN ME"
+        "title_english": "Thy Life Within Me"
     },
     {
         "index": "147",
         "number": 147,
-        "title": "MPALAMIKWE MUPEPI",
+        "title": "Mpalamikwe Mupepi",
         "lyrics": [
             {
                 "type": "verse",
@@ -6947,12 +6947,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "DRAW ME CLOSER TO THEE"
+        "title_english": "Draw Me Closer To Thee"
     },
     {
         "index": "148",
         "number": 148,
-        "title": "KONSE KONSE NA YESU",
+        "title": "Konse Konse Na Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -6993,12 +6993,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ANYWHERE WITH JESUS"
+        "title_english": "Anywhere With Jesus"
     },
     {
         "index": "149",
         "number": 149,
-        "title": "ENDA MU LUBUTO",
+        "title": "Enda Mu Lubuto",
         "lyrics": [
             {
                 "type": "verse",
@@ -7041,12 +7041,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WALK IN THE LIGHT"
+        "title_english": "Walk In The Light"
     },
     {
         "index": "150",
         "number": 150,
-        "title": "ABASEPA BALI KWI?",
+        "title": "Abasepa Bali Kwi?",
         "lyrics": [
             {
                 "type": "verse",
@@ -7099,12 +7099,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHERE ARE THE REAPERS?"
+        "title_english": "Where Are The Reapers?"
     },
     {
         "index": "151",
         "number": 151,
-        "title": "BUSHE NKABA NE NTANDA KULYA?",
+        "title": "Bushe Nkaba Ne Ntanda Kulya?",
         "lyrics": [
             {
                 "type": "verse",
@@ -7147,12 +7147,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WILL THERE BE ANY STARS"
+        "title_english": "Will There Be Any Stars"
     },
     {
         "index": "152",
         "number": 152,
-        "title": "LANDA KULI INE",
+        "title": "Landa Kuli Ine",
         "lyrics": [
             {
                 "type": "verse",
@@ -7195,12 +7195,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "YESU SPEAK TO MY SOUL"
+        "title_english": "Yesu Speak To My Soul"
     },
     {
         "index": "153",
         "number": 153,
-        "title": "LELO LYEKA",
+        "title": "Lelo Lyeka",
         "lyrics": [
             {
                 "type": "verse",
@@ -7234,12 +7234,13 @@
             }
         ],
         "revision": 1,
-        "title_english": "JUST FOR TODAY"
+        "title_english": "Just For Today"
     },
     {
         "index": "154",
         "number": 154,
-        "title": "KALINDA NJEBA WATCHMAN TELL ME",
+        "title": "Kalinda Njeba",
+        "title_english":"Watchman Tell Me",
         "lyrics": [
             {
                 "type": "verse",
@@ -7297,7 +7298,7 @@
     {
         "index": "155",
         "number": 155,
-        "title": "NKAYA KONSE 'KO LEFWAYA",
+        "title": "Nkaya Konse 'Ko Lefwaya",
         "lyrics": [
             {
                 "type": "verse",
@@ -7340,12 +7341,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I’LL GO WHERE YOU WANT ME TO GO"
+        "title_english": "I’ll Go Where You Want Me To Go"
     },
     {
         "index": "156",
         "number": 156,
-        "title": "AMASHIWI Y ABUKALI",
+        "title": "Amashiwi Yabukali",
         "lyrics": [
             {
                 "type": "verse",
@@ -7382,12 +7383,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ANGRY WORDS LET THEM NEVER"
+        "title_english": "Angry Words Let Them Never"
     },
     {
         "index": "157",
         "number": 157,
-        "title": "ULYA UYA ILYO ALILA",
+        "title": "Ulya Uya Ilyo Alila",
         "lyrics": [
             {
                 "type": "verse",
@@ -7422,12 +7423,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HARVEST TIME"
+        "title_english": "Harvest Time"
     },
     {
         "index": "158",
         "number": 158,
-        "title": "KUSOMBOLE CALO NAKUPALAMA",
+        "title": "Kusombole Calo Nakupalama",
         "lyrics": [
             {
                 "type": "verse",
@@ -7468,12 +7469,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HASTEN ON GLAD DAY"
+        "title_english": "Hasten On Glad Day"
     },
     {
         "index": "159",
         "number": 159,
-        "title": "MFUMU ‘NE NDAMUFWAISHA",
+        "title": "Mfumu ‘ne Ndamufwaisha",
         "lyrics": [
             {
                 "type": "verse",
@@ -7518,12 +7519,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOW MUCH I NEED THEE"
+        "title_english": "How Much I Need Thee"
     },
     {
         "index": "160",
         "number": 160,
-        "title": "NINDAMINWA FYE YESU",
+        "title": "Nindaminwa Fye Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -7566,12 +7567,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "KEPT FOR JESUS"
+        "title_english": "Kept For Jesus"
     },
     {
         "index": "161",
         "number": 161,
-        "title": "NALIBA NO WANTEMWA",
+        "title": "Naliba No Wantemwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -7615,12 +7616,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MY LORD AND I"
+        "title_english": "My Lord And I"
     },
     {
         "index": "162",
         "number": 162,
-        "title": "YESU ALENTUNGULULA",
+        "title": "Yesu Alentungulula",
         "lyrics": [
             {
                 "type": "verse",
@@ -7657,12 +7658,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ALL THE WAY"
+        "title_english": "All The Way"
     },
     {
         "index": "163",
         "number": 163,
-        "title": "EPO NDI NTUMENI",
+        "title": "Epo Ndi Ntumeni",
         "lyrics": [
             {
                 "type": "verse",
@@ -7706,12 +7707,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HERE AM I SEND ME"
+        "title_english": "Here Am I Send Me"
     },
     {
         "index": "164",
         "number": 164,
-        "title": "PAMAKASA YAKWA YESU",
+        "title": "Pamakasa Yakwa Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -7745,12 +7746,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "AT THE FEET OF JESUS"
+        "title_english": "At The Feet Of Jesus"
     },
     {
         "index": "165",
         "number": 165,
-        "title": "NATEMWA",
+        "title": "Natemwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -7794,12 +7795,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I LOVE THEE"
+        "title_english": "I Love Thee"
     },
     {
         "index": "166",
         "number": 166,
-        "title": "MWE CILIBWE CA KALE",
+        "title": "Mwe Cilibwe Ca Kale",
         "lyrics": [
             {
                 "type": "verse",
@@ -7839,12 +7840,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ROCK OF AGES"
+        "title_english": "Rock Of Ages"
     },
     {
         "index": "167",
         "number": 167,
-        "title": "CITENDEKELO ICI",
+        "title": "Citendekelo Ici",
         "lyrics": [
             {
                 "type": "verse",
@@ -7892,12 +7893,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "FIRM FOUNDATION"
+        "title_english": "Firm Foundation"
     },
     {
         "index": "168",
         "number": 168,
-        "title": "JEHOVA MUCEMI  WANDI",
+        "title": "Jehova Mucemi Wandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -7941,12 +7942,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE LORD IS MY SHEPHERD"
+        "title_english": "The Lord Is My Shepherd"
     },
     {
         "index": "169",
         "number": 169,
-        "title": "WE MPYANI YA BUFUMU",
+        "title": "We Mpyani Ya Bufumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -7990,12 +7991,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HEIRS OF THE KINGDOM"
+        "title_english": "Heirs Of The Kingdom"
     },
     {
         "index": "170",
         "number": 170,
-        "title": "MFUMU NA KABUMBA",
+        "title": "Mfumu Na Kabumba",
         "lyrics": [
             {
                 "type": "verse",
@@ -8035,12 +8036,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MY MAKER AND MY KING"
+        "title_english": "My Maker And My King"
     },
     {
         "index": "171",
         "number": 171,
-        "title": "WE KALINDA WA ZION",
+        "title": "We Kalinda Wa Zion",
         "lyrics": [
             {
                 "type": "verse",
@@ -8084,12 +8085,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHAT OF THE NIGHT?"
+        "title_english": "What Of The Night?"
     },
     {
         "index": "172",
         "number": 172,
-        "title": "SHIKULU MUKESA LILALI?",
+        "title": "Shikulu Mukesa Lilali?",
         "lyrics": [
             {
                 "type": "verse",
@@ -8123,12 +8124,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOW LONG?"
+        "title_english": "How Long?"
     },
     {
         "index": "173",
         "number": 173,
-        "title": "NDEFWAYO UBUCETEKELO",
+        "title": "Ndefwayo Ubucetekelo",
         "lyrics": [
             {
                 "type": "verse",
@@ -8177,12 +8178,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O FOR A FAITH"
+        "title_english": "O For A Faith"
     },
     {
         "index": "174",
         "number": 174,
-        "title": "KWA BUSEKO",
+        "title": "Kwa Buseko",
         "lyrics": [
             {
                 "type": "verse",
@@ -8231,12 +8232,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOW CHEERING!"
+        "title_english": "How Cheering!"
     },
     {
         "index": "175",
         "number": 175,
-        "title": "WE MUPUSUSHI KAKUMBA",
+        "title": "We Mupusushi Kakumba",
         "lyrics": [
             {
                 "type": "verse",
@@ -8270,12 +8271,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SAVIOUR LIKE A SHEPHERD"
+        "title_english": "Saviour Like A Shepherd"
     },
     {
         "index": "176",
         "number": 176,
-        "title": "UBUCHETEKELO BWAPALWA",
+        "title": "Ubuchetekelo Bwapalwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -8311,12 +8312,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BLESSED HOPE"
+        "title_english": "Blessed Hope"
     },
     {
         "index": "177",
         "number": 177,
-        "title": "MU MPANGA YA KUMULU",
+        "title": "Mu Mpanga Ya Kumulu",
         "lyrics": [
             {
                 "type": "verse",
@@ -8359,12 +8360,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NO NIGHT THERE"
+        "title_english": "No Night There"
     },
     {
         "index": "178",
         "number": 178,
-        "title": "ALEISA",
+        "title": "Aleisa",
         "lyrics": [
             {
                 "type": "verse",
@@ -8415,12 +8416,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "CHRIST RETURNETH"
+        "title_english": "Christ Returneth"
     },
     {
         "index": "179",
         "number": 179,
-        "title": "MONA SHIBWINGA",
+        "title": "Mona Shibwinga",
         "lyrics": [
             {
                 "type": "verse",
@@ -8467,12 +8468,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BEHOLD THE BRIDEGROOM"
+        "title_english": "Behold The Bridegroom"
     },
     {
         "index": "180",
         "number": 180,
-        "title": "INSHITA TATWISHIBE",
+        "title": "Inshita Tatwishibe",
         "lyrics": [
             {
                 "type": "verse",
@@ -8515,12 +8516,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WE KNOW NOT THE HOUR"
+        "title_english": "We Know Not The Hour"
     },
     {
         "index": "181",
         "number": 181,
-        "title": "TATWAISHIBA ILYA KESA",
+        "title": "Tatwaishiba Ilya Kesa",
         "lyrics": [
             {
                 "type": "verse",
@@ -8561,12 +8562,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WAITING AND WATCHING"
+        "title_english": "Waiting And Watching"
     },
     {
         "index": "182",
         "number": 182,
-        "title": "BUSHIKU BULYA",
+        "title": "Bushiku Bulya",
         "lyrics": [
             {
                 "type": "verse",
@@ -8609,12 +8610,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "GLEAMS OF THE GOLDEN MORNING"
+        "title_english": "Gleams Of The Golden Morning"
     },
     {
         "index": "183",
         "number": 183,
-        "title": "IKATISHENI NSUKE NJISE",
+        "title": "Ikatisheni Nsuke Njise",
         "lyrics": [
             {
                 "type": "verse",
@@ -8657,12 +8658,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOLD FAST TILL I COME"
+        "title_english": "Hold Fast Till I Come"
     },
     {
         "index": "184",
         "number": 184,
-        "title": "ANGENI MFUMUYAISA",
+        "title": "Angeni Mfumuyaisa",
         "lyrics": [
             {
                 "type": "verse",
@@ -8696,12 +8697,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JOY TO THE WORLD"
+        "title_english": "Joy To The World"
     },
     {
         "index": "185",
         "number": 185,
-        "title": "UKUBA KULYA",
+        "title": "Ukuba Kulya",
         "lyrics": [
             {
                 "type": "verse",
@@ -8735,12 +8736,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WE SPEAK OF THE REALMS TO BE THERE"
+        "title_english": "We Speak Of The Realms To Be There"
     },
     {
         "index": "186",
         "number": 186,
-        "title": "MFUMU TWALONGANA",
+        "title": "Mfumu Twalongana",
         "lyrics": [
             {
                 "type": "verse",
@@ -8776,12 +8777,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LORD WE HAVE MET"
+        "title_english": "Lord We Have Met"
     },
     {
         "index": "187",
         "number": 187,
-        "title": "ULWIMBO LWESU ULWAKULEKANA",
+        "title": "Ulwimbo Lwesu Ulwakulekana",
         "lyrics": [
             {
                 "type": "verse",
@@ -8815,12 +8816,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "OUR PARTING HYMN"
+        "title_english": "Our Parting Hymn"
     },
     {
         "index": "188",
         "number": 188,
-        "title": "NDI MUBI NOKUCILA",
+        "title": "Ndi Mubi Nokucila",
         "lyrics": [
             {
                 "type": "verse",
@@ -8851,12 +8852,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "CHIEF OF SINNER"
+        "title_english": "Chief Of Sinner"
     },
     {
         "index": "189",
         "number": 189,
-        "title": "TATUKWETE NG'ANDA KUNO",
+        "title": "Tatukwete Ng'anda Kuno",
         "lyrics": [
             {
                 "type": "verse",
@@ -8904,12 +8905,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NO ABIDING CITY HERE"
+        "title_english": "No Abiding City Here"
     },
     {
         "index": "190",
         "number": 190,
-        "title": "ISHINA LISUMA",
+        "title": "Ishina Lisuma",
         "lyrics": [
             {
                 "type": "verse",
@@ -8962,12 +8963,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "PRECIOUS NAME"
+        "title_english": "Precious Name"
     },
     {
         "index": "191",
         "number": 191,
-        "title": "CACINE CINE YESU W ANDI",
+        "title": "Cacine Cine Yesu Wandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -9010,12 +9011,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BLESSED ASSURANCE"
+        "title_english": "Blessed Assurance"
     },
     {
         "index": "192",
         "number": 192,
-        "title": "ALl MFWlLILE PALUPANDA",
+        "title": "All Mfwllile Palupanda",
         "lyrics": [
             {
                 "type": "verse",
@@ -9067,12 +9068,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "GLORY TO HIS NAME"
+        "title_english": "Glory To His Name"
     },
     {
         "index": "193",
         "number": 193,
-        "title": "CINSHI USHINGEKALILA",
+        "title": "Cinshi Ushingekalila",
         "lyrics": [
             {
                 "type": "verse",
@@ -9115,12 +9116,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HIS WAY WITH THEE"
+        "title_english": "His Way With Thee"
     },
     {
         "index": "194",
         "number": 194,
-        "title": "MULAWAMA MU NG'ANDA",
+        "title": "Mulawama Mu Ng'anda",
         "lyrics": [
             {
                 "type": "verse",
@@ -9172,12 +9173,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LOVE AT HOME"
+        "title_english": "Love At Home"
     },
     {
         "index": "195",
         "number": 195,
-        "title": "NDEUFWAYA  ULYA MULILO",
+        "title": "Ndeufwaya Ulya Mulilo",
         "lyrics": [
             {
                 "type": "verse",
@@ -9221,12 +9222,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O FOR THAT FLAME"
+        "title_english": "O For That Flame"
     },
     {
         "index": "196",
         "number": 196,
-        "title": "MULYA MAKA MU MULOPA",
+        "title": "Mulya Maka Mu Mulopa",
         "lyrics": [
             {
                 "type": "verse",
@@ -9279,12 +9280,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THERE IS POWER IN THE BLOOD"
+        "title_english": "There Is Power In The Blood"
     },
     {
         "index": "197",
         "number": 197,
-        "title": "TAPALl KWICUSHA",
+        "title": "Tapali Kwicusha",
         "lyrics": [
             {
                 "type": "verse",
@@ -9337,12 +9338,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THERE’LL BE NO DARK VALLEY"
+        "title_english": "There’ll Be No Dark Valley"
     },
     {
         "index": "198",
         "number": 198,
-        "title": "UKUBA YESU E CIBUSA",
+        "title": "Ukuba Yesu E Cibusa",
         "lyrics": [
             {
                 "type": "verse",
@@ -9395,12 +9396,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE BEST FRIEND IS JESUS"
+        "title_english": "The Best Friend Is Jesus"
     },
     {
         "index": "199",
         "number": 199,
-        "title": "NATOTELWE LESA",
+        "title": "Natotelwe Lesa",
         "lyrics": [
             {
                 "type": "verse",
@@ -9443,12 +9444,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TO GOD BE THE GLORY"
+        "title_english": "To God Be The Glory"
     },
     {
         "index": "200",
         "number": 200,
-        "title": "ULI WA MUSHILO",
+        "title": "Uli Wa Mushilo",
         "lyrics": [
             {
                 "type": "verse",
@@ -9482,12 +9483,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOLY, HOLY, HOLY"
+        "title_english": "Holy, Holy, Holy"
     },
     {
         "index": "201",
         "number": 201,
-        "title": "AMFUMISHE MO",
+        "title": "Amfumishe Mo",
         "lyrics": [
             {
                 "type": "verse",
@@ -9531,12 +9532,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HE BROUGHT ME OUT"
+        "title_english": "He Brought Me Out"
     },
     {
         "index": "202",
         "number": 202,
-        "title": "YESU MUNGABUSHE 'NE",
+        "title": "Yesu Mungabushe 'Ne",
         "lyrics": [
             {
                 "type": "verse",
@@ -9576,12 +9577,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS SAVIOUR PILOT ME"
+        "title_english": "Jesus Saviour Pilot Me"
     },
     {
         "index": "203",
         "number": 203,
-        "title": "MUPASHI NAISA",
+        "title": "Mupashi Naisa",
         "lyrics": [
             {
                 "type": "verse",
@@ -9644,12 +9645,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE COMFORTER HAS COME"
+        "title_english": "The Comforter Has Come"
     },
     {
         "index": "204",
         "number": 204,
-        "title": "BWELA WE WA LUBA",
+        "title": "Bwela We Wa Luba",
         "lyrics": [
             {
                 "type": "verse",
@@ -9716,12 +9717,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WELCOME WANDERER WELCOME"
+        "title_english": "Welcome Wanderer Welcome"
     },
     {
         "index": "205",
         "number": 205,
-        "title": "ILYO YESU ALEKWITA",
+        "title": "Ilyo Yesu Alekwita",
         "lyrics": [
             {
                 "type": "verse",
@@ -9755,12 +9756,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHILE JESUS WHISPERS"
+        "title_english": "While Jesus Whispers"
     },
     {
         "index": "206",
         "number": 206,
-        "title": "CINTU NSHI WANCITILA?",
+        "title": "Cintu Nshi Wancitila?",
         "lyrics": [
             {
                 "type": "verse",
@@ -9794,12 +9795,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHAT HAST THOU DONE FOR ME?"
+        "title_english": "What Hast Thou Done For Me?"
     },
     {
         "index": "207",
         "number": 207,
-        "title": "ALINJELELA",
+        "title": "Alinjelela",
         "lyrics": [
             {
                 "type": "verse",
@@ -9835,12 +9836,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SEALS MY PARDON"
+        "title_english": "Seals My Pardon"
     },
     {
         "index": "208",
         "number": 208,
-        "title": "ENDENI BWINO",
+        "title": "Endeni Bwino",
         "lyrics": [
             {
                 "type": "verse",
@@ -9883,12 +9884,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TREAD SOFTLY"
+        "title_english": "Tread Softly"
     },
     {
         "index": "209",
         "number": 209,
-        "title": "APEPI NANKWE",
+        "title": "Apepi Nankwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -9932,12 +9933,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O FOR A CLOSER WALK"
+        "title_english": "O For A Closer Walk"
     },
     {
         "index": "210",
         "number": 210,
-        "title": "YESU WA KUPAPA",
+        "title": "Yesu Wa Kupapa",
         "lyrics": [
             {
                 "type": "verse",
@@ -9996,12 +9997,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHAT A WONDERFUL SAVIOUR"
+        "title_english": "What A Wonderful Saviour"
     },
     {
         "index": "211",
         "number": 211,
-        "title": "MFULA YE PALO",
+        "title": "Mfula Ye Palo",
         "lyrics": [
             {
                 "type": "verse",
@@ -10044,12 +10045,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SHOWERS OF BLESSING"
+        "title_english": "Showers Of Blessing"
     },
     {
         "index": "212",
         "number": 212,
-        "title": "MUTENDE USUMA",
+        "title": "Mutende Usuma",
         "lyrics": [
             {
                 "type": "verse",
@@ -10092,12 +10093,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SWEET PEACE"
+        "title_english": "Sweet Peace"
     },
     {
         "index": "213",
         "number": 213,
-        "title": "LWIMBO LWANDI",
+        "title": "Lwimbo Lwandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -10140,12 +10141,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MY SONG"
+        "title_english": "My Song"
     },
     {
         "index": "214",
         "number": 214,
-        "title": "BUSHE YESU KUTI ANSUNGA?",
+        "title": "Bushe Yesu Kuti Ansunga?",
         "lyrics": [
             {
                 "type": "verse",
@@ -10188,12 +10189,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "DOES JESUS CARE?"
+        "title_english": "Does Jesus Care?"
     },
     {
         "index": "215",
         "number": 215,
-        "title": "LOLELA WILAILISHANYA",
+        "title": "Lolela Wilailishanya",
         "lyrics": [
             {
                 "type": "verse",
@@ -10235,12 +10236,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WAIT AND MURMUR NOT"
+        "title_english": "Wait And Murmur Not"
     },
     {
         "index": "216",
         "number": 216,
-        "title": "NSHILI NEKA",
+        "title": "Nshili Neka",
         "lyrics": [
             {
                 "type": "verse",
@@ -10281,12 +10282,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NEVER ALONE"
+        "title_english": "Never Alone"
     },
     {
         "index": "217",
         "number": 217,
-        "title": "CIMO NINGAPELA YESU",
+        "title": "Cimo Ningapela Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -10330,12 +10331,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SOMETHING FOR JESUS"
+        "title_english": "Something For Jesus"
     },
     {
         "index": "218",
         "number": 218,
-        "title": "MUFULA UMO",
+        "title": "Mufula Umo",
         "lyrics": [
             {
                 "type": "verse",
@@ -10379,12 +10380,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ONE FOUNDATION"
+        "title_english": "One Foundation"
     },
     {
         "index": "219",
         "number": 219,
-        "title": "MUNTUNGULULE YEHOVA",
+        "title": "Muntungulule Yehova",
         "lyrics": [
             {
                 "type": "verse",
@@ -10418,12 +10419,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "GUIDE ME O THOU GREAT JEHOVA"
+        "title_english": "Guide Me O Thou Great Jehova"
     },
     {
         "index": "220",
         "number": 220,
-        "title": "KU MWESU",
+        "title": "Ku Mwesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -10460,12 +10461,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE HOME LAND"
+        "title_english": "The Home Land"
     },
     {
         "index": "221",
         "number": 221,
-        "title": "GALILE",
+        "title": "Galile",
         "lyrics": [
             {
                 "type": "verse",
@@ -10500,12 +10501,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "GALILEE"
+        "title_english": "Galilee"
     },
     {
         "index": "222",
         "number": 222,
-        "title": "MUMABOKO YAKWA YESU",
+        "title": "Mumaboko Yakwa Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -10546,12 +10547,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SAFE THE ARMS OF JESUS"
+        "title_english": "Safe The Arms Of Jesus"
     },
     {
         "index": "223",
         "number": 223,
-        "title": "KU MUKONKA KONSE",
+        "title": "Ku Mukonka Konse",
         "lyrics": [
             {
                 "type": "verse",
@@ -10602,12 +10603,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "FOLLOW ALL THE WAY"
+        "title_english": "Follow All The Way"
     },
     {
         "index": "224",
         "number": 224,
-        "title": "NYALI SHIBENGESHIME",
+        "title": "Nyali Shibengeshime",
         "lyrics": [
             {
                 "type": "verse",
@@ -10642,12 +10643,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LET THE LOWER LIGHT BE BURNING"
+        "title_english": "Let The Lower Light Be Burning"
     },
     {
         "index": "225",
         "number": 225,
-        "title": "IMININA NGO WAMAKA",
+        "title": "Iminina Ngo Wamaka",
         "lyrics": [
             {
                 "type": "verse",
@@ -10695,12 +10696,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "STAND LIKE THE BRAVE"
+        "title_english": "Stand Like The Brave"
     },
     {
         "index": "226",
         "number": 226,
-        "title": "APEPI NO KUSUMINA",
+        "title": "Apepi No Kusumina",
         "lyrics": [
             {
                 "type": "verse",
@@ -10734,12 +10735,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ALMOST PERSUADED"
+        "title_english": "Almost Persuaded"
     },
     {
         "index": "227",
         "number": 227,
-        "title": "PALUPANDA",
+        "title": "Palupanda",
         "lyrics": [
             {
                 "type": "verse",
@@ -10776,12 +10777,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "AT THE CROSS"
+        "title_english": "At The Cross"
     },
     {
         "index": "228",
         "number": 228,
-        "title": "MULUMBANYENI",
+        "title": "Mulumbanyeni",
         "lyrics": [
             {
                 "type": "verse",
@@ -10822,12 +10823,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "PRAISE HIM PRAISE HIM"
+        "title_english": "Praise Him Praise Him"
     },
     {
         "index": "229",
         "number": 229,
-        "title": "NANI ALl KU MFUMU",
+        "title": "Nani Ali Ku Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -10861,12 +10862,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHO IS ON THE LORD’S SIDE?"
+        "title_english": "Who Is On The Lord’s Side?"
     },
     {
         "index": "230",
         "number": 230,
-        "title": "INE NSHILA",
+        "title": "Ine Nshila",
         "lyrics": [
             {
                 "type": "verse",
@@ -10900,12 +10901,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I AM THE WAY"
+        "title_english": "I Am The Way"
     },
     {
         "index": "231",
         "number": 231,
-        "title": "NJEBO MULUMBE WAKALE",
+        "title": "Njebo Mulumbe Wakale",
         "lyrics": [
             {
                 "type": "verse",
@@ -10956,12 +10957,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LET JESUS COME INTO YOUR HEART"
+        "title_english": "Let Jesus Come Into Your Heart"
     },
     {
         "index": "232",
         "number": 232,
-        "title": "NSHAKAKUSHE",
+        "title": "Nshakakushe",
         "lyrics": [
             {
                 "type": "verse",
@@ -11001,12 +11002,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I WILL NEVER LEAVE THEE"
+        "title_english": "I Will Never Leave Thee"
     },
     {
         "index": "233",
         "number": 233,
-        "title": "NJEBO MULUMBE WAKALE",
+        "title": "Njebo Mulumbe Wakale",
         "lyrics": [
             {
                 "type": "verse",
@@ -11047,12 +11048,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TELL ME THE OLD, OLD STORY"
+        "title_english": "Tell Me The Old, Old Story"
     },
     {
         "index": "234",
         "number": 234,
-        "title": "YESU LUBUTO LWA CALO",
+        "title": "Yesu Lubuto Lwa Calo",
         "lyrics": [
             {
                 "type": "verse",
@@ -11095,12 +11096,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS THE LIGHT OF THE WORLD"
+        "title_english": "Jesus The Light Of The World"
     },
     {
         "index": "235",
         "number": 235,
-        "title": "KABILI UBUSHIKU BWAFIKA",
+        "title": "Kabili Ubushiku Bwafika",
         "lyrics": [
             {
                 "type": "verse",
@@ -11144,12 +11145,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "AGAIN THE DAY RETURNS"
+        "title_english": "Again The Day Returns"
     },
     {
         "index": "236",
         "number": 236,
-        "title": "UKUTEMWA KWAKWE",
+        "title": "Ukutemwa Kwakwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -11191,12 +11192,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HIS LOVING KINDNESS"
+        "title_english": "His Loving Kindness"
     },
     {
         "index": "237",
         "number": 237,
-        "title": "MWIMININENI YESU",
+        "title": "Mwiminineni Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -11240,12 +11241,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "STAND UP FOR JESUS"
+        "title_english": "Stand Up For Jesus"
     },
     {
         "index": "238",
         "number": 238,
-        "title": "NI BA 'NI ABA?",
+        "title": "Ni Ba 'Ni Aba?",
         "lyrics": [
             {
                 "type": "verse",
@@ -11298,12 +11299,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHO WHO ARE THESE?"
+        "title_english": "Who Who Are These?"
     },
     {
         "index": "239",
         "number": 239,
-        "title": "BUSHE WANAKA?",
+        "title": "Bushe Wanaka?",
         "lyrics": [
             {
                 "type": "verse",
@@ -11363,12 +11364,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ART THOU WEARY?"
+        "title_english": "Art Thou Weary?"
     },
     {
         "index": "240",
         "number": 240,
-        "title": "MONA UMUPUSUSHI ALI PA MWINSHI",
+        "title": "Mona Umupusushi Ali Pa Mwinshi",
         "lyrics": [
             {
                 "type": "verse",
@@ -11420,12 +11421,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BEHOLD THE SAVIOUR AT THE DOOR"
+        "title_english": "Behold The Saviour At The Door"
     },
     {
         "index": "241",
         "number": 241,
-        "title": "NAFIKE CALO CISUMA",
+        "title": "Nafike Calo Cisuma",
         "lyrics": [
             {
                 "type": "verse",
@@ -11469,12 +11470,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BEULAH LAND"
+        "title_english": "Beulah Land"
     },
     {
         "index": "242",
         "number": 242,
-        "title": "WALISHUKA UMWANDO",
+        "title": "Walishuka Umwando",
         "lyrics": [
             {
                 "type": "verse",
@@ -11514,12 +11515,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BLEST BE THE TIE"
+        "title_english": "Blest Be The Tie"
     },
     {
         "index": "243",
         "number": 243,
-        "title": "BUKA WE MUTIMA WANDI",
+        "title": "Buka We Mutima Wandi",
         "lyrics": [
             {
                 "type": "verse",
@@ -11563,12 +11564,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ARISE MY SOUL, ARISE"
+        "title_english": "Arise My Soul, Arise"
     },
     {
         "index": "244",
         "number": 244,
-        "title": "KONKA YESU",
+        "title": "Konka Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -11642,12 +11643,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "COME TO JESUS"
+        "title_english": "Come To Jesus"
     },
     {
         "index": "245",
         "number": 245,
-        "title": "TAKULI ISHINA LIMBI",
+        "title": "Takuli Ishina Limbi",
         "lyrics": [
             {
                 "type": "verse",
@@ -11690,12 +11691,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NO OTHER NAME"
+        "title_english": "No Other Name"
     },
     {
         "index": "246",
         "number": 246,
-        "title": "ISHIWI LIMO FYE ILYA KWA YESU",
+        "title": "Ishiwi Limo Fye Ilya Kwa Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -11746,12 +11747,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NOW JUST A WORD FOR JESUS"
+        "title_english": "Now Just A Word For Jesus"
     },
     {
         "index": "247",
         "number": 247,
-        "title": "LISHENI NDIBU",
+        "title": "Lisheni Ndibu",
         "lyrics": [
             {
                 "type": "verse",
@@ -11786,12 +11787,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "RING THE BELLS OF HEAVEN"
+        "title_english": "Ring The Bells Of Heaven"
     },
     {
         "index": "248",
         "number": 248,
-        "title": "YESU WAKU NAZARETI ALEPITA",
+        "title": "Yesu Waku Nazareti Alepita",
         "lyrics": [
             {
                 "type": "verse",
@@ -11855,12 +11856,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS OF NAZARETH PASSETH BY"
+        "title_english": "Jesus Of Nazareth Passeth By"
     },
     {
         "index": "249",
         "number": 249,
-        "title": "MAKUMI PABULA NA PABULA",
+        "title": "Makumi Pabula Na Pabula",
         "lyrics": [
             {
                 "type": "verse",
@@ -11895,12 +11896,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE NINETY AND NINE"
+        "title_english": "The Ninety And Nine"
     },
     {
         "index": "250",
         "number": 250,
-        "title": "UKUFUMA KU MESHO",
+        "title": "Ukufuma Ku Mesho",
         "lyrics": [
             {
                 "type": "verse",
@@ -11941,12 +11942,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "YIELD NOT TO TEMPTATION"
+        "title_english": "Yield Not To Temptation"
     },
     {
         "index": "251",
         "number": 251,
-        "title": "NANGU NDILE UKULILA TETI KUMPUSUSHE",
+        "title": "Nangu Ndile Ukulila Teti Kumpusushe",
         "lyrics": [
             {
                 "type": "verse",
@@ -11993,12 +11994,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WEEPING WILL NOT SAVE ME"
+        "title_english": "Weeping Will Not Save Me"
     },
     {
         "index": "252",
         "number": 252,
-        "title": "MUCETEKELE  EKAFYE",
+        "title": "Mucetekele Ekafye",
         "lyrics": [
             {
                 "type": "verse",
@@ -12041,12 +12042,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ONLY TRUST HIM"
+        "title_english": "Only Trust Him"
     },
     {
         "index": "253",
         "number": 253,
-        "title": "MONA KAKUMBA MUSUMA",
+        "title": "Mona Kakumba Musuma",
         "lyrics": [
             {
                 "type": "verse",
@@ -12074,12 +12075,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SEE, ISREAL’S GENTLE SHEPHARD"
+        "title_english": "See, Isreal’s Gentle Shephard"
     },
     {
         "index": "254",
         "number": 254,
-        "title": "LUMBANYENI SHINA LYAKWA JEHOVA",
+        "title": "Lumbanyeni Shina Lyakwa Jehova",
         "lyrics": [
             {
                 "type": "verse",
@@ -12110,12 +12111,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "PRAISE YE JEHOV’S NAME"
+        "title_english": "Praise Ye Jehov’s Name"
     },
     {
         "index": "255",
         "number": 255,
-        "title": "NDEKUKABILA YESU",
+        "title": "Ndekukabila Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -12149,12 +12150,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I NEED THEE PRECIOUS JESUS"
+        "title_english": "I Need Thee Precious Jesus"
     },
     {
         "index": "256",
         "number": 256,
-        "title": "MWE LESA KAFWA",
+        "title": "Mwe Lesa Kafwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -12190,12 +12191,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O GOD OUR HELP"
+        "title_english": "O God Our Help"
     },
     {
         "index": "257",
         "number": 257,
-        "title": "TASUNKANISHIWA",
+        "title": "Tasunkanishiwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -12223,12 +12224,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "UNSHAKEN AS THE SACRED HILLS"
+        "title_english": "Unshaken As The Sacred Hills"
     },
     {
         "index": "258",
         "number": 258,
-        "title": "BUCETEKELO BUMO",
+        "title": "Bucetekelo Bumo",
         "lyrics": [
             {
                 "type": "verse",
@@ -12256,12 +12257,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ONE LIVING FAITH"
+        "title_english": "One Living Faith"
     },
     {
         "index": "259",
         "number": 259,
-        "title": "BUSHE TUKAYA KUMANA",
+        "title": "Bushe Tukaya Kumana",
         "lyrics": [
             {
                 "type": "verse",
@@ -12304,12 +12305,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SHALL WE MEET?"
+        "title_english": "Shall We Meet?"
     },
     {
         "index": "260",
         "number": 260,
-        "title": "ILUNGU LYA WAMA",
+        "title": "Ilungu Lya Wama",
         "lyrics": [
             {
                 "type": "verse",
@@ -12350,12 +12351,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "VALE OF BEULAH"
+        "title_english": "Vale Of Beulah"
     },
     {
         "index": "261",
         "number": 261,
-        "title": "ILUNGU LISUMA ILYA EDENI",
+        "title": "Ilungu Lisuma Ilya Edeni",
         "lyrics": [
             {
                 "type": "verse",
@@ -12390,12 +12391,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BEAUTIFUL VALEY OF EDEN"
+        "title_english": "Beautiful Valey Of Eden"
     },
     {
         "index": "262",
         "number": 262,
-        "title": "KRISTU NANGU BARABBA",
+        "title": "Kristu Nangu Barabba",
         "lyrics": [
             {
                 "type": "verse",
@@ -12446,12 +12447,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "CHRIST OF BARABBAS"
+        "title_english": "Christ Of Barabbas"
     },
     {
         "index": "263",
         "number": 263,
-        "title": "LETENI IMWE ICEKUMI CONSE",
+        "title": "Leteni Imwe Icekumi Conse",
         "lyrics": [
             {
                 "type": "verse",
@@ -12502,12 +12503,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BRING YE ALL THE TITHES"
+        "title_english": "Bring Ye All The Tithes"
     },
     {
         "index": "264",
         "number": 264,
-        "title": "KASUBA KAKWA YEHOFA",
+        "title": "Kasuba Kakwa Yehofa",
         "lyrics": [
             {
                 "type": "verse",
@@ -12558,12 +12559,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "HOLY DAY JEHOVAH’S REST"
+        "title_english": "Holy Day Jehovah’s Rest"
     },
     {
         "index": "265",
         "number": 265,
-        "title": "UMUTENDE USUMA",
+        "title": "Umutende Usuma",
         "lyrics": [
             {
                 "type": "verse",
@@ -12607,12 +12608,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "PEACE PERFECT PEACE"
+        "title_english": "Peace Perfect Peace"
     },
     {
         "index": "266",
         "number": 266,
-        "title": "YESU NDEKONKA IMWE",
+        "title": "Yesu Ndekonka Imwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -12647,12 +12648,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "JESUS I WILL FOLLOW THEE"
+        "title_english": "Jesus I Will Follow Thee"
     },
     {
         "index": "267",
         "number": 267,
-        "title": "TANDE MBUTO SHA LUSE",
+        "title": "Tande Mbuto Sha Luse",
         "lyrics": [
             {
                 "type": "verse",
@@ -12703,12 +12704,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SCATTER SEEDS OF KINDNESS"
+        "title_english": "Scatter Seeds Of Kindness"
     },
     {
         "index": "268",
         "number": 268,
-        "title": "MFUMU CIPUPU CAPUNGA",
+        "title": "Mfumu Cipupu Capunga",
         "lyrics": [
             {
                 "type": "verse",
@@ -12752,12 +12753,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "MASTER THE TEMPEST IS RAGING"
+        "title_english": "Master The Tempest Is Raging"
     },
     {
         "index": "269",
         "number": 269,
-        "title": "UMUPUSUSHI WA KUPAPA",
+        "title": "Umupusushi Wa Kupapa",
         "lyrics": [
             {
                 "type": "verse",
@@ -12801,12 +12802,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "A WONDERFUL SAVIOUR"
+        "title_english": "A Wonderful Saviour"
     },
     {
         "index": "270",
         "number": 270,
-        "title": "UMUPUSUSHI WESU",
+        "title": "Umupusushi Wesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -12850,12 +12851,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "OUR BLEST REDEEMER"
+        "title_english": "Our Blest Redeemer"
     },
     {
         "index": "271",
         "number": 271,
-        "title": "NANGU FYE SHAKASHIKA",
+        "title": "Nangu Fye Shakashika",
         "lyrics": [
             {
                 "type": "verse",
@@ -12892,12 +12893,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THOUGH YOUR SINS BE AS SCARLET"
+        "title_english": "Though Your Sins Be As Scarlet"
     },
     {
         "index": "272",
         "number": 272,
-        "title": "POSA UMWANDO WA MWEO",
+        "title": "Posa Umwando Wa Mweo",
         "lyrics": [
             {
                 "type": "verse",
@@ -12940,12 +12941,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THROW OUT THE LIFE LINE"
+        "title_english": "Throw Out The Life Line"
     },
     {
         "index": "273",
         "number": 273,
-        "title": "SHINTILILA MU MABOKO",
+        "title": "Shintilila Mu Maboko",
         "lyrics": [
             {
                 "type": "verse",
@@ -12980,12 +12981,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LEAN ON HIS ARMS"
+        "title_english": "Lean On His Arms"
     },
     {
         "index": "274",
         "number": 274,
-        "title": "NALIBA NO MU PUSUSHI",
+        "title": "Naliba No Mu Pusushi",
         "lyrics": [
             {
                 "type": "verse",
@@ -13036,12 +13037,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I HAVE A SAVIOUR"
+        "title_english": "I Have A Saviour"
     },
     {
         "index": "275",
         "number": 275,
-        "title": "UMUYAYAYA NI KWI?",
+        "title": "Umuyayaya Ni Kwi?",
         "lyrics": [
             {
                 "type": "verse",
@@ -13085,12 +13086,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ETERNITY WHERE?"
+        "title_english": "Eternity Where?"
     },
     {
         "index": "276",
         "number": 276,
-        "title": "UKUFWAYA INE",
+        "title": "Ukufwaya Ine",
         "lyrics": [
             {
                 "type": "verse",
@@ -13126,12 +13127,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SEEKING FOR ME"
+        "title_english": "Seeking For Me"
     },
     {
         "index": "277",
         "number": 277,
-        "title": "NTUNGULULA LUBUTO NILUBA",
+        "title": "Ntungulula Lubuto Niluba",
         "lyrics": [
             {
                 "type": "verse",
@@ -13162,12 +13163,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LEAD KINDLY LIGHT"
+        "title_english": "Lead Kindly Light"
     },
     {
         "index": "278",
         "number": 278,
-        "title": "NSHILA YOBE WE MFUMU",
+        "title": "Nshila Yobe We Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -13192,12 +13193,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NOT MY WAY"
+        "title_english": "Not My Way"
     },
     {
         "index": "279",
         "number": 279,
-        "title": "ISENI KULI INE",
+        "title": "Iseni Kuli Ine",
         "lyrics": [
             {
                 "type": "verse",
@@ -13241,12 +13242,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "COME UNTO ME"
+        "title_english": "Come Unto Me"
     },
     {
         "index": "280",
         "number": 280,
-        "title": "INYIMBO E SHISUMA",
+        "title": "Inyimbo E Shisuma",
         "lyrics": [
             {
                 "type": "verse",
@@ -13289,12 +13290,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "OUR KING"
+        "title_english": "Our King"
     },
     {
         "index": "281",
         "number": 281,
-        "title": "ULUTANDA LUSUMA",
+        "title": "Ulutanda Lusuma",
         "lyrics": [
             {
                 "type": "verse",
@@ -13329,12 +13330,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "A BEAUTIFUL STAR"
+        "title_english": "A Beautiful Star"
     },
     {
         "index": "282",
         "number": 282,
-        "title": "AMAKANA MAKUMI YAMASASE",
+        "title": "Amakana Makumi Yamasase",
         "lyrics": [
             {
                 "type": "verse",
@@ -13368,12 +13369,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TEN THOUSAND HARPS"
+        "title_english": "Ten Thousand Harps"
     },
     {
         "index": "283",
         "number": 283,
-        "title": "BUSHE NI'WE BUSHE NI'NE?",
+        "title": "Bushe Ni'we Bushe Ni'ne?",
         "lyrics": [
             {
                 "type": "verse",
@@ -13417,12 +13418,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SHALL YOU? SHALL I"
+        "title_english": "Shall You? Shall I"
     },
     {
         "index": "284",
         "number": 284,
-        "title": "ILYO INSHIKU SHILEYA",
+        "title": "Ilyo Inshiku Shileya",
         "lyrics": [
             {
                 "type": "verse",
@@ -13463,12 +13464,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WHILE THE DAYS ARE GOING BY"
+        "title_english": "While The Days Are Going By"
     },
     {
         "index": "285",
         "number": 285,
-        "title": "KU CIFULO CATALALA",
+        "title": "Ku Cifulo Catalala",
         "lyrics": [
             {
                 "type": "verse",
@@ -13503,12 +13504,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THERE IS A PLACE OF QUIET REST"
+        "title_english": "There Is A Place Of Quiet Rest"
     },
     {
         "index": "286",
         "number": 286,
-        "title": "NSENDENI",
+        "title": "Nsendeni",
         "lyrics": [
             {
                 "type": "verse",
@@ -13543,12 +13544,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BEAR ME ON"
+        "title_english": "Bear Me On"
     },
     {
         "index": "287",
         "number": 287,
-        "title": "MU NSHITA YA MESHO",
+        "title": "Mu Nshita Ya Mesho",
         "lyrics": [
             {
                 "type": "verse",
@@ -13582,12 +13583,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "IN THE HOUR OF TRAIL"
+        "title_english": "In The Hour Of Trail"
     },
     {
         "index": "288",
         "number": 288,
-        "title": "BALETELE  FYA  DUPE  KULI YESU",
+        "title": "Baletele Fya Bupe Kuli Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -13628,12 +13629,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THEY BROUGHT THEIR GIFTS TO JESUS"
+        "title_english": "They Brought Their Gifts To Jesus"
     },
     {
         "index": "289",
         "number": 289,
-        "title": "MUMBULE FYO NDI",
+        "title": "Mumbule Fyo Ndi",
         "lyrics": [
             {
                 "type": "verse",
@@ -13692,12 +13693,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TAKE ME AS I AM"
+        "title_english": "Take Me As I Am"
     },
     {
         "index": "290",
         "number": 290,
-        "title": "BOMBELA IMFUMU",
+        "title": "Bombela Imfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -13732,12 +13733,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TOILING FOR JESUS"
+        "title_english": "Toiling For Jesus"
     },
     {
         "index": "291",
         "number": 291,
-        "title": "EWALINGA FYE EKA",
+        "title": "Ewalinga Fye Eka",
         "lyrics": [
             {
                 "type": "verse",
@@ -13772,12 +13773,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WORTHY, WORTHY IS THE LAMB"
+        "title_english": "Worthy, Worthy Is The Lamb"
     },
     {
         "index": "292",
         "number": 292,
-        "title": "UTUBOKO TUBILI",
+        "title": "Utuboko Tubili",
         "lyrics": [
             {
                 "type": "verse",
@@ -13812,12 +13813,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "TWO LITTLE HANDS"
+        "title_english": "Two Little Hands"
     },
     {
         "index": "293",
         "number": 293,
-        "title": "KUNTA, KUNTA",
+        "title": "Kunta, Kunta",
         "lyrics": [
             {
                 "type": "verse",
@@ -13851,12 +13852,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "KNOCKING, KNOCKING"
+        "title_english": "Knocking, Knocking"
     },
     {
         "index": "294",
         "number": 294,
-        "title": "KUFIMBWA NO MWEO WAKWE",
+        "title": "Kufimbwa No Mweo Wakwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -13899,12 +13900,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "COVER WITH HIS LIFE"
+        "title_english": "Cover With His Life"
     },
     {
         "index": "295",
         "number": 295,
-        "title": "LISHENI PENGA LYA BULWI",
+        "title": "Lisheni Penga Lya Bulwi",
         "lyrics": [
             {
                 "type": "verse",
@@ -13914,7 +13915,7 @@
                     "Buleni ifilwilo, mukose, Mwi shiwi lyakwe lya mushilo"
                 ]
             },
-             {
+            {
                 "type": "refrain",
                 "lines": [
                     "Akuyeni mwe bashilikale, Teyanyeni shiwi lipita;",
@@ -13939,12 +13940,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SOUND THE BATTLE CRY"
+        "title_english": "Sound The Battle Cry"
     },
     {
         "index": "296",
         "number": 296,
-        "title": "NTUNGULULENI MWE MUPUSUSHI",
+        "title": "Ntungululeni Mwe Mupusushi",
         "lyrics": [
             {
                 "type": "verse",
@@ -13956,10 +13957,10 @@
                     "Ku-temwa kobe mbepo (be mbepo)"
                 ]
             },
-             {
+            {
                 "type": "refrain",
                 "lines": [
-                     "Nye-nshya, Nye-nshya, Ye ... su nyensha niluba;",
+                    "Nye-nshya, Nye-nshya, Ye ... su nyensha niluba;",
                     "Nye ... nshya bwino mu nshila, Munsunge nshita shonse"
                 ]
             },
@@ -13985,12 +13986,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "LEAD ME, SAVIOUR"
+        "title_english": "Lead Me, Saviour"
     },
     {
         "index": "297",
         "number": 297,
-        "title": "EKO ALl UWATEMENWE",
+        "title": "Eko All Uwatemenwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -14025,12 +14026,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THERE WAS ONE WHO WAS WILLING"
+        "title_english": "There Was One Who Was Willing"
     },
     {
         "index": "298",
         "number": 298,
-        "title": "TE FYA INE, FYA IMWE",
+        "title": "Te Fya Ine, Fya Imwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -14074,12 +14075,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "NONE OF SELF AND ALL OF THEE"
+        "title_english": "None Of Self And All Of Thee"
     },
     {
         "index": "299",
         "number": 299,
-        "title": "LYONSE UWA KUSEKELA",
+        "title": "Lyonse Uwa Kusekela",
         "lyrics": [
             {
                 "type": "verse",
@@ -14122,12 +14123,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "ALWAYS CHEERFUL"
+        "title_english": "Always Cheerful"
     },
     {
         "index": "300",
         "number": 300,
-        "title": "BACULA BAKATUSHA",
+        "title": "Bacula Bakatusha",
         "lyrics": [
             {
                 "type": "verse",
@@ -14180,12 +14181,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "REST FOR THE WEARY"
+        "title_english": "Rest For The Weary"
     },
     {
         "index": "301",
         "number": 301,
-        "title": "MUNYINA SUMINA",
+        "title": "Munyina Sumina",
         "lyrics": [
             {
                 "type": "verse",
@@ -14229,12 +14230,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "O BROTHER BE FAITHFUL"
+        "title_english": "O Brother Be Faithful"
     },
     {
         "index": "302",
         "number": 302,
-        "title": "TULI BANA BA MFUMU",
+        "title": "Tuli Bana Ba Mfumu",
         "lyrics": [
             {
                 "type": "verse",
@@ -14268,12 +14269,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "WE ARE CHILDREN OF A KING"
+        "title_english": "We Are Children Of A King"
     },
     {
         "index": "303",
         "number": 303,
-        "title": "UKUKUTA KULEUMFWIKWA KONSE",
+        "title": "Ukukuta Kuleumfwikwa Konse",
         "lyrics": [
             {
                 "type": "verse",
@@ -14308,12 +14309,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "SEND THE LIGHT"
+        "title_english": "Send The Light"
     },
     {
         "index": "304",
         "number": 304,
-        "title": "LINTU WASAKAMIKWA",
+        "title": "Lintu Wasakamikwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -14354,12 +14355,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "COUNT YOUR BLESSINGS"
+        "title_english": "Count Your Blessings"
     },
     {
         "index": "305",
         "number": 305,
-        "title": "BUSHE NDI MUSHILIKALE?",
+        "title": "Bushe Ndi Mushilikale?",
         "lyrics": [
             {
                 "type": "verse",
@@ -14402,12 +14403,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "A SOLDIER OF THE CROSS"
+        "title_english": "A Soldier Of The Cross"
     },
     {
         "index": "306",
         "number": 306,
-        "title": "SEKELENI",
+        "title": "Sekeleni",
         "lyrics": [
             {
                 "type": "verse",
@@ -14458,12 +14459,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "IF GOD BE FOR US"
+        "title_english": "If God Be For Us"
     },
     {
         "index": "307",
         "number": 307,
-        "title": "ABANTU BAKWA YESU",
+        "title": "Abantu Bakwa Yesu",
         "lyrics": [
             {
                 "type": "verse",
@@ -14514,12 +14515,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "PEOPLE OF GOD"
+        "title_english": "People Of God"
     },
     {
         "index": "308",
         "number": 308,
-        "title": "YESU MFUMU UMFWA KULI 'NE",
+        "title": "Yesu Mfumu Umfwa Kuli 'Ne",
         "lyrics": [
             {
                 "type": "verse",
@@ -14547,12 +14548,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "BLESS THY LITTLE LAMB TONIGHT"
+        "title_english": "Bless Thy Little Lamb Tonight"
     },
     {
         "index": "309",
         "number": 309,
-        "title": "YESU WESU AFYELWE",
+        "title": "Yesu Wesu Afyelwe",
         "lyrics": [
             {
                 "type": "verse",
@@ -14596,12 +14597,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "THE BIRTH OF JESUS"
+        "title_english": "The Birth Of Jesus"
     },
     {
         "index": "310",
         "number": 310,
-        "title": "NAPUSUKA",
+        "title": "Napusuka",
         "lyrics": [
             {
                 "type": "verse",
@@ -14636,12 +14637,12 @@
             }
         ],
         "revision": 1,
-        "title_english": "I AM SAVED"
+        "title_english": "I Am Saved"
     },
     {
         "index": "311",
         "number": 311,
-        "title": "NSHITA YAPWA",
+        "title": "Nshita Yapwa",
         "lyrics": [
             {
                 "type": "verse",
@@ -14684,6 +14685,6 @@
             }
         ],
         "revision": 1,
-        "title_english": "'TIS ALMOST TIME FOR THE LORD TO COME"
+        "title_english": "'Tis Almost Time For The Lord To Come"
     }
 ]
