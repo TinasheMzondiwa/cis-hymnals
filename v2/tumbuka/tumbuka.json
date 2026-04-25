@@ -81,6 +81,7 @@
                 ]
             }
         ],
+        "title_english": "WATCHMEN, BLOW THE GOSPEL TRUMPET",
         "revision": 1
     },
     {
@@ -165,6 +166,7 @@
                 ]
             }
         ],
+        "title_english": "THE COMING KING",
         "revision": 1
     },
     {
@@ -249,6 +251,7 @@
                 ]
             }
         ],
+        "title_english": "FACE TO FACE",
         "revision": 1
     },
     {
@@ -333,6 +336,7 @@
                 ]
             }
         ],
+        "title_english": "HE'S COMING",
         "revision": 1
     },
     {
@@ -381,6 +385,7 @@
                 ]
             }
         ],
+        "title_english": "HOW FAR FROM HOME?",
         "revision": 1
     },
     {
@@ -484,6 +489,7 @@
                 ]
             }
         ],
+        "title_english": "WATCH, YE SAINTS",
         "revision": 1
     },
     {
@@ -537,6 +543,7 @@
                 ]
             }
         ],
+        "title_english": "WHEN HE COMETH",
         "revision": 1
     },
     {
@@ -595,6 +602,15 @@
             {
                 "type": "refrain",
                 "lines": [
+                    "Pakuchema Fumu yane ('mwe Fumu),",
+                    "Pakuchema Fumu yane (mwe Fumu),",
+                    "Pakuchema Fumu yane,",
+                    "Ndamkusangwa nayo kwa myirayira."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Pakuchema Fumu yithu ('mwe Fumu)",
                     "Pakuchema Fumu yithu ('mwe Fumu)",
                     "Pakuchema Fumu yithu,",
@@ -602,6 +618,7 @@
                 ]
             }
         ],
+        "title_english": "WHEN THE TRUMPET",
         "revision": 1
     },
     {
@@ -695,6 +712,7 @@
                 ]
             }
         ],
+        "title_english": "LIFT UP THE TRUMPET",
         "revision": 1
     },
     {
@@ -763,6 +781,7 @@
                 ]
             }
         ],
+        "title_english": "SHALL WE GATHER",
         "revision": 1
     },
     {
@@ -866,6 +885,7 @@
                 ]
             }
         ],
+        "title_english": "I WILL FOLLOW THEE",
         "revision": 1
     },
     {
@@ -922,6 +942,7 @@
                 ]
             }
         ],
+        "title_english": "THERE IS A FOUNTAIN",
         "revision": 1
     },
     {
@@ -998,6 +1019,7 @@
                 ]
             }
         ],
+        "title_english": "LORD JESUS, I LONG TO BE PERFECTLY WHOLE",
         "revision": 1
     },
     {
@@ -1074,6 +1096,7 @@
                 ]
             }
         ],
+        "title_english": "HEAR THE PENNIES DROPPING",
         "revision": 1
     },
     {
@@ -1142,6 +1165,7 @@
                 ]
             }
         ],
+        "title_english": "JESUS LOVES ME!",
         "revision": 1
     },
     {
@@ -1195,6 +1219,7 @@
                 ]
             }
         ],
+        "title_english": "I WASH MY HANDS",
         "revision": 1
     },
     {
@@ -1260,6 +1285,7 @@
                 ]
             }
         ],
+        "title_english": "TIS LOVE THAT MAKES US HAPPY",
         "revision": 1
     },
     {
@@ -1298,6 +1324,7 @@
                 ]
             }
         ],
+        "title_english": "MY SOUL, BE ON THY GUARD",
         "revision": 1
     },
     {
@@ -1340,6 +1367,7 @@
                 ]
             }
         ],
+        "title_english": "ONWARD, CHRISTIAN SOLDIERS!",
         "revision": 1
     },
     {
@@ -1388,6 +1416,7 @@
                 ]
             }
         ],
+        "title_english": "AWAKE, MY SOUL",
         "revision": 1
     },
     {
@@ -1491,6 +1520,7 @@
                 ]
             }
         ],
+        "title_english": "IAM COMING T THE CROSS",
         "revision": 1
     },
     {
@@ -1567,6 +1597,7 @@
                 ]
             }
         ],
+        "title_english": "LORD, I HEAR",
         "revision": 1
     },
     {
@@ -1651,6 +1682,7 @@
                 ]
             }
         ],
+        "title_english": "HOVER O'ER ME HOLY SPIRIT",
         "revision": 1
     },
     {
@@ -1752,6 +1784,7 @@
                 ]
             }
         ],
+        "title_english": "I NEED THEE EVERY HOUR",
         "revision": 1
     },
     {
@@ -1832,6 +1865,7 @@
                 ]
             }
         ],
+        "title_english": "ALL TO JESUS I SURRENDER",
         "revision": 1
     },
     {
@@ -1900,6 +1934,7 @@
                 ]
             }
         ],
+        "title_english": "JUST AS IAM",
         "revision": 1
     },
     {
@@ -1993,6 +2028,7 @@
                 ]
             }
         ],
+        "title_english": "WE PRAISE THEE, O GOD",
         "revision": 1
     },
     {
@@ -2041,6 +2077,7 @@
                 ]
             }
         ],
+        "title_english": "TAKE TIME TO BE HOLY",
         "revision": 1
     },
     {
@@ -2099,6 +2136,7 @@
                 ]
             }
         ],
+        "title_english": "ABIDE WITH ME 29",
         "revision": 1
     },
     {
@@ -2167,6 +2205,7 @@
                 ]
             }
         ],
+        "title_english": "DAY IS DYING IN THE WEST",
         "revision": 1
     },
     {
@@ -2235,6 +2274,7 @@
                 ]
             }
         ],
+        "title_english": "SUN OF MY SOUL",
         "revision": 1
     },
     {
@@ -2319,6 +2359,7 @@
                 ]
             }
         ],
+        "title_english": "THE LORD'S OUR ROCK",
         "revision": 1
     },
     {
@@ -2403,6 +2444,7 @@
                 ]
             }
         ],
+        "title_english": "HE LEADENTH ME",
         "revision": 1
     },
     {
@@ -2479,6 +2521,7 @@
                 ]
             }
         ],
+        "title_english": "WHEN PEACE LIKE A RIVER",
         "revision": 1
     },
     {
@@ -2501,7 +2544,13 @@
                 "lines": [
                     "Pakweghama, wati",
                     "Wandifighirire Muvyakofya",
-                    "Pakweghama m'mawoko ghake",
+                    "Pakweghama m'mawoko ghake"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "B&T",
                     "Pakweghamira, pakweghamira,",
                     "Wati wandifighirire,",
@@ -2511,8 +2560,16 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Pakweghama, wati",
+                    "Wandifighirire Muvyakofya",
+                    "Pakweghama m'mawoko ghake"
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Njakunozga 'mwe nthowa ya Fumu,",
                     "Pakweghama mmawoko",
@@ -2525,18 +2582,12 @@
                 "lines": [
                     "Pakweghama, wati",
                     "Wandifighirire Muvyakofya",
-                    "Pakweghama m'mawoko ghake",
-                    "B&T",
-                    "Pakweghamira, pakweghamira,",
-                    "Wati wandifighirire,",
-                    "Muvyakofya 'mwe,",
-                    "Muvyakofya 'mwe,",
-                    "Pakweghama m'mawoko ghake."
+                    "Pakweghama m'mawoko ghake"
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Palije icho ndingachiwopa",
                     "Pakweghama m'mawoko ghake,",
@@ -2549,16 +2600,11 @@
                 "lines": [
                     "Pakweghama, wati",
                     "Wandifighirire Muvyakofya",
-                    "Pakweghama m'mawoko ghake",
-                    "B&T",
-                    "Pakweghamira, pakweghamira,",
-                    "Wati wandifighirire,",
-                    "Muvyakofya 'mwe,",
-                    "Muvyakofya 'mwe,",
-                    "Pakweghama m'mawoko ghake."
+                    "Pakweghama m'mawoko ghake"
                 ]
             }
         ],
+        "title_english": "WHAT A FELLOVWSHIP",
         "revision": 1
     },
     {
@@ -2597,6 +2643,7 @@
                 ]
             }
         ],
+        "title_english": "MY FAITH LOOKS UP TO THEE",
         "revision": 1
     },
     {
@@ -2656,6 +2703,7 @@
                 ]
             }
         ],
+        "title_english": "NEARER, MY GOD, TO THEE!",
         "revision": 1
     },
     {
@@ -2721,6 +2769,7 @@
                 ]
             }
         ],
+        "title_english": "FIRMLY STAND FOR GOD",
         "revision": 1
     },
     {
@@ -2801,6 +2850,7 @@
                 ]
             }
         ],
+        "title_english": "MY HOPE IS BUILT",
         "revision": 1
     },
     {
@@ -2894,6 +2944,7 @@
                 ]
             }
         ],
+        "title_english": "TRUST AND OBEY",
         "revision": 1
     },
     {
@@ -2978,6 +3029,7 @@
                 ]
             }
         ],
+        "title_english": "GOD BE WITH YOU",
         "revision": 1
     },
     {
@@ -3043,6 +3095,7 @@
                 ]
             }
         ],
+        "title_english": "WITH FRIENDS ON EARTH",
         "revision": 1
     },
     {
@@ -3091,6 +3144,7 @@
                 ]
             }
         ],
+        "title_english": "ASLEEP IN JESUSI",
         "revision": 1
     },
     {
@@ -3175,6 +3229,7 @@
                 ]
             }
         ],
+        "title_english": "WHEN MY LIFE-WORK IS ENDED",
         "revision": 1
     },
     {
@@ -3259,6 +3314,7 @@
                 ]
             }
         ],
+        "title_english": "GIVE ME THE BIBLE",
         "revision": 1
     },
     {
@@ -3318,6 +3374,7 @@
                 ]
             }
         ],
+        "title_english": "SING THEM OVER AGAIN",
         "revision": 1
     },
     {
@@ -3402,6 +3459,7 @@
                 ]
             }
         ],
+        "title_english": "ON JORDAN'S STORMY BANKS",
         "revision": 1
     },
     {
@@ -3425,7 +3483,13 @@
                     "Chamkuwa chimwemwe nadi,",
                     "Chimwemwe cha m'yirayira.",
                     "Chifukwa nyengo yafīka,",
-                    "yakuwunganya wose.",
+                    "yakuwunganya wose."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "T&B:",
                     "Chimwemwe mwaluwiro,",
                     "Chimwemwe myirayira,",
@@ -3434,8 +3498,17 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Chamkuwa chimwemwe nadi,",
+                    "Chimwemwe cha m'yirayira.",
+                    "Chifukwa nyengo yafīka,",
+                    "yakuwunganya wose."
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Tamukwimba sumu ziweme,",
                     "Tamukwimbaso na nchindi,",
@@ -3449,17 +3522,12 @@
                     "Chamkuwa chimwemwe nadi,",
                     "Chimwemwe cha m'yirayira.",
                     "Chifukwa nyengo yafīka,",
-                    "yakuwunganya wose.",
-                    "T&B:",
-                    "Chimwemwe mwaluwiro,",
-                    "Chimwemwe myirayira,",
-                    "Chifukwa'mwe nyengo yafika,",
-                    "Yakuwunganya wose."
+                    "yakuwunganya wose."
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Chimwemwe chikulindirira",
                     "Mu msumba wura kuchanya,",
@@ -3473,15 +3541,11 @@
                     "Chamkuwa chimwemwe nadi,",
                     "Chimwemwe cha m'yirayira.",
                     "Chifukwa nyengo yafīka,",
-                    "yakuwunganya wose.",
-                    "T&B:",
-                    "Chimwemwe mwaluwiro,",
-                    "Chimwemwe myirayira,",
-                    "Chifukwa'mwe nyengo yafika,",
-                    "Yakuwunganya wose."
+                    "yakuwunganya wose."
                 ]
             }
         ],
+        "title_english": "O THERE'LL BE JOY",
         "revision": 1
     },
     {
@@ -3579,6 +3643,7 @@
                 ]
             }
         ],
+        "title_english": "ONE SWEETLY SOLEMN THOUGHT",
         "revision": 1
     },
     {
@@ -3644,6 +3709,7 @@
                 ]
             }
         ],
+        "title_english": "THERE'S A LAND",
         "revision": 1
     },
     {
@@ -3701,6 +3767,7 @@
                 ]
             }
         ],
+        "title_english": "COME, THOU FOUNT",
         "revision": 1
     },
     {
@@ -3751,6 +3818,7 @@
                 ]
             }
         ],
+        "title_english": "HOLY SPIRIT, FAITHFUL GUIDE",
         "revision": 1
     },
     {
@@ -3835,6 +3903,7 @@
                 ]
             }
         ],
+        "title_english": "ONE THING I FOR THE LORD",
         "revision": 1
     },
     {
@@ -3912,6 +3981,7 @@
                 ]
             }
         ],
+        "title_english": "HAVE YOU BEEN TO JESUS?",
         "revision": 1
     },
     {
@@ -3996,6 +4066,7 @@
                 ]
             }
         ],
+        "title_english": "I'VE WANDERED FAR AWAY",
         "revision": 1
     },
     {
@@ -4061,6 +4132,7 @@
                 ]
             }
         ],
+        "title_english": "WHOSOEVER HEARETH",
         "revision": 1
     },
     {
@@ -4107,6 +4179,7 @@
                 ]
             }
         ],
+        "title_english": "ALL HAIL THE POWER",
         "revision": 1
     },
     {
@@ -4155,6 +4228,7 @@
                 ]
             }
         ],
+        "title_english": "JESUS LOVER OF MY SOUL",
         "revision": 1
     },
     {
@@ -4213,6 +4287,7 @@
                 ]
             }
         ],
+        "title_english": "JESUS, THOU JOY OF LOVING HEARTS",
         "revision": 1
     },
     {
@@ -4297,6 +4372,7 @@
                 ]
             }
         ],
+        "title_english": "MORE ABOUT JESUS",
         "revision": 1
     },
     {
@@ -4345,6 +4421,7 @@
                 ]
             }
         ],
+        "title_english": "MYJESUS I LOVE THEE",
         "revision": 1
     },
     {
@@ -4437,6 +4514,7 @@
                 ]
             }
         ],
+        "title_english": "WHAT CAN WASH AWAY MY SIN?",
         "revision": 1
     },
     {
@@ -4521,6 +4599,7 @@
                 ]
             }
         ],
+        "title_english": "ARE YOU WEARY?",
         "revision": 1
     },
     {
@@ -4599,6 +4678,7 @@
                 ]
             }
         ],
+        "title_english": "TIS SO SWEET TO TRUST",
         "revision": 1
     },
     {
@@ -4676,6 +4756,7 @@
                 ]
             }
         ],
+        "title_english": "COME, WE THAT LOVE THE LORD",
         "revision": 1
     },
     {
@@ -4779,6 +4860,7 @@
                 ]
             }
         ],
+        "title_english": "REDEEMED! HOW I LOVE TO PROCLAIM IT",
         "revision": 1
     },
     {
@@ -4838,6 +4920,7 @@
                 ]
             }
         ],
+        "title_english": "WELL TARRY BY THE LIVING WATERS",
         "revision": 1
     },
     {
@@ -4941,6 +5024,7 @@
                 ]
             }
         ],
+        "title_english": "WHENJESUS SHALL GATHER",
         "revision": 1
     },
     {
@@ -5000,6 +5084,7 @@
                 ]
             }
         ],
+        "title_english": "IS MY NAME WRITTEN THERE?",
         "revision": 1
     },
     {
@@ -5065,6 +5150,7 @@
                 ]
             }
         ],
+        "title_english": "THEJUDGEMENT HAS SET",
         "revision": 1
     },
     {
@@ -5175,6 +5261,7 @@
                 ]
             }
         ],
+        "title_english": "CALLED TO THE FEAST",
         "revision": 1
     },
     {
@@ -5240,6 +5327,7 @@
                 ]
             }
         ],
+        "title_english": "SOWING IN THE MORNING",
         "revision": 1
     },
     {
@@ -5305,6 +5393,7 @@
                 ]
             }
         ],
+        "title_english": "HARK TIS THE SHEPHERD'S VOICE",
         "revision": 1
     },
     {
@@ -5389,6 +5478,7 @@
                 ]
             }
         ],
+        "title_english": "I LOVE TO TELL THE STORY",
         "revision": 1
     },
     {
@@ -5454,6 +5544,7 @@
                 ]
             }
         ],
+        "title_english": "SEEKING THE LOST",
         "revision": 1
     },
     {
@@ -5530,6 +5621,7 @@
                 ]
             }
         ],
+        "title_english": "RESCUE THE PERISHING",
         "revision": 1
     },
     {
@@ -5595,6 +5687,7 @@
                 ]
             }
         ],
+        "title_english": "FAR AND NEAR THE FIELDS",
         "revision": 1
     },
     {
@@ -5679,6 +5772,7 @@
                 ]
             }
         ],
+        "title_english": "TO THE WORK",
         "revision": 1
     },
     {
@@ -5717,6 +5811,7 @@
                 ]
             }
         ],
+        "title_english": "WORK, FOR THE NIGHT IS COMING",
         "revision": 1
     },
     {
@@ -5757,6 +5852,7 @@
                 ]
             }
         ],
+        "title_english": "LORD, IN THE MORNING",
         "revision": 1
     },
     {
@@ -5822,6 +5918,7 @@
                 ]
             }
         ],
+        "title_english": "O FOR A THOUSAND TONGUES",
         "revision": 1
     },
     {
@@ -5887,6 +5984,7 @@
                 ]
             }
         ],
+        "title_english": "UNDER HIS WINGS",
         "revision": 1
     },
     {
@@ -5935,6 +6033,7 @@
                 ]
             }
         ],
+        "title_english": "I SING THE MIGHTY POWER",
         "revision": 1
     },
     {
@@ -5983,6 +6082,7 @@
                 ]
             }
         ],
+        "title_english": "OWORSHIP THE KING",
         "revision": 1
     },
     {
@@ -6042,6 +6142,7 @@
                 ]
             }
         ],
+        "title_english": "FATHER, WE COME TO THEE",
         "revision": 1
     },
     {
@@ -6120,6 +6221,7 @@
                 ]
             }
         ],
+        "title_english": "PASS ME NOT!",
         "revision": 1
     },
     {
@@ -6170,6 +6272,7 @@
                 ]
             }
         ],
+        "title_english": "SWEET HOUR OF PRAYER",
         "revision": 1
     },
     {
@@ -6192,7 +6295,13 @@
                 "type": "refrain",
                 "lines": [
                     "Mlinde, mrombe, mlinde mrombe,",
-                    "Muhanya na usiku Lindizgani murombenge swi!",
+                    "Muhanya na usiku Lindizgani murombenge swi!"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "T&B:",
                     "Mlinde, mrombe,",
                     "mlinde, mrombe,",
@@ -6203,8 +6312,15 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Mlinde, mrombe, mlinde mrombe,",
+                    "Muhanya na usiku Lindizgani murombenge swi!"
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Lekani kugona, mungakayikanga,",
                     "Mwampumula nadi kuchanya kwa Yesu,",
@@ -6216,19 +6332,12 @@
                 "type": "refrain",
                 "lines": [
                     "Mlinde, mrombe, mlinde mrombe,",
-                    "Muhanya na usiku Lindizgani murombenge swi!",
-                    "T&B:",
-                    "Mlinde, mrombe,",
-                    "mlinde, mrombe,",
-                    "Mlinde, mrombe,",
-                    "mlinde, Mrombe,",
-                    "Muhanya na usiku Lindizgani,",
-                    "Murombenge swi!"
+                    "Muhanya na usiku Lindizgani murombenge swi!"
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Gomezgani Yesu, m'rwani warotoka,",
                     "Vwara homwa lake wasuke wafike,",
@@ -6240,17 +6349,11 @@
                 "type": "refrain",
                 "lines": [
                     "Mlinde, mrombe, mlinde mrombe,",
-                    "Muhanya na usiku Lindizgani murombenge swi!",
-                    "T&B:",
-                    "Mlinde, mrombe,",
-                    "mlinde, mrombe,",
-                    "Mlinde, mrombe,",
-                    "mlinde, Mrombe,",
-                    "Muhanya na usiku Lindizgani,",
-                    "Murombenge swi!"
+                    "Muhanya na usiku Lindizgani murombenge swi!"
                 ]
             }
         ],
+        "title_english": "WATCH FOR THE TIME IS SHORT",
         "revision": 1
     },
     {
@@ -6299,6 +6402,7 @@
                 ]
             }
         ],
+        "title_english": "ANOTHER SIX DAYS' WORK",
         "revision": 1
     },
     {
@@ -6349,6 +6453,7 @@
                 ]
             }
         ],
+        "title_english": "O DAY OF REST AND GLADNESS",
         "revision": 1
     },
     {
@@ -6408,6 +6513,7 @@
                 ]
             }
         ],
+        "title_english": "DON'T FORGET THE SABBATH",
         "revision": 1
     },
     {
@@ -6479,6 +6585,7 @@
                 ]
             }
         ],
+        "title_english": "MY SABBATH HOME",
         "revision": 1
     },
     {
@@ -6527,6 +6634,7 @@
                 ]
             }
         ],
+        "title_english": "SAFELY THROUGH ANOTHER WEEK",
         "revision": 1
     },
     {
@@ -6575,6 +6683,7 @@
                 ]
             }
         ],
+        "title_english": "WELCOME, WELCOME, DAY OF REST",
         "revision": 1
     },
     {
@@ -6639,6 +6748,7 @@
                 ]
             }
         ],
+        "title_english": "WE HAVE HEARD",
         "revision": 1
     },
     {
@@ -6723,6 +6833,7 @@
                 ]
             }
         ],
+        "title_english": "I MUST HAVE THE SAVIOUR WITH ME",
         "revision": 1
     },
     {
@@ -6771,6 +6882,7 @@
                 ]
             }
         ],
+        "title_english": "WHEN I SURVEY THE WONDROUS CROSS",
         "revision": 1
     },
     {
@@ -6821,6 +6933,7 @@
                 ]
             }
         ],
+        "title_english": "WHAT A FRIENDWE HAVE IN JESUS",
         "revision": 1
     },
     {
@@ -6866,7 +6979,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Yesu wachema wakuvuka 'we",
                     "mhanya uno, mhanyauno,",
@@ -6884,7 +6997,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Yesu wakulindilira iwe",
                     "mhanya uno, mhanya uno,",
@@ -6902,7 +7015,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Yesu Fumu wakuweyerera,",
                     "mhanya uno, mhanya uno,",
@@ -6919,6 +7032,7 @@
                 ]
             }
         ],
+        "title_english": "JESUS IS CALLING",
         "revision": 1
     },
     {
@@ -6979,6 +7093,7 @@
                 ]
             }
         ],
+        "title_english": "LET HIM IN",
         "revision": 1
     },
     {
@@ -7041,6 +7156,7 @@
                 ]
             }
         ],
+        "title_english": "YE MUST BE BORN AGAIN",
         "revision": 1
     },
     {
@@ -7125,6 +7241,7 @@
                 ]
             }
         ],
+        "title_english": "COME, GREAT DELIVERER, COME",
         "revision": 1
     },
     {
@@ -7190,6 +7307,7 @@
                 ]
             }
         ],
+        "title_english": "ABLE TO DELIVER",
         "revision": 1
     },
     {
@@ -7254,6 +7372,7 @@
                 ]
             }
         ],
+        "title_english": "BUILD ON THE ROCK",
         "revision": 1
     },
     {
@@ -7330,6 +7449,7 @@
                 ]
             }
         ],
+        "title_english": "TELL ME THE STORY OF JESUS",
         "revision": 1
     },
     {
@@ -7395,6 +7515,7 @@
                 ]
             }
         ],
+        "title_english": "LOVINGLY, TENDERLY CALLING",
         "revision": 1
     },
     {
@@ -7460,6 +7581,7 @@
                 ]
             }
         ],
+        "title_english": "WEIGHED AND WANTING",
         "revision": 1
     },
     {
@@ -7525,6 +7647,7 @@
                 ]
             }
         ],
+        "title_english": "BLESSED ARE THEY THAT DO",
         "revision": 1
     },
     {
@@ -7590,6 +7713,7 @@
                 ]
             }
         ],
+        "title_english": "NO, NOT ONE",
         "revision": 1
     },
     {
@@ -7652,6 +7776,7 @@
                 ]
             }
         ],
+        "title_english": "LIFE IN A LOOK",
         "revision": 1
     },
     {
@@ -7732,6 +7857,7 @@
                 ]
             }
         ],
+        "title_english": "CALLING",
         "revision": 1
     },
     {
@@ -7812,6 +7938,7 @@
                 ]
             }
         ],
+        "title_english": "THE GATE AJAR FOR ME",
         "revision": 1
     },
     {
@@ -7896,6 +8023,7 @@
                 ]
             }
         ],
+        "title_english": "THE GREAT PHYSICIAN",
         "revision": 1
     },
     {
@@ -7944,6 +8072,7 @@
                 ]
             }
         ],
+        "title_english": "NOTHING FOR JESUS",
         "revision": 1
     },
     {
@@ -8028,6 +8157,7 @@
                 ]
             }
         ],
+        "title_english": "I AM COMING, LORD",
         "revision": 1
     },
     {
@@ -8112,6 +8242,7 @@
                 ]
             }
         ],
+        "title_english": "JESUS PAID IT ALL",
         "revision": 1
     },
     {
@@ -8196,6 +8327,7 @@
                 ]
             }
         ],
+        "title_english": "THE CLEANSING WAVE",
         "revision": 1
     },
     {
@@ -8249,6 +8381,7 @@
                 ]
             }
         ],
+        "title_english": "I DO BELIEVE",
         "revision": 1
     },
     {
@@ -8325,6 +8458,7 @@
                 ]
             }
         ],
+        "title_english": "I WILL SING OF JESUS' LOVE",
         "revision": 1
     },
     {
@@ -8377,6 +8511,7 @@
                 ]
             }
         ],
+        "title_english": "NEARER, STILL NEARER",
         "revision": 1
     },
     {
@@ -8448,6 +8583,7 @@
                 ]
             }
         ],
+        "title_english": "THE HOLIEST NAME",
         "revision": 1
     },
     {
@@ -8496,6 +8632,7 @@
                 ]
             }
         ],
+        "title_english": "NOT I, BUT CHRIST",
         "revision": 1
     },
     {
@@ -8561,6 +8698,7 @@
                 ]
             }
         ],
+        "title_english": "SUNLIGHT IN THE HEART",
         "revision": 1
     },
     {
@@ -8649,6 +8787,7 @@
                 ]
             }
         ],
+        "title_english": "SINCE I HAVE BEEN REDEEMED",
         "revision": 1
     },
     {
@@ -8705,6 +8844,7 @@
                 ]
             }
         ],
+        "title_english": "HE LOVES ME TOO",
         "revision": 1
     },
     {
@@ -8781,6 +8921,7 @@
                 ]
             }
         ],
+        "title_english": "BLESSED HOUR OF PRAYER",
         "revision": 1
     },
     {
@@ -8840,6 +8981,7 @@
                 ]
             }
         ],
+        "title_english": "JESUS, COME AND BLESS",
         "revision": 1
     },
     {
@@ -8924,6 +9066,7 @@
                 ]
             }
         ],
+        "title_english": "I AM THINE, O LORD",
         "revision": 1
     },
     {
@@ -8962,6 +9105,7 @@
                 ]
             }
         ],
+        "title_english": "MORE LIKE JESUS",
         "revision": 1
     },
     {
@@ -9030,6 +9174,7 @@
                 ]
             }
         ],
+        "title_english": "NEAR THE CROSS",
         "revision": 1
     },
     {
@@ -9074,6 +9219,7 @@
                 ]
             }
         ],
+        "title_english": "WALKING WITH GOD",
         "revision": 1
     },
     {
@@ -9139,6 +9285,7 @@
                 ]
             }
         ],
+        "title_english": "WONDERFULLOVE OF JESUS",
         "revision": 1
     },
     {
@@ -9221,6 +9368,7 @@
                 ]
             }
         ],
+        "title_english": "I LOVE THEE BETTER, LORD",
         "revision": 1
     },
     {
@@ -9286,6 +9434,7 @@
                 ]
             }
         ],
+        "title_english": "I REMEMBER CALVARY",
         "revision": 1
     },
     {
@@ -9370,6 +9519,7 @@
                 ]
             }
         ],
+        "title_english": "GIVE ME JESUS",
         "revision": 1
     },
     {
@@ -9504,6 +9654,7 @@
                 ]
             }
         ],
+        "title_english": "ENTIRE CONSECRATION",
         "revision": 1
     },
     {
@@ -9568,6 +9719,7 @@
                 ]
             }
         ],
+        "title_english": "IVE FOUND A FRIEND",
         "revision": 1
     },
     {
@@ -9618,6 +9770,7 @@
                 ]
             }
         ],
+        "title_english": "THE VOICE OF JESUS",
         "revision": 1
     },
     {
@@ -9689,6 +9842,7 @@
                 ]
             }
         ],
+        "title_english": "WHOLLY THINE",
         "revision": 1
     },
     {
@@ -9737,6 +9891,7 @@
                 ]
             }
         ],
+        "title_english": "HOW SWEET",
         "revision": 1
     },
     {
@@ -9772,6 +9927,7 @@
                 ]
             }
         ],
+        "title_english": "LORD DISMISS US",
         "revision": 1
     },
     {
@@ -9856,6 +10012,7 @@
                 ]
             }
         ],
+        "title_english": "HIGHER GROUND",
         "revision": 1
     },
     {
@@ -9921,6 +10078,7 @@
                 ]
             }
         ],
+        "title_english": "ASK NOT TO BE EXCUSED",
         "revision": 1
     },
     {
@@ -9985,6 +10143,7 @@
                 ]
             }
         ],
+        "title_english": "THY LIFE WITHIN ME",
         "revision": 1
     },
     {
@@ -10036,7 +10195,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 6,
                 "lines": [
                     "Yesu mndiguzire kwa imwe,",
                     "ndingamlekaninge,",
@@ -10046,7 +10205,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 7,
                 "lines": [
                     "Mzimu mndiguzire kwa imwe,",
                     "ndilingane namwe,",
@@ -10055,6 +10214,7 @@
                 ]
             }
         ],
+        "title_english": "DRAW ME CLOSER TO THEE",
         "revision": 1
     },
     {
@@ -10114,6 +10274,7 @@
                 ]
             }
         ],
+        "title_english": "ANYWHERE WITH JESUS",
         "revision": 1
     },
     {
@@ -10188,6 +10349,7 @@
                 ]
             }
         ],
+        "title_english": "WALK IN THE LIGHT",
         "revision": 1
     },
     {
@@ -10272,6 +10434,7 @@
                 ]
             }
         ],
+        "title_english": "WHERE ARE THE REAPERS?",
         "revision": 1
     },
     {
@@ -10337,6 +10500,7 @@
                 ]
             }
         ],
+        "title_english": "WILL THERE BE ANY STARS",
         "revision": 1
     },
     {
@@ -10402,6 +10566,7 @@
                 ]
             }
         ],
+        "title_english": "SPEAK TO MY SOUL",
         "revision": 1
     },
     {
@@ -10440,6 +10605,7 @@
                 ]
             }
         ],
+        "title_english": "JUST FOR TODAY",
         "revision": 1
     },
     {
@@ -10498,6 +10664,7 @@
                 ]
             }
         ],
+        "title_english": "WATCHMAN, TELL ME",
         "revision": 1
     },
     {
@@ -10574,6 +10741,7 @@
                 ]
             }
         ],
+        "title_english": "I WILL GO WHERE YOU WANT ME TO GO",
         "revision": 1
     },
     {
@@ -10647,6 +10815,7 @@
                 ]
             }
         ],
+        "title_english": "ANGRY WORDSI OH, LET THEM NEVER",
         "revision": 1
     },
     {
@@ -10712,6 +10881,7 @@
                 ]
             }
         ],
+        "title_english": "HARVEST TIME",
         "revision": 1
     },
     {
@@ -10749,7 +10919,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 4,
                 "lines": [
                     "Dazi lambura masozi kuchanya,",
                     "Likwiza luwiro, myaka yaluta,",
@@ -10759,7 +10929,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 5,
                 "lines": [
                     "Mwe kutowa mlimo wachitemwano",
                     "Mronga wa maji kufuma kuchanya,",
@@ -10768,6 +10938,7 @@
                 ]
             }
         ],
+        "title_english": "HASTEN ON, GLAD DAY",
         "revision": 1
     },
     {
@@ -10852,6 +11023,7 @@
                 ]
             }
         ],
+        "title_english": "HOW MUCH I NEED THEE",
         "revision": 1
     },
     {
@@ -10936,6 +11108,7 @@
                 ]
             }
         ],
+        "title_english": "KEPT FOR JESUS",
         "revision": 1
     },
     {
@@ -10984,6 +11157,7 @@
                 ]
             }
         ],
+        "title_english": "MY LORD AND I",
         "revision": 1
     },
     {
@@ -11025,6 +11199,7 @@
                 ]
             }
         ],
+        "title_english": "ALL THE WAY",
         "revision": 1
     },
     {
@@ -11073,6 +11248,7 @@
                 ]
             }
         ],
+        "title_english": "HERE AM I, SEND ME",
         "revision": 1
     },
     {
@@ -11111,6 +11287,7 @@
                 ]
             }
         ],
+        "title_english": "AT THE FEET OF JESUS",
         "revision": 1
     },
     {
@@ -11159,6 +11336,7 @@
                 ]
             }
         ],
+        "title_english": "I LOVE THEE",
         "revision": 1
     },
     {
@@ -11215,6 +11393,7 @@
                 ]
             }
         ],
+        "title_english": "ROCK OF AGES",
         "revision": 1
     },
     {
@@ -11267,6 +11446,7 @@
                 ]
             }
         ],
+        "title_english": "FIRM FOUNDATION",
         "revision": 1
     },
     {
@@ -11315,6 +11495,7 @@
                 ]
             }
         ],
+        "title_english": "THE LORD IS MY SHEPHERD",
         "revision": 1
     },
     {
@@ -11373,6 +11554,7 @@
                 ]
             }
         ],
+        "title_english": "HEIR OF THE KINGDOM",
         "revision": 1
     },
     {
@@ -11417,6 +11599,7 @@
                 ]
             }
         ],
+        "title_english": "MY MAKER AND MY KING",
         "revision": 1
     },
     {
@@ -11465,6 +11648,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 184 WHAT OF THE NIGHT?",
         "revision": 1
     },
     {
@@ -11503,6 +11687,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 354 HOW LONG?",
         "revision": 1
     },
     {
@@ -11547,6 +11732,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 245 O FOR A FAITH!",
         "revision": 1
     },
     {
@@ -11605,6 +11791,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 387 HOW CHEERING",
         "revision": 1
     },
     {
@@ -11653,6 +11840,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 729 SAVIOUR, LIKE A SHEPHERD",
         "revision": 1
     },
     {
@@ -11693,6 +11881,7 @@
                 ]
             }
         ],
+        "title_english": "CH 379 BLESSED HOPE",
         "revision": 1
     },
     {
@@ -11781,6 +11970,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 558 NO NIGHT THERE",
         "revision": 1
     },
     {
@@ -11844,6 +12034,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 536 CHIRST RETURNETH",
         "revision": 1
     },
     {
@@ -11909,6 +12100,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 868 BEHOLD THE BRIDEGROOM",
         "revision": 1
     },
     {
@@ -11974,6 +12166,7 @@
                 ]
             }
         ],
+        "title_english": "CH 540 WE KNOW NOT THE HOUR",
         "revision": 1
     },
     {
@@ -12039,6 +12232,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 542 WAITING AND WATCHING",
         "revision": 1
     },
     {
@@ -12107,6 +12301,7 @@
                 ]
             }
         ],
+        "title_english": "H 547 GLEAMS OF THE GOLDEN MORNING",
         "revision": 1
     },
     {
@@ -12172,6 +12367,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 548 HOLD FAST TILLI COME",
         "revision": 1
     },
     {
@@ -12216,6 +12412,7 @@
                 ]
             }
         ],
+        "title_english": "C.H 189 JOY TO THE WORLD",
         "revision": 1
     },
     {
@@ -12264,6 +12461,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 199 TO BE THERE",
         "revision": 1
     },
     {
@@ -12304,6 +12502,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 26 LORD, WE HAVE MET",
         "revision": 1
     },
     {
@@ -12352,6 +12551,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 34 OUR PARTING HYMN",
         "revision": 1
     },
     {
@@ -12387,6 +12587,7 @@
                 ]
             }
         ],
+        "title_english": "CHIEF OF SINNERS",
         "revision": 1
     },
     {
@@ -12431,6 +12632,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 308 NO ABIDING CITY HERE",
         "revision": 1
     },
     {
@@ -12515,6 +12717,7 @@
                 ]
             }
         ],
+        "title_english": "PRECIOUS NAME",
         "revision": 1
     },
     {
@@ -12580,6 +12783,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 608 BLESSED ASSURANCE",
         "revision": 1
     },
     {
@@ -12660,6 +12864,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 300 GLORY TO HIS NAME",
         "revision": 1
     },
     {
@@ -12725,6 +12930,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 58 HIS WAY WITH THEE",
         "revision": 1
     },
     {
@@ -12805,6 +13011,7 @@
                 ]
             }
         ],
+        "title_english": "LOVE AT HOME",
         "revision": 1
     },
     {
@@ -12853,6 +13060,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 210 O FOR THAT FLAME!",
         "revision": 1
     },
     {
@@ -12937,6 +13145,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 27 THERE IS POWER IN THE BLOOD",
         "revision": 1
     },
     {
@@ -13021,6 +13230,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 854 THERELL BE NO DARK VALLEY",
         "revision": 1
     },
     {
@@ -13113,6 +13323,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 528 THE BEST FRIEND IS JESUS",
         "revision": 1
     },
     {
@@ -13178,6 +13389,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 647 TO GOD BE THE GLORY",
         "revision": 1
     },
     {
@@ -13216,6 +13428,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 73 HOLY, HOLY, HOLY",
         "revision": 1
     },
     {
@@ -13300,6 +13513,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 192 HE BROUGHT ME OUT",
         "revision": 1
     },
     {
@@ -13336,6 +13550,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 398 JESUS, SAVIOUR, PILOT ME",
         "revision": 1
     },
     {
@@ -13439,6 +13654,7 @@
                 ]
             }
         ],
+        "title_english": "THE COMFORTER HAS COME",
         "revision": 1
     },
     {
@@ -13552,6 +13768,7 @@
                 ]
             }
         ],
+        "title_english": "WELCOME! WANDERER, WELCOME",
         "revision": 1
     },
     {
@@ -13600,6 +13817,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 564 WHILE JESUS WHISPERS",
         "revision": 1
     },
     {
@@ -13638,6 +13856,7 @@
                 ]
             }
         ],
+        "title_english": "I GAVE MY LIFE FOR THEE",
         "revision": 1
     },
     {
@@ -13686,6 +13905,7 @@
                 ]
             }
         ],
+        "title_english": "SEALS MY PARDON",
         "revision": 1
     },
     {
@@ -13731,7 +13951,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 6,
                 "lines": [
                     "M'ngatokotoskanga ndi mtuwa muno,",
                     "Mazgu gha uchizi ghapharazgike"
@@ -13739,7 +13959,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 7,
                 "lines": [
                     "M'ngatokotoskanga tikumusopa,",
                     "Ngeti mu Edeni tiri pamoza."
@@ -13747,13 +13967,14 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 8,
                 "lines": [
                     "Mngatokotoskanga lusungu ndwake,",
                     "Mukhalenge chete kumulindizga."
                 ]
             }
         ],
+        "title_english": "CH 601 BE SILENT BE SILENT",
         "revision": 1
     },
     {
@@ -13798,6 +14019,7 @@
                 ]
             }
         ],
+        "title_english": "O FOR A CLOSER WALK!",
         "revision": 1
     },
     {
@@ -13896,6 +14118,7 @@
                 ]
             }
         ],
+        "title_english": "WHAT A WONDERFUL SAVIOUR",
         "revision": 1
     },
     {
@@ -13935,7 +14158,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Vitiwire vitumbiko vyakutichiska ise,",
                     "Pa mapiri na m'vinkhwawu vula yikuru nadi."
@@ -13950,7 +14173,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Vitiwire vitumbiko mtitumizgire Fumu,",
                     "Mutipe nkhongono sono mkwaniske mazgu ghinu."
@@ -13965,7 +14188,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Vitiwire vitumbiko viwe muhanya uno,",
                     "Apo tikuzomerezga nakumuchema Yesu."
@@ -13979,6 +14202,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 652 THERE SHALL BE SHOWERS OF BLESSING",
         "revision": 1
     },
     {
@@ -14060,6 +14284,7 @@
                 ]
             }
         ],
+        "title_english": "CH 609 THERE COMES TO MY HEART",
         "revision": 1
     },
     {
@@ -14144,6 +14369,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 613 MY SONG",
         "revision": 1
     },
     {
@@ -14228,6 +14454,7 @@
                 ]
             }
         ],
+        "title_english": "DOES JESUS CARE?",
         "revision": 1
     },
     {
@@ -14304,6 +14531,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 616 WAIT AND MURMUR NOT",
         "revision": 1
     },
     {
@@ -14363,6 +14591,7 @@
                 ]
             }
         ],
+        "title_english": "NEVER ALONE",
         "revision": 1
     },
     {
@@ -14411,6 +14640,7 @@
                 ]
             }
         ],
+        "title_english": "SOMETHING FOR JESUS",
         "revision": 1
     },
     {
@@ -14459,6 +14689,7 @@
                 ]
             }
         ],
+        "title_english": "ONE FOUNDATION",
         "revision": 1
     },
     {
@@ -14497,6 +14728,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 409 GUIDE ME, O THOU GREAT JEHOVA",
         "revision": 1
     },
     {
@@ -14538,6 +14770,7 @@
                 ]
             }
         ],
+        "title_english": "CH 639 THE HOMELAND",
         "revision": 1
     },
     {
@@ -14591,6 +14824,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 247 MEMORIES OF GALILEE",
         "revision": 1
     },
     {
@@ -14650,6 +14884,7 @@
                 ]
             }
         ],
+        "title_english": "CH O15 SAFE IN THE ARMS OF JESUS",
         "revision": 1
     },
     {
@@ -14733,6 +14968,7 @@
                 ]
             }
         ],
+        "title_english": "FOLLOW ALL THE WAY",
         "revision": 1
     },
     {
@@ -14786,6 +15022,7 @@
                 ]
             }
         ],
+        "title_english": "CH 628 LET THE LOWER LIGHTS BE BURNING",
         "revision": 1
     },
     {
@@ -14862,6 +15099,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 576 STAND LIKE THE BRAVE",
         "revision": 1
     },
     {
@@ -14900,6 +15138,7 @@
                 ]
             }
         ],
+        "title_english": "ALMOST PERSUADED",
         "revision": 1
     },
     {
@@ -14953,6 +15192,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 212 AT THE CROSS",
         "revision": 1
     },
     {
@@ -15018,6 +15258,7 @@
                 ]
             }
         ],
+        "title_english": "CH. 645 PRAISE HIM PRAISE HIM",
         "revision": 1
     },
     {
@@ -15079,7 +15320,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 8,
                 "lines": [
                     "Wanandi wandamsankhe Fumu,",
                     "Wima kulwande lwa uheni."
@@ -15087,13 +15328,14 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 9,
                 "lines": [
                     "Zaninge kulwande lwa Fumu,",
                     "Ndilo lwande pera luweme."
                 ]
             }
         ],
+        "title_english": "WHO IS ON THE LORD'S SIDE",
         "revision": 1
     },
     {
@@ -15132,7 +15374,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 4,
                 "lines": [
                     "Kwenjerwa kwan'timbani Chiuta nkhum'khumba",
                     "Vyakuyowoya n'vinandi ndingakora vichi?"
@@ -15140,13 +15382,14 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 5,
                 "lines": [
                     "Kwa Yesu nthowa 'nenesko na moyo niwelele",
                     "Wanundifiska Dada kumalo yandanda."
                 ]
             }
         ],
+        "title_english": "IAM THE WAY",
         "revision": 1
     },
     {
@@ -15236,10 +15479,18 @@
                 "type": "refrain",
                 "lines": [
                     "ULeke kukayika uLeke kumukana,",
+                    "UjuLe mtima wako munjizge Yesu mu mtima."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "ULeke kukayika uLeke kumukana,",
                     "NdajuLa mtima wane kuti Yesu wanjiremo."
                 ]
             }
         ],
+        "title_english": "LET JESUS COME INTO YOUR HEART",
         "revision": 1
     },
     {
@@ -15284,6 +15535,7 @@
                 ]
             }
         ],
+        "title_english": "I WILL NEVER LEAVE THEE",
         "revision": 1
     },
     {
@@ -15343,6 +15595,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 524 TELL ME THE OLD; OLD STORY",
         "revision": 1
     },
     {
@@ -15427,6 +15680,7 @@
                 ]
             }
         ],
+        "title_english": "CS 313 JESUS TH LIGHT THE WORLD",
         "revision": 1
     },
     {
@@ -15475,6 +15729,7 @@
                 ]
             }
         ],
+        "title_english": "AGAIN THE DAY RETURNS",
         "revision": 1
     },
     {
@@ -15552,7 +15807,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Mweneko charu pakwiza",
                     "kwizakawatola wake,",
@@ -15568,6 +15823,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 667 HIS LOVING KINDNESS",
         "revision": 1
     },
     {
@@ -15616,6 +15872,7 @@
                 ]
             }
         ],
+        "title_english": "FOR JESUS",
         "revision": 1
     },
     {
@@ -15714,6 +15971,7 @@
                 ]
             }
         ],
+        "title_english": "GATES",
         "revision": 1
     },
     {
@@ -15778,6 +16036,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 341 ART THOU WEARY?",
         "revision": 1
     },
     {
@@ -15834,6 +16093,7 @@
                 ]
             }
         ],
+        "title_english": "CH 227 AT THE DOOR",
         "revision": 1
     },
     {
@@ -15906,6 +16166,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 554 BEULAH LAND",
         "revision": 1
     },
     {
@@ -15946,6 +16207,7 @@
                 ]
             }
         ],
+        "title_english": "BLEST BE THE TE",
         "revision": 1
     },
     {
@@ -15994,6 +16256,7 @@
                 ]
             }
         ],
+        "title_english": "ARISE!",
         "revision": 1
     },
     {
@@ -16058,6 +16321,7 @@
                 ]
             }
         ],
+        "title_english": "COME TO JESUS",
         "revision": 1
     },
     {
@@ -16151,6 +16415,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 517 THERES NO OTHER NAME",
         "revision": 1
     },
     {
@@ -16234,6 +16499,7 @@
                 ]
             }
         ],
+        "title_english": "NOW JUST A WORD FOR JESUS",
         "revision": 1
     },
     {
@@ -16299,6 +16565,7 @@
                 ]
             }
         ],
+        "title_english": "OF HEAVEN",
         "revision": 1
     },
     {
@@ -16377,6 +16644,7 @@
                 ]
             }
         ],
+        "title_english": "JESUS OF NAZARETH PASSETH BY",
         "revision": 1
     },
     {
@@ -16450,6 +16718,7 @@
                 ]
             }
         ],
+        "title_english": "AND NINE",
         "revision": 1
     },
     {
@@ -16529,6 +16798,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 92 WEEPING WILL NOT SAVE ME",
         "revision": 1
     },
     {
@@ -16597,6 +16867,7 @@
                 ]
             }
         ],
+        "title_english": "COME, EVERY SOUL BY SIN OPPRESSED",
         "revision": 1
     },
     {
@@ -16629,6 +16900,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 411 SEE, ISRAEL'S GENTLE SHEPHERD",
         "revision": 1
     },
     {
@@ -16664,6 +16936,7 @@
                 ]
             }
         ],
+        "title_english": "PRAISE YE JEHOVA'S",
         "revision": 1
     },
     {
@@ -16702,6 +16975,7 @@
                 ]
             }
         ],
+        "title_english": "I NEED THEE, PRECIOUS JESUS Arr. by Edward F. Rimbauil",
         "revision": 1
     },
     {
@@ -16750,6 +17024,7 @@
                 ]
             }
         ],
+        "title_english": "CH 81 OGOD, OUR HELP",
         "revision": 1
     },
     {
@@ -16782,6 +17057,7 @@
                 ]
             }
         ],
+        "title_english": "UNASHAKEN AS THE SACRED HILLS",
         "revision": 1
     },
     {
@@ -16814,6 +17090,7 @@
                 ]
             }
         ],
+        "title_english": "ONE LIVING FAITH",
         "revision": 1
     },
     {
@@ -16882,6 +17159,7 @@
                 ]
             }
         ],
+        "title_english": "SHALL WE MEET?",
         "revision": 1
     },
     {
@@ -16947,6 +17225,7 @@
                 ]
             }
         ],
+        "title_english": "VALE OF BEULAH",
         "revision": 1
     },
     {
@@ -16971,7 +17250,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 2,
                 "lines": [
                     "Ku mutima wakulira kukwiza ungweru,",
                     "Kwimba sumu za wangelo mu kazimuzimu."
@@ -16986,7 +17265,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 3,
                 "lines": [
                     "Kuli chikaya cha mtaski na wakuthaskika,",
                     "Ku mapiri gha 'chindami kukwimbika sumu."
@@ -17000,6 +17279,7 @@
                 ]
             }
         ],
+        "title_english": "BEAUTIFUL VALLEY OF EDEN",
         "revision": 1
     },
     {
@@ -17083,6 +17363,7 @@
                 ]
             }
         ],
+        "title_english": "CHRIST OR BARABBAS",
         "revision": 1
     },
     {
@@ -17186,6 +17467,7 @@
                 ]
             }
         ],
+        "title_english": "BRING YE ALL THE TITHES",
         "revision": 1
     },
     {
@@ -17274,6 +17556,7 @@
                 ]
             }
         ],
+        "title_english": "HOLY DAY, JEHOVAH'S REST",
         "revision": 1
     },
     {
@@ -17338,6 +17621,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 311PEACE, PERFECT PEACE Arr. by Charles J. Vinc",
         "revision": 1
     },
     {
@@ -17421,6 +17705,7 @@
                 ]
             }
         ],
+        "title_english": "SCATTER SEEDS OF KINDNESS",
         "revision": 1
     },
     {
@@ -17508,6 +17793,7 @@
                 ]
             }
         ],
+        "title_english": "PEACE BE STILL!",
         "revision": 1
     },
     {
@@ -17592,6 +17878,7 @@
                 ]
             }
         ],
+        "title_english": "A WONDERFUL SAVIOUR IS JESUS",
         "revision": 1
     },
     {
@@ -17640,6 +17927,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 214 OUR BLESSED REDEEMER",
         "revision": 1
     },
     {
@@ -17681,6 +17969,7 @@
                 ]
             }
         ],
+        "title_english": "THO' YOUR SINS BE AS SCARLET",
         "revision": 1
     },
     {
@@ -17765,6 +18054,7 @@
                 ]
             }
         ],
+        "title_english": "THROW OUT THE LIFE LINE",
         "revision": 1
     },
     {
@@ -17831,7 +18121,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 9,
                 "lines": [
                     "Uyegamirenge pa Yesu wangweruskenge nthowa yako,",
                     "Rondezga kurongozga kwake umupulikire."
@@ -17839,7 +18129,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 10,
                 "lines": [
                     "Uyegamirenge pa Yesu m'thulire suzgo lako lose,",
                     "Nanga katundu wawemzito umupe mkuromba."
@@ -17847,13 +18137,14 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 11,
                 "lines": [
                     "Uyegamirenge pa Yesum'rekere vyose mupe vyose,",
                     "Mtima wa Fumu ngwa chitemwa ntha wakugomphora."
                 ]
             }
         ],
+        "title_english": "CS. 502 LEAN ON HIS ARMS",
         "revision": 1
     },
     {
@@ -17930,6 +18221,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 575 I HAVE A SAVIOUR",
         "revision": 1
     },
     {
@@ -17988,6 +18280,7 @@
                 ]
             }
         ],
+        "title_english": "ETERNITY-WHERE?",
         "revision": 1
     },
     {
@@ -18040,6 +18333,7 @@
                 ]
             }
         ],
+        "title_english": "SEEKING FOR ME",
         "revision": 1
     },
     {
@@ -18080,6 +18374,7 @@
                 ]
             }
         ],
+        "title_english": "LEAD KINDLY LIGHT",
         "revision": 1
     },
     {
@@ -18118,6 +18413,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 661 NOT MY WAY",
         "revision": 1
     },
     {
@@ -18232,7 +18528,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 7,
                 "lines": [
                     "Chimwemwe cha mu charu ntha chikutikwana,",
                     "Chitemwa chik'kondweska chitemwa cha Yesu."
@@ -18250,7 +18546,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 8,
                 "lines": [
                     "Mwe uchizi wakuruska wa Yesu Khristu,",
                     "Uzamkugowokera wakung'anamuka."
@@ -18268,7 +18564,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 9,
                 "lines": [
                     "Mutende nga ndi onga, chitemwa na sumu,",
                     "Na goriwori lipusu viri mwa Yesu."
@@ -18285,6 +18581,7 @@
                 ]
             }
         ],
+        "title_english": "COME UNTO ME",
         "revision": 1
     },
     {
@@ -18353,6 +18650,7 @@
                 ]
             }
         ],
+        "title_english": "OUR KING",
         "revision": 1
     },
     {
@@ -18418,6 +18716,7 @@
                 ]
             }
         ],
+        "title_english": "A BEAUTIFUL STAR",
         "revision": 1
     },
     {
@@ -18456,6 +18755,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 342 TEN THOUSAND HARPS",
         "revision": 1
     },
     {
@@ -18504,6 +18804,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 568 SHALL YOU? SHALL?",
         "revision": 1
     },
     {
@@ -18563,6 +18864,7 @@
                 ]
             }
         ],
+        "title_english": "E GOING BY",
         "revision": 1
     },
     {
@@ -18616,6 +18918,7 @@
                 ]
             }
         ],
+        "title_english": "THERE IS A PLACE OF QUITE REST",
         "revision": 1
     },
     {
@@ -18684,6 +18987,7 @@
                 ]
             }
         ],
+        "title_english": "BEAR ME ON",
         "revision": 1
     },
     {
@@ -18722,6 +19026,7 @@
                 ]
             }
         ],
+        "title_english": "CH 73 IN THE HOUR OF TRIAL",
         "revision": 1
     },
     {
@@ -18781,6 +19086,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 658 THEY BROUGHT THEIR GIFTS TO JESUS",
         "revision": 1
     },
     {
@@ -18849,6 +19155,7 @@
                 ]
             }
         ],
+        "title_english": "TAKE ME AS I AM",
         "revision": 1
     },
     {
@@ -18896,7 +19203,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 6,
                 "lines": [
                     "Mwakukondwa tiphalenge nkhani,",
                     "Ya chitemwa pa wanthu wake,",
@@ -18906,7 +19213,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 7,
                 "lines": [
                     "Mwakufwasa tilondezge Fumu,",
                     "Nakwenda mumalwayo ghake,",
@@ -18915,6 +19222,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 574 TOILING FOR JESUS",
         "revision": 1
     },
     {
@@ -18975,6 +19283,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 168 WORTHY, WORTHY IS THE LAMB",
         "revision": 1
     },
     {
@@ -19028,6 +19337,7 @@
                 ]
             }
         ],
+        "title_english": "TWO LITTLE HANDS",
         "revision": 1
     },
     {
@@ -19075,6 +19385,7 @@
                 ]
             }
         ],
+        "title_english": "KNOCKING, KNOCKING",
         "revision": 1
     },
     {
@@ -19159,6 +19470,7 @@
                 ]
             }
         ],
+        "title_english": "COVER WITH HIS LIFE",
         "revision": 1
     },
     {
@@ -19224,6 +19536,7 @@
                 ]
             }
         ],
+        "title_english": "C.H. 499 SOUND THE BATTLE CRY",
         "revision": 1
     },
     {
@@ -19265,6 +19578,7 @@
                 ]
             }
         ],
+        "title_english": "LEAD ME, SAVIOUR",
         "revision": 1
     },
     {
@@ -19330,6 +19644,7 @@
                 ]
             }
         ],
+        "title_english": "NAILED TO THE CROSS",
         "revision": 1
     },
     {
@@ -19378,6 +19693,7 @@
                 ]
             }
         ],
+        "title_english": "NONE OF SELF AND ALL OF THEE",
         "revision": 1
     },
     {
@@ -19450,6 +19766,7 @@
                 ]
             }
         ],
+        "title_english": "C.S. 284 ALWAYS CHEERFUL",
         "revision": 1
     },
     {
@@ -19543,6 +19860,7 @@
                 ]
             }
         ],
+        "title_english": "REST FOR THE WEARY",
         "revision": 1
     },
     {
@@ -19684,6 +20002,7 @@
                 ]
             }
         ],
+        "title_english": "Upon Dedicating A Church",
         "revision": 1
     },
     {
@@ -19804,6 +20123,7 @@
                 ]
             }
         ],
+        "title_english": "Who Is He In Yonder Stall?",
         "revision": 1
     },
     {
@@ -19844,6 +20164,7 @@
                 ]
             }
         ],
+        "title_english": "Father, Son And Spirit",
         "revision": 1
     },
     {
@@ -19900,6 +20221,7 @@
                 ]
             }
         ],
+        "title_english": "The Sun Has Set",
         "revision": 1
     },
     {
@@ -19940,6 +20262,7 @@
                 ]
             }
         ],
+        "title_english": "Before Jehova's Awftul Throne",
         "revision": 1
     },
     {
@@ -19980,6 +20303,7 @@
                 ]
             }
         ],
+        "title_english": "Man Of Sorrow",
         "revision": 1
     },
     {
@@ -20024,6 +20348,7 @@
                 ]
             }
         ],
+        "title_english": "Let There Be Light",
         "revision": 1
     },
     {
@@ -20089,6 +20414,7 @@
                 ]
             }
         ],
+        "title_english": "I'm Walking Everyday With Jesus",
         "revision": 1
     },
     {
@@ -20154,6 +20480,7 @@
                 ]
             }
         ],
+        "title_english": "Want To Live Closer To Jesus",
         "revision": 1
     },
     {
@@ -20210,6 +20537,7 @@
                 ]
             }
         ],
+        "title_english": "O Spirit Of The Living God",
         "revision": 1
     },
     {
@@ -20278,6 +20606,7 @@
                 ]
             }
         ],
+        "title_english": "Called To Be Baptised",
         "revision": 1
     },
     {
@@ -20316,6 +20645,7 @@
                 ]
             }
         ],
+        "title_english": "Prayer At Baptism",
         "revision": 1
     },
     {
@@ -20369,6 +20699,7 @@
                 ]
             }
         ],
+        "title_english": "What Can The Youth Do?",
         "revision": 1
     },
     {
@@ -20428,6 +20759,7 @@
                 ]
             }
         ],
+        "title_english": "Will Early Seek The Saviour",
         "revision": 1
     },
     {
@@ -20496,6 +20828,7 @@
                 ]
             }
         ],
+        "title_english": "Missionary Volunteers",
         "revision": 1
     },
     {
@@ -20544,6 +20877,7 @@
                 ]
             }
         ],
+        "title_english": "The Voice That Breathed O'er Eden",
         "revision": 1
     },
     {
@@ -20612,6 +20946,7 @@
                 ]
             }
         ],
+        "title_english": "Holy Sabbath Day",
         "revision": 1
     },
     {
@@ -20653,7 +20988,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "'Mwe nkhachitanga uheni walikuluwa vyose,",
                     "Nkhakhalanga m'zakwánanga wali kufumya zose."
@@ -20668,7 +21003,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Wandipa umoyo wake umoyo utuwa tu!",
                     "Iie ndiri mwana wake wakundilera ine."
@@ -20683,7 +21018,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Nkhuyiwonga Fumu yane nditiyitamikenge,",
                     "Nditandazge mbiri yake ya chitemwa chikuru."
@@ -20697,6 +21032,7 @@
                 ]
             }
         ],
+        "title_english": "I Will Sing The Wondrous Story",
         "revision": 1
     },
     {
@@ -20739,7 +21075,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Imwe mwize kwa Yesu watimpumuzganinge,",
                     "Nadi mu mtima winu muwenge mtende wake."
@@ -20755,7 +21091,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pa dazi lira kale wakandipokerera,",
                     "Wakandisuka ine m mtima mwane mwatowa."
@@ -20771,7 +21107,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Wakandifwira Yesu pa charu chino kale,",
                     "Ntha nkhopaso mulandu pakwiza Fumu yane."
@@ -20786,6 +21122,7 @@
                 ]
             }
         ],
+        "title_english": "Sinners Jesus Will Receive",
         "revision": 1
     },
     {
@@ -20854,6 +21191,7 @@
                 ]
             }
         ],
+        "title_english": "Come Believing",
         "revision": 1
     },
     {
@@ -20889,6 +21227,7 @@
                 ]
             }
         ],
+        "title_english": "Words Are Things Of Little Cost",
         "revision": 1
     },
     {
@@ -21031,6 +21370,7 @@
                 ]
             }
         ],
+        "title_english": "Sing A Lovely Hymn",
         "revision": 1
     },
     {
@@ -21099,6 +21439,7 @@
                 ]
             }
         ],
+        "title_english": "While We Pray",
         "revision": 1
     },
     {
@@ -21158,6 +21499,7 @@
                 ]
             }
         ],
+        "title_english": "We're A Little Christian Band",
         "revision": 1
     },
     {
@@ -21202,7 +21544,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 4,
                 "lines": [
                     "Tapulika ntchemerezgo kusirya",
                     "umizgani mazgu",
@@ -21212,7 +21554,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 5,
                 "lines": [
                     "Tirombe uchizi wa Fumu yithu",
                     "tumizgani mazgu,",
@@ -21222,7 +21564,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 6,
                 "lines": [
                     "Tingavukanga kuchita uweme",
                     "tumizgani mazgu,",
@@ -21315,6 +21657,7 @@
                 ]
             }
         ],
+        "title_english": "When We All Get to Heaven",
         "revision": 1
     },
     {
@@ -21380,6 +21723,7 @@
                 ]
             }
         ],
+        "title_english": "lam So Gled That Our Father",
         "revision": 1
     },
     {
@@ -21415,6 +21759,7 @@
                 ]
             }
         ],
+        "title_english": "Glory Be To God The Father",
         "revision": 1
     },
     {
@@ -21498,6 +21843,7 @@
                 ]
             }
         ],
+        "title_english": "Praise The Lord Oh My Soul",
         "revision": 1
     },
     {
@@ -21536,6 +21882,7 @@
                 ]
             }
         ],
+        "title_english": "While In Sweet Communion",
         "revision": 1
     },
     {
@@ -21576,6 +21923,7 @@
                 ]
             }
         ],
+        "title_english": "We Are Sorrowful",
         "revision": 1
     },
     {
@@ -21629,6 +21977,7 @@
                 ]
             }
         ],
+        "title_english": "When The Storms Of Life",
         "revision": 1
     },
     {
@@ -21694,6 +22043,7 @@
                 ]
             }
         ],
+        "title_english": "Searching The Scriptures",
         "revision": 1
     },
     {
@@ -21729,6 +22079,7 @@
                 ]
             }
         ],
+        "title_english": "CH. 102 SILENT NIGHT",
         "revision": 1
     },
     {
@@ -21809,6 +22160,7 @@
                 ]
             }
         ],
+        "title_english": "When I Shall Awake",
         "revision": 1
     },
     {
@@ -21853,6 +22205,7 @@
                 ]
             }
         ],
+        "title_english": "CM 1985",
         "revision": 1
     },
     {
@@ -21918,6 +22271,7 @@
                 ]
             }
         ],
+        "title_english": "CM 1988",
         "revision": 1
     },
     {
@@ -22004,6 +22358,7 @@
                 ]
             }
         ],
+        "title_english": "CM 1990",
         "revision": 1
     },
     {
@@ -22066,6 +22421,7 @@
                 ]
             }
         ],
+        "title_english": "CM 1991",
         "revision": 1
     },
     {
@@ -22146,6 +22502,7 @@
                 ]
             }
         ],
+        "title_english": "CM 1997",
         "revision": 1
     },
     {
@@ -22197,7 +22554,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 6,
                 "lines": [
                     "Vyakulemba vya zinchimi vikuyowoya",
                     "za msumba wula wagolide,",
@@ -22206,7 +22563,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 7,
                 "lines": [
                     "Wachoko waka ndiwo wam'kunjira,",
                     "Awo waku Sunga dango la Fumu.",
@@ -22215,7 +22572,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 8,
                 "lines": [
                     "M'bale na m'dumbu kasi tamukumana",
                     "m'charu cha kuwala chakutowa?",
@@ -22223,6 +22580,7 @@
                 ]
             }
         ],
+        "title_english": "CM 201",
         "revision": 1
     },
     {
@@ -22259,7 +22617,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 4,
                 "lines": [
                     "Usange Yesu wangiza sono,",
                     "Kasi ungazgorachi?",
@@ -22268,7 +22626,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 5,
                 "lines": [
                     "Usange Yesu wangiza sono,",
                     "kusanga wuli mdindi",
@@ -22278,7 +22636,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 6,
                 "lines": [
                     "Nozgekera, nozgekera m'nyane,",
                     "Nyengo nayo yamara,",
@@ -22287,6 +22645,7 @@
                 ]
             }
         ],
+        "title_english": "C.M. 2004",
         "revision": 1
     },
     {
@@ -22359,6 +22718,7 @@
                 ]
             }
         ],
+        "title_english": "C.M.2008",
         "revision": 1
     },
     {
@@ -22425,7 +22785,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 5,
                 "lines": [
                     "Sumu zakunozga kuthuwuska Fumu",
                     "Kumwim bira Yesu Mponoski,",
@@ -22441,7 +22801,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 6,
                 "lines": [
                     "Ndileke Uheni ndisunge marango",
                     "Nkhakhale na Yesu nyengo swi.",
@@ -22456,6 +22816,7 @@
                 ]
             }
         ],
+        "title_english": "C.M. 2011",
         "revision": 1
     },
     {
@@ -22552,55 +22913,137 @@
                 ]
             }
         ],
+        "title_english": "C.M. 2013",
         "revision": 1
     },
     {
         "index": "348",
         "number": 348,
         "title": "Ujule Pa Muryango",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Ujule pamuryango,",
+                    "kuti Yesu wanjire,",
+                    "Para wamzomera tiwakuthaske,",
+                    "Mjulire mtima wako."
+                ]
+            }
+        ],
+        "title_english": "You Must Open The Door",
         "revision": 1
     },
     {
         "index": "349",
         "number": 349,
         "title": "Umupe Yesu Mtima Wako",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Umupe Yesu mutima wako 'we,",
+                    "Yikuchema iwe ndi Fumu yako,",
+                    "Umupe Yesu mtima wako sono,",
+                    "Mupe mtima wako."
+                ]
+            }
+        ],
+        "title_english": "Give Your Heart To Jesus",
         "revision": 1
     },
     {
         "index": "350",
         "number": 350,
         "title": "Taya Masugzo Ghako",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Taya masuzgo ghako,",
+                    "taya masuzgo ghako,",
+                    "Fumu yikufumyirenge vyose,",
+                    "taya masuzgo ghako."
+                ]
+            }
+        ],
+        "title_english": "Roll Your Burdens Away",
         "revision": 1
     },
     {
         "index": "351",
         "number": 351,
         "title": "M'ndizuzge Na Mzimnu",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "M'ndizuzge na Mzimu,",
+                    "Mzimu winu Fumu,",
+                    "Mundizgole wa Imwe",
+                    "m'ndizuzge na Mzimu."
+                ]
+            }
+        ],
+        "title_english": "With Thy Spirit Fill Me",
         "revision": 1
     },
     {
         "index": "352",
         "number": 352,
         "title": "Fumu Mpulike Lurombo Lwithu",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Fumu mpulike lurombo lwithu",
+                    "Mtipe ise tose mutende winu.",
+                    "Amen."
+                ]
+            }
+        ],
+        "title_english": "Hear Our Prayer, Lord",
         "revision": 1
     },
     {
         "index": "353",
         "number": 353,
         "title": "Mtichitire Lusungu",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Mtichitire lusungu 'mwe Fumu",
+                    "Mutovwire kusunga marango.",
+                    "Amen."
+                ]
+            }
+        ],
+        "title_english": "Lord, Have Mercy",
         "revision": 1
     },
     {
         "index": "354",
         "number": 354,
         "title": "Mutisunge Fumu",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Mutisunge Fumu mutivikirire,",
+                    "Wangelo watipwerere mpaka namulenji.",
+                    "Amen."
+                ]
+            }
+        ],
+        "title_english": "Lord Keep Us Safe This Night",
         "revision": 1
     },
     {
@@ -22614,42 +23057,114 @@
         "index": "356",
         "number": 356,
         "title": "Fumu Yiri Mu Nyumba Yake",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Fumu yiri munyumba yake mu tempile lake tituwa,",
+                    "Charu chikhale chete chikhale chete pa maso pake",
+                    "Chikhale mwachete kwa Fumu.",
+                    "Amen."
+                ]
+            }
+        ],
+        "title_english": "The Lord Is In His Holy Temple",
         "revision": 1
     },
     {
         "index": "357",
         "number": 357,
         "title": "Mundipe Yumoza, Fumu",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Mundipe yumoza Fumu wakumusowani,",
+                    "Ndichitenge lwande lwane kuti ndimsambizge.",
+                    "Kuti ndimsambizge kuti ndimsambizge,",
+                    "Ndichitenge lwande lwane kuti ndimsambizge."
+                ]
+            }
+        ],
+        "title_english": "Lord Lay Some Soul Upon My Heat",
         "revision": 1
     },
     {
         "index": "358",
         "number": 358,
         "title": "Lawiskani Pa Yesu",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Lawiskani pa Yesu 'mwe mum'dodoliske lyo,",
+                    "Vya pa charu viwenge vyawaka,",
+                    "pakuwona kuwala kwake."
+                ]
+            }
+        ],
+        "title_english": "Turn Your Eyes Upon Jesus",
         "revision": 1
     },
     {
         "index": "359",
         "number": 359,
         "title": "M'mtima Wane",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "M'mtima wane, m'mtima wane,",
+                    "Njirani, a Fumu Yesu,",
+                    "Munjiremo, mukhalemo,",
+                    "Njirani, a Fumu Yesu."
+                ]
+            }
+        ],
+        "title_english": "Into My Heart",
         "revision": 1
     },
     {
         "index": "360",
         "number": 360,
         "title": "Mtipamphuske Ise",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Mtipamphuske ise,",
+                    "Fumu yithu Yesu,",
+                    "Mtipamphuske ise,",
+                    "muyambire pa ine."
+                ]
+            }
+        ],
+        "title_english": "Lord, Send A Revival",
         "revision": 1
     },
     {
         "index": "361",
         "number": 361,
         "title": "Mchindike Mwene-Thumbiko",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Mchindike Mwene-thumbiko,",
+                    "Mwavilengiwa vya m'charu,",
+                    "Na wangelo wachindike,",
+                    "Dada, Mwana, Mzimu Mtuwa.",
+                    "Amen."
+                ]
+            }
+        ],
+        "title_english": "Praise God From Whom",
         "revision": 1
     },
     {
@@ -22697,6 +23212,7 @@
                 ]
             }
         ],
+        "title_english": "THE NATIONAL ANTHEM",
         "revision": 1
     },
     {
@@ -22872,7 +23388,6 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    ":",
                     "Muchindikani Yesu, Mtuwa."
                 ]
             },
@@ -22880,7 +23395,6 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    ":",
                     "Muchindikani Yesu,"
                 ]
             },
@@ -22888,7 +23402,6 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    ":",
                     "Mtuwa, Mtuwa, Mtuwa, Mtuwa,"
                 ]
             },
@@ -22896,7 +23409,6 @@
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    ":",
                     "Mtuwa, Mtuwa, Mtuwa, Mtuwa,",
                     "Muchindikani Yesu, Mtuwa.",
                     "Wakum'chemani Imwe, Mtuwa.",
@@ -22908,6 +23420,7 @@
                 ]
             }
         ],
+        "title_english": "Muchindikani Yesu,",
         "revision": 1
     },
     {
@@ -23159,7 +23672,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Kupulika wapulika; ujipulikire; Ntha wamukupandira; ujipulikire."
                 ]
@@ -23172,7 +23685,7 @@
             },
             {
                 "type": "verse",
-                "index": 5,
+                "index": 6,
                 "lines": [
                     "Zaninge imwe mose; ujipulikire",
                     "Mupokerere wumi; ujipulikire."
