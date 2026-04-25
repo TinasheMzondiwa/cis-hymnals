@@ -74,7 +74,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y cuando tus dones le entregues a tu Señor,",
                     "por su Hijo amado los aceptará;",
@@ -239,7 +239,27 @@
         "index": "006",
         "number": 6,
         "title": "¡Hosanna!",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "¡Hosanna! ¡Hosanna! ¡Hosanna!",
+                    "En cielo y tierra, es del Señor",
+                    "la gloria y potestad,",
+                    "y nos circunda con su amor",
+                    "por la eternidad.",
+                    "Alzad, pues, himnos de loor,",
+                    "que es grato a nuestro Dios;",
+                    "a él rindamos todo honor",
+                    "ahora y siempre, amén.",
+                    "¡A Dios rindamos todo honor,",
+                    "todo honor, todo honor!",
+                    "¡A Dios rindamos todo honor,",
+                    "ahora y siempre! Amén."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -279,7 +299,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Eternamente durará",
                     "el reino del Señor.",
@@ -354,7 +374,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Vibre en nuestros pechos noble gratitud",
                     "hacia quien nos brinda redención;",
@@ -563,7 +583,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Señor, te rodea infinito fulgor;",
                     "los ángeles cubren su rostro ante ti.",
@@ -614,7 +634,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "A otras almas salva, ¡oh Dios!",
                     "Despiértalas, Señor;",
@@ -871,21 +891,59 @@
         "index": "020",
         "number": 20,
         "title": "A Dios, el Padre celestial",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "A Dios, el Padre celestial;",
+                    "al Hijo, nuestro Redentor;",
+                    "al eternal Consolador,",
+                    "unidos, todos alabad. Amén."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "021",
         "number": 21,
         "title": "Gloria sea al Padre",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Gloria sea al Padre",
+                    "y al Hijo Dios",
+                    "y al Santo Espíritu.",
+                    "Como eran al principio,",
+                    "son hoy y serán por siempre.",
+                    "¡Gloria sin fin! Amén, amén."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "022",
         "number": 22,
         "title": "Jehová está en su santo templo",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Jehová está en su santo templo,",
+                    "Jehová está en su santo templo;",
+                    "seamos reverentes,",
+                    "seamos reverentes",
+                    "ante el Señor.",
+                    "¡Silencio!, ¡silencio!,",
+                    "ante el Señor. Amén."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -995,7 +1053,18 @@
         "index": "025",
         "number": 25,
         "title": "Siento la presencia del Señor",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Siento la presencia del Señor que está aquí,",
+                    "su poder y su gracia, su amor.",
+                    "Puedo ver en cada rostro su belleza irradiar.",
+                    "Siento la presencia del Señor que está aquí."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -1079,7 +1148,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh Jesús!, escucha el ruego",
                     "y esta humilde petición.",
@@ -1196,49 +1265,143 @@
         "index": "030",
         "number": 30,
         "title": "Abre mis ojos",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Abre mis ojos,",
+                    "Jesús, quiero verte,",
+                    "conmigo tenerte,",
+                    "decir que te amo.",
+                    "Abre mi oido,",
+                    "hoy quiero escucharte.",
+                    "¡Abre mis ojos",
+                    "para contemplarte!"
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "031",
         "number": 31,
         "title": "¡Oh, Señor! al orar",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "¡Oh, Señor! al orar,",
+                    "mis problemas quiero entregar,",
+                    "a tu Trono de gracia llegar",
+                    "y tu bendición alcanzar.",
+                    "Hoy mi vida transforma, Señor;",
+                    "que mi mente entienda tu amor,",
+                    "y al postrarme humilde ante ti,",
+                    "¡oh, Señor, escucha mi oración!"
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "032",
         "number": 32,
         "title": "Nos reunimos en tu santuario",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Nos reunimos en tu santuario,",
+                    "donde santos ángeles te rinden",
+                    "su loor.",
+                    "Vamos a adorar tu gran nombre;",
+                    "en la santidad de tu presencia",
+                    "te alabo, Señor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "033",
         "number": 33,
         "title": "Tu presencia, Padre amante, invocamos",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Tu presencia, Padre amante,",
+                    "invocamos reverentes.",
+                    "Nuestro ser y amor",
+                    "ofrendamos, Señor,",
+                    "y la gloria de tu verdad",
+                    "hoy descienda a este lugar."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "034",
         "number": 34,
         "title": "En momentos así",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "En momentos así",
+                    "yo canto canción,",
+                    "canción de amor a mi Cristo.",
+                    "En momentos así",
+                    "yo busco al Señor,",
+                    "elevo mi alma a Dios.",
+                    "Hoy te adoro, Señor,",
+                    "y te alabo, mi Dios;",
+                    "te amo, mi Jesús,",
+                    "te amo, mi Señor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "035",
         "number": 35,
         "title": "Oye, oh Señor",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Oye, oh Señor, nuestra oración;",
+                    "tu faz inclina hoy, y danos tu paz.",
+                    "Amén."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "036",
         "number": 36,
         "title": "¡Oh, Dios, que oyes cada oración!",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "¡Oh, Dios, que oyes cada oración,",
+                    "escucha nuestra humilde petición!",
+                    "Tú, que eres vida, gozo y solaz;",
+                    "danos tu gracia y tu dulce paz. Amén."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -1305,7 +1468,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Dios os guarde en su divino amor,",
                     "con su gracia os sostenga",
@@ -1419,14 +1582,38 @@
         "index": "041",
         "number": 41,
         "title": "Gracia, amor y comunión",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Que la gracia de Jesús, el amor de Dios el Padre",
+                    "y la comunión del Espíritu nos llenen hoy.",
+                    "Que la gracia de Jesús, el amor de Dios el Padre",
+                    "y la comunión del Espíritu eternal",
+                    "perduren por siempre en nuestro corazón."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "042",
         "number": 42,
         "title": "Queda, Señor",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Queda, Señor, en este corazón;",
+                    "dame tu paz y lléname de amor;",
+                    "que tu influencia permanezca en mí;",
+                    "viva por siempre con tu bendición.",
+                    "Amén."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -1461,7 +1648,18 @@
         "index": "044",
         "number": 44,
         "title": "Despídenos con tu bendición",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Despídenos con tu bendición",
+                    "al retirarnos de este lugar;",
+                    "que la merced de la reunión",
+                    "en nuestras almas pueda quedar. Amén."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -1577,7 +1775,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "En la mañana eterna, pues,",
                     "contigo cuando esté,",
@@ -1625,7 +1823,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Tú, del contrito, fiel perdonador,",
                     "que atiendes al clamor del pecador,",
@@ -1673,7 +1871,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Si la muerte nos alcanza",
                     "en el lecho nuestro aquí,",
@@ -1872,7 +2070,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Que vea al fin en mi postrer visión",
                     "de luz la senda que me lleve a Sión,",
@@ -2061,7 +2259,18 @@
         "index": "056",
         "number": 56,
         "title": "De tal manera amó",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "De tal manera amó al mundo nuestro Dios",
+                    "que ha dado a su Hijo, Cristo el Señor;",
+                    "que todos los que en él confían en verdad,",
+                    "tienen vida eternal."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -2116,7 +2325,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Me ha invitado por su Palabra;",
                     "me ha invitado con tierno amor."
@@ -2190,7 +2399,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Respondamos prestamente",
                     "al llamado de Jesús;",
@@ -2212,7 +2421,24 @@
         "index": "059",
         "number": 59,
         "title": "Mirad qué amor",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Mirad qué amor nos ha dado el Padre",
+                    "al hacernos hijos de Dios;",
+                    "mirad qué amor nos ha dado el Padre",
+                    "al hacernos hijos de Dios;",
+                    "para ser llamados hijos de Dios;",
+                    "para ser llamados hijos de Dios.",
+                    "Mirad qué amor nos ha dado el Padre",
+                    "al hacernos hijos de Dios;",
+                    "mirad qué amor nos ha dado el Padre",
+                    "al hacernos hijos de Dios."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -2407,7 +2633,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Muy frágiles son los hombres aquí,",
                     "mas por tu bondad confiamos en ti.",
@@ -2617,7 +2843,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Señor!, yo te conozco;",
                     "mi corazón te adora;",
@@ -2693,7 +2919,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Todas las cosas, adorad",
                     "con humildad al Creador,",
@@ -2779,7 +3005,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y cuando vengas en brillante gloria",
                     "me llevarás con gozo a mi hogar.",
@@ -2804,7 +3030,20 @@
         "index": "070",
         "number": 70,
         "title": "¡Nuestro Dios reina!",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Cuán bellos son los pies del que anuncia",
+                    "las nuevas de salvación;",
+                    "que trae paz y un mensaje animador:",
+                    "¡Nuestro Dios reina hoy!",
+                    "¡Nuestro Dios reina hoy!",
+                    "¡Nuestro Dios reina hoy!"
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -2871,7 +3110,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Nos concedió la vista",
                     "y labios para hablar",
@@ -3115,7 +3354,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Eterno Dios, mi Redentor,",
                     "confío sólo en ti;",
@@ -3130,7 +3369,24 @@
         "index": "077",
         "number": 77,
         "title": "Sea exaltado",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Sea exaltado el Señor, exaltado",
+                    "en cielo y tierra.",
+                    "Sea exaltado, por siempre exaltado;",
+                    "su nombre alabaré.",
+                    "Dios sin igual,",
+                    "para siempre él reinará.",
+                    "Su creación",
+                    "se alegra en adorarlo.",
+                    "Sea exaltado el Señor",
+                    "con mi vida también."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -3438,7 +3694,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Los sabios, al llegar al humilde mesón,",
                     "reverentes se postran en adoración.",
@@ -3839,7 +4095,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Mirra ofrezco para el dolor",
                     "del sufriente Salvador,",
@@ -3858,7 +4114,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 5,
                 "lines": [
                     "Ved la gloria de Emanuel,",
                     "Sacerdote, Rey, Redentor.",
@@ -3972,7 +4228,20 @@
                     "Hoy anuncian con fervor",
                     "paz y buena voluntad;",
                     "pues nació el Salvador",
-                    "de la pobre humanidad.",
+                    "de la pobre humanidad."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Gloria, in excelsis Deo,*",
+                    "Gloria, in excelsis Deo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "*Gloria a Dios en lo alto."
                 ]
             },
@@ -4094,7 +4363,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh, Salvador, ayúdame;",
                     "que sea fiel a ti;",
@@ -4169,7 +4438,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Un día vendrá y con voz de arcángel",
                     "un día en su gloria el Señor brillará.",
@@ -4226,7 +4495,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Aquel dolor tan grande y cruel",
                     "que así sufrió mi Salvador",
@@ -4301,7 +4570,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Yo seré siempre fiel a la cruz de Jesús,",
                     "su oprobio con él llevaré,",
@@ -4358,7 +4627,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Crucificado en un madero,",
                     "manso Cordero, mueres por mí.",
@@ -4456,7 +4725,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Dulces momentos, ricos en dones,",
                     "de paz y gracia, de vida y luz!",
@@ -4755,7 +5024,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cristo, nuestro Salvador, ¡aleluya!,",
                     "de la muerte vencedor, ¡aleluya!,",
@@ -4907,7 +5176,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Nada bueno se halla en mí.",
                     "¿Cómo puedes tanto amar?",
@@ -4976,7 +5245,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Él sabe cuánto anhelo",
                     "salvar a un pecador;",
@@ -5040,7 +5309,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Un buen amigo tengo yo,",
                     "tan fiel y tan amante;",
@@ -5125,7 +5394,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cuando estemos al fin reunidos",
                     "con los redimidos más allá,",
@@ -5326,7 +5595,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh Cruz que miro sin cesar!,",
                     "mi orgullo, gloria y vanidad,",
@@ -5631,7 +5900,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¿Te perturba el contemplar la",
                     "muerte?",
@@ -6113,7 +6382,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Una grande algazara luego se oyó,",
                     "por doquier retumbando fue,",
@@ -6232,7 +6501,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Jamás contó profano autor",
                     "cuán dulce el nombre es del",
@@ -6323,7 +6592,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Si la mano de la muerte",
                     "con su frío siento en mí,",
@@ -6349,7 +6618,22 @@
         "index": "130",
         "number": 130,
         "title": "Cristo, Cristo, Cristo",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Cristo, Cristo, Cristo;",
+                    "otro nombre no hay igual.",
+                    "Santo, tierno, puro;",
+                    "tú llevaste la cruz por mí.",
+                    "Cristo, Cristo, Cristo,",
+                    "cielo y tierra te alabarán.",
+                    "Rey de reyes, sublime Señor,",
+                    "no hay otro igual a ti."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -6378,7 +6662,13 @@
                     "el Capitán que lucha contra el",
                     "mal;",
                     "bendita Luz en la oscuridad,",
-                    "¡Aleluya! ¡Aleluya!",
+                    "¡Aleluya! ¡Aleluya!"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "3- Que con valor peleen por",
                     "Jesús",
                     "los santos que aman a su",
@@ -6390,7 +6680,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "De mar a mar y en la Santa",
                     "Ciudad,",
@@ -6512,7 +6802,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Con gozo, pues, alzad la voz;",
                     "a él alegres id,",
@@ -6594,7 +6884,18 @@
         "index": "135",
         "number": 135,
         "title": "Cristo, nombre sublime",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Cristo, nombre sublime,",
+                    "Salvador nuestro, glorioso Dios;",
+                    "es Emanuel, Dios con nosotros,",
+                    "Palabra viva, gran Redentor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -6812,7 +7113,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "De lo falso a la verdad,",
                     "de lo impuro a santidad,",
@@ -6903,7 +7204,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y cuando al cielo del Señor",
                     "con él nos elevemos,",
@@ -6963,7 +7264,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Oh Cristo, ¿a quién como tú puedo",
                     "hallar?",
@@ -7183,7 +7484,22 @@
         "index": "144",
         "number": 144,
         "title": "Mi Salvador",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "¡Mi Salvador, Jesucristo!",
+                    "¿Quién hay igual a ti?",
+                    "¡Mi Salvador, Jesucristo!",
+                    "Más que todo eres para mí.",
+                    "¡Mi Salvador, Jesucristo!",
+                    "¡Cuánto te amo yo!",
+                    "Todo a ti consagro,",
+                    "Cristo Jesús, Señor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -7382,7 +7698,18 @@
         "index": "148",
         "number": 148,
         "title": "Solo Cristo",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Solo Cristo, solo él",
+                    "me redime, me da paz.",
+                    "El anhelo de mi ser",
+                    "tan solo Cristo suplirá."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -7450,7 +7777,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Ven a esta fuente, oh pecador!",
                     "Ponte a los pies de tu Salvador;",
@@ -7534,7 +7861,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Me gozo en alabarle;",
                     "y cuando deje el suelo,",
@@ -7602,7 +7929,19 @@
         "index": "152",
         "number": 152,
         "title": "A ti, Jesús",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "A ti, Jesús, alzaré mi voz,",
+                    "para adorarte, mi Salvador.",
+                    "Acepta hoy, mi Rey y Señor,",
+                    "el humilde don de mi amor",
+                    "en oración."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -7669,7 +8008,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Escuchad las alabanzas",
                     "que se elevan hacia él.",
@@ -7732,7 +8071,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Dios quiera que con los que",
                     "están",
@@ -7850,7 +8189,25 @@
         "index": "157",
         "number": 157,
         "title": "¡Majestad!",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "¡Majestad! ¡Gloria a su Majestad!",
+                    "Dad a Cristo gloria regia, honra y",
+                    "honor.",
+                    "Majestad y autoridad real",
+                    "son del Señor, nuestro gran Rey,",
+                    "Cristo Jesús.",
+                    "Exaltad, magnificad su santo",
+                    "nombre;",
+                    "alabad, glorificad a Cristo el Rey.",
+                    "¡Majestad! ¡Gloria a su Majestad!",
+                    "Pues él murió, resucitó y es el Rey."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -7922,7 +8279,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cuando llegue a todos el",
                     "evangelio",
@@ -8013,7 +8370,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pronto espero unir mi canto",
                     "al triunfante y celestial,",
@@ -8081,7 +8438,26 @@
                     "a las mansiones de su Señor.",
                     "¿Cuándo estas glorias",
                     "llegarán?",
-                    "¡Oh, si ya fuera hoy!",
+                    "¡Oh, si ya fuera hoy!"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "¡Gloria!, ¡gloria!",
+                    "Gozo sin fin traerá.",
+                    "¡Gloria!, ¡gloria!",
+                    "al coronarle Rey.",
+                    "¡Gloria!, ¡gloria!",
+                    "La senda preparad.",
+                    "¡Gloria!, ¡gloria!",
+                    "Cristo viene otra vez."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "3- Fieles a él nos debiera hallar",
                     "si regresara hoy;",
                     "todos velando con gozo y paz",
@@ -8243,7 +8619,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cara a cara, ¡cuán glorioso",
                     "ha de ser así vivir,",
@@ -8312,7 +8688,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Ay! de aquel que no haya ido",
                     "a Jesús ni recibido",
@@ -8376,7 +8752,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Muy pronto Jesús vendrá",
                     "y el mal llegará a su fin:",
@@ -8656,7 +9032,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Entonces nuestro hogar será",
                     "la tierra nueva, eternal;",
@@ -8802,7 +9178,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Del sepulcro los lazos quebranta",
                     "que ataban al pobre mortal;",
@@ -8901,7 +9277,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pasarán los siglos uno tras el otro sin",
                     "cesar,",
@@ -8991,7 +9367,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "El nuevo Edén florecerá",
                     "en hermosura celestial;",
@@ -9301,7 +9677,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Aquí están los que esperan con",
                     "paciencia a Jesús.",
@@ -9833,7 +10209,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cuando amanezca, nos juntaremos",
                     "con redimidos de toda edad.",
@@ -9911,7 +10287,22 @@
         "index": "189",
         "number": 189,
         "title": "Cristo muy pronto vendrá",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Cristo muy pronto vendrá;",
+                    "ya vuelve con poder.",
+                    "Prometió que volverá,",
+                    "y cumplirá.",
+                    "Quiero con Cristo morar",
+                    "por la eternidad.",
+                    "Él me promete en el cielo vivir,",
+                    "pues vida abundante hay allí."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -9978,7 +10369,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Lávame, bendice y salva",
                     "cuerpo, alma, espíritu;",
@@ -10080,7 +10471,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Mi lengua mueve tú,",
                     "que sepa hablar aquí",
@@ -10110,7 +10501,22 @@
         "index": "192",
         "number": 192,
         "title": "Llena mi ser",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Santo Espíritu de Dios,",
+                    "llena tú mi ser.",
+                    "Santo Espíritu de Dios,",
+                    "dame tu poder.",
+                    "Toma mi ser",
+                    "para amoldarlo.",
+                    "Santo Espíritu de Dios,",
+                    "llena tú mi ser."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -10177,7 +10583,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Obra en tus siervos piadosos",
                     "celo, virtud y valor;",
@@ -10309,7 +10715,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Abre mi mente para ver",
                     "más de tu amor y gran poder.",
@@ -10366,7 +10772,27 @@
         "index": "197",
         "number": 197,
         "title": "Dulce Espíritu",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Hay un dulce Espíritu aquí,",
+                    "y yo sé que es el Espíritu de mi Señor.",
+                    "En los rostros veo gozo y paz,",
+                    "y yo sé que está presente el",
+                    "Señor.",
+                    "Dulce presencia del Salvador;",
+                    "permanece aquí, Señor,",
+                    "llénanos con tu amor.",
+                    "Por tus bondades",
+                    "te adoramos hoy;",
+                    "y que al salir de aquí,",
+                    "con nueva vida en ti,",
+                    "llevemos tu amor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -10406,7 +10832,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "A nuestro Padre, celestial;",
                     "al Hijo, autor del bien,",
@@ -10630,7 +11056,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pronto en las nubes volverás;",
                     "necesitamos más fervor;",
@@ -10822,7 +11248,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Dadme la Biblia, luz de vida eterna;",
                     "junto al sepulcro su esplendor alzad;",
@@ -10986,7 +11412,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Por tu santa letra sé",
                     "que con Cristo reinaré.",
@@ -11678,7 +12104,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh! ven a Jesús, infeliz pecador;",
                     "no vagues a ciegas ya más.",
@@ -11813,7 +12239,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Son herederos del porvenir,",
                     "unos sí, otros no;",
@@ -11877,7 +12303,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Los lazos de Satán",
                     "quebranta, pecador,",
@@ -11995,7 +12421,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Sí, mi Jesús, te seguiré.",
                     "Seguiré, seguiré, seguiré.",
@@ -12076,7 +12502,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Hay quienes Jesús ha de resucitar,",
                     "los cuales querrás aquel día",
@@ -12188,7 +12614,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¿Por qué en rumbo siempre",
                     "incierto",
@@ -12208,7 +12634,20 @@
         "index": "228",
         "number": 228,
         "title": "Me buscaréis y me hallaréis",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Me buscaréis y me hallaréis,",
+                    "porque me buscaréis",
+                    "de todo vuestro corazón.",
+                    "Me buscaréis y me hallaréis,",
+                    "porque me buscaréis",
+                    "de todo corazón."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -12391,7 +12830,18 @@
         "index": "232",
         "number": 232,
         "title": "Entrégate en oración",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Puedes hoy con Cristo a solas conversar,",
+                    "él te espera con sincero amor;",
+                    "todas tus lágrimas puede consolar.",
+                    "Entrégate en oración."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -12458,7 +12908,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh, cuán preciosa promesa",
                     "te hace tu buen Salvador!",
@@ -12799,7 +13249,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Limpiarme puedes, yo lo sé,",
                     "vuelvo hoy a ti;",
@@ -12885,7 +13335,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Mi voz contrita tú no desoirás,",
                     "¡ven, gran Libertador!,",
@@ -13019,7 +13469,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Quiero mi senda enderezar,",
                     "libre del mal ser quiero hoy;",
@@ -13079,7 +13529,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Yo quiero ser cual Cristo,",
                     "con humildad vivir;",
@@ -13196,7 +13646,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cúmplase, oh Cristo, tu",
                     "voluntad.",
@@ -13272,7 +13722,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh! mi gran Bienhechor,",
                     "en tentación",
@@ -13356,7 +13806,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Si me guías al gran río",
                     "del Jordán, no temeré;",
@@ -13441,7 +13891,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Toma, oh Dios, mi voluntad,",
                     "y hazla tuya, nada más,",
@@ -13498,7 +13948,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Tal como soy, me aceptarás;",
                     "perdón y alivio me darás,",
@@ -13616,7 +14066,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "No yo, sino él, lo que me falta suple;",
                     "no yo, sino él, da fuerza y sanidad;",
@@ -13691,7 +14141,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Dejo el mundo y sigo a Cristo.",
                     "Confiaré yo en su cruz",
@@ -13775,7 +14225,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "De tu gran amor no comprenderé",
                     "cuál es la profundidad,",
@@ -13854,7 +14304,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Ve cómo paciente te espero aquí.",
                     "Un corazón nuevo pon dentro de mí.",
@@ -13909,7 +14359,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Después, en mansiones de luz",
                     "celestial,",
@@ -13970,7 +14420,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Jesús, tú has prometido",
                     "a todo aquel que va",
@@ -14056,7 +14506,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pronto la trompeta resonará,",
                     "victorioso vendrás, Señor.",
@@ -14147,7 +14597,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Alabanzas sublimes los cielos darán",
                     "cuando vengas glorioso de allí,",
@@ -14346,7 +14796,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh, qué gozo encuentro en Cristo!",
                     "¡Cuánta paz a mi alma da!",
@@ -14579,7 +15029,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh, cuan bendita obra",
                     "de Cristo mi Señor!",
@@ -14745,7 +15195,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Vivo sirviendo, siguiendo al Señor;",
                     "quiero imitar a mi buen Salvador.",
@@ -14807,7 +15257,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Yo confío en ti, Señor,",
                     "mi bendito Salvador,",
@@ -14964,6 +15414,13 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
+                    "### Meditar en Jesús"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Meditar en Jesús ha de ser",
                     "mi afán:",
                     "me amó siendo yo un pecador;",
@@ -14983,7 +15440,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Consultar a Jesús ha de ser",
                     "mi afán,",
@@ -15004,7 +15461,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Predicar a Jesús ha de ser mi afán,",
                     "y Jesús me dará fuerza y poder.",
@@ -15024,7 +15481,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 5,
                 "lines": [
                     "Imitar a Jesús ha de ser mi afán.",
                     "En Jesús quiero mi modelo ver.",
@@ -15159,7 +15616,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "De la espantosa muerte al huir,",
                     "vengo, Jesús, vengo, Jesús;",
@@ -15213,7 +15670,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cuanto yo tengo y soy lo entrego a ti.",
                     "En gozo o aflicción quiero serte fiel.",
@@ -15306,7 +15763,22 @@
         "index": "275",
         "number": 275,
         "title": "Humilde oración",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "En humilde oración",
+                    "quiero dedicar, Señor,",
+                    "mi indigno corazón",
+                    "por completo a ti.",
+                    "Hazme puro, santo y fiel,",
+                    "quiero obedecer tu Ley.",
+                    "Dame amor, bondad y fe,",
+                    "dame tu poder."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -15416,7 +15888,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y mientras viva aquí te serviré;",
                     "pues, por la eternidad, te amaré."
@@ -15719,7 +16191,19 @@
         "index": "283",
         "number": 283,
         "title": "Ven, Señor Jesús",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Ven, Señor Jesús, dirige mi pensar;",
+                    "ven, Señor Jesús, protege mi mirar;",
+                    "ven, Señor Jesús, modela mi hablar;",
+                    "oh, ven, Señor Jesús, mi corazón te",
+                    "entrego."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -15786,7 +16270,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cuando ante el trono, allá,",
                     "completo en él esté,",
@@ -15907,7 +16391,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y cuando del sepulcro ya",
                     "resucitado esté,",
@@ -16052,7 +16536,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Reconciliado por tu morir,",
                     "justificado por tu vivir,",
@@ -16251,7 +16735,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Aunque él se fue, conmigo está",
                     "el fiel Consolador,",
@@ -16594,7 +17078,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Yo sé que me espera corona,",
                     "la cual a los fieles dará;",
@@ -16874,7 +17358,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Guárdame, Señor Jesús,",
                     "para que no caiga;",
@@ -16943,7 +17427,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cristo es mi amante Salvador.",
                     "Por él salvado soy;",
@@ -17034,7 +17518,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Grato es contar la historia",
                     "de todas la mejor,",
@@ -17166,7 +17650,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Consuélome en su larga ausencia",
                     "pensando: Pronto volverá;",
@@ -17317,7 +17801,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Así los hombres de hoy son incapaces",
                     "de dominar sus vicios, su temor;",
@@ -17774,7 +18258,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Oh, mi Señor, que pueda hoy",
                     "sentir cuan seria hora es;",
@@ -18096,7 +18580,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "En su presencia gozaré",
                     "su inmenso amor, su gran bondad;",
@@ -18369,7 +18853,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Tal vez desconfiado, te estás",
                     "preguntando:",
@@ -18455,7 +18939,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Al entrar por las puertas, en la célica",
                     "ciudad,",
@@ -18675,7 +19159,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "El día fausto aguardo yo,",
                     "y sé que pronto llegará;",
@@ -18833,7 +19317,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pronto al río llegaremos,",
                     "nuestra peregrinación",
@@ -19852,7 +20336,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Hay perfecta paz y reposo más allá,",
                     "vamos pronto a nuestro eterno hogar;",
@@ -20048,7 +20532,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Yo tengo hogar, al cual iré,",
                     "desde que salvo soy;",
@@ -20118,7 +20602,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "En el juicio ningún malo,",
                     "por lo tanto, se alzará.",
@@ -20197,7 +20681,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "En mi alma hoy reina gratitud",
                     "y loores a Jesús.",
@@ -20281,7 +20765,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Verelo pronto tal cual es:",
                     "raudal de pura luz;",
@@ -20391,7 +20875,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Gozaos y esperad,",
                     "muy pronto el Juez vendrá;",
@@ -20615,7 +21099,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Gozo es Cristo a mi lado;",
                     "tengo alivio del pecado,",
@@ -20745,7 +21229,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Alma triste, que en rudo conflicto te ves,",
                     "sola y débil, tu senda al seguir,",
@@ -20771,7 +21255,22 @@
         "index": "359",
         "number": 359,
         "title": "Regocijaos siempre",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Regocijaos siempre",
+                    "en Jesús, nuestro Señor.",
+                    "Regocijaos siempre",
+                    "en Jesús, nuestro Señor.",
+                    "Gozaos, gozaos,",
+                    "lo vuelvo a repetir.",
+                    "Gozaos, gozaos,",
+                    "en Jesús, nuestro Señor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -20903,7 +21402,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "En paz con Jesús moraré,",
                     "y cuando a su lado esté",
@@ -21052,7 +21551,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cristo en las nubes volverá,",
                     "a llevarme al hogar;",
@@ -21076,7 +21575,26 @@
         "index": "364",
         "number": 364,
         "title": "Jesús da paz",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Jesús da paz,",
+                    "y derriba cualquier pared",
+                    "de división; nos trae paz.",
+                    "Jesús da paz,",
+                    "y derriba cualquier pared",
+                    "de división; nos trae paz.",
+                    "A él entrega hoy",
+                    "toda tu ansiedad;",
+                    "te cuidará, paz te dará.",
+                    "A él entrega hoy",
+                    "toda tu ansiedad;",
+                    "te cuidará, paz te dará."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -21195,7 +21713,18 @@
         "index": "367",
         "number": 367,
         "title": "Gracias, Dios",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Gracias, Dios, por la salvación;",
+                    "gracias, Dios, por tu gran perdón.",
+                    "Gracias, Dios, por darme a mí",
+                    "la vida eterna, oh ¡gloria a ti!"
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -21264,7 +21793,17 @@
         "index": "369",
         "number": 369,
         "title": "Gratitud y alabanza",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Gracias por tus bendiciones, Señor;",
+                    "te alabamos por todo buen don;",
+                    "gozo llena nuestra alma hoy."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -21310,7 +21849,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Por las dádivas sin par",
                     "que en Cristo tú nos das:",
@@ -21476,7 +22015,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Serás de mi alma el gozo",
                     "aquí donde hay maldad;",
@@ -21920,7 +22459,18 @@
         "index": "381",
         "number": 381,
         "title": "De mañana veo su faz",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "De mañana, veo su faz;",
+                    "en la tarde, me da solaz;",
+                    "siendo oscuro, su voz da luz;",
+                    "por doquiera yo voy con jesús."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -22098,7 +22648,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Es el sitio do Cristo te invita",
                     "a implorar su bondad y perdón.",
@@ -22124,14 +22674,48 @@
         "index": "385",
         "number": 385,
         "title": "Hablando con Jesús",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Hablando con Jesús, todo está muy",
+                    "bien;",
+                    "hablando con Jesús, todo está muy",
+                    "bien.",
+                    "Si es mucho mi penar, lo alabo sin",
+                    "cesar,",
+                    "hablando con Jesús, todo está muy",
+                    "bien."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "386",
         "number": 386,
         "title": "Hay un lugar de paz",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Hay un lugar de paz,",
+                    "de sin igual solaz,",
+                    "do Cristo alivio a mi alma da.",
+                    "Sólo con él allí,",
+                    "lejos del arduo frenesí,",
+                    "le entrego mi ansiedad.",
+                    "Voy al jardín a orar,",
+                    "al monte a meditar",
+                    "y nuevas fuerzas recibir.",
+                    "De allí saldré por fe",
+                    "para servir donde él me lleve,",
+                    "brindando su amor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -22175,7 +22759,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Te debo tributos de amor y de",
                     "gracias",
@@ -22259,14 +22843,47 @@
         "index": "389",
         "number": 389,
         "title": "Conversar con Jesucristo",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Conversar con Jesucristo",
+                    "a través de la oración",
+                    "llena el alma de alegría,",
+                    "trae paz al corazón;",
+                    "y si tú también quisieras",
+                    "esta bendición gozar,",
+                    "dondequiera te encontrares",
+                    "no te olvides de orar."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "390",
         "number": 390,
         "title": "Soy yo, Señor",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Soy yo, soy yo, soy yo, Señor,",
+                    "el que necesita orar.",
+                    "Soy yo, soy yo, soy yo, Señor,",
+                    "el que necesita orar.",
+                    "No es mi madre, ni mi padre,",
+                    "sino yo, Señor,",
+                    "el que necesita orar.",
+                    "No es mi hermano, ni mi",
+                    "hermana,",
+                    "sino yo, Señor",
+                    "el que necesita orar."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -22337,7 +22954,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¿Le importará cuando diga \"adiós\"",
                     "al amigo más caro y fiel,",
@@ -22533,7 +23150,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "\"Si te hallas probado en ardiente",
                     "crisol",
@@ -22687,7 +23304,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y cuando en las nubes descienda",
                     "Jesús,",
@@ -22748,7 +23365,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Tu forma puedo percibir",
                     "en alas de la fe;",
@@ -22848,7 +23465,13 @@
                     "La Roca es Cristo,",
                     "no hay otra igual;",
                     "la Roca es Cristo,",
-                    "no hay otra igual.",
+                    "no hay otra igual."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "[1a y 2a estrofas:] Debes tener",
                     "seguridad",
                     "de que tu ancla en la Roca esté.",
@@ -22858,8 +23481,17 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "La Roca es Cristo,",
+                    "no hay otra igual;",
+                    "la Roca es Cristo,",
+                    "no hay otra igual."
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "En estos tiempos necesitas",
                     "la Santa Biblia, la Palabra.",
@@ -22873,18 +23505,12 @@
                     "La Roca es Cristo,",
                     "no hay otra igual;",
                     "la Roca es Cristo,",
-                    "no hay otra igual.",
-                    "[1a y 2a estrofas:] Debes tener",
-                    "seguridad",
-                    "de que tu ancla en la Roca esté.",
-                    "[3a estrofa:] Seguro estoy, seguro",
-                    "estoy,",
-                    "sé que mi ancla en la Roca está."
+                    "no hay otra igual."
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "En estos tiempos sé que tengo",
                     "un Salvador, un ancla firme.",
@@ -22898,13 +23524,7 @@
                     "La Roca es Cristo,",
                     "no hay otra igual;",
                     "la Roca es Cristo,",
-                    "no hay otra igual.",
-                    "[1a y 2a estrofas:] Debes tener",
-                    "seguridad",
-                    "de que tu ancla en la Roca esté.",
-                    "[3a estrofa:] Seguro estoy, seguro",
-                    "estoy,",
-                    "sé que mi ancla en la Roca está."
+                    "no hay otra igual."
                 ]
             }
         ],
@@ -22964,7 +23584,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Sin destruir la dejará,",
                     "aunque mal de su grado:",
@@ -23111,7 +23731,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "El lóbrego valle no temo cruzar,",
                     "pues tú me guiarás y me harás",
@@ -23270,7 +23890,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Dondequiera afrontaré la noche",
                     "atroz,",
@@ -23400,7 +24020,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Jesús es mi luz, mi todo, mi bien;",
                     "le doy alma y cuerpo y mi mente",
@@ -23551,7 +24171,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¿Tengo flaquezas? o ¿débil estoy?",
                     "Cristo me dice: \"Tu amparo yo soy\".",
@@ -23635,7 +24255,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Él no quiso ver perdida",
                     "mi alma en la maldad;",
@@ -23719,7 +24339,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cuando te quiero, vienes, Jesús,",
                     "y tu presencia muy dulce es;",
@@ -24153,7 +24773,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Oh, dame a mí, Señor, tal fe,",
                     "y, venga bien o mal,",
@@ -24209,7 +24829,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Dame la fe que da el valor,",
                     "que ayuda al débil a triunfar,",
@@ -24410,7 +25030,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Si vienen pruebas o cruel dolor,",
                     "Dios cuidará de ti;",
@@ -24529,7 +25149,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "La misericordia santa",
                     "seguirá la senda mía,",
@@ -24883,14 +25503,55 @@
         "index": "428",
         "number": 428,
         "title": "Su oveja soy",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Junto a aguas tranquilas",
+                    "me apacienta Jesús;",
+                    "juntos andamos al atardecer.",
+                    "Todos somos ovejas",
+                    "de su tierno redil;",
+                    "su oveja soy.",
+                    "Aguas hay, protección,",
+                    "cuando estoy con el Señor",
+                    "Jesús.",
+                    "Soledad, aflicción,",
+                    "ya no temo con Jesús."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "429",
         "number": 429,
         "title": "Él puede",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Él puede, él puede, yo sé que",
+                    "él puede;",
+                    "yo sé que Cristo puede salvarme",
+                    "del mal.",
+                    "Él puede, él puede, yo sé que él",
+                    "puede;",
+                    "yo sé que Cristo puede salvarme",
+                    "del mal.",
+                    "Sanó al quebrantado, al muerto",
+                    "levantó;",
+                    "él hizo al cojo caminar, y al ciego",
+                    "vista dio.",
+                    "Él puede, él puede, yo sé que él",
+                    "puede;",
+                    "yo sé que Cristo puede salvarme",
+                    "del mal."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -24947,7 +25608,27 @@
         "index": "431",
         "number": 431,
         "title": "A él mis problemas le doy",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "A él mis problemas le doy;",
+                    "le traigo mis tristezas,",
+                    "las pongo a sus pies;",
+                    "y cada vez que yo no sé qué debo",
+                    "hacer,",
+                    "yo le doy mis problemas a él.",
+                    "A él mis problemas le doy;",
+                    "le traigo mis tristezas,",
+                    "las pongo a sus pies;",
+                    "y cada vez que yo no sé qué debo",
+                    "hacer,",
+                    "yo le doy mis tristezas al Señor,",
+                    "yo le doy mis problemas a él."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -25235,7 +25916,19 @@
         "index": "437",
         "number": 437,
         "title": "Tu presencia, Padre amado, da consuelo",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Tu presencia, Padre amado,",
+                    "da consuelo, trae paz.",
+                    "Tu presencia, oh Señor,",
+                    "da seguridad al alma.",
+                    "Tu presencia danos hoy."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -25390,7 +26083,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Dame del cielo aquella fe",
                     "que en la tormenta ve la luz.",
@@ -25492,7 +26185,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Solo así feliz seré",
                     "en mi vida espiritual;",
@@ -25618,7 +26311,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Fuente viva de consuelo",
                     "eres para mí;",
@@ -25702,7 +26395,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Más de Jesús allá veré,",
                     "más semejante a él seré,",
@@ -25769,7 +26462,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y cuando en tu mansión vea tu",
                     "faz,",
@@ -25974,7 +26667,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Oye, Cristo, nuestro ruego,",
                     "oye nuestra petición;",
@@ -26030,7 +26723,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cerca, más cerca hasta el fin,",
                     "hasta que ancle en el Puerto de amor,",
@@ -26327,7 +27020,21 @@
         "index": "457",
         "number": 457,
         "title": "More en mí la belleza del Salvador",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "More en mí la belleza del",
+                    "Salvador;",
+                    "su pureza tener pueda y fervor.",
+                    "¡Oh, divino Jesús! toma todo mi",
+                    "ser,",
+                    "y que puedan en mí tu belleza",
+                    "ver."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -26643,7 +27350,27 @@
         "index": "463",
         "number": 463,
         "title": "Mi oración",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Que mi vida, cada día,",
+                    "cada paso que dé",
+                    "sea un cuadro de amor,",
+                    "cual Cristo fue.",
+                    "Y que crezca en Jesús,",
+                    "que conozca",
+                    "más y más de su amor",
+                    "y aumente mi fe.",
+                    "Hasta el día feliz",
+                    "cuando junto a él",
+                    "pueda siempre vivir",
+                    "en su gloria:",
+                    "es mi oración."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -26862,7 +27589,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Siempre el Salvador",
                     "conmigo!",
@@ -27020,7 +27747,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y terminado mi quehacer,",
                     "en mí probado tu poder,",
@@ -27044,7 +27771,20 @@
         "index": "470",
         "number": 470,
         "title": "Guíame, Dios",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Guíame, Dios,",
+                    "guía en tu justicia;",
+                    "tu senda allana frente a mí.",
+                    "Pues solo tú, Dios,",
+                    "solo tú, Dios,",
+                    "me haces vivir confiado."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -27869,7 +28609,30 @@
         "index": "486",
         "number": 486,
         "title": "En los pasos deJesús",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Sigo por el camino angosto al vivir",
+                    "aquí,",
+                    "donde cada paso en falso puede ser",
+                    "mi fin.",
+                    "Pero sigo al frente, siempre pongo",
+                    "yo mis pies",
+                    "sobre las pisadas que Jesús dejó por",
+                    "mí.",
+                    "Sigo hacia donde esta senda me",
+                    "guiará;",
+                    "sé que me llevará hasta el hogar de",
+                    "mi Jesús.",
+                    "Y si detrás de mí viniera alguien",
+                    "como yo,",
+                    "vería solo una huella, pues sigo a mi",
+                    "Jesús."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -27990,7 +28753,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Fiel amigo él es;",
                     "sentareme a sus pies,",
@@ -28354,7 +29117,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Hay quien ya busca el camino del bien.",
                     "Ve y ayúdale hoy.",
@@ -28532,7 +29295,31 @@
         "index": "498",
         "number": 498,
         "title": "Puedes demostrar con tus manos",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Puedes demostrar",
+                    "con tus manos el amor de Cristo;",
+                    "¿lo harás?",
+                    "Verdadero amor",
+                    "es ayudar a los desamparados;",
+                    "¿amarás?",
+                    "Tú y yo debemos ser",
+                    "un ejemplo fiel.",
+                    "Tú y yo tenemos a Dios",
+                    "en el corazón.",
+                    "¿Qué harás?",
+                    "Puedes demostrar",
+                    "con tus manos el amor de Cristo;",
+                    "¿lo harás?",
+                    "Verdadero amor",
+                    "es ayudar a los desamparados;",
+                    "¿amarás? ¿Qué harás?"
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -28577,14 +29364,41 @@
         "index": "500",
         "number": 500,
         "title": "Hazme tu siervo",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Hazme tu siervo, humilde y fiel,",
+                    "que ayude a todos con tu amor.",
+                    "Sea el ruego de mi corazón:",
+                    "hazme tu siervo, quiero escucharte",
+                    "y obedecerte, Señor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
         "index": "501",
         "number": 501,
         "title": "Mi vida al servicio de Dios",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Mi vida al servicio de Dios",
+                    "es el lema que vibra en mi ser.",
+                    "Al lado de Cristo persisto en vivir,",
+                    "y así muy feliz siempre estoy.",
+                    "Andando, sonriendo, sirviendo,",
+                    "cantando al cielo yo voy;",
+                    "pues quiero sentir",
+                    "el placer de vivir por Jesús."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -28689,7 +29503,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Concédeles sabiduría y valor,",
                     "revélales tu voluntad.",
@@ -28737,7 +29551,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Hazme valiente para hablar",
                     "y defender del opresor;",
@@ -28747,7 +29561,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 5,
                 "lines": [
                     "Lléname con tu pleno amor,",
                     "colme tu Espíritu mi ser.",
@@ -28795,7 +29609,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Fija tu vista constante en el Cielo;",
                     "pasa la noche de tribulación;",
@@ -28855,7 +29669,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡De pie, de pie, cristianos!,",
                     "al fin el galardón;",
@@ -29154,7 +29968,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Rudo el conflicto sigue con Satán,",
                     "mas lo venceremos: Cristo es",
@@ -29240,7 +30054,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Por Jesús, más que vencedor",
                     "marcharé, siempre marcharé;",
@@ -29447,7 +30261,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "No temáis, pues de Dios revestidos,",
                     "¿qué enemigo venceros podrá,",
@@ -29509,7 +30323,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Despliegue el cristiano su santa",
                     "bandera",
@@ -29584,7 +30398,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Tronos y coronas pueden perecer;",
                     "de Jesús la iglesia firme ha de ser.",
@@ -29639,7 +30453,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "De pie para vencer,",
                     "oh siervos de su grey;",
@@ -29724,7 +30538,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "El triunfo significa que domine el",
                     "bien,",
@@ -29963,7 +30777,22 @@
                     "Cristo nuevamente vuelve a decir:",
                     "\"Con el diezmo y liberal ofrenda,",
                     "muchos el mensaje hoy podrán oír",
-                    "y hallarán la santa senda\".",
+                    "y hallarán la santa senda\"."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "\"Oh, traedme el diezmo al granero,",
+                    "probadme hoy\", dice Jehová;",
+                    "quien sobre tierras y dinero,",
+                    "bendiciones abundantes pondrá."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "3- Dad a Dios mejor y más completo",
                     "don:",
                     "vuestra vida entera y vuestra",
@@ -30279,7 +31108,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pronto te contemplaremos,",
                     "en las nubes volverás.",
@@ -30452,7 +31281,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Nos hemos de encontrar",
                     "en celestial reunión;",
@@ -30467,7 +31296,21 @@
         "index": "533",
         "number": 533,
         "title": "Cuán bueno y agradable",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "¡Cuán bueno y agradable,",
+                    "ver a hermanos juntos!",
+                    "¡Cuán bueno y agradable,",
+                    "ver a hermanos juntos!",
+                    "Siempre unidos,",
+                    "todos en armonía,",
+                    "los hermanos en fraternal unión."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -30668,7 +31511,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Todo pesar olvido hoy;",
                     "dejo también mi cruel afán.",
@@ -30934,7 +31777,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Y en la Santa Sion",
                     "siempre entonaré",
@@ -31186,7 +32029,25 @@
         "index": "547",
         "number": 547,
         "title": "Sábado es",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Sábado es, sábado es,",
+                    "día del Señor,",
+                    "lo hizo Dios por mí.",
+                    "Me alegraré, me alegraré,",
+                    "en su gran amor,",
+                    "en su gran amor.",
+                    "Sábado es, día del Señor;",
+                    "me alegraré",
+                    "en su gran amor.",
+                    "Sábado es, sábado es,",
+                    "día del Señor."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -31266,7 +32127,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Este descanso de sagrada holgura",
                     "es de las almas celestial festín;",
@@ -31652,7 +32513,21 @@
         "index": "556",
         "number": 556,
         "title": "Yo quiero siempre brillar",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Yo quiero siempre brillar,",
+                    "siempre por Cristo brillar;",
+                    "en un mundo sin luz,",
+                    "quiero ser de Jesús.",
+                    "Yo quiero siempre brillar,",
+                    "siempre por Cristo brillar;",
+                    "hasta su venida en luz."
+                ]
+            }
+        ],
         "revision": 1
     },
     {
@@ -31795,7 +32670,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Salva a tus prójimos; Cristo te ayuda;",
                     "fuerza de Dios será tuya en verdad.",
@@ -31879,7 +32754,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "No te dé temor morir por Cristo:",
                     "vida y verdad es él;",
@@ -31963,7 +32838,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¿Vives ya salvado por Jesús?",
                     "¿Su amor conoces ya?",
@@ -32047,7 +32922,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pronto el Redentor vendrá en gloria,",
                     "las trompetas lo anunciarán;",
@@ -32231,7 +33106,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Pronto la noche viene,",
                     "¡listos a trabajar!;",
@@ -32311,7 +33186,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Tus hijos manda con el gran",
                     "mensaje;",
@@ -32487,7 +33362,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "De cuanto manda Cristo",
                     "no debo yo dudar;",
@@ -32917,12 +33792,18 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Te envío a ti, aunque el sendero pase",
                     "por valles negros de tribulación.",
                     "Se acerca el día en que podré decirte:",
-                    "buen siervo fiel, recibe el galardón.",
+                    "buen siervo fiel, recibe el galardón."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 5,
+                "lines": [
                     "Como el Padre me envió a mí,",
                     "yo te envío a ti."
                 ]
@@ -33041,7 +33922,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Llamadles con amor;",
                     "id, ofrecedles paz.",
@@ -33289,7 +34170,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Anhelo en la luz andar",
                     "sin el mundano error;",
@@ -33434,7 +34315,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Invoquemos la presencia",
                     "del divino Redentor;",
@@ -33482,7 +34363,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Nos llenarán, al salir de aquí,",
                     "su gracia y paz, su gozo y luz.",
@@ -33805,7 +34686,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Aunque me falte fe quiero creer",
                     "que este precioso don quieres tener:",
@@ -33880,7 +34761,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Mi Jesús, te ruego hoy más de ese amor.",
                     "Ya que tuyo siempre soy, dame ese amor.",
@@ -34018,7 +34899,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Un día muy cercano",
                     "iré al hogar celeste,",
@@ -34344,7 +35225,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "¡Oh! Salvador bendito,",
                     "rogamos hoy a ti",
@@ -34428,7 +35309,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Si los niños y las niñas",
                     "acuden a Cristo,",
@@ -34491,7 +35372,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Yo espero aquel día",
                     "venturoso, sin fin,",
@@ -34710,7 +35591,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Cuanto puedas tú hacer,",
                     "Cristo te lo exigirá;",
@@ -34735,6 +35616,16 @@
         "number": 605,
         "title": "Jesús tiene tiempo",
         "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Mientras Jesús enseñaba a la gente,",
+                    "madres traían sus niños a él.",
+                    "\"Salgan, no estorben\", dijeron algunos;",
+                    "\"no tiene tiempo, salid\"."
+                ]
+            },
             {
                 "type": "refrain",
                 "lines": [
@@ -34876,7 +35767,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Una mansión en el cielo",
                     "fue Cristo a preparar;",
@@ -34960,7 +35851,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Con sus fuerzas llevaremos",
                     "muy gozosos nuestra cruz;",
@@ -35068,7 +35959,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Quien venga a la pelea",
                     "su voz escuchará;",
@@ -35160,7 +36051,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Danos una gran tarea;",
                     "la esperamos hoy, Señor.",
@@ -35341,7 +36232,21 @@
         "index": "614",
         "number": 614,
         "title": "Amenes",
-        "lyrics": [],
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Amén.",
+                    "Amén.",
+                    "Amén.",
+                    "Amén, Amén, Amén.",
+                    "Amén.",
+                    "Amén, Amén.",
+                    "Amén."
+                ]
+            }
+        ],
         "revision": 1
     }
 ]
