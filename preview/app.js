@@ -85,27 +85,32 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             "key": "kinyarwanda",
             "title": "Indirimbo Zo Guhimbaza Imana",
-            "language": "Kinyarwanda"
+            "language": "Kinyarwanda",
+            "refrain_label": "Gusubiramo"
         },
         {
             "key": "pt",
             "title": "Hinàrio Adventista Do Sétiomo Dia",
-            "language": "Portuguesa"
+            "language": "Portuguesa",
+            "refrain_label": "Côro"
         },
         {
             "key": "es",
             "title": "Himnario Adventista",
-            "language": "Español"
+            "language": "Español",
+            "refrain_label": "Coro"
         },
         {
             "key": "dg",
             "title": "Donnez-Lui Gloire",
-            "language": "Français"
+            "language": "Français",
+            "refrain_label": "Refrain"
         },
         {
             "key": "ru",
             "title": "Гимн адвентистов седьмого дня",
-            "language": "русский язык"
+            "language": "русский язык",
+            "refrain_label": "Припев"
         },
         {
             "key": "tumbuka",
@@ -122,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "key": "icibemba",
             "title": "Kristu Mu Nyimbo",
             "language": "Icibemba",
-            'refrain_label': "Cibwekesho"
+            "refrain_label": "Cibwekesho"
         }
     ];
 
