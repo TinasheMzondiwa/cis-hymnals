@@ -12448,9 +12448,70 @@
         "index": "213",
         "number": 213,
         "title": "LWIMBO LWANGU",
-        "title_english": "CIINDULULO:",
+        "title_english": "MY SONG:",
         "hymnal_references": "CS 235 AH 257CH 613",
-        "lyrics": []
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Jesu Muvuni wangu, Ndiwe lwimbo lwangu;",
+                    "Ngu Mufutuli wangu, No ndili pengele."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Jesu Muvuni wangu, Ndila ku kwimbila;",
+                    "Ndiwe mukwesu wangu, Jesu Nda kuyanda."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
+                    "Ndiwe kusyoma kwangu, Myaka yonse yonse?",
+                    "Nendi sunkwa kupenga, Nda lila bunene."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Jesu Muvuni wangu, Ndila ku kwimbila;",
+                    "Ndiwe mukwesu wangu, Jesu Nda kuyanda."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Nda kusyoma Muvuni, Musololi wangu;",
+                    "Nda kuyanda bunene, Kwinda nyika yonse."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Jesu Muvuni wangu, Ndila ku kwimbila;",
+                    "Ndiwe mukwesu wangu, Jesu Nda kuyanda."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
+                    "Jesu ngu lwimbo lwangu, Nendi li mu nyika;",
+                    "Jesu Ula kuba lwimbo, Lwangu a ku julu."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Jesu Muvuni wangu, Ndila ku kwimbila;",
+                    "Ndiwe mukwesu wangu, Jesu Nda kuyanda."
+                ]
+            }
+        ]
     },
     {
         "index": "214",
@@ -13470,7 +13531,83 @@
         "title": "JESU ANJILE MUMOYO WAKO",
         "title_english": "CIINDULULO:",
         "hymnal_references": "CS 25",
-        "lyrics": []
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Kuti walemenwa zinyonyono, Jesu anjile mumoyo;",
+                    "Na wabula kufutuka kupya, Jesu anjile mumoyo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Leka kulengaula, Uta musowi Jesu,",
+                    "Lino komujulila, Jesu anjile mumoyo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
+                    "Kuti walilila kusanzigwa, Jesu anjile mumoyo;",
+                    "Matinti alOafwafwi kosamba, Jesu anjile Mumoyo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Leka kulengaula, Uta musowi Jesu,",
+                    "Lino komujulila, Jesu anjile mumoyo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Kuti beenzinyoko bakusiya, Jesu anjile mumoyo;",
+                    "Jesu uya kuba mwenzinyoko, Jesu anjile mumoyo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Leka kulengaula, Uta musowi Jesu,",
+                    "Lino komujulila, Jesu anjile mumoyo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
+                    "Nyimbo zya cipego nociimba, Jesu anjile mumoyo;",
+                    "Kunjila mu maanda abwami, Jesu anjile mumoyo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Leka kulengaula, Uta musowi Jesu,",
+                    "Lino komujulila, Jesu anjile mumoyo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 5,
+                "lines": [
+                    "Na wayanda kwiimba aba Jesu, Leka anjile mumoyo;",
+                    "Na wayanda maanda a bwami, Jesu anjile mumoyo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Leka kulengaula, Uta musowi Jesu,",
+                    "Lino komujulila, Jesu anjile mumoyo."
+                ]
+            }
+        ]
     },
     {
         "index": "232",
@@ -15043,7 +15180,68 @@
         "title": "HENA TUYA KUSWAANGANA",
         "title_english": "CIINDULULO:",
         "hymnal_references": "CS 921 AH 431CH 557",
-        "lyrics": []
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Tula kuswana mulonga, Kuli kuumuna lyonse,",
+                    "Kuli kusalala lyonse, Myoyo ilakomana."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tula ku swangana, Kumulonga wa kujulu,",
+                    "Tula kuswana O mulonga, Kuli kuumuna lyonse."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
+                    "Tula kuswana acito, Lwendo lwesu lwamana,",
+                    "Ula tulindila Mwami, Kwitala amulonga."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tula ku swangana, Kumulonga wa kujulu,",
+                    "Tula kuswana O mulonga, Kuli kuumuna lyonse."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
+                    "Tula kuswana ku munzi, Manda alamwekesya,",
+                    "Bwanda bwa munzi mbubotu, Bwakayakwa anguwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tula ku swangana, Kumulonga wa kujulu,",
+                    "Tula kuswana O mulonga, Kuli kuumuna lyonse."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
+                    "Tula kuswana a Klistu naya, Kutola bakwe,",
+                    "Tukazyibe luse lwakwe, Tukakale anguwe."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Tula ku swangana, Kumulonga wa kujulu,",
+                    "Tula kuswana O mulonga, Kuli kuumuna lyonse."
+                ]
+            }
+        ]
     },
     {
         "index": "260",
