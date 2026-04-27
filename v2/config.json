@@ -120,5 +120,11 @@
         "title": "Kristu Mu Nyimbo",
         "language": "Icibemba",
         "refrain_label": "Cibwekesho"
+    },
+    {
+        "key": "twi",
+        "title": "SDA Twi Hymnal",
+        "language": "Twi",
+        "refrain_label": "Nnyeso"
     }
 ]
