@@ -26548,15 +26548,6 @@
     "title": "Je ne suis qu'un vase",
     "lyrics": [
       {
-        "type": "refrain",
-        "lines": [
-          "Je ne suis qu'un vase entre tes mains",
-          "Vase d'argile que tu as façonné.",
-          "Je ne suis qu'un vase entre tes mains.",
-          "Vase fragile entre les mains du potier."
-        ]
-      },
-      {
         "type": "verse",
         "index": 1,
         "lines": [
@@ -26569,9 +26560,9 @@
       {
         "type": "refrain",
         "lines": [
-          "Je ne suis qu'un vase entre tes mains",
+          "Je ne suis qu'un vase entre tes mains,",
           "Vase d'argile que tu as façonné.",
-          "Je ne suis qu'un vase entre tes mains.",
+          "Je ne suis qu'un vase entre tes mains,",
           "Vase fragile entre les mains du potier."
         ]
       }
