@@ -3,6 +3,7 @@
         "index": "001",
         "number": 1,
         "title": "CHAYA MHALAMHALA WENA",
+        "title_english": "Watchman, Blow The Gospel Trumpet",
         "lyrics": [
             {
                 "type": "verse",
@@ -60,13 +61,13 @@
                     "Wena Chaya Mhalamhala, U Yi Chaya Swinene, Xikwembu Xi Ri Yi Chaye, Ku Ta Pona Vanyingi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "002",
         "number": 2,
         "title": "HOSI YESU U LE NYANGWEN’",
+        "title_english": "THE COMING KING IS AT THE DOOR",
         "lyrics": [
             {
                 "type": "verse",
@@ -124,13 +125,13 @@
                     "Enyangwen, Enyangwen, Hosi Yesu U le Nyangwen; Yesu Wa Ta, Yesu Wa Ta, Yesu U le Nyangwen."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "003",
         "number": 3,
         "title": "HI TA VONANA HI MAHLO",
+        "title_english": "FACE TO FACE WITH MY SAVIOUR",
         "lyrics": [
             {
                 "type": "verse",
@@ -188,13 +189,13 @@
                     "Hi Ta Vonana Hi Mahlo, Ndzhaku ka Tinyeleti, Eku Kwetsimeni Kakwe, Hi N’wi Vona Hi Mahlo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "004",
         "number": 4,
         "title": "SWA NANDZIHA NGOPFU",
+        "title_english": "HOW SWEET ARE THE TIDINGS",
         "lyrics": [
             {
                 "type": "verse",
@@ -256,13 +257,13 @@
                     "Vatsendzeleki Va Kuma Vutshamo, Loko Hosi Yi Ta Fika."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "005",
         "number": 5,
         "title": "I KULE XANA EKAYA",
+        "title_english": "HOW FAR FROM HOME",
         "lyrics": [
             {
                 "type": "verse",
@@ -297,13 +298,13 @@
                     "Sula Mihloti Mahlweni, Ya Wena U Tsaka. Sweswi U Nga Ha Vileri, Hi Ta Ya Hlangana Kona. Ku Herile Wo Maxangu, Kwale Etilweni."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "006",
         "number": 6,
         "title": "PFUKANI VAHLAWURIWA",
+        "title_english": "WATCH, YE SAINTS",
         "lyrics": [
             {
                 "type": "verse",
@@ -375,13 +376,13 @@
                     "Wa Vuya Yesu Kambe, U Ta Fika Na Vukosi; U Ta Fuma Matiko, Wa Vuya Yesu Kambe."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "007",
         "number": 7,
         "title": "LOKO KU TA FIKA NKARHI",
+        "title_english": "WHEN HE COMETH",
         "lyrics": [
             {
                 "type": "verse",
@@ -428,13 +429,13 @@
                     "Va Kwetsima Swonghasi, Na To Tiharhi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "008",
         "number": 8,
         "title": "MHALAMHALA YA XIKWEMBU",
+        "title_english": "WHEN THE TRUMPET",
         "lyrics": [
             {
                 "type": "verse",
@@ -481,13 +482,13 @@
                     "Va Vitaniwa Henhla Nta Va Kona."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "009",
         "number": 9,
         "title": "CHAYANI MHALAMHALA SWINENE",
+        "title_english": "LIFT UP THE TRUMPET",
         "lyrics": [
             {
                 "type": "verse",
@@ -564,13 +565,13 @@
                     "Yesu Wa Vuya Kambe."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "010",
         "number": 10,
         "title": "HI TA HLANGANA HAMBYENI",
+        "title_english": "SHALL WE GATHER AT THE RIVER",
         "lyrics": [
             {
                 "type": "verse",
@@ -628,13 +629,13 @@
                     "Hi Ta Hlangana Nambyeni, Wona Nambu Lowu Wo Saseka; Hi Ta Ya Hlangana Kona, Xiluvelweni Xa Hosi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "011",
         "number": 11,
         "title": "NDZI TA KU LANDZELA HOSI",
+        "title_english": "I WILL FOLLOW THEE MY SAVIOUR",
         "lyrics": [
             {
                 "type": "verse",
@@ -706,13 +707,13 @@
                     "Ndzi Ta Ku Landzela Hosi, Wena La Ndzi Feleke, Hambi Van’wana Va Ala, Ina Nta Ku Landzela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "012",
         "number": 12,
         "title": "KU NA XIHLOVO",
+        "title_english": "THERE’S POWER",
         "lyrics": [
             {
                 "type": "verse",
@@ -763,13 +764,13 @@
                     "Hi Ta Khensa Hi Tinsimu Hi Dzuna Xikwembu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "013",
         "number": 13,
         "title": "HOSI, NDZI RHANDZA KU VA LA TENGEKE",
+        "title_english": "LORD JESUS, I LONG TO BE PERFECTLY WHOLE",
         "lyrics": [
             {
                 "type": "verse",
@@ -827,13 +828,13 @@
                     "Ku Tlurisa Yona Gamboko, Ndzi Basise Ku Tlula Na Gamboko."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "014",
         "number": 14,
         "title": "YINGISANI MALI",
+        "title_english": "HEAR THE PENNIES DROPPING",
         "lyrics": [
             {
                 "type": "verse",
@@ -891,13 +892,13 @@
                     "Ngece, Ngece, Ngece, Ngece, Xibyeni Xakwe; I Ya Hosi Yesu, Yi Ya Ka Yena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "015",
         "number": 15,
         "title": "YESU U NDZI RHANDZILE",
+        "title_english": "JESUS LOVES ME!",
         "lyrics": [
             {
                 "type": "verse",
@@ -959,19 +960,19 @@
                     "Ee! Wa Ndzi Rhandza, Ku Vula Bibele."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "016",
         "number": 16,
         "title": "NDZI HLAMBILE MANDLA",
+        "title_english": "I WASHED MY HANDS",
         "lyrics": [
             {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "1.Ndzi Hlambile Mandla, Ya Basile Swinene;",
+                    "Ndzi Hlambile Mandla, Ya Basile Swinene;",
                     "Ndzima Nyika Yesu, Kuva Switirho Swakwe."
                 ]
             },
@@ -1012,13 +1013,13 @@
                     "Ndzi Yiseni Hinkwaswo; Ku Nga Na Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "017",
         "number": 17,
         "title": "HINA HI NA WO NTSAKO",
+        "title_english": "TIS LOVE THAT MAKES US HAPPY",
         "lyrics": [
             {
                 "type": "verse",
@@ -1038,7 +1039,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Kambe Yona Misava, Yi Tele Makhombo,",
+                    "Kambe Yona Misava, Yi Tele Makhombo,",
                     "Hi Ta Twarisa Rirhandzu, Marito Ya Hosi"
                 ]
             },
@@ -1052,7 +1053,7 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Yesu U Na Vutomi Nala Wa Lovisa,",
+                    "Yesu U Na Vutomi Nala Wa Lovisa,",
                     "Ndzita N’wi Dzunisa Yesu, Minkarhi Hinkwayo."
                 ]
             },
@@ -1062,13 +1063,13 @@
                     "I Yesu Hosi Ya Rirhandzu, Ka Yesu Hi Kuma Ntsako, Hina Hina Wo Ntsako, Ntsako Wa Rirhandzu, Hi Rona Leri Fumaka, Vutomi Bya Hina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "018",
         "number": 18,
         "title": "YANANI MAHLWENI",
+        "title_english": "ONWARD CHRISTIAN SOLDIER",
         "lyrics": [
             {
                 "type": "verse",
@@ -1140,13 +1141,13 @@
                     "Yanani Mahlweni, Na Xihambano! Xa Yesu Muhluri, N’wina Tinhenha!"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "019",
         "number": 19,
         "title": "TIYISA MOYA WANGA",
+        "title_english": "MY SOUL BE ON YOUR GUARD",
         "lyrics": [
             {
                 "type": "verse",
@@ -1172,13 +1173,13 @@
                     "Nyimpfi Yo Yi Ta Hela; U Ta Kuma Yo Harhi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "020",
         "number": 20,
         "title": "PFUKA, TIYA MOYA WANGA",
+        "title_english": "AWAKE, MY SOUL",
         "lyrics": [
             {
                 "type": "verse",
@@ -1192,7 +1193,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Xikwembu Xa Ku Vitana; Hi Rito Ra Xona;",
+                    "Xikwembu Xa Ku Vitana; Hi Rito Ra Xona;",
                     "Hi Yena A Hakelaka, Loyi A Hlulaka."
                 ]
             },
@@ -1200,7 +1201,7 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Varhumiwa Va Xikwembu, Va Ku Langutile;",
+                    "Varhumiwa Va Xikwembu, Va Ku Langutile;",
                     "Rivala Leswi Hundzeke, Kongoma Mahlweni."
                 ]
             },
@@ -1208,17 +1209,17 @@
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "4.Muponi Musunguri, Wa Rendzo Ra Hina;",
+                    "Muponi Musunguri, Wa Rendzo Ra Hina;",
                     "Hi Ta Kuma Eka Yena, Hakelo Ya Hina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "021",
         "number": 21,
         "title": "NDZI TA XIHAMBANWENI",
+        "title_english": "I AM COMING TO THE CROSS",
         "lyrics": [
             {
                 "type": "verse",
@@ -1291,13 +1292,13 @@
                     "Ndzi Tshemba Wena Hosi, Nyimpfana Ya Khalivhari; Ndzi Khinsame Milengeni, Ya Wena Ndzi Ponisi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "022",
         "number": 22,
         "title": "NDZI TWA NKATEKO WA TSHONA",
+        "title_english": "LORD, I HEAR OF SHOWERS OF BLESSING",
         "lyrics": [
             {
                 "type": "verse",
@@ -1355,13 +1356,13 @@
                     "Ka Mina, Ka Mina, Wu Nise Ne Ka Mina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "023",
         "number": 23,
         "title": "MOYA WOKWETSIMA HLANTSWA MBILU YA MINA",
+        "title_english": "HOVER O’ER HOLY SPIRIT",
         "lyrics": [
             {
                 "type": "verse",
@@ -1419,13 +1420,13 @@
                     "Ndzi Tate, Ndzi Tate, Yesu Ndzi Tate Sweswi; Ndzi Tate Hiku Kwetsima, Aku Tshame Ka Mina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "024",
         "number": 24,
         "title": "MINKARHI HINKWAYO",
+        "title_english": "I NEED THEE EVERY HOUR",
         "lyrics": [
             {
                 "type": "verse",
@@ -1444,7 +1445,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Minkarhi Hinkwayo, Tshama Ekusuhi, U Heta Miringi Matimba Ya Yona."
+                    "Minkarhi Hinkwayo, Tshama Ekusuhi, U Heta Miringi Matimba Ya Yona."
                 ]
             },
             {
@@ -1457,7 +1458,7 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Minkarhi Hinkwayo, Ntsakwen’ Swivavini Vutomi Bya Phyama, Ehandle Ka Wena."
+                    "Minkarhi Hinkwayo, Ntsakwen’ Swivavini Vutomi Bya Phyama, Ehandle Ka Wena."
                 ]
             },
             {
@@ -1470,7 +1471,7 @@
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "4.Minkarhi Hinkwayo, Ndzi Enerisiwa",
+                    "Minkarhi Hinkwayo, Ndzi Enerisiwa",
                     "Hi Vudyoho, Rirhandzu Nkateko Wa Wena."
                 ]
             },
@@ -1484,7 +1485,7 @@
                 "type": "verse",
                 "index": 5,
                 "lines": [
-                    "5.Minkarhi Hinkwayo, Wena Wo Kwetsima! Ndzi Endle Wa Wena, Yesu Mukutsuri."
+                    "Minkarhi Hinkwayo, Wena Wo Kwetsima! Ndzi Endle Wa Wena, Yesu Mukutsuri."
                 ]
             },
             {
@@ -1493,13 +1494,13 @@
                     "Hi Minkarhi Hinkwayo, Ndzi Navela Wena Ndzi Katekise Yesu, Ndzi Wa Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "025",
         "number": 25,
         "title": "HINKWASWO NDZA SWO NYIKETA",
+        "title_english": "ALL TO JESUS I SURRENDER",
         "lyrics": [
             {
                 "type": "verse",
@@ -1557,13 +1558,13 @@
                     "Ndza Swi Nyiketa, Hinkwaswo Hosi; Eka Wena Muponisi, Ndza Swi Nyiketa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "026",
         "number": 26,
         "title": "NA LOKO NDZI NGA RI NA NCHUMU",
+        "title_english": "JUST AS I AM",
         "lyrics": [
             {
                 "type": "verse",
@@ -1613,13 +1614,13 @@
                     "Ku Hlule Rirhandzu Raku, Nyimpfana Yo Xonga Ndza Ta."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "027",
         "number": 27,
         "title": "HA KU DZUNISA HOSI",
+        "title_english": "REVIVE US AGAIN",
         "lyrics": [
             {
                 "type": "verse",
@@ -1691,13 +1692,13 @@
                     "Aleluya Wa Kwetsima, Aleluya Amen! Aleluya, Wa Kwetsima. Hi Pfuxelele."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "028",
         "number": 28,
         "title": "TANA KA XIKWEMBU HOSI YA HINA",
+        "title_english": "TAKE TIME TO BE HOLY",
         "lyrics": [
             {
                 "type": "verse",
@@ -1711,7 +1712,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Tana Ka Xikwembu, U Nga Ha Hlweri; U Va Na Xikwembu, Hi Xikhongelo;",
+                    "Tana Ka Xikwembu, U Nga Ha Hlweri; U Va Na Xikwembu, Hi Xikhongelo;",
                     "U Na Xikombiso Hi Yena Yesu, Teka Ntila Wakwe U Ta Ya Fika."
                 ]
             },
@@ -1719,7 +1720,7 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Tana Ka Xikwembu I Mukutsuri,",
+                    "Tana Ka Xikwembu I Mukutsuri,",
                     "U Tshembha Ka Xona Eka Hinkwaswo; Hambi Ku Tsakeni Ne Makhombyeni, Tshembha Rito Rakwe Hi Xo Xitlhangu."
                 ]
             },
@@ -1727,17 +1728,17 @@
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "4.Tana Ka Xikwembu U Rhula Mbilu, Nyiketa Hinkwayo Mbilu Ya Wena;",
+                    "Tana Ka Xikwembu U Rhula Mbilu, Nyiketa Hinkwayo Mbilu Ya Wena;",
                     "Ku Na Xitshembiso Xa Yona Hosi, Hi Xona Xihlovo Xa Byo Vutomi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "029",
         "number": 29,
         "title": "XWANA HOSI HIKUVA RI HLWILE",
+        "title_english": "ABIDE WITH ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -1779,13 +1780,13 @@
                     "Nta Kuma Mani Loka Nga Ri Wena, Xwana Yesu U Tshama Na Mina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "030",
         "number": 30,
         "title": "DYAMBU RI LE KU PELEN",
+        "title_english": "DAY IS DYING IN THE WEST",
         "lyrics": [
             {
                 "type": "verse",
@@ -1848,13 +1849,13 @@
                     "Ya Fumo Wa Matilo, Wa Dzuniwa, Wena Hosi Ya Hina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "031",
         "number": 31,
         "title": "MUPONISI DYAMBU RANGA",
+        "title_english": "SUN OF MY SOUL",
         "lyrics": [
             {
                 "type": "verse",
@@ -1888,13 +1889,13 @@
                     "Hi Rirhandzu Raku Hosi, Ndzi Ta Fika Etilweni"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "032",
         "number": 32,
         "title": "HOSI I N’WINI WA HINA",
+        "title_english": "THE LORD IS OUR ROCK",
         "lyrics": [
             {
                 "type": "verse",
@@ -1951,13 +1952,13 @@
                     "Khokholo Lera Matimba, Xisirhelelo Vudyohwen Mufambisi Ku Ya Ekaya, Yeso Khokholo Ra Hina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "033",
         "number": 33,
         "title": "NDZI FAMBISE WENA HOSI",
+        "title_english": "HE LEADETH ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -2015,13 +2016,13 @@
                     "Ndzi Fambise N’wini Wanga, Hosi Yesu Ndzi Fambise, Ndzi Nyiketa Mbilu Yanga, Ina Hosi Ndzi Fambise."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "034",
         "number": 34,
         "title": "LOKO NDZI NGA FAMBA EKU RHULENI",
+        "title_english": "WHEN PEACE LIKE A RIVER",
         "lyrics": [
             {
                 "type": "verse",
@@ -2083,13 +2084,13 @@
                     "Hi Swona Rhula Moya Wanga."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "035",
         "number": 35,
         "title": "KU NA VUNGHANA NA WONA NTSAKO",
+        "title_english": "WHAT A FELLOWSHIP, WHAT A JOY",
         "lyrics": [
             {
                 "type": "verse",
@@ -2138,13 +2139,13 @@
                     "(Tana Ka Yesu, Tana Ka Yesu) Uta Kuma Ku Hlayiseka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "036",
         "number": 36,
         "title": "NDZI LANGUTE WENA",
+        "title_english": "MY FAITH LOOKS UP TO THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -2171,13 +2172,13 @@
                     "Sula Mihloti, Ndza Lahleka U Nga Ndzi Tshiki"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "037",
         "number": 37,
         "title": "KUSUHI NA WENA, HOSI YANGA",
+        "title_english": "NEARER, MY GOD TO THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -2219,13 +2220,13 @@
                     "Ndzi Ta Yimbelela, Kusuhi Na Hosi, Kusuhi Na Wena, Ndzi Ta Wisa"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "038",
         "number": 38,
         "title": "YIMAN’ MI TIYA EKA XIKWEMBU",
+        "title_english": "FIRMLY STAND FOR GOD",
         "lyrics": [
             {
                 "type": "verse",
@@ -2272,13 +2273,13 @@
                     "Loko Hi Hlurile Hi Ta Hlangana, Mahlweni Ka Xiluvelo"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "039",
         "number": 39,
         "title": "NDZI TSHEMBILE YESU NTSENA",
+        "title_english": "MY HOPE IS BUILT ON NOTHING LESS",
         "lyrics": [
             {
                 "type": "verse",
@@ -2336,13 +2337,13 @@
                     "Yesu Kreste I Khokholo. Hinkwaswo-nkwaswo Swa Hundza, Hinkwaswo Leswi Swa Hundza."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "040",
         "number": 40,
         "title": "ENDLELEN YA HOSI",
+        "title_english": "WHEN WE WALK WITH THE LORD",
         "lyrics": [
             {
                 "type": "verse",
@@ -2415,13 +2416,13 @@
                     "Pfumelani, A Ku Na Yin’wana, Ndlela Yo Ya Ka Yeso Handle Ko Pfumela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "041",
         "number": 41,
         "title": "XIKWEMBU A XI MI HLAYISE",
+        "title_english": "GOD BE WITH YOU!",
         "lyrics": [
             {
                 "type": "verse",
@@ -2480,13 +2481,13 @@
                     "Loko Hita Hlangana Kambe, Emahlweni Ka Xinyimpfana, Loko Hi Ta Hlangana Kambe, Hosi A Yi Mi Sirhelele."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "042",
         "number": 42,
         "title": "NTSAKO WA NHLANGANO",
+        "title_english": "WITH FRIENDS ON EARTH",
         "lyrics": [
             {
                 "type": "verse",
@@ -2530,13 +2531,13 @@
                     "Etilweni A Ku Hambaniwi, Hambaniwi Tikweni Ra Wona Ntsako, A Ku Hambaniwi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "043",
         "number": 43,
         "title": "ETLELA KA HOSI YESU",
+        "title_english": "ASLEEP IN JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -2570,13 +2571,13 @@
                     "Masirha Ma Ta Pfuleka, Ku Ku Nghenisa Vuton’wini"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "044",
         "number": 44,
         "title": "LOKO NTIRHO WANGA SE WU FIKILE MAKUMU",
+        "title_english": "WHEN MY LIFE’S-WORK IS ENDED",
         "lyrics": [
             {
                 "type": "verse",
@@ -2634,13 +2635,13 @@
                     "Ndzi Ta N’wi Tiva, Ndzi Ta N’wi Tiva, Ndzi Ta N’wi Tiva, Ndzi Ponisiwile, Ndzi Ta N’wi Tiva, Ndzi Ta N’wi Tiva, Hi Timbanga Mavokweni Yakwe."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "045",
         "number": 45,
         "title": "NDZI HE BIBELE",
+        "title_english": "GIVE ME THE BIBLE",
         "lyrics": [
             {
                 "type": "verse",
@@ -2698,13 +2699,13 @@
                     "Ndzi He Bibele Hungu Ro Kwetsima, Rivoningo Ndleleni Ya Mina Xitshembiso Ni Nawu Swi Hlangana, Ku Fikela Vusiku Byi Hundza."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "046",
         "number": 46,
         "title": "ENGETA U YIMBELELA",
+        "title_english": "SING THEM OVER AGAIN",
         "lyrics": [
             {
                 "type": "verse",
@@ -2752,13 +2753,13 @@
                     "I Marito Ya Vutomi, Layo Hlamarisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "047",
         "number": 47,
         "title": "ERIBUWEN RA YORDANI",
+        "title_english": "ON JORDAN’S STORMY BANKS",
         "lyrics": [
             {
                 "type": "verse",
@@ -2816,13 +2817,13 @@
                     "Hi Ta Wisa Kaya Ra Ntsako…. (Ra Ntsako) Ntsungen Wa Ribuwa Ra Rihlaza; Hi Yimba Risimu Ra Muxe Na Yesu, Ni Ku Tshama Na Nyimpfana"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "048",
         "number": 48,
         "title": "EMAKUN’WINI HI TA TSAKA",
+        "title_english": "O THERE’LL BE JOY",
         "lyrics": [
             {
                 "type": "verse",
@@ -2866,13 +2867,13 @@
                     "Ntsa…ko Ku Ta Va Ni Ntsako, Ntsa…ko Lowu Nga Heriki; Vatshoveri Va Ta Tsaka, Va Hlangana Ekaya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "049",
         "number": 49,
         "title": "SWITSUNDZUXO SWAKWE",
+        "title_english": "ONE SWEETLY SOLEMN THOUGHT",
         "lyrics": [
             {
                 "type": "verse",
@@ -2919,13 +2920,13 @@
                     "Ku Hundza Eku Sunguleni"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "050",
         "number": 50,
         "title": "TIKO RA XIKWEMBU RI KONA",
+        "title_english": "THERE’S A LAND THAT IS FAIRER THAN DAY",
         "lyrics": [
             {
                 "type": "verse",
@@ -2969,13 +2970,13 @@
                     "Ku Tsakeni,…… Enkhubyen, (Ku Tsaken)(Enkhubyen) Hi Ta Hlengeletana Kona; Entsakwen…… Enkhubyen, (Entsakwen)(Enkhubyen) Hi Ta Hlengeletana Tilweni!"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "051",
         "number": 51,
         "title": "HI KHUVULE HI VUNTSHWA",
+        "title_english": "BAPTIZE US ANEW",
         "lyrics": [
             {
                 "type": "verse",
@@ -3031,13 +3032,13 @@
                     "Ha Ku Kombela Wena Hosi Yesu, Hi Moya Na Ro Rirhandzu Hi Khuvule."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "052",
         "number": 52,
         "title": "XIHLOVO XA MINKATEKO",
+        "title_english": "COME, THOU FOUNT OF EVERY BLESSING",
         "lyrics": [
             {
                 "type": "verse",
@@ -3066,13 +3067,13 @@
                     "Ndzi Nga Lahleka Ndzi Suka Malwandleni Ya Wena, Hikwalaho Teka Mbilu Yanga Yesu Yi Funghe."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "053",
         "number": 53,
         "title": "WENA MOYA WA HOSI MUCHAVELERI WANGA",
+        "title_english": "HOLY SPIRIT, FAITHFUL GUIDE",
         "lyrics": [
             {
                 "type": "verse",
@@ -3101,13 +3102,13 @@
                     "Hi Ngati Ya Nyimpfana, U Vita Mutsendzeleki Tana Hi Ya Ekaya"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "054",
         "number": 54,
         "title": "LEXI NDZI XI NAVELAKA",
+        "title_english": "ONE THING I KNOW OF THE LORD",
         "lyrics": [
             {
                 "type": "verse",
@@ -3165,13 +3166,13 @@
                     "Ndzi Basise Embilwini, Na Loko Ku Ri Wo Ndzilo, Ntsena Loko Xo Xidyoho, Xi Herisiwa Ka Mina"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "055",
         "number": 55,
         "title": "XANA U PFA KA YESU KU HLANTSWIWA?",
+        "title_english": "HAVE YOU BEEN TO JESUS?",
         "lyrics": [
             {
                 "type": "verse",
@@ -3233,13 +3234,13 @@
                     "Xana Tindlela Taku Ti Tengile? U Hlambile Ngatin Ya Nyimpfana?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "056",
         "number": 56,
         "title": "HOSI A NDZI LAHLEKILE",
+        "title_english": "I’VE WONDERED FAR AWAY FROM GOD",
         "lyrics": [
             {
                 "type": "verse",
@@ -3316,13 +3317,13 @@
                     "Ndzi Amukele We Hosi, Hosi Ndza Vuya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "057",
         "number": 57,
         "title": "LA YINGISAKA A HUWELELE",
+        "title_english": "WHOSOEVER HEARTH",
         "lyrics": [
             {
                 "type": "verse",
@@ -3372,13 +3373,13 @@
                     "Tatana U Vitana Mutsendzeleki, La Swirhandzaka A Te."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "058",
         "number": 58,
         "title": "DZUNISANI MATIMBA YA YESU",
+        "title_english": "ALL HAIL THE POWER OF JESUS NAME",
         "lyrics": [
             {
                 "type": "verse",
@@ -3413,13 +3414,13 @@
                     "Hi La Ku Nga Heriki Va N’wi Mbexa Yo Harhi Hi La Ku Nga Heriki Va N’wi Mbexa Yo Harhi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "059",
         "number": 59,
         "title": "YESU, LA NDZI RHANDZAKA",
+        "title_english": "JESUS, LOVER OF MY SOUL",
         "lyrics": [
             {
                 "type": "verse",
@@ -3456,13 +3457,13 @@
                     "Ndzi Tshike Ndzi Ta Ta Nwa Ndzi Susa Torha Mbilwin Hi Masiku Hinkwawo"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "060",
         "number": 60,
         "title": "YESU, NTSAKO WA MINA",
+        "title_english": "JESUS, THOU JOY OF LOVING HEARTS",
         "lyrics": [
             {
                 "type": "verse",
@@ -3504,13 +3505,13 @@
                     "U Hi Nyika Ku Rhula Emoyeni, Susa Wona Munyama Wa Vudyoho, Voninga Misava Hinkwayo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "061",
         "number": 61,
         "title": "NDZI RHANDZA KU TIVA YESU",
+        "title_english": "MORE ABOUT JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -3572,13 +3573,13 @@
                     "Mahungu Ya Muponisi, Yena Loya Ndzi Feleke."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "062",
         "number": 62,
         "title": "YESU NDZA KU RHANDZA",
+        "title_english": "MY JESUS I LOVE THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -3615,13 +3616,13 @@
                     "Na Kona Sweswi Ndza Ku Rhandza Ngopfu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "063",
         "number": 63,
         "title": "NCINI XO SUSA SWIVI?",
+        "title_english": "WHAT CAN WASH AWAY MY SIN?",
         "lyrics": [
             {
                 "type": "verse",
@@ -3699,13 +3700,13 @@
                     "Ku Hava Kun’wana, Ntsena Ngatin Ya Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "064",
         "number": 64,
         "title": "U NI NDZHWALO MBILWINI YA WENA?",
+        "title_english": "ARE YOU WEARY?",
         "lyrics": [
             {
                 "type": "verse",
@@ -3767,13 +3768,13 @@
                     "A Ku Na Un’wana Nakulorhi, Tivisa Yesu Ntsena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "065",
         "number": 65,
         "title": "SWINENE KU TSHEMBA YESU",
+        "title_english": "TIS SO SWEET TO TRUST IN JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -3835,13 +3836,13 @@
                     "I Ntsako Ku N’wi Tshemba."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "066",
         "number": 66,
         "title": "SIKU LERO HLAWULEKA",
+        "title_english": "O HAPPY DAY! THAT FIXED MY CHOICE",
         "lyrics": [
             {
                 "type": "verse",
@@ -3918,13 +3919,13 @@
                     "A Tlhela A Ndzi Dyondzisa Ku Hanya Hi Ku Khongela I Siku Ra Ntsako Loko Yesu A Ndzi Hlantswa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "067",
         "number": 67,
         "title": "TANANI KA HOSI HI KOMBISA NTSAKO",
+        "title_english": "COME WE THAT LOVE THE LORD",
         "lyrics": [
             {
                 "type": "verse",
@@ -3986,13 +3987,13 @@
                     "Hi Tlhandlukela Siyoni (Hi Kongomile Esiyoni) Kwale Kaya Ka Tatana."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "068",
         "number": 68,
         "title": "NDZI KUTSURIWE HI YESU",
+        "title_english": "REDEEMED! HOW I LOVE TO PROCLAIM IT",
         "lyrics": [
             {
                 "type": "verse",
@@ -4074,13 +4075,13 @@
                     "(Ya Kutsula, Ya Kutsula) Ndzi Wa Yena Hi Masiku."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "069",
         "number": 69,
         "title": "HI TA WISA KWALE MATINI",
+        "title_english": "WE’LL TARRY BY THE LIVING WATERS",
         "lyrics": [
             {
                 "type": "verse",
@@ -4127,13 +4128,13 @@
                     "Xihlovo Xa Vutomi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "070",
         "number": 70,
         "title": "LOKO HOSI YESU A TA VITANA",
+        "title_english": "WHEN JESUS SHALL GATHER THE NATION",
         "lyrics": [
             {
                 "type": "verse",
@@ -4210,13 +4211,13 @@
                     "Ka Yona Mintlawa Leyimbirhi, Xana Hi Ta Va Ka Wihi?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "071",
         "number": 71,
         "title": "RIFUMU RA MISAVA",
+        "title_english": "IS MY NAME WRITTEN THERE",
         "lyrics": [
             {
                 "type": "verse",
@@ -4260,13 +4261,13 @@
                     "Ritsariwile Ke? Bukwin Leyo Basa? Bukwin Ya Vutomi, Ri Tsariwile Ke?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "072",
         "number": 72,
         "title": "KU AVANYISA SE KU SUNGURILE",
+        "title_english": "THE JUDGMENT HAS SET",
         "lyrics": [
             {
                 "type": "verse",
@@ -4313,13 +4314,13 @@
                     "Hi Ta Kumeka E Swidyohweni, Kumbe Hi Khomeriwile."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "073",
         "number": 73,
         "title": "HI RHAMBIWA NKHUBYEN WA HOSI",
+        "title_english": "CALLED TO THE FEAST",
         "lyrics": [
             {
                 "type": "verse",
@@ -4381,13 +4382,13 @@
                     "Hi Ta Amukeriwa Ke? Loko Yi Fika."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "074",
         "number": 74,
         "title": "HAYI BYALA MBEWU",
+        "title_english": "SOWING IN THE MORNING",
         "lyrics": [
             {
                 "type": "verse",
@@ -4439,13 +4440,13 @@
                     "Hi Ta Tsaka Se Hi Rhwele Tinyandza."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "075",
         "number": 75,
         "title": "NDZI TWA RITO RA MURISI",
+        "title_english": "HARK! ‘TIS THE SHEPHERED’S VOICE",
         "lyrics": [
             {
                 "type": "verse",
@@ -4492,13 +4493,13 @@
                     "Vuyisan Ti Nyimpfu, Ti Vuyisen Ka Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "076",
         "number": 76,
         "title": "A HI PFUNENI LAVA LOVAKA",
+        "title_english": "RESCUE THE PERISHING",
         "lyrics": [
             {
                 "type": "verse",
@@ -4556,13 +4557,13 @@
                     "Pfuxa Lava Yaka Eku Loveni, Yesu Una Musa Wa Ponisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "077",
         "number": 77,
         "title": "A HI LANDZENI LA VO LAHLEKA",
+        "title_english": "SEEKING THE LOST",
         "lyrics": [
             {
                 "type": "verse",
@@ -4612,13 +4613,13 @@
                     "Entlhambini Va Lava Lahlekeke Yesu Nyimpfana Ya Vudyohi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "078",
         "number": 78,
         "title": "NDZI RHANDZA KU MI BYELA",
+        "title_english": "I LOVE TO TELL THE STORY",
         "lyrics": [
             {
                 "type": "verse",
@@ -4679,13 +4680,13 @@
                     "Ndzi Rhandza Ku Mi Byela Mhaka Yo Hlawuleka, Mhaka Leyi Nga Ya Khale Ya Nsovo Wa Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "079",
         "number": 79,
         "title": "HINKWAKO-NKWAKO MASIMU",
+        "title_english": "FAR AND NEAR THE FIELDS ARE TEEMING",
         "lyrics": [
             {
                 "type": "verse",
@@ -4726,13 +4727,13 @@
                     "Hosi Rhuma Vatshoveri, Hosi Ha Ku Khongela, Hi Wo Nkarhi Wa Ntshovelo, A Wu Tisiwe Kaya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "080",
         "number": 80,
         "title": "TIRHANI, TIRHANI MALANDZA YA HOSI",
+        "title_english": "TO THE WORK",
         "lyrics": [
             {
                 "type": "verse",
@@ -4790,13 +4791,13 @@
                     "Tirhani. . . . .Tirhani, Tirhani. . . . . Tirhani, Ku Fika Yi Vuya Hosi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "081",
         "number": 81,
         "title": "TIRHA VUSIKU BYA TA",
+        "title_english": "WORK, FOR THE NIGHT IS COMING",
         "lyrics": [
             {
                 "type": "verse",
@@ -4823,13 +4824,13 @@
                     "Ka Ha Tlhave Miseve, Wa Ta Munyama; Tirha Ri Ko Ri Pela, Munyama Wu Nghena, Tirha Ntirho Wu Hela, Ri Nga Si Pela"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "082",
         "number": 82,
         "title": "HOSI, NIMIXO YINGISA",
+        "title_english": "LORD, IN THE MORNING",
         "lyrics": [
             {
                 "type": "verse",
@@ -4863,13 +4864,13 @@
                     "Yesu Hi Matimba Yakwe, Wa Va Sirhelela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "083",
         "number": 83,
         "title": "TINDZIMI TA WO MAGIDI",
+        "title_english": "O FOR A THOUSAND TOGUES",
         "lyrics": [
             {
                 "type": "verse",
@@ -4916,13 +4917,13 @@
                     "Ri Na Nkateko Ri Na Nkateko, Vito Ra Yesu Muferi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "084",
         "number": 84,
         "title": "A HI KHENSENI XIKWEMBU",
+        "title_english": "PRAISE GOD FROM WHOM ALL BLESSINGS FLOW",
         "lyrics": [
             {
                 "type": "verse",
@@ -4937,14 +4938,20 @@
                 "index": 2,
                 "lines": [
                     "Vongan Hosi Ya Tihosi, A Hi Khinsamelen Yena. Hikuva Nsovo Wa Yona,",
-                    "I Wa Masiku Hikwawo. Amen . . .",
-                    "A HI FAMBA HI YIMBELELA",
+                    "I Wa Masiku Hikwawo. Amen . . ."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 84,
+                "lines": [
+                    "aA HI FAMBA HI YIMBELELA",
                     "SINGING AS WE JOURNEY"
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 1,
                 "lines": [
                     "Hi Vana Va Xikwembu, Va Hosi Ya Tilo, Hi Vana Va Xikwembu, Hi Famba Hi Yimba; Yesu U Komba Ndlela, U Ri Hi Nga Chaveni,",
                     "Tshinela Hi N’wi Landza, Hi Famba Hi Yimba"
@@ -4952,7 +4959,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 2,
                 "lines": [
                     "Hi Kongomile Kaya, Ekaya Tilweni, Hi Kongomile Kaya, Hi Famba Hi Yimba;",
                     "Muti Wu Nga Sirhiwa, Wo Pfumala Vusiku, Nyimpfana I Rivoni, Hi Famba Hi Yimba."
@@ -4960,19 +4967,19 @@
             },
             {
                 "type": "verse",
-                "index": 5,
+                "index": 3,
                 "lines": [
                     "Hi Kongoma Hi Ntsako, Hi Ya Etilwenu, Hi Famba Hi Tlangela, Hi Famba Hi Yimba,",
                     "Endleleni Hinkwayo, Ku Kondza Hi Ya Fika, Hi Tinhenha Ta Rito, Hi Yimba Ta Tilo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "085",
         "number": 85,
         "title": "XIKWEMBU XI ENDLE TINTSHAVA",
+        "title_english": "I SING THE MIGHTY POWER",
         "lyrics": [
             {
                 "type": "verse",
@@ -5003,13 +5010,13 @@
                     "Hi Nga Ya Kwihi Ni Kwihi Hinkwaku U Kona."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "086",
         "number": 86,
         "title": "DZUNISANI HOSI N’WE MATILO",
+        "title_english": "O WORSHIP THE KING",
         "lyrics": [
             {
                 "type": "verse",
@@ -5043,13 +5050,13 @@
                     "Va Tshemba Ka Matimba Ya Wena, Tintswalo Taku A Ti Na Makumu, U Muvumbi Ni Muhlayisi Werhu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "087",
         "number": 87,
         "title": "HI TA EKA WENA, AKU NA UN’WANA",
+        "title_english": "FATHER, WE COME TO THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -5093,13 +5100,13 @@
                     "Hi Ta Eka Wena Hi Yingise, Hi Vanhu Va Hava Ha Khongela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "088",
         "number": 88,
         "title": "U NGA NDZI HUNDZI WE YESU",
+        "title_english": "PASS ME NOT O GENTLE SAVIOUR!",
         "lyrics": [
             {
                 "type": "verse",
@@ -5157,13 +5164,13 @@
                     "Yesu! Yesu! Ndza Ku Khongela, Loko U Vitana Van’wana, U Ndzi Tsundzuka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "089",
         "number": 89,
         "title": "XIYA WONA NKARHI",
+        "title_english": "WATCH FOR THE TIME IS SHORT",
         "lyrics": [
             {
                 "type": "verse",
@@ -5207,13 +5214,13 @@
                     "Rindzela U Khongela, Rindzela Khongela, Khongela Xiya Navusiku Na Nanhlikanhi, Mukreste Xiya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "090",
         "number": 90,
         "title": "YI HERILE YO MINTIRHO",
+        "title_english": "ANOTHER SIX DAY’S WORK",
         "lyrics": [
             {
                 "type": "verse",
@@ -5246,13 +5253,13 @@
                     "Swi Nyikiwa Vapfumeri, Hi Laha Ku Nga Heriki."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "091",
         "number": 91,
         "title": "SWA NANDZIHA KU KHONGELA",
+        "title_english": "SWEET HOUR OF PRAYER",
         "lyrics": [
             {
                 "type": "verse",
@@ -5280,13 +5287,13 @@
                     "Sweswi Ndza Ri Vona Kaya, Ndzi Ta Tlhandlukela Kona; Hi Miri Wu Nga Boriki, Ndzi Ta Amukela Harhi, Ndzi Huwelela Mpfhukeni, Sala Kahle Xikhongelo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "092",
         "number": 92,
         "title": "MI NGA YI RIVALI SAVATA",
+        "title_english": "DON’T FORGET THE SABBATH",
         "lyrics": [
             {
                 "type": "verse",
@@ -5330,13 +5337,13 @@
                     "Ri Amukelen Siku Leri Ra Savata, Ri Amukelen Siku Leri Ra Savata."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "093",
         "number": 93,
         "title": "SIKU LERA KU WISA",
+        "title_english": "O DAY OF REST AND GLADNESS",
         "lyrics": [
             {
                 "type": "verse",
@@ -5363,13 +5370,13 @@
                     "Ni Ku KUma Tintswalo Hi Siku Ro Wisa, Hi Lava Ku Ya Wisa Kwale Kaya Tilwen."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "094",
         "number": 94,
         "title": "EXIKOLO XA SAVATA",
+        "title_english": "SWEET SABBATH SCHOOL",
         "lyrics": [
             {
                 "type": "verse",
@@ -5419,13 +5426,13 @@
                     "Ndzi Tala Ntsako Mbilwini, Savata I Kaya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "095",
         "number": 95,
         "title": "HI HLAYISIWILE",
+        "title_english": "SAFELY THROUGH ANOTHER WEEK",
         "lyrics": [
             {
                 "type": "verse",
@@ -5459,13 +5466,13 @@
                     "Ku Kondza Hi Tlhandluka Ku Ta Fuma Na Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "096",
         "number": 96,
         "title": "AMUKELANI SIKU RO WISA MISAVENI",
+        "title_english": "WELCOME, WELCOME, DAY OF REST",
         "lyrics": [
             {
                 "type": "verse",
@@ -5491,13 +5498,13 @@
                     "Siku Ro Tlharihisa, Siku Ra Minkateko."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "097",
         "number": 97,
         "title": "HI TWE HUNGU RA TNSAKO YESU WA PONISA",
+        "title_english": "WE HAVE HEARD A JOYFUL SOUND",
         "lyrics": [
             {
                 "type": "verse",
@@ -5531,13 +5538,13 @@
                     "Huwelelani Vutomi, Tintshaveni Hinkwato, I Risimu Ro Hlula, Yesu Wa Ponisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "098",
         "number": 98,
         "title": "TANA YESU MUPONISI",
+        "title_english": "I MUST HAVE THE SAVIOUR WITH ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -5595,13 +5602,13 @@
                     "A Ndzi Nge Chavi Nchumu, Ndzi Ya La A Rhandzaka; Ndzi Ta Ya Ndzi Nga Vileri, Loko Ndzi N’wi Landzela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "099",
         "number": 99,
         "title": "NDZI LANGUTA XIHAMBANWEN",
+        "title_english": "WHEN I SURVEY THE WONDEROUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -5635,13 +5642,13 @@
                     "Rirhandzu Leri Ronghasi, Funengeta Vutomi Byanga."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "100",
         "number": 100,
         "title": "HI NA MUNGHANA I YESU",
+        "title_english": "WHAT A FRIEND WE HAVE IN JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -5672,13 +5679,13 @@
                     "Yona Yi Ta Ku Angarha, U Ta Kuma Ku Wisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "101",
         "number": 101,
         "title": "YESU WA VITANA NAMUNTLHA",
+        "title_english": "JESUS IS TENDERLY CALLING THEE HOME",
         "lyrics": [
             {
                 "type": "verse",
@@ -5740,13 +5747,13 @@
                     "Wa Ku Vita. . .na, (Soprano) Yesu Wa Vitana, Wa Vitana, Wa Ku Vitana Namuntlha."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "102",
         "number": 102,
         "title": "MUENDZI ENYANGWEN",
+        "title_english": "LET HIM IN",
         "lyrics": [
             {
                 "type": "verse",
@@ -5784,13 +5791,13 @@
                     "U Ta Ku Tsetselela, A Susa Na Swidyoho, A Ku Yisa Tilweni, N’wi. . . .pfulele (Pfulela Yesu, Pfulela Yesu)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "103",
         "number": 103,
         "title": "MUFUMI U TILE EKA YESU",
+        "title_english": "YE MUST BE BORN AGAIN",
         "lyrics": [
             {
                 "type": "verse",
@@ -5834,13 +5841,13 @@
                     "U Tswariwa Nakambe (Kambe) U Tswariwa Nakambe (Kambe) Ndzi Vurisile Ndzi Ri Eka Wena, Tswariwa Nakambe (Kambe)."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "104",
         "number": 104,
         "title": "YINGISA HOSI XIRILO XANGA",
+        "title_english": "COME, GREAT DELIVERER, COME",
         "lyrics": [
             {
                 "type": "verse",
@@ -5898,13 +5905,13 @@
                     "Ndzi Lahlekile Ndzi Tsendzeleka, Ndzi Tsendzeleka Emananga; Wena Ndzi Vuyise Ntlhambini, Tana Mukutsuri."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "105",
         "number": 105,
         "title": "WA KUTSULA YESU",
+        "title_english": "ABLE TO DELIVER",
         "lyrics": [
             {
                 "type": "verse",
@@ -5949,13 +5956,13 @@
                     "Wa Kutsula, Wa Ponisa Pfumela, Makwerhu Pfumela U Kutsuriwa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "106",
         "number": 106,
         "title": "HI TA AKA HENHLA KA RIBYE",
+        "title_english": "WE’LL BUILD ON THE ROCK",
         "lyrics": [
             {
                 "type": "verse",
@@ -6005,13 +6012,13 @@
                     "Hi Aka Kona Henhla Ka Ribye; Hi Aka Ribyen Leri Tiyeke, Ku Nga Yesu Kreste."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "107",
         "number": 107,
         "title": "NDZI BYELE HUNGU RA YESU",
+        "title_english": "TELL ME THE STORY OF JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -6056,13 +6063,13 @@
                     "Ndzi Byele Hungu Ra Yesu, Tsala Mbilwini Yanga; Hungu Ro Saseka Ngopfu, Ku Tlurisa Hinkwawo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "108",
         "number": 108,
         "title": "YESU NDZISI LONENE",
+        "title_english": "JESUS THE LOVING SHEPHERD",
         "lyrics": [
             {
                 "type": "verse",
@@ -6106,13 +6113,13 @@
                     "Yesu Wa Vitana Hi Rirhandzu, Mutsendzeleki Vuya Ekaya; Yesu U Ku Yimerile Sweswi, I Murisi Lonene."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "109",
         "number": 109,
         "title": "LOKO HI TA KARIWA",
+        "title_english": "WEIGHED AND WANTING",
         "lyrics": [
             {
                 "type": "verse",
@@ -6159,13 +6166,13 @@
                     "U Avanyise Hi Nawu, Yo! Ha Vevuka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "110",
         "number": 110,
         "title": "TWANANI MARITO YA YESU",
+        "title_english": "BLESSED ARE THEY THAT DO",
         "lyrics": [
             {
                 "type": "verse",
@@ -6209,13 +6216,13 @@
                     "Va Katekile Lava Endlaka, Ku Rhandza Ka Mukutsuri. Va Katekile Lava Endlaka, Ku Rhandza Yena Muvumbi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "111",
         "number": 111,
         "title": "KU HAVA, KU HAVA",
+        "title_english": "NO, NOT ONE",
         "lyrics": [
             {
                 "type": "verse",
@@ -6287,13 +6294,13 @@
                     "Yesu U Tiva Maxangu Yerhu, Wa Hi Pfuna Hi Masiku; Munghana Tani Hi Hosi Yesu, Ku Hava, Ku Hava."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "112",
         "number": 112,
         "title": "KU NA VUTOMI EXIHAMBANWENI",
+        "title_english": "LIFE IN A LOOK",
         "lyrics": [
             {
                 "type": "verse",
@@ -6337,13 +6344,13 @@
                     "Languta, Xihambanwen, U Ta Kuma Vutomi; Byi Nyikiwa Hi Yesu, Ka Loya Byi Lavaka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "113",
         "number": 113,
         "title": "RITO RA HOSI YESU RA VITANA",
+        "title_english": "SOFTLY AND TENDERLY JESUS IS CALLING",
         "lyrics": [
             {
                 "type": "verse",
@@ -6409,13 +6416,13 @@
                     "Yesu Hi Rito Rakwe Ra Tintswalo, Wa Mi Vitana Kaya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "114",
         "number": 114,
         "title": "KU NA NYANGWA YO PFULEKA",
+        "title_english": "THERE IS A GATE THAT STANDS AJAR",
         "lyrics": [
             {
                 "type": "verse",
@@ -6472,13 +6479,13 @@
                     "Tintswalo To Hlamarisa, Nyangwa Yi Ndzi Ahlamele; Yi Pfu. . . .leke Leswaku Ndzi Pona."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "115",
         "number": 115,
         "title": "N’ANGA YIKULU YI KONA",
+        "title_english": "THE GREAT PHYSICIAN NOW IS NEAR",
         "lyrics": [
             {
                 "type": "verse",
@@ -6536,13 +6543,13 @@
                     "Tintsumi Ta N’wi Vonga, Na Vanhu Va Dzunisa; Hi Tinsimu To Khensa, Yesu Wo Rhandzeka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "116",
         "number": 116,
         "title": "SWO TIPHINA SWI TELE",
+        "title_english": "NOTHING FOR JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -6580,13 +6587,13 @@
                     "U Na Swona Hinkwaswo, Swa Ku Tirhela Yesu. U Nga Ka U Nga Khani, Loko Yesu A Vuya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "117",
         "number": 117,
         "title": "NDZI TWA RITO RAKU",
+        "title_english": "I HEAR THY WELCOME VOICE",
         "lyrics": [
             {
                 "type": "verse",
@@ -6648,13 +6655,13 @@
                     "Ndzi Hlantswe Hi Yo Ngati, Leyi Halakeke."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "118",
         "number": 118,
         "title": "U HAKERILE",
+        "title_english": "JESUS PAID IT ALL",
         "lyrics": [
             {
                 "type": "verse",
@@ -6716,13 +6723,13 @@
                     "A Ndzi Ri Na swivati, U Ndzi Basisile."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "119",
         "number": 119,
         "title": "VONA GANDLATI RO TSHWUKA",
+        "title_english": "O NOW I SEE THE CRIMSON WAVE",
         "lyrics": [
             {
                 "type": "verse",
@@ -6784,13 +6791,13 @@
                     "Mina Sweswi Ndza Hlantswiwa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "120",
         "number": 120,
         "title": "TATANA NDZI TA KA WENA",
+        "title_english": "FATHER, I STRETCH MY HANDS TO THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -6840,13 +6847,13 @@
                     "Ngati Yakwe Yi Halaka, Leswaku Ndzi Pona."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "121",
         "number": 121,
         "title": "NDZI TA TWARISA YESU",
+        "title_english": "I WILL SING OF JESUS LOVE",
         "lyrics": [
             {
                 "type": "verse",
@@ -6912,13 +6919,13 @@
                     "(Yesu U Ndzi Fele Mina Mudyohi,) U Ndzi Rhandzile Mina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "122",
         "number": 122,
         "title": "EKUSUHI NA WENA HOSI",
+        "title_english": "NEARER STILL NEARER",
         "lyrics": [
             {
                 "type": "verse",
@@ -6952,13 +6959,13 @@
                     "Ndzi Tshama Kona Hi Masiku, Ekusuhani Na Wena Hosi, Ekusuhani Na Wena Hosi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "123",
         "number": 123,
         "title": "MATILWENI, MISAVENI",
+        "title_english": "DEAREST NAME IN EARTH OR HEAVEN",
         "lyrics": [
             {
                 "type": "verse",
@@ -7008,13 +7015,13 @@
                     "Ta Dzunisa Tintsumi Evusikwini, Ri Xongile Vito Rakwe."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "124",
         "number": 124,
         "title": "KRESTE A DZUNIWE",
+        "title_english": "NOT I, BUT CHRIST",
         "lyrics": [
             {
                 "type": "verse",
@@ -7048,13 +7055,13 @@
                     "Kreste Ntsena La Hanyisaka Moya, U Kona Hi La Ku Nga Heriki."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "125",
         "number": 125,
         "title": "YA TLHAVILE EGANGENI",
+        "title_english": "THERE IS SUNLIGHT ON THE HILLTOP",
         "lyrics": [
             {
                 "type": "verse",
@@ -7098,13 +7105,13 @@
                     "Masana Lama Xongeke, Masana Embilwini; Yesu U Susa Gome Hi Masana Mbilwini."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "126",
         "number": 126,
         "title": "NDZI NA RISIMU RONGHASI",
+        "title_english": "I HAVE A SONG I LOVE O SING",
         "lyrics": [
             {
                 "type": "verse",
@@ -7174,13 +7181,13 @@
                     "Ra Ku Kutsuriwa, Ra Ku Kutsuriwa, Ndzi Ta Dzunisa Muponisi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "127",
         "number": 127,
         "title": "XINDZINGIRI LEXI WAKA",
+        "title_english": "GOD SEES THE LITTLE SPARROW FALL",
         "lyrics": [
             {
                 "type": "verse",
@@ -7227,13 +7234,13 @@
                     "U Rhandza Ntumbuluko, Na Mina Wa Ndzi Rhandza."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "128",
         "number": 128,
         "title": "I NKARHI WO KHONGELA",
+        "title_english": "TIS THE BLESSED HOUR OF PRAYER",
         "lyrics": [
             {
                 "type": "verse",
@@ -7298,13 +7305,13 @@
                     "Wu Tlhavula Wo Tsana, Wu N’wi Nyika Ku Tsaka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "129",
         "number": 129,
         "title": "ENHLANGANWENI WA VANHU VAMBIRHI",
+        "title_english": "JESUS THOU HAST PROMISED",
         "lyrics": [
             {
                 "type": "verse",
@@ -7348,13 +7355,13 @@
                     "Tana Katekisa, Vana Va Wena Tshama Ekusuhi, Hi Katekise!"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "130",
         "number": 130,
         "title": "HOSI YA MINA NDZI TWILE RITO",
+        "title_english": "I AM THINE, O LORD",
         "lyrics": [
             {
                 "type": "verse",
@@ -7412,13 +7419,13 @@
                     "Ndzi Tshinete Ekusuhi, Xihambanweni Xaku; Ndzi Tshinete Wena Hosi, Ekusuhi Na Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "131",
         "number": 131,
         "title": "A NDZI FANE NA YESU",
+        "title_english": "MORE LIKE JESUS WOULD I BE",
         "lyrics": [
             {
                 "type": "verse",
@@ -7446,13 +7453,13 @@
                     "Ndzi Tswariwa Hi Nsovo, Na Rirhandzu Ra Wena, Ripfumelo Ro Xonga, Eku Tshamen Na Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "132",
         "number": 132,
         "title": "KONA XIHAMBANWENI",
+        "title_english": "JESUS, KEEP ME NEAR THE CROSS",
         "lyrics": [
             {
                 "type": "verse",
@@ -7514,13 +7521,13 @@
                     "Ku Kondza Moya Wanga, Wu Kuma Ku Wisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "133",
         "number": 133,
         "title": "WENA HOSI NDZI FAMBISE",
+        "title_english": "O LET ME WALK WITH THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -7546,13 +7553,13 @@
                     "Ndzi Tamela Xihambano; Ku Fika Loko U Vuya, Ndzi Fambise Mukutsuri."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "134",
         "number": 134,
         "title": "TINDLELENI TO TSAKISA",
+        "title_english": "IN JOYFUL HIGH AND HOLY WAYS",
         "lyrics": [
             {
                 "type": "verse",
@@ -7596,13 +7603,13 @@
                     "Rirhandzu Ro Hlamarisa, Ro Rirhandzu Ra Yesu; Rirhandzu Ro Hlamarisa, Ro Rirhandzu Ra Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "135",
         "number": 135,
         "title": "NDZA KU RHANDZA WENA HOSI",
+        "title_english": "I KNOW I LOVE THEE BETTER, LORD",
         "lyrics": [
             {
                 "type": "verse",
@@ -7664,13 +7671,13 @@
                     "Ra Ngati Leyo Basisa (Ya Yesu), A Ri Si Vuriwa (Ka Vanhu)."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "136",
         "number": 136,
         "title": "NDZI LETELE HOSI YESU",
+        "title_english": "WHERE HE LEAD ME I WILL GO",
         "lyrics": [
             {
                 "type": "verse",
@@ -7717,13 +7724,13 @@
                     "Ndzi Tsundzuka Ekhalvhari."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "137",
         "number": 137,
         "title": "MISAVA U NGA YI TEKA",
+        "title_english": "TAKE THE WORLD BUT GIVE ME JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -7785,13 +7792,13 @@
                     "Hi Na Vutomi Hi Ntalo, Ka Yena Mukutsuri."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "138",
         "number": 138,
         "title": "BYI TENGISE VUTOMI",
+        "title_english": "TAKE MY LIFE AND LET IT BE",
         "lyrics": [
             {
                 "type": "verse",
@@ -7883,13 +7890,13 @@
                     "Ndzi Nyikela Vutomi Eka Wena Hi La Ku Nga Heriki."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "139",
         "number": 139,
         "title": "U NDZI RHANDZILE SWONGHASI",
+        "title_english": "I’VE FOUND A FRIEND",
         "lyrics": [
             {
                 "type": "verse",
@@ -7923,13 +7930,13 @@
                     "U Ndzi Rhandzile Swonghasi, Hi Nge Hambanisiwi, Hambi Tihele, Na Rifu Swi Nge Hi Hambanisi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "140",
         "number": 140,
         "title": "NDZI TWILE RITO RA YESU",
+        "title_english": "I HEARD THE VOICE OF JESUS SAY",
         "lyrics": [
             {
                 "type": "verse",
@@ -7956,13 +7963,13 @@
                     "Ndzi Ta Famba Ndzi Tiphina, Masiku Hinkwawo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "141",
         "number": 141,
         "title": "NDZI NAVELA KU VA WA WENA",
+        "title_english": "I WOULD BE, DEAR SAVIOUR, WHOLLY THINE",
         "lyrics": [
             {
                 "type": "verse",
@@ -8006,13 +8013,13 @@
                     "Ndzi Waku (Hosi) Ndzi Waku (Hosi) Ndzi Tiboha Ka WEna; Ndzi Waku (Hosi) Ndzi Waku (Hosi) Ndzi Amukele Hosi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "142",
         "number": 142,
         "title": "RI HLAWULEKILE SIKU",
+        "title_english": "HOW SWEET UPON THIS SACRED DAY!",
         "lyrics": [
             {
                 "type": "verse",
@@ -8038,13 +8045,13 @@
                     "U Tiva Mbilu Ya Mina, Wena Wa Ndzi Pfuna."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "143",
         "number": 143,
         "title": "HOSI HA FAMBA",
+        "title_english": "LORD, DISMISS US WITH THY BLESSING",
         "lyrics": [
             {
                 "type": "verse",
@@ -8073,13 +8080,13 @@
                     "Ku Kondza Hi Ta Vona Ku kwetsima, Loko Wo Matilo Ya Pfuleka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "144",
         "number": 144,
         "title": "NDLELA YANGA YA TLAKUKA",
+        "title_english": "I’M PRESSING ON THE UPWARD WAY",
         "lyrics": [
             {
                 "type": "verse",
@@ -8136,13 +8143,13 @@
                     "Ndzi Tlakuse, Ndzi Yimise, Hi Tintswalo Taku Hosi; Xivandleni Xa Le Henhla, Hosi Ndzi Veke Ka Xona."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "145",
         "number": 145,
         "title": "YANA U NGA ALI",
+        "title_english": "ASK NOT TO BE EXCUSED",
         "lyrics": [
             {
                 "type": "verse",
@@ -8186,13 +8193,13 @@
                     "Tanani (Sweswi) Mi Tirhela Hosi, Tanani (Sweswi) Mi Nga Aleri Hosi; Tanani Mi Nga Ali, Nhlamulo Ya Tilo: “Mi Ndzi Landzurile, Tilo Ra Mi Ala”"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "146",
         "number": 146,
         "title": "HANYA EKA MINA",
+        "title_english": "LIVE OUT THY LIFE WITHIN ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -8226,13 +8233,13 @@
                     "Hanya Eka Mina We Hosi Ya Tihosi, Hi Wena Nhlamulo Ya Swivutiso Swanga."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "147",
         "number": 147,
         "title": "NDZI TSHINETE KA WENA HOSI",
+        "title_english": "CLOSER TO THEE, MY FATHER, DRAW ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -8282,13 +8289,13 @@
                     "Ndzi Kokele Henhla Tilweni; Ndzi Tshinete Tilweni, Ndzi Kokele Tilweni, Ku Fika Eka Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "148",
         "number": 148,
         "title": "HINKWAKO YESU A NGA NDZI FAMBISA",
+        "title_english": "ANYWHERE WITH JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -8335,13 +8342,13 @@
                     "Hinkwako Yesu U Ta Ndzi Hlayisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "149",
         "number": 149,
         "title": "FAMBA KU VONAKALENI",
+        "title_english": "WALK IN THE LIGHT",
         "lyrics": [
             {
                 "type": "verse",
@@ -8403,13 +8410,13 @@
                     "Famba Ku Vonakalani Ka Hosi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "150",
         "number": 150,
         "title": "VA KWIHI VATSHOVERI VA NSIMU?",
+        "title_english": "O WHERE ARE THE REAPERS?",
         "lyrics": [
             {
                 "type": "verse",
@@ -8475,13 +8482,13 @@
                     "Wu Suka Nsin’wini Ya Vudyoho."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "151",
         "number": 151,
         "title": "NAMUNTLHA NDZI HLEKETA",
+        "title_english": "I AM THINKING TODAY OF THAT BEAUTIFUL",
         "lyrics": [
             {
                 "type": "verse",
@@ -8528,13 +8535,13 @@
                     "Ti Ta Va Kona Tinyeleti Harhini (Ya Mina)."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "152",
         "number": 152,
         "title": "VULAVULA NA MINA",
+        "title_english": "SPEAK TO MY SOUL, DEAR JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -8581,13 +8588,13 @@
                     "“U Ta Tshamela Ku Hlula Na Ku Ntshunxeka”; Ndzi Hlevele We Hosi, Hi Rito Ra Nsovo, Vula Ka Mina Hosi: “Tiva A Wu Wexe”."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "153",
         "number": 153,
         "title": "HOSI, A NDZI KHONGELERI SWA MUNDZUKU",
+        "title_english": "LORD, FOR TOMORROW AND ITS NEED",
         "lyrics": [
             {
                 "type": "verse",
@@ -8613,13 +8620,13 @@
                     "Ndzi Letele Wena Hosi Swa Namuntlha."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "154",
         "number": 154,
         "title": "MURINDZI WA LE SIYONI",
+        "title_english": "WATCHMAN, TELL ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -8661,13 +8668,13 @@
                     "Swo Fana Na Le Eden, Ntangeni Wo Saseka, Na Swo Chaya Swa Risuna, Ku Yimbiwa Tinsimu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "155",
         "number": 155,
         "title": "KU NGA VA ETINHLOHLORHINI",
+        "title_english": "I’LL GO WHERE YOU WANT ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -8714,13 +8721,13 @@
                     "Ndzi Ta Endla Ku Rhandza Ka Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "156",
         "number": 156,
         "title": "MARITO YA KU HLUNDZUKA",
+        "title_english": "ANGRY WORDS! OH, LET THEM NEVER",
         "lyrics": [
             {
                 "type": "verse",
@@ -8773,13 +8780,13 @@
                     "Rhandzanani, Rhandzanani, Ina Ya Lerisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "157",
         "number": 157,
         "title": "WE MUBYARI LA RILAKA",
+        "title_english": "HARVERST TIME",
         "lyrics": [
             {
                 "type": "verse",
@@ -8823,13 +8830,13 @@
                     "Xiyaxiya We Murimi, Mavele Lamanene; Ntshovelo Wu Kusuhani, Swirimiwa Swa Vupfa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "158",
         "number": 158,
         "title": "NTSHOVELO WA MISAVA WU KUSUHI",
+        "title_english": "HASTEN ON, GLAD DAY",
         "lyrics": [
             {
                 "type": "verse",
@@ -8873,13 +8880,13 @@
                     "Hatlisa. . . . .Siku Rhwalan. . . . .Tinyandza Hatlisa. . . . .Yisa. . . . . Tinyandza."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "159",
         "number": 159,
         "title": "NDZA KU LAVA WENA HOSI",
+        "title_english": "BLESSED LORD, HOW MUCH I NEED THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -8941,13 +8948,13 @@
                     "Minkarhi Hinkwayo We Hosi Ndzi Hlayise."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "160",
         "number": 160,
         "title": "NDZI HLAYISELWA YESU",
+        "title_english": "OH, TO BE “KEPT FOR JESUS”",
         "lyrics": [
             {
                 "type": "verse",
@@ -9009,13 +9016,13 @@
                     "O Mina A Ndzi Nchumu, Wena U Hinkwaswo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "161",
         "number": 161,
         "title": "NAKULORHI WA MINA",
+        "title_english": "I HAVE A FRIEND SO PRECIPOUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -9055,13 +9062,13 @@
                     "Mina Na Yona Hosi, Ha Vumbirhi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "162",
         "number": 162,
         "title": "YESU MULETERI WANGA",
+        "title_english": "ALL THE WAY MY SAVIOUR LEADS",
         "lyrics": [
             {
                 "type": "verse",
@@ -9091,13 +9098,13 @@
                     "Ndzi Ta Tlhandlukela Henhla, Ndzi Nghena Ku Tsaken (Bis)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "163",
         "number": 163,
         "title": "HOSI YESU WA VITANA",
+        "title_english": "HARK THE VOICE OF JESUS CALLING",
         "lyrics": [
             {
                 "type": "verse",
@@ -9132,13 +9139,13 @@
                     "U Nga Vuli: A Ndzi Nchumu Ndzi Pfumala Matimba Amukela Hi Ku Tsaka Ntirho Wa Hosi Yerhu, Hlamula Hi Ku Tiyisa: Ina Hosi Ndzi Rhume."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "164",
         "number": 164,
         "title": "NDZI TSHAME EMILENGENI",
+        "title_english": "SITTING AT THE FEET OF JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -9152,7 +9159,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Emilengeni Ya Yesu I Minkateko Ntsena, Swidyoho Na Mahlomulo, Ndzi Swi Siya Ka Yesu,",
+                    "Emilengeni Ya Yesu I Minkateko Ntsena, Swidyoho Na Mahlomulo, Ndzi Swi Siya Ka Yesu,",
                     "I Xivandla Xo Wisela Ndhawu Ya Xikhongelo, Malwandla Ni Nsovo Wakwe, Swi Hi Nyika Ku Rhula."
                 ]
             },
@@ -9160,19 +9167,19 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Muponisi Ndzi Kutsule, Ndzi Khinsame Ka Wena, Mombo Wa Wena Wo Xonga Ndzi Langute Hi",
+                    "Muponisi Ndzi Kutsule, Ndzi Khinsame Ka Wena, Mombo Wa Wena Wo Xonga Ndzi Langute Hi",
                     "Wona,",
                     "Ndzi Endle Lowo Kwetsima No Hleketa Bya Wena.",
                     "Kombisa Hi Vululami Leswaku Ndzi Wa Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "165",
         "number": 165,
         "title": "NDZA KU RHANDZA YESU",
+        "title_english": "I LOVE THEE, I LOVE THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -9206,13 +9213,13 @@
                     "Wa Ndzi Rhandza Ngopfu Ndza Ku Dzunisa, Ndzi Ta N’wi Dzunisa Ndzi Tele Ntsako Ntsako Wa Khuluka Ku Pfuxa Moya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "166",
         "number": 166,
         "title": "RIBYE RA MASUNGULO",
+        "title_english": "ROCK OF AGES",
         "lyrics": [
             {
                 "type": "verse",
@@ -9248,13 +9255,13 @@
                     "Ndza Tumbela Ka Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "167",
         "number": 167,
         "title": "MASUNGLO YO PFUMELA KA HOSI",
+        "title_english": "FIRM FOUNDATION",
         "lyrics": [
             {
                 "type": "verse",
@@ -9292,13 +9299,13 @@
                     "Ku Kondza Ku Hundza Nkarhi Wa Maxangu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "168",
         "number": 168,
         "title": "YESU I MURISI",
+        "title_english": "THE LORD IS MY SHEPHERD",
         "lyrics": [
             {
                 "type": "verse",
@@ -9332,13 +9339,13 @@
                     "Ndzi Letele, Ndzi Famba Endleleni, Ndzi Kongomise Tikweni Ra Rirhandzu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "169",
         "number": 169,
         "title": "MUDYANDZHAKA U ETLELELA YINI",
+        "title_english": "HEIR OF THE KINGDOM",
         "lyrics": [
             {
                 "type": "verse",
@@ -9380,13 +9387,13 @@
                     "Ku Vonakala Ku Huma Vuxeni, Mudyandzhaka Yimbelela tsaka"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "170",
         "number": 170,
         "title": "WENA MUVUMBI WANGA",
+        "title_english": "MY MAKER AND MY KING",
         "lyrics": [
             {
                 "type": "verse",
@@ -9422,13 +9429,13 @@
                     "Masiku Hinkwawo, Ku Navela Hi Marito; Masiku Hinkwawo, Ku Navela Hi Marito."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "171",
         "number": 171,
         "title": "MURINDZI WA LE SIYONI",
+        "title_english": "WATCHMAN ON THE WALLS OF ZION",
         "lyrics": [
             {
                 "type": "verse",
@@ -9466,13 +9473,13 @@
                     "Aleluya Dzunisani Xikwembu, Aleluya Dzunisani Xikwembu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "172",
         "number": 172,
         "title": "U TA RINI YESU?",
+        "title_english": "HOW LONG?",
         "lyrics": [
             {
                 "type": "verse",
@@ -9486,7 +9493,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.U Fika Rini Hosi U Hi Siye Hexe,",
+                    "U Fika Rini Hosi U Hi Siye Hexe,",
                     "U Hlwela Ngopfu Hosi, Vunyingi Bya Tsana; Va Hanya Manyaleni Malandza Ya Wena, Lava Ku Rindzeleke I Nhlayo Yintsongo."
                 ]
             },
@@ -9494,17 +9501,17 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Pfukani N’wina Vanhu Hosi Yi Fikile, Vakwetsimi, Tiyani Yesu U Ta Fika;",
+                    "Pfukani N’wina Vanhu Hosi Yi Fikile, Vakwetsimi, Tiyani Yesu U Ta Fika;",
                     "Lumekani Timboni, Mi Tsimba Minkhamu, Timbilu Ti Lulama A Kondza A Fika."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "173",
         "number": 173,
         "title": "RIPFUMELO LERO TIYA",
+        "title_english": "O FAR A FAITH THAT WILL NOT SHRINK",
         "lyrics": [
             {
                 "type": "verse",
@@ -9548,13 +9555,13 @@
                     "Ku Ndzi Nyika Ku Tsaka, Ekaya Henhla Tilweni. (Bis)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "174",
         "number": 174,
         "title": "RA TLHAVULA TSHEMBHA RA MUKRISTE",
+        "title_english": "HOW CHEERING",
         "lyrics": [
             {
                 "type": "verse",
@@ -9597,19 +9604,19 @@
                     "Hi Navela Ku Ku Vona Mutini Wo Xonga, Hi Navela Ku Ku Vona Mutini Wa Ntsako."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "175",
         "number": 175,
         "title": "HI LETELE MUPONISI",
+        "title_english": "OUR SAVIOUR LIKE A SHEPHERD LEAD US",
         "lyrics": [
             {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "1.Hi Letele Muponisi, Murisi Lonene,",
+                    "Hi Letele Muponisi, Murisi Lonene,",
                     "Hi Hlayise U Hi Yisa Madyelweni Yo Xonga, U Nkateko Eka Hina, Yesu, U Hi Xavile,",
                     "Hi Ngati Xihambanweni, Yesu, U Hi Xavile."
                 ]
@@ -9618,7 +9625,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Hi Va Wena Nakulorhi, Hi Letele Ndleleni, Hi Vhikele Swidyohweni, Hi Nga Lahleki",
+                    "Hi Va Wena Nakulorhi, Hi Letele Ndleleni, Hi Vhikele Swidyohweni, Hi Nga Lahleki",
                     "Ndlela;",
                     "U Nkateko Wena Yesu, Yingisa Swikhongelo,",
                     "Loko Hi Rila Yesu, Yingisa Swikhongelo."
@@ -9628,18 +9635,18 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.U Tshembhise K’amukela, Hambi Hi Ri Vadyohi;",
+                    "U Tshembhise K’amukela, Hambi Hi Ri Vadyohi;",
                     "Hi Nsovo U Ta Hi Ntshuxa, U Hi Endla Vo Tenga;",
                     "U Nkateko Hosi Yesu, Hi Ta Tshama Ka Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "176",
         "number": 176,
         "title": "NTSHEMBHO WA NKATEKO",
+        "title_english": "BLESSED HOPE",
         "lyrics": [
             {
                 "type": "verse",
@@ -9673,13 +9680,13 @@
                     "Nhlavutelo Ya Yesu, Tshembha, Tshembha Ra Tilo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "177",
         "number": 177,
         "title": "MUTINI WO KWETSIMA",
+        "title_english": "IN THE LAND OF FADELESS DAY",
         "lyrics": [
             {
                 "type": "verse",
@@ -9737,13 +9744,13 @@
                     "Hosi Yi Ta Herisa, Mihloti, Rifu, Nchavo; Malembe Ama Hlayiwi, A Ku Na Vusiku."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "178",
         "number": 178,
         "title": "KU NGA VA MIXWEN",
+        "title_english": "IT MAY BE AT MORN",
         "lyrics": [
             {
                 "type": "verse",
@@ -9805,13 +9812,13 @@
                     "Aleluya Amen, Aleluya Amen!"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "179",
         "number": 179,
         "title": "XANA U N’WI RINDZERILE YE MUTEKI",
+        "title_english": "BEHOLD THE BRIDEGROOM",
         "lyrics": [
             {
                 "type": "verse",
@@ -9869,13 +9876,13 @@
                     "Vona Muteki Wa Fika Sweswi, Xana U N’wi Rindzerile Wena Ke? Languta Wa Fika U Le Kusuhi, Rindzela, Muteki Wa Fika."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "180",
         "number": 180,
         "title": "A HI TIVI NKARHI",
+        "title_english": "WE KNOW NOT THE HOUR",
         "lyrics": [
             {
                 "type": "verse",
@@ -9919,13 +9926,13 @@
                     "U Ta Ta. . . .Langutani, Rindzela, (A Fika) U Ta Ta. . . .Dzunisani Aleluya; (I Yesu) Hi Ku Kwetsima Ka Xikwembu Wa Fika, A Hi Tivi Nkarhi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "181",
         "number": 181,
         "title": "HAMBI SIKU HI NGA RI TIVI",
+        "title_english": "WE KNOW NOT THE TIME WHEN HE COMETH",
         "lyrics": [
             {
                 "type": "verse",
@@ -9978,13 +9985,13 @@
                     "(Hi Ku Rindzele Kunene Yesu) Hi Ku Rindzele Hosi Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "182",
         "number": 182,
         "title": "MIXO WA NTSAKO WU LE KUSUHI",
+        "title_english": "THE GOLDEN MORNING IS FAST APPROACHING",
         "lyrics": [
             {
                 "type": "verse",
@@ -10046,13 +10053,13 @@
                     "Mixo Wa Ntsako Se Wu Tshinele, Vafi Va Ta Pfuka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "183",
         "number": 183,
         "title": "XITSHEMBISO KA VO VAPFUMERI",
+        "title_english": "SWEET PROMISE IS GIVEN TO ALL",
         "lyrics": [
             {
                 "type": "verse",
@@ -10099,13 +10106,13 @@
                     "Hari, Vuhosi Swi Mi Rindzele, Mi Nga Lahli Ntshembho, Ndza Vuya Sweswi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "184",
         "number": 184,
         "title": "TLANGELANI, HOSI YA TA",
+        "title_english": "JOY TO THE WORLD",
         "lyrics": [
             {
                 "type": "verse",
@@ -10140,13 +10147,13 @@
                     "N’wi Hoyozeleleni, Yesu U Na Ku Lulama, Tlhelo Wa Kwetsima, Na Rirhandzu Rakwe; Lero Hlamarisa, Leri Ri Hi Basisaka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "185",
         "number": 185,
         "title": "MFUMO LOWO HLAWULEKA",
+        "title_english": "WE SPEAK OF THE REALMS OF THE BLEST",
         "lyrics": [
             {
                 "type": "verse",
@@ -10182,13 +10189,13 @@
                     "Hi Famba Eswivandleni, Swa Vukosi Byo Kwetsima, Vakwetsimi Na Tintsumi, Va Ta Va Swin’we Na Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "186",
         "number": 186,
         "title": "YESU HI HLANGENE",
+        "title_english": "LORD, WE HAVE MET",
         "lyrics": [
             {
                 "type": "verse",
@@ -10222,13 +10229,13 @@
                     "Siku Leri Hi Nga Ta Fa, Hi Tlhelela Tshurini."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "187",
         "number": 187,
         "title": "HI TA EKA WENA MUPONISI",
+        "title_english": "OUR PARTING HYMN",
         "lyrics": [
             {
                 "type": "verse",
@@ -10242,7 +10249,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Hi Nyike Ku Rhula Emakaya, Hi Wisa No Pfukela Ka Wena;",
+                    "Hi Nyike Ku Rhula Emakaya, Hi Wisa No Pfukela Ka Wena;",
                     "Hi Sirhelele Eka Vudyoho, Hi Vitaniwa Hi Vito Raku."
                 ]
             },
@@ -10250,17 +10257,17 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Hi Nyike Ku Rhula Misaveni, Hi Sirhelele Emaxangwini;",
+                    "Hi Nyike Ku Rhula Misaveni, Hi Sirhelele Emaxangwini;",
                     "Heta Dzolonga Hi Rito Raku, U Hi Amukela Ku Rhuleni."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "188",
         "number": 188,
         "title": "HAMBI NDZI RI MUDYOHI",
+        "title_english": "CHIEF OF SINNERS THOUGH I BE",
         "lyrics": [
             {
                 "type": "verse",
@@ -10288,13 +10295,13 @@
                     "Hinkwaswo Wa Swi Rhwala, Yesu Wa Ndzi Hlayisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "189",
         "number": 189,
         "title": "A HI NA KAYA MISAVEN",
+        "title_english": "WE’VE NO ABIDING CITY HERE",
         "lyrics": [
             {
                 "type": "verse",
@@ -10329,13 +10336,13 @@
                     "Xi Ta Ndzi Nyika Ku Wisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "190",
         "number": 190,
         "title": "FAMBA NA VITO RA YESU",
+        "title_english": "TAKE THE NAME OF JESUS WITH YOU",
         "lyrics": [
             {
                 "type": "verse",
@@ -10401,13 +10408,13 @@
                     "I Ntsako Wa Matilo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "191",
         "number": 191,
         "title": "YESU HI YENA TSHEMBO WANGA",
+        "title_english": "BLESSED ASSURANCE JESUS IS MINE",
         "lyrics": [
             {
                 "type": "verse",
@@ -10451,13 +10458,13 @@
                     "Leri Hi Rona Hungu Ranga, Ndza N’wi Dzunisa Muponisi, Leri Hi Ro Risimu Ranga, Ndza N’wi Dzunisa Muponisi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "192",
         "number": 192,
         "title": "U NDZI FELE XIHAMBANWENI",
+        "title_english": "GLORY TO HIS NAME",
         "lyrics": [
             {
                 "type": "verse",
@@ -10516,13 +10523,13 @@
                     "Ri Dzuniseni, Vito Ra Yena, Yesu U Ndzi Xuve Hi Ngati, N’wi Dzuniseni."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "193",
         "number": 193,
         "title": "XANA U RHANDZA KU HANYELA YESU",
+        "title_english": "HIS WAY WITH THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -10567,13 +10574,13 @@
                     "Matimba Yakwe Mangaku Ncica, Ngati Yakwe Yingaku Tiyisa, Rirhandzu Rakwe Ringaku Fambisa, Ku Ya La Ku Faneleke."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "194",
         "number": 194,
         "title": "KAYA LERA RIRHANDZU",
+        "title_english": "LOVE AT HOME",
         "lyrics": [
             {
                 "type": "verse",
@@ -10635,13 +10642,13 @@
                     "Nkarhi A Wu Hlayiwi Erirhandzwini."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "195",
         "number": 195,
         "title": "LANGAVI RA EVHANGELI",
+        "title_english": "O FOR THAT FLAME OF LIVING FIRE",
         "lyrics": [
             {
                 "type": "verse",
@@ -10683,13 +10690,13 @@
                     "Hi Titshineta Ka Wena, Hi Nyike Moya Wa Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "196",
         "number": 196,
         "title": "XANA U RHANDZA KU HLULA NALA",
+        "title_english": "THERE’S POWER IN THE BLOOD",
         "lyrics": [
             {
                 "type": "verse",
@@ -10751,13 +10758,13 @@
                     "Wu Kona Ntamu Engatini, Ngatini Ya Hosi Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "197",
         "number": 197,
         "title": "NKOVA WA XINYAMI WU TA HELA",
+        "title_english": "THERE’LL BE NO DARK VALLEY",
         "lyrics": [
             {
                 "type": "verse",
@@ -10819,13 +10826,13 @@
                     "Nkova Wa Munyama Wu Ta Hela, Loko Yesu A Vuya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "198",
         "number": 198,
         "title": "YESU HI YENA NAKULORI",
+        "title_english": "OH, THE BEST FRIEND TO HAVE IS JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -10875,13 +10882,13 @@
                     "Ku Hava La Fanaka Na Yena, U Ta Ndzi Sirheleta, Na Ku Ndzi Sirhelela, Yesu Hi Ye Nakulorhi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "199",
         "number": 199,
         "title": "DZUNISANI XIKWEMBU, TATA WA HINA",
+        "title_english": "TO GOD BE THE GLORY",
         "lyrics": [
             {
                 "type": "verse",
@@ -10928,13 +10935,13 @@
                     "Hi Dzunisa Hosi, Mintirhwen Yakwe."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "200",
         "number": 200,
         "title": "WA KWETSIMA WENA HOSI",
+        "title_english": "HOLY HOLY HOLY",
         "lyrics": [
             {
                 "type": "verse",
@@ -10961,13 +10968,13 @@
                     "Ku Hava Un’wanyana, Hi Wena Ntsena, Xikwembu Xa Matimba Hinkwawo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "201",
         "number": 201,
         "title": "MBILU YANGA A YI CHAVA",
+        "title_english": "HE BROUGHT ME OUT",
         "lyrics": [
             {
                 "type": "verse",
@@ -11028,13 +11035,13 @@
                     "A Tsala Risimu Ka Mina, Ro Dzunisa Aleluya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "202",
         "number": 202,
         "title": "MUPONISI NDZI LETELE",
+        "title_english": "JESUS, SAVIOUR, PILOT ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -11048,7 +11055,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.U Nga (Ri) Miyeta Lwandle, Magandlati Yo Tika,",
+                    "U Nga (Ri) Miyeta Lwandle, Magandlati Yo Tika,",
                     "Ku Fana Na Manana, Mufumi Wa (Wo) Malwandle,",
                     "Ndzi Letele Xikwembu."
                 ]
@@ -11057,18 +11064,18 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Loko Ndzi Fika Tsungeni, Ndzi Nga Kuma Ku Rhula,",
+                    "Loko Ndzi Fika Tsungeni, Ndzi Nga Kuma Ku Rhula,",
                     "Xifuveni Xa Wena, Hi Marito (Yo) Tiyisa,",
                     "Ndzi Kona U Nga Chavi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "203",
         "number": 203,
         "title": "HANGALASA HUNGU KA HINKWAVO",
+        "title_english": "O, SPREAD THE TIDINGS ROUND",
         "lyrics": [
             {
                 "type": "verse",
@@ -11126,13 +11133,13 @@
                     "Mukhongoteri Werhu U Kona Sweswi, U Huma Ka Xikwembu Kwale Tilweni, Byelani Vanhu Hinkwavo, Mukhongoteri Werhu U Fikile."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "204",
         "number": 204,
         "title": "TIKWENI RA MATIKO",
+        "title_english": "WELCOME! WONDERER, WELCOME!",
         "lyrics": [
             {
                 "type": "verse",
@@ -11232,13 +11239,13 @@
                     "Mutsendzeleki Tana, Vuya Kaya; U Ta Amukeriwa, Vuya Kaya."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "205",
         "number": 205,
         "title": "YESU WA KU VITA",
+        "title_english": "WHILE WHISPERS TO YOU",
         "lyrics": [
             {
                 "type": "verse",
@@ -11252,7 +11259,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Xana U Na Ndzhwalo Wa Swona Swivi, Yesu Wa Ku Rhwalela Ndzhwalo Waku;",
+                    "Xana U Na Ndzhwalo Wa Swona Swivi, Yesu Wa Ku Rhwalela Ndzhwalo Waku;",
                     "Ka Yesu U Nga Ka Unga Lahleki Yesu Kunene-nene Wa Ku Kutsula."
                 ]
             },
@@ -11260,17 +11267,17 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Yesu Wa Gongondza Mbilwini Yaku, N’wi Amukele A Ku Katekisa;",
+                    "Yesu Wa Gongondza Mbilwini Yaku, N’wi Amukele A Ku Katekisa;",
                     "Yesu Wa Ku Vita We M’endlaswivi, Ha Ku Khongelela Wena Makwerhu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "206",
         "number": 206,
         "title": "U NDZI HE VUTOMI",
+        "title_english": "I GAVE MY LIFE FOR THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -11284,7 +11291,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Kaya Ro Phatima, Tilo Ro Kwetsima, U Siye Hinkwaswo, Ku Taa Maxangwini; Hikokwalaho Ka Mina, U Siye Ku Xonga,",
+                    "Kaya Ro Phatima, Tilo Ro Kwetsima, U Siye Hinkwaswo, Ku Taa Maxangwini; Hikokwalaho Ka Mina, U Siye Ku Xonga,",
                     "Ndzi Ku Siyele Yini Ke? Lexi Nga Xa Nkoka."
                 ]
             },
@@ -11292,24 +11299,24 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Muxanisekeri, Ku Tlula Na Mpimp, Hi Gome Ro Vava, Ku Ponisa Mina;",
+                    "Muxanisekeri, Ku Tlula Na Mpimp, Hi Gome Ro Vava, Ku Ponisa Mina;",
                     "U Rhwele Ndzhwalo Wa Mina, U Nga Siyi Nchumu,",
                     "Ndzi Ku Pfune Ha Yini Ke? Ndzi Rhwale Yini Ke?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "207",
         "number": 207,
         "title": "NDZI VONE UN’WANA MHANDZENI",
+        "title_english": "SEALS MY PARDON",
         "lyrics": [
             {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "1.Ndzi Vone Un’wana Mhandzeni, Na Ngati Mirini;",
+                    "Ndzi Vone Un’wana Mhandzeni, Na Ngati Mirini;",
                     "Mahlo Yakwe Ya Vunile Ka Yena Ndzi Yile."
                 ]
             },
@@ -11329,13 +11336,13 @@
                     "A Vulavula Na Mina; Ndza Ku Rivalela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "208",
         "number": 208,
         "title": "MIYELAN, MIYELAN, RITO RA HLEVA",
+        "title_english": "BE SILENT, BE SILENT",
         "lyrics": [
             {
                 "type": "verse",
@@ -11401,13 +11408,13 @@
                     "Hosi Yi Kona; Tshinelan, Tshinelan, Yi Ri Tanani."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "209",
         "number": 209,
         "title": "FAMBA NA MINA XIKWEMBU",
+        "title_english": "O FOR A CLOSER WALK",
         "lyrics": [
             {
                 "type": "verse",
@@ -11441,13 +11448,13 @@
                     "Ndzi Tshinete Xiluvelwen, Ndzi Dzunisa Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "210",
         "number": 210,
         "title": "I MHAMBA YA XO XIDYOHO",
+        "title_english": "WHAT A WONDERFUL SAVIOUR!",
         "lyrics": [
             {
                 "type": "verse",
@@ -11533,13 +11540,13 @@
                     "U Xi Hlamariso, Wena U Muponisi; U Xihlamariso, Wena Hosi Yanga."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "211",
         "number": 211,
         "title": "HI TA KUMA MINKATEKO",
+        "title_english": "THERE SHALL BE SHOWING OF BLESSINGS",
         "lyrics": [
             {
                 "type": "verse",
@@ -11601,13 +11608,13 @@
                     "Na Nsovo A Wu Xike; Hi Kombela Eka Wena, Mpfula Ya Minkateko."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "212",
         "number": 212,
         "title": "KU NGHENA MBILWINI YANGA",
+        "title_english": "THERE COMES TO MY HEART ONE SWEET STRAIN",
         "lyrics": [
             {
                 "type": "verse",
@@ -11665,13 +11672,13 @@
                     "Ku Rhula Nyiko, Yo Huma Tilweni; I Ya Rirhandzu Ra Yesu, Ya Hlamarisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "213",
         "number": 213,
         "title": "YESU MUPONISI WANGA",
+        "title_english": "O JESUS MY REDEEMER",
         "lyrics": [
             {
                 "type": "verse",
@@ -11729,13 +11736,13 @@
                     "Yesu Muponisi Wanga Ndzi Tlangela Wena; Munghana A Ndzi Na Ye, Wo Fana Na Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "214",
         "number": 214,
         "title": "XANA YESU WA KARHATEKA",
+        "title_english": "DOES JESUS CARE?",
         "lyrics": [
             {
                 "type": "verse",
@@ -11797,13 +11804,13 @@
                     "Na Ntsako Wu Nga Ha Hela, Ina Wa Khumbheka Hi Mina (Yesu)."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "215",
         "number": 215,
         "title": "KU NI KAYA RO SASEKA",
+        "title_english": "THE HOME WHERE CHANGES NEVER COME",
         "lyrics": [
             {
                 "type": "verse",
@@ -11874,13 +11881,13 @@
                     "(Rindza Yima A Kondza A Fika Yena Hosi Yesu)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "216",
         "number": 216,
         "title": "A NDZO VA SWANGA",
+        "title_english": "NEVER ALONE",
         "lyrics": [
             {
                 "type": "verse",
@@ -11933,13 +11940,13 @@
                     "A Nge Ndzi Siyi Swanga, Yesu A Nge Ndzi Siyi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "217",
         "number": 217,
         "title": "U NDZI KUTSULE",
+        "title_english": "SAVIOUR THY DYING LOVE",
         "lyrics": [
             {
                 "type": "verse",
@@ -11974,13 +11981,13 @@
                     "Loko Ndzi Ku Vona Ndzi Ta Nerisiwa, Hi Masiku Ku Ta Ka Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "218",
         "number": 218,
         "title": "YESU NTSENA, MASUNGULO YA YO KEREKE",
+        "title_english": "THE CHURCH HAS ONE FOUNDATION",
         "lyrics": [
             {
                 "type": "verse",
@@ -12015,13 +12022,13 @@
                     "Mahlo Ya Vona Nkateko Wa Ku Hlula, Kereke Yi Ta Xonga Masiku Hinkwawo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "219",
         "number": 219,
         "title": "NDZI LETELE HOSI YESU!",
+        "title_english": "GUIDE ME, O THOU GREAT JEHOVAH!",
         "lyrics": [
             {
                 "type": "verse",
@@ -12050,13 +12057,13 @@
                     "Ndzi Ta Dzunisa Wena (Bis)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "220",
         "number": 220,
         "title": "TIKO RA KA RIKWERHU",
+        "title_english": "THE HOME LAND! O THE HOMELAND!",
         "lyrics": [
             {
                 "type": "verse",
@@ -12071,7 +12078,7 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "2.Hosi Yesu U Kona Na Tintsumi Kaya, Swidyoho A Swi Kona, Ku Hava Miringo,",
+                    "Hosi Yesu U Kona Na Tintsumi Kaya, Swidyoho A Swi Kona, Ku Hava Miringo,",
                     "Tinsimu Leto Nandziha, Etindleveni, Loko Ndzi Tsundzuka Kaya, Mihloti Ya Tshona",
                     "(Bis)"
                 ]
@@ -12080,18 +12087,18 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "3.Va-aki Va Rikwerhu, Va Ndzi Vita Kaya, Swivavi Na Maxangu, A Swi Nga Kumeki,",
+                    "Va-aki Va Rikwerhu, Va Ndzi Vita Kaya, Swivavi Na Maxangu, A Swi Nga Kumeki,",
                     "Tiko Leri Ro Rhula, Tiko Ro Saseka,",
                     "Ndzi Yise Kaya Yesu Mukutsuri Wa Mina (Bis)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "221",
         "number": 221,
         "title": "KU YIMBELELA KA TUVA",
+        "title_english": "GALILEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -12141,13 +12148,13 @@
                     "A Hi Yimbelele Swin’we."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "222",
         "number": 222,
         "title": "MAVOKWENI YA YESU",
+        "title_english": "SAFE IN THE ARMS OF JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -12191,13 +12198,13 @@
                     "Mavokweni Ya Yesu, Ndzi Ta Hlayiseka, Erirhandzweni Rakwe, Ndzi Ta Wisa Kona."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "223",
         "number": 223,
         "title": "WA VITANA MUPONISI",
+        "title_english": "FOLLOW ALL THE WAY",
         "lyrics": [
             {
                 "type": "verse",
@@ -12269,13 +12276,13 @@
                     "Ndzi Ta Rhwala Xihambano, Muponisi Ndzi N’wi Landza, Ndzi Ta N’wi Landza Hinkwako, Loko Yesu A Ndzi Letela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "224",
         "number": 224,
         "title": "NSOVO WA HOSI VONINGA",
+        "title_english": "BRIGHTLY BEAMS OUR FSTHER’S MERCY",
         "lyrics": [
             {
                 "type": "verse",
@@ -12319,13 +12326,13 @@
                     "Pfurhisani Timboningo, Voningani, Makorhwen, Wo Hela Ntamu Elwandle, Leswaku A Ta Pona."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "225",
         "number": 225,
         "title": "MUKRISTE PFUKA",
+        "title_english": "NO CHRISTIAN, AWAKE",
         "lyrics": [
             {
                 "type": "verse",
@@ -12384,13 +12391,13 @@
                     "Yima Tserha, Tiya Mbilu, Tani Hi Nhenha, Kongoma Nala."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "226",
         "number": 226,
         "title": "NDZI LAVE KU VA MUPFUMERI",
+        "title_english": "ALMOST PERSUADED",
         "lyrics": [
             {
                 "type": "verse",
@@ -12417,13 +12424,13 @@
                     "Hi Ku Tshika Nkarhi Wa Ku Pona."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "227",
         "number": 227,
         "title": "NGATI YAKWE YI HALAKILE",
+        "title_english": "AT THE CROSS",
         "lyrics": [
             {
                 "type": "verse",
@@ -12473,13 +12480,13 @@
                     "Ndzi Pfuriwa Mahlo, Ndzi Tsakile Hi Masiku."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "228",
         "number": 228,
         "title": "VONGAN! VONGAN! YENA YESU MUKUTSURI",
+        "title_english": "PRAISE HIM! PRAISE HIM!",
         "lyrics": [
             {
                 "type": "verse",
@@ -12507,13 +12514,13 @@
                     "Yimbelela Tinsimu Ta Ku Dzunisa, Hi Ntsako N’wo Tlangeleni Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "229",
         "number": 229,
         "title": "I MANI LA HLAWULAKA HOSI",
+        "title_english": "WHO’S ON THE LORD’S SODE?",
         "lyrics": [
             {
                 "type": "verse",
@@ -12557,13 +12564,13 @@
                     "T&B      I Man La Nga Hosin, Wena Xana U Yime Kwihi, I Man La Nga Hosin, Wena Xana U Yime Kwihi?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "230",
         "number": 230,
         "title": "TANI HI NYIMPFU LEYI LAHLEKEKE",
+        "title_english": "I AM THE WAY",
         "lyrics": [
             {
                 "type": "verse",
@@ -12612,13 +12619,13 @@
                     "Yesu U Ri Hi Mina Ndlela Na Ntiyiso Na Vutomi, La Taka Ka Tatana U Ta Hi Mina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "231",
         "number": 231,
         "title": "LOKO U KARHELE HI SWIDYOHO",
+        "title_english": "LET JESUS COME INTO YOUR HEART",
         "lyrics": [
             {
                 "type": "verse",
@@ -12705,13 +12712,13 @@
                     "Ndzi Ku Pfulela Nyangwa, Nghena Mbilwini Ya Mina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "232",
         "number": 232,
         "title": "A NDZI KU SUKELI",
+        "title_english": "I WILL NEVER LEAVE THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -12749,13 +12756,13 @@
                     "Ndzi Ta Ku Thova Timbanga, Ndzi Ta Ku Londzovota."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "233",
         "number": 233,
         "title": "NDZI BYELE HI TA KHALE",
+        "title_english": "TELL ME THE OLD, OLD STORY",
         "lyrics": [
             {
                 "type": "verse",
@@ -12802,13 +12809,13 @@
                     "Ta Leswi Nga Endleka, Ta Rirhandzu Rakwe."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "234",
         "number": 234,
         "title": "TINTSUMI TA DZUNISA",
+        "title_english": "JESUS, THE LIGHT OF THE WORLD",
         "lyrics": [
             {
                 "type": "verse",
@@ -12870,13 +12877,13 @@
                     "Loku Ku Nga Ka Nkarhi Hinkwawo, U Voninga Misava."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "235",
         "number": 235,
         "title": "KU FIKILE SIKU LERA KU WISA",
+        "title_english": "AGAIN THE DAY RETURNS",
         "lyrics": [
             {
                 "type": "verse",
@@ -12910,13 +12917,13 @@
                     "Nakulorhi, Muponisi Wanga, Kwetsima Hilaha Ku Nga Heriki."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "236",
         "number": 236,
         "title": "MASANGWEN YA NTSAKO",
+        "title_english": "HIS LOVING KINDNESS",
         "lyrics": [
             {
                 "type": "verse",
@@ -12975,13 +12982,13 @@
                     "Rirhandzu Ra Nsovo Na Malwandla, A Wu Ndzi Hakerisi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "237",
         "number": 237,
         "title": "HLOMA NYIMPI YA YESU",
+        "title_english": "STAND UP, STAND UP FOR JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -13015,13 +13022,13 @@
                     "Harhi Ya Vutomi, Yi Ta Hiwa Muhluri, U Ta Fuma Na Yesu, Masiku HInkwawo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "238",
         "number": 238,
         "title": "XANA VA SWO BASA I VAMANI?",
+        "title_english": "WHO ARE THESE",
         "lyrics": [
             {
                 "type": "verse",
@@ -13093,13 +13100,13 @@
                     "Va Nghena Nyangweni Wa Yerusalema, Yerusalema Lowuntshwa Wuntshwa, Va Kombela “Yesu HI Ponise”, Va Hlantswiwe Hi Ngati."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "239",
         "number": 239,
         "title": "U KARHELE, U TSANILE?",
+        "title_english": "ART THOU WEARY?",
         "lyrics": [
             {
                 "type": "verse",
@@ -13155,13 +13162,13 @@
                     "Vakwetsimi Va Ku: “Ina, Swi Tano”."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "240",
         "number": 240,
         "title": "VONA YESU ENYANGWEN",
+        "title_english": "BEHOLD THE SAVIOUR AT THE DOOR",
         "lyrics": [
             {
                 "type": "verse",
@@ -13211,13 +13218,13 @@
                     "U Taleriwe Hi Ntsako, U Ta Lalela Na Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "241",
         "number": 241,
         "title": "TIKO RA NTSWAMBA, VULOMBE",
+        "title_english": "THERE IS A LAND CORN AND WINE",
         "lyrics": [
             {
                 "type": "verse",
@@ -13275,13 +13282,13 @@
                     "Tiko Lero Ra Ku Rhula, Ndzi Navela Ku Ya Kona, Ku Ya Vona Tiyindlu Ni Lwandle Leswi Khatisaka, Ri Ta va Kaya Ra Mina Hilaha Ku Nga Heriki."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "242",
         "number": 242,
         "title": "KU KATEKE VUN’WE",
+        "title_english": "BLEST BE THE TIE",
         "lyrics": [
             {
                 "type": "verse",
@@ -13315,13 +13322,13 @@
                     "Hi Ta Tsundzukana, Ku Kondza Hi Ta Vonana."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "243",
         "number": 243,
         "title": "PFUKA MOYA WANGA",
+        "title_english": "ARISE, MY SOUL, ARISE!",
         "lyrics": [
             {
                 "type": "verse",
@@ -13355,13 +13362,13 @@
                     "Moya Lowo Kwetsima, Ndzi Tswarwile Hi Xikwembu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "244",
         "number": 244,
         "title": "TANA EKA HOSI YESU",
+        "title_english": "COME TO JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -13418,13 +13425,13 @@
                     "Katekisa, Katekisa, Katekisa Sweswi, Sweswi Katekisa, Sweswi Katekisa, Katekisa Sweswi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "245",
         "number": 245,
         "title": "KU HAVA VITO RIN’WANA",
+        "title_english": "THERE’S NO OTHER NAME LIKE",
         "lyrics": [
             {
                 "type": "verse",
@@ -13496,13 +13503,13 @@
                     "Ri Xongile Vito Leri, Ku Hava Ro Fana Na Ro!"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "246",
         "number": 246,
         "title": "RITO NTSENA HA YESU",
+        "title_english": "NOW JUST A WORD FOR JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -13544,13 +13551,13 @@
                     "Pfuka Ku Tsaneni, Tshika Hinkwaswo Ka Yesu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "247",
         "number": 247,
         "title": "BANA MHALAMHALA",
+        "title_english": "RING THE BELLS OF HEAVEN",
         "lyrics": [
             {
                 "type": "verse",
@@ -13594,13 +13601,13 @@
                     "Wa Kwetsima Tintsumi Ta Khankha, Hi Ro Risimu Ra Vahluri, Vunyingi Lebyikulu Ngopfu, Byi Yimbelela “Wa Kwetsima”."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "248",
         "number": 248,
         "title": "XANA NTSHUNGU I WA YINI",
+        "title_english": "JESUS OF NAZARETH PASSETH BY",
         "lyrics": [
             {
                 "type": "verse",
@@ -13651,13 +13658,13 @@
                     "Mi Hlwerile, Mi Tshikile Ku Amukela Hosi Yesu, Mi Lahliwe Ra Makumu, Yesu Se U Hundzile Sweswi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "249",
         "number": 249,
         "title": "TINYIMPFU TA MAKUME KAYE-KAYE",
+        "title_english": "THE NINETY AND NINE",
         "lyrics": [
             {
                 "type": "verse",
@@ -13703,13 +13710,13 @@
                     "Tsakani Yesu A Vuya Na Vakwe."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "250",
         "number": 250,
         "title": "KU WELA ENDZINGWENI",
+        "title_english": "YIELD NOT TO TEMPTATION",
         "lyrics": [
             {
                 "type": "verse",
@@ -13755,13 +13762,13 @@
                     "Langutela Ka Yesu U Ku Khongotela, Kombela Mukutsuri Yena Ku Ku Pfuna."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "251",
         "number": 251,
         "title": "NDZI NGE PONISIWI",
+        "title_english": "WEEPING WILL NOT SAVE ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -13820,13 +13827,13 @@
                     "Yesu U Ndzi Ferile, Leswaki Ndzi Ntshuxeka, U Twisiwe Ku Vava, Matshan’wini Yanga."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "252",
         "number": 252,
         "title": "U NA NDZALO WA VUDYOHO",
+        "title_english": "ONLY TRUST HIM",
         "lyrics": [
             {
                 "type": "verse",
@@ -13884,13 +13891,13 @@
                     "Tshembha Yesu, Tshembha Yesu, Yena Namuntlha, Muponisi Wa Wena, Tshembha Yena Ntsena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "253",
         "number": 253,
         "title": "VONA MURISI LONENE",
+        "title_english": "SEE, ISRAEL’S GENTLE SHEPHERD",
         "lyrics": [
             {
                 "type": "verse",
@@ -13916,13 +13923,13 @@
                     "Hi Tinyiketa Ka Wena, Na Vana Va Hina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "254",
         "number": 254,
         "title": "DZUNISA HOSI",
+        "title_english": "PRAISE YE JEHOVAH’S NAME",
         "lyrics": [
             {
                 "type": "verse",
@@ -13948,13 +13955,13 @@
                     "Wa Hi Amukela, A Hi N’wi Khenseni, Hi Masiku."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "255",
         "number": 255,
         "title": "NDZI LAVA WENA YESU",
+        "title_english": "I NEED THEE PRECIOUS JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -13981,13 +13988,13 @@
                     "Hi Ta Tshama Hi Dzuna, We Yesu Nyimpfana."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "256",
         "number": 256,
         "title": "XIKWEMBU MUHLAYISI",
+        "title_english": "O GOD, OUR HELP",
         "lyrics": [
             {
                 "type": "verse",
@@ -14029,13 +14036,13 @@
                     "Ku Kondza Hi Ya Fika Kaya, Yesu Hi Letele."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "257",
         "number": 257,
         "title": "TIYANI BYA SWINTSHABYANI",
+        "title_english": "UNSHAKEN AS THE SACRED HILLS",
         "lyrics": [
             {
                 "type": "verse",
@@ -14061,13 +14068,13 @@
                     "Va Timbilu Letinene, Va Komba Rirhandzu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "258",
         "number": 258,
         "title": "RIPFUMELO RA XIKWEMBU",
+        "title_english": "ONE LIVING FAITH",
         "lyrics": [
             {
                 "type": "verse",
@@ -14093,13 +14100,13 @@
                     "Ku Dyoha A Hi Ku Lavi, Pfuna Wena Mukutsuri."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "259",
         "number": 259,
         "title": "HI TA HLANGANA NTSUNGENI",
+        "title_english": "SHALL WE MEET BEYOND THE RIVER?",
         "lyrics": [
             {
                 "type": "verse",
@@ -14158,13 +14165,13 @@
                     "Hi Ta Hlangana Ke? Ntsungeni Wa Nambu, Ku Ta Hlanganiwa Xana? Ndhawini Leyo Rhula?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "260",
         "number": 260,
         "title": "NDZI HUNDZA HI LE XIVANDLEN",
+        "title_english": "VALE OF BEULAH",
         "lyrics": [
             {
                 "type": "verse",
@@ -14211,13 +14218,13 @@
                     "Ndzi Vona Vugimamusi Bya Tiko Ro Xonga."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "261",
         "number": 261,
         "title": "KU NA NKOVA LOWO XONGA",
+        "title_english": "BEAUTIFUL VALLEY OF JORDAN",
         "lyrics": [
             {
                 "type": "verse",
@@ -14264,13 +14271,13 @@
                     "Na Minkarhi Ya Ku Tika, Ndzi Wisa Eka Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "262",
         "number": 262,
         "title": "NDZI RI YINI HE YESU",
+        "title_english": "CHRIST OR BARABAS?",
         "lyrics": [
             {
                 "type": "verse",
@@ -14349,13 +14356,13 @@
                     "Kumbe Barabasi?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "263",
         "number": 263,
         "title": "MATSALWA YA KHALE",
+        "title_english": "BRING YE ALL THE TITHES",
         "lyrics": [
             {
                 "type": "verse",
@@ -14432,13 +14439,13 @@
                     "Mi Ta Pfumala Ndhawu Ya Ku Yi Veka."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "264",
         "number": 264,
         "title": "SIKU LERO KWETSIMA",
+        "title_english": "HOLY DAY JEHOVAH’S REST",
         "lyrics": [
             {
                 "type": "verse",
@@ -14510,13 +14517,13 @@
                     "Ramukele, Ramukele; (Ina Ri Amukeleni) Ramukele, Ramukele; (Siku Ra Ku Hlawuleka) Hina Ha Ri Tsakela, Savata Ya Xikwembu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "265",
         "number": 265,
         "title": "KU RHULA NDHAWINI",
+        "title_english": "PEACE, PERFECT PEACE",
         "lyrics": [
             {
                 "type": "verse",
@@ -14553,13 +14560,13 @@
                     "Hambi Hi Nga Tivi Swa Mundzuku, Yesu Hi Ye Ku Rhula Ka Hina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "266",
         "number": 266,
         "title": "YESU, NDZI TA LANDZELA",
+        "title_english": "JESUS, I WILL FOLLOW THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -14606,13 +14613,13 @@
                     "Ndzi Ta Ku Landzela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "267",
         "number": 267,
         "title": "A HI SWI HLAYISENI",
+        "title_english": "SCATTER SEEDS OF KINDNESS",
         "lyrics": [
             {
                 "type": "verse",
@@ -14670,13 +14677,13 @@
                     "Haxa Mbewu Ya Nsovo, Mbewu Ya Tintswalo, Nkarhi Wu Tshinerile, Leswaku Hi Tshovela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "268",
         "number": 268,
         "title": "HOSI, XIDZEDZE XI FIKILE",
+        "title_english": "MASTER, THE TEMPEST IS RAGING!",
         "lyrics": [
             {
                 "type": "verse",
@@ -14724,13 +14731,13 @@
                     "Swi Ta Yingisa Xileriso, Swi Rhula Swi Ku Ntsee! Swi Ta Yingisa Rito Rakwe, Swi Miyela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "269",
         "number": 269,
         "title": "YESU MUPONISI WO HLAMARISA",
+        "title_english": "A WONDERFUL SAVIOUR IS JESUS MY LORD",
         "lyrics": [
             {
                 "type": "verse",
@@ -14795,13 +14802,13 @@
                     "U Vukarha Na Vutomi Bya Mina, Hi Rirhandzu leronghasi (Bis)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "270",
         "number": 270,
         "title": "MUKUTSURI MARITWENI",
+        "title_english": "OUR BLEST REDEEMER",
         "lyrics": [
             {
                 "type": "verse",
@@ -14838,13 +14845,13 @@
                     "Ku Tsanan(I) Kanga Moya Wo Tenga Na Tintswalo, Mbilu Yanga (A) Yi Ve Vutshamo Bya Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "271",
         "number": 271,
         "title": "SWIDYOHO SWENU SWI TA BASISIWA",
+        "title_english": "THO’ YOUR SINS BE AS SCARLET",
         "lyrics": [
             {
                 "type": "verse",
@@ -14870,13 +14877,13 @@
                     "Xi Ta Ku Rivalela (Bis) Swi Nge He Tsundzukiwi (Bis)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "272",
         "number": 272,
         "title": "HOXELA NTAMBHU MAGANDLATINI",
+        "title_english": "THROW OUT THE LIFE LINE",
         "lyrics": [
             {
                 "type": "verse",
@@ -14937,13 +14944,13 @@
                     "Hoxela Ntambhu Ya Ku Ponisa, Pfuna Munweri Sweswi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "273",
         "number": 273,
         "title": "VA NA MAVOKWENI YA YESU",
+        "title_english": "LEAN ON HIS ARMS",
         "lyrics": [
             {
                 "type": "verse",
@@ -15013,13 +15020,13 @@
                     "Va Na Emavokweni, Languta Henhla, Mavoko Ya Muponisi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "274",
         "number": 274,
         "title": "NDZI NA MUPONISI",
+        "title_english": "I HAVE A SAVIOUR",
         "lyrics": [
             {
                 "type": "verse",
@@ -15096,13 +15103,13 @@
                     "U Ri Ndzi Ku Byela I Waku Na Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "275",
         "number": 275,
         "title": "KU NGA HERIKI KWIH?",
+        "title_english": "ENTERNITY! WHERE?",
         "lyrics": [
             {
                 "type": "verse",
@@ -15143,13 +15150,13 @@
                     "Xana U Ta Ya Helela Kwihi Ke? U Nga Etleli U Tiphina Misaveni; U Nga Si Tihlamulela Swa Wena, Mhaka Yo U Ta Ya Helela Kwihi?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "276",
         "number": 276,
         "title": "YESU MUPONISI WA BETLEHEMA",
+        "title_english": "SEEKING FOR ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -15187,13 +15194,13 @@
                     "U Ndzi Tele Mina (Mina)! (D.C)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "277",
         "number": 277,
         "title": "KU VONAKA LOKUNENE",
+        "title_english": "LEAD, KINDLY LIGHT",
         "lyrics": [
             {
                 "type": "verse",
@@ -15220,13 +15227,13 @@
                     "Ka Wo N’wayitelo Wa Namixo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "278",
         "number": 278,
         "title": "NDLELEN YAKU HOSI",
+        "title_english": "NOT MY WAY",
         "lyrics": [
             {
                 "type": "verse",
@@ -15252,13 +15259,13 @@
                     "U Vutlhari Byanga, Na Matimba Yanga."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "279",
         "number": 279,
         "title": "MBILU LEYI NGA GOMENI",
+        "title_english": "COME UNTO ME",
         "lyrics": [
             {
                 "type": "verse",
@@ -15328,13 +15335,13 @@
                     "Ndzi Na Mbiku Yo Rhula, Mimoya Ya N’wina Yi Kuma Ku Wisa."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "280",
         "number": 280,
         "title": "TINSIMU TO NANDZIHA",
+        "title_english": "OUR KING",
         "lyrics": [
             {
                 "type": "verse",
@@ -15396,13 +15403,13 @@
                     "Khensan. . . .Nsovo. . . .Wa Yena Hosi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "281",
         "number": 281,
         "title": "KU VANGAMA KA YO NYELETI",
+        "title_english": "A BEAUTIFUL STAR",
         "lyrics": [
             {
                 "type": "verse",
@@ -15446,13 +15453,13 @@
                     "Tintshaveni, Magoveni, Vangama Wena Nyeleti; Vonakarisa Namuntlha, Vukulu Bya Nsovo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "282",
         "number": 282,
         "title": "MARITO YA KHUMEGIDI",
+        "title_english": "TEN THOUSAND HARPS",
         "lyrics": [
             {
                 "type": "verse",
@@ -15478,13 +15485,13 @@
                     "Wa Kwetsima, Wa Kwetsima, Hi Ta Dzunisa Hosi, Hi Milomu Na Timbilu, Aleluya Amen."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "283",
         "number": 283,
         "title": "UN’WANA U TA NGHENA NYANGWEN",
+        "title_english": "SOMEONE WILL ENTER THE PEARLY GATE",
         "lyrics": [
             {
                 "type": "verse",
@@ -15522,13 +15529,13 @@
                     "Hi Wena Ke? Kumbe Mina?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "284",
         "number": 284,
         "title": "LOKO TIMBILU TI VAVA",
+        "title_english": "WHILE THE DAYS ARE GOING BY",
         "lyrics": [
             {
                 "type": "verse",
@@ -15572,13 +15579,13 @@
                     "Ha Ha Ri Na NKarhi, Ha Ha Ri Na Nkarhi, Hi Endla Leswinene, Nkarhi Wa Ha Pfumela."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "285",
         "number": 285,
         "title": "KU NA NDHAWU YA KU WISA",
+        "title_english": "THERE IS A PLACE OF QUIET REST",
         "lyrics": [
             {
                 "type": "verse",
@@ -15622,13 +15629,13 @@
                     "Ka Yesu Mukutsuri, La Pfaka Tilweni; Hi Hlayise Ka Wena Mbilwini Ya Hosi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "286",
         "number": 286,
         "title": "NDZI NAVELA SIKU RERO",
+        "title_english": "BEAR ME ON",
         "lyrics": [
             {
                 "type": "verse",
@@ -15678,13 +15685,13 @@
                     "Kona Ekaya Ra Lavo Kwetsima, Kaya Ra Rirhandzu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "287",
         "number": 287,
         "title": "LOKO NDZI RINGIWA",
+        "title_english": "IN THE HOUR OF TRIAL",
         "lyrics": [
             {
                 "type": "verse",
@@ -15711,13 +15718,13 @@
                     "Swi Nga Ndzi Lovisi Ndzi Tshembe Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "288",
         "number": 288,
         "title": "VA TISE TINYIKO MILENGEN YA YESU",
+        "title_english": "THEY BROUGHT GIFTS TO JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -15761,13 +15768,13 @@
                     "U Tisile Nyiko, Nyiko Yo Xonga Swonghasi, Byela Hosi Yesu: ‘Nyiko Yanga I Mbilu’"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "289",
         "number": 289,
         "title": "NDZI LE XIRILWEN",
+        "title_english": "TAKE ME AS I AM",
         "lyrics": [
             {
                 "type": "verse",
@@ -15853,13 +15860,13 @@
                     "Ndzi Amukele (Yesu), XInin’weni Xanga (Yesu); Ndzi He Vutomi Bya Wena, Yesu Ndzamukele."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "290",
         "number": 290,
         "title": "HI NTSAKO TIRHELA HOSI",
+        "title_english": "TOILING FOR JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -15921,13 +15928,13 @@
                     "I Hosi Ya Matilo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "291",
         "number": 291,
         "title": "YA KHENSEKA NYIMPFANA",
+        "title_english": "WORTHY, WORTHY, IS THE LAMB",
         "lyrics": [
             {
                 "type": "verse",
@@ -15971,13 +15978,13 @@
                     "Wa Kwetsima Yesu, Dzunisani Yena; Mi Ku: ‘Aleluya’ Nyimpfana."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "292",
         "number": 292,
         "title": "MAVOKO YAKU TIRHELA YESU",
+        "title_english": "I’VE TWO LITTLE HANDS TO WORK FOR JESUS",
         "lyrics": [
             {
                 "type": "verse",
@@ -16021,13 +16028,13 @@
                     "Hosi Hina Ha Ta, Evuhlangini Bya Hina; Hosi Hina Ha Ta, Edyondzwen Yaku."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "293",
         "number": 293,
         "title": "GOGO! GOGO! I MANI?",
+        "title_english": "KNOCKING, KNOCKING",
         "lyrics": [
             {
                 "type": "verse",
@@ -16054,13 +16061,13 @@
                     "U Na Yo Harhi Ya Mitwa, Henhla Ka Nhloko Ya Yena, Languta U Rindzile, Wa N’wi Alela Xana, Muponisi Wa Wena?"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "294",
         "number": 294,
         "title": "TSHEMBA KA YESU",
+        "title_english": "COVER WITH HIS LIFE",
         "lyrics": [
             {
                 "type": "verse",
@@ -16117,13 +16124,13 @@
                     "Ndzi Babise, Ndzi Va Wo Tenga, Ndzi He Vutomi, Hosi Yanga; Vutomi Byanga, Byi Thyakile, Mhamba Ya Mina, Ndzi Basise."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "295",
         "number": 295,
         "title": "CHAYANI MHALAMHALA YA NYIMPI",
+        "title_english": "SOUND THE BATTLE CRY",
         "lyrics": [
             {
                 "type": "verse",
@@ -16167,13 +16174,13 @@
                     "Pfukan Masocha Lunghekan, Lunghekani Tiyani Ku Vula Rito; Mahlweni, Mahlwen Hi Tihosana, Kriste Murhangeri Wa Matimba."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "296",
         "number": 296,
         "title": "NDZI LETELE NDLELEN",
+        "title_english": "LEAD ME, SAVIOUR",
         "lyrics": [
             {
                 "type": "verse",
@@ -16226,13 +16233,13 @@
                     "Ndzi Letele Ndleleni (Ya Hosi)."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "297",
         "number": 297,
         "title": "YENA A TIYIMISELE KU NDZI FELA",
+        "title_english": "THERE WAS ONE WHO WAS WILLING",
         "lyrics": [
             {
                 "type": "verse",
@@ -16279,13 +16286,13 @@
                     "Hi Gome Yesu U Fe Xihambanweni, U Fele Swidyoho Swa Mina."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "298",
         "number": 298,
         "title": "SWIRILO NA MAHLOMULO",
+        "title_english": "NONE OF YOUR SELD AND ALL OF THEE",
         "lyrics": [
             {
                 "type": "verse",
@@ -16318,13 +16325,13 @@
                     "Hinkwaswo I Swa Wena, Swa Mina I Swa Wena, Ri Ndzi Hlurile Rirhandzu, Hinkwaswo I Swa Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "299",
         "number": 299,
         "title": "TIMBILU LETI TSAKEKE",
+        "title_english": "ALWAYS CHEERFUL",
         "lyrics": [
             {
                 "type": "verse",
@@ -16386,13 +16393,13 @@
                     "Ku Saseken Ka Ndlela Ya Hosi, Ntsakweni Nkarhi Hinkwawo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "300",
         "number": 300,
         "title": "KAYA RANGA RO KWETSIMA",
+        "title_english": "REST FOR THE WEARY",
         "lyrics": [
             {
                 "type": "verse",
@@ -16479,14 +16486,21 @@
                     "Ku Na Murhi Wa Vutomi, Na Vuwiseko"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "301",
         "number": 301,
         "title": "KU NGA RI KHALE HOSI YESU",
         "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Ku Nga Ri Khale Hosi Yesu Wa Vuya, U Ta Ku Teka Lava N’wi Tirhelaka;",
+                    "Va Hlayiseka Na Milawu Ya Yena, Va Ri a Vumbhoni Bya Yena, Na Savata."
+                ]
+            },
             {
                 "type": "refrain",
                 "lines": [
@@ -16496,7 +16510,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Loko A Ta U Ta Fika Hi Rihati, Tintsumi Ta Chaya Timhalamhala;",
                     "Ku Va Ku Twakala Rito Ra Xikwembu, Yi Teka Lava Yi Rhandzaka, Hundzukani."
@@ -16511,7 +16525,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Vafi Lava Hlawuriweke Va Pfuka, Lava Hanyaka Va Ta Hundzuriwa;",
                     "Hi Kona Va Nga Ta Hlangana Na Hosi, Swin’we Va Ya Wisa Etilweni, Hundzukani."
@@ -16524,8 +16538,7 @@
                     "Mi Nga Rivali Na Savata (Ya Xikwembu) Mi Tshembeka Ngopfu (Ka Xikwembu), Yesu U Kusuhi Wa Vuya, Hundzukani."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "302",
@@ -16536,13 +16549,22 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
+                    "Xikwembu Xitumbuluxile, Misava Ni Ntanga Wa Edeni,",
+                    "Xi Veka Munhu Entangeni, Ku Ri A Wu Rindza Ni Ku Wu Rima; A Ku Sasekile Ku Tsakisa Swinene, A Mi Ta Navela,",
+                    "Hi Vomu Munhu U Dyohile, Hi Ku Tlula Nawu Ku Fika Rifu."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Xikwembu Xi Va Laya Xi Ku, ‘Mihandzu Hinkwayo Mi Nga Dya’, Kambe Ku Na Murhi Wun’we, Xikarhi Ka Ntanga Wona Mi Nga Dyi;",
                     "Nyoka Yi Va Xisa Yi Ku Ka Evha Dyanani Murhi, Mi Nga Ka Mi Nga Fi Xikwembu Xi Tiva Leswaku, Siku Mi Nga Ta Dya Mi Ta Tlhariha."
                 ]
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Evha A Languta Murhi, A Vona Mihandzu Ya Kahle,",
                     "A Kha A Dya Kasi Yin’wana, A Nyika Adamu Leswaku A Dya; A Yi Sasekile Yi Navetisa Vutlharhi, Mahlweni Ya Lava Mbirhi,",
@@ -16551,7 +16573,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Xikwembu Swi Xi Hlundzukisa, Xi Hlongola Munhu Ntangeni, Kule Na Murhi Wa Vutomi, Xi Veka Tintsumi Ku Ri Ti RIndza;",
                     "A Ti Khomile Rihati Loko Ti Va Hlongola, Leswaku Vona Va Nga Dyi, Hi Yona Ndlela Ya Vudyoho, Loko Yi Sungula La Misaveni."
@@ -16559,7 +16581,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Adamu Loko A Onhile, Hi Ku Yingisela Wansati, Xikwembu Xi Va Tshembhisile, Ku Ri Ku Ta Tswariwa Muponisi;",
                     "I Nyimpfana Yi Ngata Felaswidyoho Hinkwaswo, Pfumelani Ka Yena Mi Nga Fani Na Ye Adamu, A Nga Tisa Rifu La Misaveni."
@@ -16567,7 +16589,7 @@
             },
             {
                 "type": "verse",
-                "index": 5,
+                "index": 6,
                 "lines": [
                     "Hosi Yesu Loko A Vuya, Ku Heta Hinkwaswo Misaven, Sathani Nyoka Leya Khale, U Ta Herisiwa A Tshwa A Lova;",
                     "Ku Ta Wisiwa Ndzilo Wu Heta Hinkwavo Vadyohi, Na Vatiarisi, Va Khongelaka Xivandzana, Na Mfungho Wa Xona Vatshwa va lova."
@@ -16575,20 +16597,26 @@
             },
             {
                 "type": "verse",
-                "index": 6,
+                "index": 7,
                 "lines": [
                     "Lava Hlayisaka Milawu, Va Nga Na Vumbhoni Bya Yesu, Va Tekeriwa Empfhukeni, Va N’wi Hlanganisa Va Ya Tilweni;",
                     "Va Ta Ambala Swo Basa Va Ya Nghena Yerusalema, Ku Fuma Na Yena, Va Yimbelela Va Dzunisa, Xikwembu Hi Laha Ku Nga Heriki."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "303",
         "number": 303,
         "title": "KU  NA VUTSHAMO NDLWINI YA YESU",
         "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Ku Na Vutshamo, Ndlwini Ya Yesu, Wa Mi Vitana N’wina Hinkwenu."
+                ]
+            },
             {
                 "type": "refrain",
                 "lines": [
@@ -16597,7 +16625,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Dyambu Ri Fambile, Ri Perile, Ri Dzhwiharile Mi Nga Hlweleni."
                 ]
@@ -16610,7 +16638,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Yindlu Yo Kwetsima Se Ya Tala, A Nga Si Pfala Tanan Hinkwenu."
                 ]
@@ -16623,7 +16651,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Kuna Vutshamo Bya Ha Kumeka, N’winyi Wa Yindlu U Mi Rindzele."
                 ]
@@ -16636,7 +16664,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Loko A Pfala Mi Ta Ya Kwihi? Ku Twakala Ku Ri : “Ku Pfariwile”.",
                     "“Ro Hetelela”   Mi Ta Gogondza Ku Nga Pfuriwi, Mi Rhendzeleka Mi Nga Pfuleriwi."
@@ -16648,8 +16676,7 @@
                     "Ku Na Vutshamo Nghenani Hinkwenu, Ku Na Vutshamo Nghenani Hinkwenu."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "304",
@@ -16660,26 +16687,40 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Vavasati Va N’wi Landza Va Karhi Va Rila, Yesu A Hlamula Aku: Mi Nga Ndzi Rileli;",
-                    "Tirilelen A Ri N’wina Na Vana Va N’wina (2)"
+                    "Yesu U Lwerile Vanhu A Hlula Sathani, A Yisiwa La Pilatoni Le Ka Tihosi;",
+                    "A Landzula Hi Vayuda Rixaka Ra Yena. (2)"
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
+                    "Vavasati Va N’wi Landza Va Karhi Va Rila, Yesu A Hlamula Aku: Mi Nga Ndzi Rileli;",
+                    "Tirilelen A Ri N’wina Na Vana Va N’wina (2)"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Twana Yesu Xihambanwe A Tlhava Mukhosi, A Ku: ‘Va Rivalele Vanhu Lava Tatana,",
                     "Lexi Va Nga Ku Xi Endleni A Va Xi Tivi’. (2)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "305",
         "number": 305,
         "title": "SIKU RIN’WANA YESU",
         "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Siku Rin’wana Yesu U Vulavularile, Na Vadyondzisiwa Vakwe."
+                ]
+            },
             {
                 "type": "refrain",
                 "lines": [
@@ -16688,7 +16729,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Yudasi Yena A Tendla Muxengi, A N’wi Xavisela Valala."
                 ]
@@ -16701,7 +16742,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "A Va Byela A Ku Loko Ndzi Fika, Mi Ta Vona Ndzi N’wi Tswontswa."
                 ]
@@ -16714,7 +16755,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Kasi Yesu Yena A Va A Swi Tiva, Ku Ri Yudasi I Muxengi."
                 ]
@@ -16725,21 +16766,37 @@
                     "A Va Byela A Ku: ‘Moya Wanga Wu Ri Sweswi Ndzi Ya Eku Feni’."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "306",
         "number": 306,
         "title": "NDZI VONE TINXAKA TA MISAVA HINKWAYO",
-        "lyrics": [],
-        "revision": 1
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Ndzi Vone Tinxaka Ta Misava Hinkwayo, Ti Yime Mahlweni Ka Hosi;",
+                    "Va Pfula Tibuku Ta Mintirhi Ya Vanhu, Ha Un’we Va Tengisiwa Nandzu.",
+                    "Swi Lo Yini U Nga Chavi Xikwembu, Swi Lo Yini U Nga Chavi Tatana;",
+                    "Ndzi Vone Tinxaka Ta Misava Hinkwayo, Ti Yime Mahlweni Ka Hosi."
+                ]
+            }
+        ]
     },
     {
         "index": "307",
         "number": 307,
         "title": "HI KU TWANANA",
         "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "Hi Ku Twanana, Hi Ku Twanana, Hi Ku Twanana Hi Tirhela Hosi."
+                ]
+            },
             {
                 "type": "refrain",
                 "lines": [
@@ -16748,7 +16805,7 @@
             },
             {
                 "type": "verse",
-                "index": 1,
+                "index": 2,
                 "lines": [
                     "Na Tinyoxi, Hi Ku Twanana,",
                     "Ta Swi Kota Ku Endla Vulombe Bya Tona."
@@ -16762,7 +16819,7 @@
             },
             {
                 "type": "verse",
-                "index": 2,
+                "index": 3,
                 "lines": [
                     "Na Vusokoti, Hi Ku Twanana,",
                     "Bya Swi Kota Ku Endla Tiyindlo Ta Byona."
@@ -16776,7 +16833,7 @@
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 4,
                 "lines": [
                     "Na Vapostola, Hi Ku Twanana,",
                     "Va Kotile Ku Fambisa Ntirho Wa Hosi."
@@ -16790,7 +16847,7 @@
             },
             {
                 "type": "verse",
-                "index": 4,
+                "index": 5,
                 "lines": [
                     "Na Hinkweru, Hi Ku Twanana,",
                     "Ha Swi Kota Ku Fambisa Ntirho Wa Hosi."
@@ -16802,8 +16859,7 @@
                     "Hi Ku Twanana, Hi Ku Twanana, Hi Ku Twanana Hi Tirhela Hosi."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "308",
@@ -16814,39 +16870,54 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Vamanana Va Navela Tilo, Vamanana Va Navela Tilo Vamanana Va Navela Tilo, Va Navela Tilo."
+                    "Hinkwerhu Hi Navela Tilo, Hinkwerhu Hi Navela Tilo, Hinkwerhu Hi Navela Tilo, Hi Navela Tilo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Vatatana Va Navela Tilo, Vatatana Va Navela Tilo, Vatatana Va Navela Tilo, Va Navela Tilo."
+                    "Vamanana Va Navela Tilo, Vamanana Va Navela Tilo Vamanana Va Navela Tilo, Va Navela Tilo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Na Vanhwana Va Navela Tilo, Na Vanhwana Va Navela Tilo, Na Vanhwana Va Navela Tilo, Va Navela Tilo."
+                    "Vatatana Va Navela Tilo, Vatatana Va Navela Tilo, Vatatana Va Navela Tilo, Va Navela Tilo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
+                    "Na Vanhwana Va Navela Tilo, Na Vanhwana Va Navela Tilo, Na Vanhwana Va Navela Tilo, Va Navela Tilo."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 5,
+                "lines": [
                     "Na Majaha Ma Navela Tilo, Na Majaha Ma Navela Tilo, Na Majaha Ma Navela Tilo, Ma Navela Tilo."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "309",
         "number": 309,
         "title": "TANA MOYA WO KWETSIMA",
-        "lyrics": [],
-        "revision": 1
+        "lyrics": [
+            {
+                "type": "verse",
+                "index": 1,
+                "lines": [
+                    "(Tana) Moya Wo Kwetsima (Hina) Hi Lava Wena.",
+                    "(Tana) Moya Wo Kwetsima (Hina) Hi Lava Wena.",
+                    "(Hina) Hi Lava Wena, (Hina) Hi Lava Wena."
+                ]
+            }
+        ]
     },
     {
         "index": "310",
@@ -16857,20 +16928,27 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Fambi… Fambisani Evhangeli, Fambi… Fambisani Evhangeli, (Fambisani Evhangeli), (Fambisani Evhangeli).",
-                    "Yesu… Wa Ta, Wa Ta Sweswi, Yesu… Wa Ta, Wa Ta Sweswi. (Yesu Wa Ta, Wa Ta Sweswi), (Yesu Wa Ta, Wa Ta Sweswi)"
+                    "Vona…n Wa Ta Hosi Yesu, Vona…n Wa Ta Hosi Yesu, (Vonan Wa Ta Hosi Yesu), (Vonan Wa Ta Hosi Yesu);",
+                    "Yesu… Wa Ta, Wa Ta Sweswi, Yesu… Wa Ta, Wa Ta Sweswi. (Yesu Wa Ta, Wa Ta Sweswi), (Yesu Wa Ta. Wa Ta Sweswi)"
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
+                    "Fambi… Fambisani Evhangeli, Fambi… Fambisani Evhangeli, (Fambisani Evhangeli), (Fambisani Evhangeli).",
+                    "Yesu… Wa Ta, Wa Ta Sweswi, Yesu… Wa Ta, Wa Ta Sweswi. (Yesu Wa Ta, Wa Ta Sweswi), (Yesu Wa Ta, Wa Ta Sweswi)"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Hundzu…kani N’we Matiko, Hundzu…kani N’we Matiko, (Hundzukani N’we Matiko), (Hundzukani N’we Matiko),",
                     "Yesu… Wa Ta, Wa Ta Sweswi, Yesu… Wa Ta, Wa Ta Sweswi. (Yesu Wa Ta, Wa Ta Sweswi), (Yesu Wa Ta, Wa Ta Sweswi)"
                 ]
             }
-        ],
-        "revision": 1
+        ]
     },
     {
         "index": "311",
@@ -16880,6 +16958,16 @@
             {
                 "type": "verse",
                 "index": 1,
+                "lines": [
+                    "Swi Sasekile Ngopfu Ku Famba Na Yesu,",
+                    "wi Sasekile Ngopfu Ku Famba Na Yesu;",
+                    "Swi Sasekile Ngopfu Ku Famba Na Yesu,",
+                    "I Siku Lerikulu Ka Mina Na Le Ka Wena."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
                 "lines": [
                     "A Ndza Ha Naveli Swilo Swa Misava,",
                     "A Ndza Ha Naveli Swilo Swa Misava,",
@@ -16892,27 +16980,27 @@
             },
             {
                 "type": "verse",
-                "index": 2,
-                "lines": [
-                    "Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
-                    "Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
-                    "Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
-                    "I Siku Lerikulu Ka Mina Na Le Ka Wena."
-                ]
-            },
-            {
-                "type": "verse",
-                "index": 3,
-                "lines": [
-                    "Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
-                    "Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
-                    "Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
-                    "I Siku Lerikulu Ka Mina Na Le Ka Wena."
-                ]
-            },
-            {
-                "type": "verse",
                 "index": 4,
+                "lines": [
+                    "Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
+                    "Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
+                    "Ku Hleva Van’wana A Ndza Ha Swi Lavi,",
+                    "I Siku Lerikulu Ka Mina Na Le Ka Wena."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 5,
+                "lines": [
+                    "Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
+                    "Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
+                    "Ku Dzaha Mafole A Ndza Ha Swi Lavi,",
+                    "I Siku Lerikulu Ka Mina Na Le Ka Wena."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 6,
                 "lines": [
                     "Ku Hlahluva Tinhlolo A Ndza Ha Swi Lavi,",
                     "Ku Hlahluva Tinhlolo A Ndza Ha Swi Lavi;",
@@ -16920,7 +17008,6 @@
                     "I Siku Lerikulu Ka Mina Na Le Ka Wena."
                 ]
             }
-        ],
-        "revision": 1
+        ]
     }
 ]
