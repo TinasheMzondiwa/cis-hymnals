@@ -15418,6 +15418,15 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Ven, ven, buen Jesús.",
+                    "Mora en mi corazón,",
+                    "lléname de santidad,",
+                    "pues contigo deseo andar."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 2,
                 "lines": [

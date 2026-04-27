@@ -15571,7 +15571,12 @@
                     "Ke na le Mopholosi, ’Muelli, khanyeng,",
                     "’Moloki ea ratehang, motsoalle,",
                     "Joale O mpabaletse ka bonolo.",
-                    "’Moloki oa ka e be oa hau hle!",
+                    "’Moloki oa ka e be oa hau hle!"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Ke ’Moloki oa hau l’ uena!",
                     "’Moloki oa ka O re: Ke oa hau l’uena."
                 ]
@@ -15583,19 +15588,65 @@
                     "Ke na le ntate, O mphilile ts’episo,",
                     "Tsa bo-sa-feleng, tsa sebele-bele;",
                     "’Me O tloha A mpitsetsa ho Eena.",
-                    "Ke lakatsa a amohele le uena.",
+                    "Ke lakatsa a amohele le uena."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ke ’Moloki oa hau l’ uena!",
+                    "’Moloki oa ka O re: Ke oa hau l’uena."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Kobo e ntle-ntle e ts’oeu-ts’oeu,",
                     "Khalalelong e emetse pono’a ka,",
                     "Ha ke e amohela e phatsima,",
-                    "Motsoalle, amohela e ’ngoe le uena!",
+                    "Motsoalle, amohela e ’ngoe le uena!"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ke ’Moloki oa hau l’ uena!",
+                    "’Moloki oa ka O re: Ke oa hau l’uena."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "Ke nehiloe khotso e kalo ka noka,",
                     "Ha e tsejoe ke motsalle oa mona.",
                     "Kreste ke ’Mopi, Kreste ke Mofani,",
-                    "Eka u ka neoa khotso eo le uena.",
+                    "Eka u ka neoa khotso eo le uena."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ke ’Moloki oa hau l’ uena!",
+                    "’Moloki oa ka O re: Ke oa hau l’uena."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 5,
+                "lines": [
                     "Ha Jesu a u bone, bolella ba bang,",
                     "Hore ’Moloki oa ka ke oa hau,",
                     "Rapela ’Moloki, ba tle mokhanyeng,",
                     "Thapelo e tla arajoa ka ho uena."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Ke ’Moloki oa hau l’ uena!",
+                    "’Moloki oa ka O re: Ke oa hau l’uena."
                 ]
             }
         ],
@@ -15769,15 +15820,59 @@
                 "index": 1,
                 "lines": [
                     "Lipina tsa nyakallo, letsatsing le letle,",
-                    "Re tla boka ’Moloki, Bophelo le tsela.",
+                    "Re tla boka ’Moloki, Bophelo le tsela."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Re bina. . . re bina. . . Pina tsa Morena,",
-                    "Re bina. . . re bina. . . khalalelo ea Hae.",
+                    "Re bina. . . re bina. . . khalalelo ea Hae."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "O ratile le bana, Ha a sa le lefats’eng.",
-                    "Leha, le leholimong o sa ntse A rata.",
+                    "Leha, le leholimong o sa ntse A rata."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Re bina. . . re bina. . . Pina tsa Morena,",
+                    "Re bina. . . re bina. . . khalalelo ea Hae."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Re rata thoko tsa Hae, le ho utloa Pale,",
-                    "Ha A le Galilea, Ea boholo-holo.",
+                    "Ha A le Galilea, Ea boholo-holo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Re bina. . . re bina. . . Pina tsa Morena,",
+                    "Re bina. . . re bina. . . khalalelo ea Hae."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "’Moloki ea leseho, Re khumama mona,",
                     "Re tla u kopa thuso, Ho phelela Uena."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Re bina. . . re bina. . . Pina tsa Morena,",
+                    "Re bina. . . re bina. . . khalalelo ea Hae."
                 ]
             }
         ],
@@ -15795,17 +15890,46 @@
                     "Naleli e ntle ea hlaha Bosiu,",
                     "Leholimong ea khanya ka seli,",
                     "Ea hula banna ba hlalefileng,",
-                    "Ho fumana phate ea ’Moloki.",
+                    "Ho fumana phate ea ’Moloki."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "E sa ntse benya, E sa ntse benya,",
-                    "Naleli e ntle thoteng le thabeng!",
+                    "Naleli e ntle thoteng le thabeng!"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Ba tsebisitsoe ke ntsoe la ’nete,",
                     "Ke nako hore naleli ’khanye!",
                     "Ba latela seli le leng hole,",
-                    "E ne le Kreste, Naleli ea meso.",
+                    "E ne le Kreste, Naleli ea meso."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "E sa ntse benya, E sa ntse benya,",
+                    "Naleli e ntle thoteng le thabeng!"
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Latela seli tje ka bakhale,",
                     "Seli le bonoeng ke baprofeta,",
                     "Re tla latela leseli leo,",
-                    "Re be re fihle. Phomolong, haeso.",
+                    "Re be re fihle. Phomolong, haeso."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "E sa ntse benya, e sa ntse benya!",
                     "Naleli ea poloko Molimo!"
                 ]
@@ -15824,14 +15948,43 @@
                 "lines": [
                     "Utloang le mamele mantsoe, a binoang leholimong.",
                     "Jesu O busa hona teng leholimo lea thaba.",
-                    "O lutse hona teroneng, O busa le lefats’eng.",
-                    "Alleluya! Alleluya! Alleluya! Amen.",
+                    "O lutse hona teroneng, O busa le lefats’eng."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Alleluya! Alleluya! Alleluya! Amen."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "Busa Morena, ’marena, busa ka ho sa feleng.",
                     "Ba ke ke ba arohana bao U ba ngolileng.",
-                    "Ke ba e leng nyakallo ea Hau, ba pholositsoe joalo.",
+                    "Ke ba e leng nyakallo ea Hau, ba pholositsoe joalo."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Alleluya! Alleluya! Alleluya! Amen."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Phakisa khutla ’Moloki, letsatsi la Hau le tle.",
                     "Ha ho s’o hlajoa mokhosi, lefats’e le ea feta.",
                     "Re tla ’ne re bina re re: Khanya, khanya ho Morena."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Alleluya! Alleluya! Alleluya! Amen."
                 ]
             }
         ],
@@ -16358,21 +16511,89 @@
                 "index": 1,
                 "lines": [
                     "Haeng la Bokreste khanyeng, Ho letse teng phomolo!",
-                    "’Moloki O ile pele. Ho phetha kopo ea ka.",
-                    "(a)",
+                    "’Moloki O ile pele. Ho phetha kopo ea ka."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "Mekhathala phomolong: Phomolong Mekhathala!",
                     "Mekhathala phomolong! Le uena Phomola!",
                     "(b)",
                     "Mose ho Jordane. ts’imo’-ntle ea Edene,",
-                    "Fateng sa bophelo. Le uena phomola.",
+                    "Fateng sa bophelo. Le uena phomola."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 2,
+                "lines": [
                     "O lokisa moaho, Oa bo-sa-feleng,",
-                    "Hae le sa feteng, Fats’eng le halalelang.",
+                    "Hae le sa feteng, Fats’eng le halalelang."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Mekhathala phomolong: Phomolong Mekhathala!",
+                    "Mekhathala phomolong! Le uena Phomola!",
+                    "(b)",
+                    "Mose ho Jordane. ts’imo’-ntle ea Edene,",
+                    "Fateng sa bophelo. Le uena phomola."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 3,
+                "lines": [
                     "Bohloko ha bo eo teng, Le ’ona masoabi teng.",
-                    "Setsing sa leholimo, Ke tla roala moqhaka.",
+                    "Setsing sa leholimo, Ke tla roala moqhaka."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Mekhathala phomolong: Phomolong Mekhathala!",
+                    "Mekhathala phomolong! Le uena Phomola!",
+                    "(b)",
+                    "Mose ho Jordane. ts’imo’-ntle ea Edene,",
+                    "Fateng sa bophelo. Le uena phomola."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "Lefu moo le tla hloloa, Motsu’a lona o huloe.",
-                    "Tlerolang Balopolloa! Hlabang litlatse ke eo!",
+                    "Tlerolang Balopolloa! Hlabang litlatse ke eo!"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Mekhathala phomolong: Phomolong Mekhathala!",
+                    "Mekhathala phomolong! Le uena Phomola!",
+                    "(b)",
+                    "Mose ho Jordane. ts’imo’-ntle ea Edene,",
+                    "Fateng sa bophelo. Le uena phomola."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 5,
+                "lines": [
                     "Binang majalefa! Tlerolang hlolo leetong.",
                     "Zione ea buloa, Le tla kena kahare."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Mekhathala phomolong: Phomolong Mekhathala!",
+                    "Mekhathala phomolong! Le uena Phomola!",
+                    "(b)",
+                    "Mose ho Jordane. ts’imo’-ntle ea Edene,",
+                    "Fateng sa bophelo. Le uena phomola."
                 ]
             }
         ],

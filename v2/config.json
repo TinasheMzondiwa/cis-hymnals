@@ -22,7 +22,8 @@
     {
         "key": "tonga",
         "title": "Kristu Mu Nyimbo",
-        "language": "Tonga"
+        "language": "Tonga",
+        "refrain_label": "Ciindululo"
     },
     {
         "key": "shona",

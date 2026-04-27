@@ -926,6 +926,13 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Tsiri, tsiri, tsiri, tsiri, Utlwang di ya wa:",
+                    "Tsotlhe tsa ga Jeso. - O tla tsa’a tsotlhe."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 2,
                 "lines": [
@@ -5959,6 +5966,14 @@
                     "Disa o se fengwe; Rapela Mokreste;",
                     "Disa nam’e bokoa; Mme mmaba o thata;",
                     "O dise Monyadi; Lefa a diega."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "(BA BANGWE):",
+                    "Disa o rapele, Disa rapela, Disa rapela;",
+                    "Disa lefifing le mo motshegaring Mok’reste disa."
                 ]
             },
             {

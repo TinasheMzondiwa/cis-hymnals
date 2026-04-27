@@ -14125,17 +14125,15 @@
                 ]
             },
             {
-                "type": "verse",
-                "index": 2,
+                "type": "refrain",
                 "lines": [
-                    "Chrous",
                     "O Garire rakanaka iroJesu ayidisa,",
                     "O Garire rakanaka Uya undi imbirezve"
                 ]
             },
             {
                 "type": "verse",
-                "index": 3,
+                "index": 2,
                 "lines": [
                     "Mukana-unemaruva-Kune shiri-dzinoimba",
                     "(Mumukana) (wemaruva) (kuneshiri) (dzinoimba)",
@@ -14144,13 +14142,27 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "O Garire rakanaka iroJesu ayidisa,",
+                    "O Garire rakanaka Uya undi imbirezve"
+                ]
+            },
+            {
                 "type": "verse",
-                "index": 4,
+                "index": 3,
                 "lines": [
                     "Kana ndichi-verengazve-Naiyewa-kandifira",
                     "(ndoverenga) (ndoverenga) (naiyeyo) (vakandifira)",
                     "Ndinodisa kutewera Akange ari Garire",
                     "(Ndinodisa) kuwera (akangea) (rigarire)"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "O Garire rakanaka iroJesu ayidisa,",
+                    "O Garire rakanaka Uya undi imbirezve"
                 ]
             }
         ],
@@ -14797,6 +14809,15 @@
                     "Uchida kuimba nevatsvene",
                     "Bvumira Jesu mumwoyo",
                     "Woda kupinda mune zororo",
+                    "Bvumira Jesu mumwoyo"
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
+                    "Kwapera kupokana,",
+                    "Nhasi usa murambe",
+                    "Chizarura musiwo,",
                     "Bvumira Jesu mumwoyo"
                 ]
             }

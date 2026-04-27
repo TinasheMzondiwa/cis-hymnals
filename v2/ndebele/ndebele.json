@@ -4405,6 +4405,13 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "Si zokuma kanjani thina le? Ngelanga leli elikhulu;",
+                    "Ekwahlulelweni kwabantu, Ngelanga lel’ elikhulu."
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 2,
                 "lines": [
@@ -13285,10 +13292,23 @@
                 ]
             },
             {
+                "type": "refrain",
+                "lines": [
+                    "O! Galile elimnandi, Lapha kwakuthand’ uJesu,",
+                    "O! Galile ‘lihuhlaza, woz’ uhlabelele kimi!"
+                ]
+            },
+            {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Chrous",
+                    "Lapha ku geleza ‘manzi Laph’ inyoni zi yabonga",
+                    "Zi dumisa ngalilanga Ngodumo lwase Galile."
+                ]
+            },
+            {
+                "type": "refrain",
+                "lines": [
                     "O! Galile elimnandi, Lapha kwakuthand’ uJesu,",
                     "O! Galile ‘lihuhlaza, woz’ uhlabelele kimi!"
                 ]
@@ -13297,16 +13317,15 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Lapha ku geleza ‘manzi Laph’ inyoni zi yabonga",
-                    "Zi dumisa ngalilanga Ngodumo lwase Galile."
+                    "Nxa ngi bala kwakhona le NgaYe owa hamb’ olwandhle,",
+                    "Ngi kufisa kodwa kandwa kanye Ukumlandel’ eGalile."
                 ]
             },
             {
-                "type": "verse",
-                "index": 4,
+                "type": "refrain",
                 "lines": [
-                    "Nxa ngi bala kwakhona le NgaYe owa hamb’ olwandhle,",
-                    "Ngi kufisa kodwa kandwa kanye Ukumlandel’ eGalile."
+                    "O! Galile elimnandi, Lapha kwakuthand’ uJesu,",
+                    "O! Galile ‘lihuhlaza, woz’ uhlabelele kimi!"
                 ]
             }
         ],
