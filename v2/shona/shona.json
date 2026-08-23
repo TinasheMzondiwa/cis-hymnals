@@ -86,66 +86,82 @@
     {
         "index": "002",
         "number": 2,
-        "title": "Petyo Kana Nepam’suvo",
+        "title": "Petyo Kana Nepam’suwo",
         "lyrics": [
             {
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Mambo aripo pam’suwo, Iye wafa pamchinjiko;",
-                    "Asi unowuya zvino Kutora vake’vo."
+                    "Mambo aripo pam’suwo,",
+                    "Iye wafa pamchinjiko;",
+                    "Asi unowuya zvino,",
+                    "Kutora vake’vo."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Pamsuwo, Pam’suwo, Pam’suwo, Hunde’po pam’suwo;",
-                    "Anouya, Anouya, hunde ari pam’suwo."
+                    "Pam’suwo, Pam’suwo,",
+                    "Pam’suwo, Hunde’po pam’suwo;",
+                    "Anouya, Anouya,",
+                    "hunde ari pam’suwo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Zviwoneso zvekuuya, Zvino zviri kuitika;",
-                    "Toona nekukasika Musi wakanaka."
+                    "Zviwoneso zvekuuya,",
+                    "Zvino zviri kuitika;",
+                    "Toona nekukasika,",
+                    "Musi wakanaka."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Pamsuwo, Pam’suwo, Pam’suwo, Hunde’po pam’suwo;",
-                    "Anouya, Anouya, hunde ari pam’suwo."
+                    "Pam’suwo, Pam’suwo,",
+                    "Pam’suwo, Hunde’po pam’suwo;",
+                    "Anouya, Anouya,",
+                    "hunde ari pam’suwo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Musanangise pasi’po, Kuti kusine dambudzo;",
-                    "Dakara Muponesi’wo Auye pasi’po."
+                    "Musanangise pasi’po,",
+                    "Kuti kusine dambudzo;",
+                    "Dakara Muponesi’wo,",
+                    "Auye pasi’po."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Pamsuwo, Pam’suwo, Pam’suwo, Hunde’po pam’suwo;",
-                    "Anouya, Anouya, hunde ari pam’suwo."
+                    "Pam’suwo, Pam’suwo,",
+                    "Pam’suwo, Hunde’po pam’suwo;",
+                    "Anouya, Anouya,",
+                    "hunde ari pam’suwo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Ndizvo mupasi’po itsva, Tichagara nekugara;",
-                    "Kufa kuchawa kusafa, Haiperi nguva."
+                    "Ndizvo mupasi’po itsva,",
+                    "Tichagara nekugara;",
+                    "Kufa kuchawa kusafa,",
+                    "Haiperi nguva."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Pamsuwo, Pam’suwo, Pam’suwo, Hunde’po pam’suwo;",
-                    "Anouya, Anouya, hunde ari pam’suwo."
+                    "Pam’suwo, Pam’suwo,",
+                    "Pam’suwo, Hunde’po pam’suwo;",
+                    "Anouya, Anouya,",
+                    "hunde ari pam’suwo."
                 ]
             }
         ],
@@ -160,60 +176,76 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Tichazoonana usu, NaTenzi toonana;",
-                    "Ndinodisa kumuona Jesu wakandifira."
+                    "Tichazoonana usu,",
+                    "NaTenzi toonana;",
+                    "Ndinodisa kumuona,",
+                    "Jesu wakandifira."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndichazomuona Tenzi, Iyo mhiri kwedenga;",
-                    "Tichazoonana naYe, Gare gare kumusha."
+                    "Ndichazomuona Tenzi,",
+                    "Iyo mhiri kwedenga;",
+                    "Tichazoonana naYe,",
+                    "Gare gare kumusha."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Nhasi handisi kum’ona, Basi nge kudawira;",
-                    "Asi musi unouya, Jesu uchazoonwa."
+                    "Nhasi handisi kum’ona,",
+                    "Basi nge kudawira;",
+                    "Asi musi unouya,",
+                    "Jesu uchazoonwa."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndichazomuona Tenzi, Iyo mhiri kwedenga;",
-                    "Tichazoonana naYe, Gare gare kumusha."
+                    "Ndichazomuona Tenzi,",
+                    "Iyo mhiri kwedenga;",
+                    "Tichazoonana naYe,",
+                    "Gare gare kumusha."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Tichafara pamwe naye, Urombo hwazopera;",
-                    "Ne nzira dzaruramiswa, Zvedima zvacheniswa."
+                    "Tichafara pamwe naye,",
+                    "Urombo hwazopera;",
+                    "Ne nzira dzaruramiswa,",
+                    "Zvedima zvacheniswa."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndichazomuona Tenzi, Iyo mhiri kwedenga;",
-                    "Tichazoonana naYe, Gare gare kumusha."
+                    "Ndichazomuona Tenzi,",
+                    "Iyo mhiri kwedenga;",
+                    "Tichazoonana naYe,",
+                    "Gare gare kumusha."
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Toonana ngerufaro, Kuona nekuziwa;",
-                    "Iye Mununuri wangu, Jesu unondidisa."
+                    "Toonana ngerufaro,",
+                    "Kuona nekuziwa;",
+                    "Iye Mununuri wangu,",
+                    "Jesu unondidisa."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndichazomuona Tenzi, Iyo mhiri kwedenga;",
-                    "Tichazoonana naYe, Gare gare kumusha."
+                    "Ndichazomuona Tenzi,",
+                    "Iyo mhiri kwedenga;",
+                    "Tichazoonana naYe,",
+                    "Gare gare kumusha."
                 ]
             }
         ],
@@ -228,56 +260,76 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Soko rakanaka kunesu vafambi, Apo tinoyenda pasi’po;",
-                    "Asi Muponesi achazouyazve, Kutonga umambo hwake’wo."
+                    "Soko rakanaka kunesu vafambi,",
+                    "Apo tinoyenda pasi’po;",
+                    "Asi Muponesi achazouyazve,",
+                    "Kutonga umambo hwake’wo."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Arikuuya ngekukasika, Jesu zve arikudzoka,   Nevafambi vake vachazotorwa, Apo Jesu auya."
+                    "Arikuuya ngekukasika,",
+                    "Jesu zve arikudzoka,",
+                    "Nevafambi vake vachazotorwa,",
+                    "Apo Jesu auya."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Makuva ekare apo vanorara, Vafambi vakafa naKristu;",
-                    "Vachazarurwazve, vanhu vanomuka, Vachapona pamwe na Jesu."
+                    "Makuva ekare apo vanorara,",
+                    "Vafambi vakafa m'naKristu;",
+                    "Achazarurwazve, vanhu vanomuka,",
+                    "Vachapona pamwe na Jesu."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Arikuuya ngekukasika, Jesu zve arikudzoka,   Nevafambi vake vachazotorwa, Apo Jesu auya."
+                    "Arikuuya ngekukasika,",
+                    "Jesu zve arikudzoka,",
+                    "Nevafambi vake vachazotorwa,",
+                    "Apo Jesu auya."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Tichasangana kumusha’wo kudenga, Tichaimba ngekuponeswa;",
-                    "Vaponeswi’wo vachabva pasi rese, Vanamate Mambo wedenga."
+                    "Tichasangana kumusha’wo kudenga,",
+                    "Tichaimba ngekuponeswa;",
+                    "Vaponeswi’wo vachabva pasi rese,",
+                    "Vanamate Mambo wedenga."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Arikuuya ngekukasika, Jesu zve arikudzoka,   Nevafambi vake vachazotorwa, Apo Jesu auya."
+                    "Arikuuya ngekukasika,",
+                    "Jesu zve arikudzoka,",
+                    "Nevafambi vake vachazotorwa,",
+                    "Apo Jesu auya."
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Hariruya, Amen, nezve Hariruya, Ngekudawira, tichasvika;",
-                    "Namata, simbira, kufara, dakara, Topfeka mbiri yekudenga."
+                    "Hariruya, Amen, nezve Hariruya,",
+                    "Ngekudawira, tichasvika;",
+                    "Namata, simbira, kufara, dakara,",
+                    "Topfeka mbiri yekudenga."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Arikuuya ngekukasika, Jesu zve arikudzoka,   Nevafambi vake vachazotorwa, Apo Jesu auya."
+                    "Arikuuya ngekukasika,",
+                    "Jesu zve arikudzoka,",
+                    "Nevafambi vake vachazotorwa,",
+                    "Apo Jesu auya."
                 ]
             }
         ],
@@ -324,8 +376,8 @@
                     "Zvese zvakandipindura;",
                     "Nguva irikundopera,",
                     "Jesu anouya.",
-                    "Musacheme, zviwoniso zve",
-                    "Zviri kutinyewera,",
+                    "Musacheme, zviwoniso,",
+                    "Zve zviri kutinyewera,",
                     "Zvisikwa zvese zvinoda",
                     "Tsuri imborira."
                 ]
@@ -334,14 +386,14 @@
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Tiripatyo nekumusha,",
+                    "Tiripedyo nekumusha,",
                     "Kunofadza kutondera",
-                    "Chifarai imwi vafambi,",
+                    "Chifara’ imwi vafambi,",
                     "Bvisanyi’wo kutya.",
                     "Musacheme, tisangane",
                     "Apo kusina kuneta,",
                     "Zviyedzo’zvo zvakapera,",
-                    "Tasvika kumusha"
+                    "Tasvika kumusha."
                 ]
             }
         ],
@@ -357,9 +409,9 @@
                 "index": 1,
                 "lines": [
                     "Rindanyi’mwi vanoyera,",
-                    "Zvioneso zvaonekwa",
+                    "Zvioneso zvaonekwa,",
                     "Mwenje yenyu batidzanyi,",
-                    "Munochingamidza Tenzi"
+                    "Munochingamidza Tenzi."
                 ]
             },
             {
@@ -397,7 +449,7 @@
                     "Atigadzirira nzvimbo,",
                     "Muumambo hwake iyo;",
                     "Tauranyizve zvemutsa,",
-                    "Tsuri isati yaridzwa"
+                    "Tsuri isati yaridzwa."
                 ]
             },
             {
@@ -440,45 +492,57 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Apo Jesu anouya kugashira vake;",
-                    "Vanhu vake vakanaka, Vanodikanwa."
+                    "Apo Jesu anouya,",
+                    "Kugashira vake;",
+                    "Vanhu vake vakanaka,",
+                    "Vanodikanwa."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Senyenyedzi kudenga, Vese vachapenya;",
-                    "Vachagara naJesu, Wake, kumusha"
+                    "Senyenyedzi kudenga,",
+                    "Vese vachapenya;",
+                    "Vachagara naJesu,",
+                    "Wake, kumusha."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Vachaunganidza vana veumambo hwake:",
-                    "Vatereri vakanaka, Vanodikanwa"
+                    "Vachaunganidza vana,",
+                    "Veumambo hwake:",
+                    "Vatereri vakanaka,",
+                    "Vanodikanwa."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Senyenyedzi kudenga, Vese vachapenya;",
-                    "Vachagara naJesu, Wake, kumusha"
+                    "Senyenyedzi kudenga,",
+                    "Vese vachapenya;",
+                    "Vachagara naJesu,",
+                    "Wake, kumusha."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Vana vese vanodisa Muponesi wavo",
-                    "Varivake vanokosha, Vanodikanwa"
+                    "Vana vese vanodisa,",
+                    "Muponesi wavo",
+                    "Varivake vanokosha,",
+                    "Vanodikanwa."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Senyenyedzi kudenga, Vese vachapenya;",
-                    "Vachagara naJesu, Wake, kumusha"
+                    "Senyenyedzi kudenga,",
+                    "Vese vachapenya;",
+                    "Vachagara naJesu,",
+                    "Wake, kumusha."
                 ]
             }
         ],
@@ -493,7 +557,7 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Kuti Tenzi anoridza tsuri yekuguma ’Iyo,",
+                    "Kuti Tenzi anoridza tsuri yekuguma ’iyo,",
                     "Apo nguva yepasi yapera’wo;",
                     "Kuti vakanaka vese vanounganidzwa’po",
                     "Mazita anodaidzwa, ndiripo."
@@ -561,7 +625,8 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Unouya, unouya, Jesu unouya zve!"
+                    "Unouya, unouya,",
+                    "Jesu unouya zve!"
                 ]
             },
             {
@@ -577,7 +642,8 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Unouya, unouya, Jesu unouya zve!"
+                    "Unouya, unouya,",
+                    "Jesu unouya zve!"
                 ]
             },
             {
@@ -593,7 +659,8 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Unouya, unouya, Jesu unouya zve!"
+                    "Unouya, unouya,",
+                    "Jesu unouya zve!"
                 ]
             },
             {
@@ -609,7 +676,8 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Unouya, unouya, Jesu unouya zve!"
+                    "Unouya, unouya,",
+                    "Jesu unouya zve!"
                 ]
             },
             {
@@ -625,7 +693,8 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Unouya, unouya, Jesu unouya zve!"
+                    "Unouya, unouya,",
+                    "Jesu unouya zve!"
                 ]
             }
         ],
@@ -642,7 +711,7 @@
                 "lines": [
                     "Tichasangana kurwizi,",
                     "Apo kune kupenya;",
-                    "Mvura yakanakisisa",
+                    "Mvura yakanakisisa,",
                     "Yabva kuna Jehova."
                 ]
             },
@@ -650,9 +719,9 @@
                 "type": "refrain",
                 "lines": [
                     "Hunde tosangana iyo,",
-                    "Parwizi rwakanaka kudenga",
-                    "Tosangana nevanoyera",
-                    "Pachigaro chaMwari"
+                    "Parwizi rwakanaka kudenga.",
+                    "Tosangana nevanoyera,",
+                    "Pachigaro chaMwari."
                 ]
             },
             {
@@ -660,18 +729,18 @@
                 "index": 2,
                 "lines": [
                     "Iyo pagombe perwizi,",
-                    "Rwakabvira kuchena",
+                    "Rwakabvira kuchena.",
                     "Tichafamba nekutenda,",
-                    "Nguva dzese tofara"
+                    "Nguva dzese tofara."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
                     "Hunde tosangana iyo,",
-                    "Parwizi rwakanaka kudenga",
-                    "Tosangana nevanoyera",
-                    "Pachigaro chaMwari"
+                    "Parwizi rwakanaka kudenga.",
+                    "Tosangana nevanoyera,",
+                    "Pachigaro chaMwari."
                 ]
             },
             {
@@ -681,16 +750,16 @@
                     "Kurwizi’rwo runopenya,",
                     "Mitoro ticharasa;",
                     "Tosunungurwa ngemutsa,",
-                    "Togashira chiremba"
+                    "Togashira chiremba."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
                     "Hunde tosangana iyo,",
-                    "Parwizi rwakanaka kudenga",
-                    "Tosangana nevanoyera",
-                    "Pachigaro chaMwari"
+                    "Parwizi rwakanaka kudenga.",
+                    "Tosangana nevanoyera,",
+                    "Pachigaro chaMwari."
                 ]
             },
             {
@@ -700,16 +769,16 @@
                     "Tosvika nekukasika,",
                     "Nerwendo ruchapera;",
                     "Mwoyo yedu ichafara,",
-                    "Ngerwiyo rwekutenda"
+                    "Ngerwiyo rwekutenda."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
                     "Hunde tosangana iyo,",
-                    "Parwizi rwakanaka kudenga",
-                    "Tosangana nevanoyera",
-                    "Pachigaro chaMwari"
+                    "Parwizi rwakanaka kudenga.",
+                    "Tosangana nevanoyera,",
+                    "Pachigaro chaMwari."
                 ]
             }
         ],
@@ -724,75 +793,95 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Ndokutewera M’ponesi, Kwese’ko ndinogara",
-                    "Apo imwi munoenda, Hunde ndokutewera"
+                    "Ndokutewera M’ponesi,",
+                    "Kwese’ko ndinogara",
+                    "Apo imwi munoenda,",
+                    "Hunde ndokutewera."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndokutewera M’ponesi, Imwi makandifira",
-                    "Kana vese vakusiya, Ini ndokutewera"
+                    "Ndokutewera M’ponesi,",
+                    "Imwi makandifira",
+                    "Kana vese vakusiya,",
+                    "Ini ndokutewera."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Kana nzira inoshata,  Kana kusina nzira",
-                    "Mwaenda pamberi pangu, Ini ndokutewera"
+                    "Kana nzira inoshata, ",
+                    "Kana kusina nzira",
+                    "Mwaenda pamberi pangu,",
+                    "Ini ndokutewera"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndokutewera M’ponesi, Imwi makandifira",
-                    "Kana vese vakusiya, Ini ndokutewera"
+                    "Ndokutewera M’ponesi,",
+                    "Imwi makandifira",
+                    "Kana vese vakusiya,",
+                    "Ini ndokutewera."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Kuti ndaona dambudzo,  Zvimwe ini ndaedzwa",
-                    "Imwizve mwakamboedzwa, Ini ndokutewera"
+                    "Kuti ndaona dambudzo, ",
+                    "Zvimwe ini ndaedzwa",
+                    "Imwizve mwakamboedzwa,",
+                    "Ini ndokutewera."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndokutewera M’ponesi, Imwi makandifira",
-                    "Kana vese vakusiya, Ini ndokutewera"
+                    "Ndokutewera M’ponesi,",
+                    "Imwi makandifira",
+                    "Kana vese vakusiya,",
+                    "Ini ndokutewera."
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Kana ndawane urombo,  Kushaya, kusafara",
-                    "Ndatondera mwakashaya, Tenzi, ndokutewera"
+                    "Kana ndawane urombo, ",
+                    "Kushaya, kusafara,",
+                    "Ndatondera mwakashaya,",
+                    "Tenzi, ndokutewera."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndokutewera M’ponesi, Imwi makandifira",
-                    "Kana vese vakusiya, Ini ndokutewera"
+                    "Ndokutewera M’ponesi,",
+                    "Imwi makandifira",
+                    "Kana vese vakusiya,",
+                    "Ini ndokutewera."
                 ]
             },
             {
                 "type": "verse",
                 "index": 5,
                 "lines": [
-                    "Kuti ndinoona rufu, Musatizve mwauya",
-                    "Mwakafa, makamboigwa, Ndichiri kutewera"
+                    "Kuti ndinoona rufu,",
+                    "Musatizve mwauya,",
+                    "Mwakafa, makamboigwa,",
+                    "Ndichiri kutewera."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Ndokutewera M’ponesi, Imwi makandifira",
-                    "Kana vese vakusiya, Ini ndokutewera"
+                    "Ndokutewera M’ponesi,",
+                    "Imwi makandifira",
+                    "Kana vese vakusiya,",
+                    "Ini ndokutewera."
                 ]
             }
         ],
@@ -807,40 +896,50 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Iripo tsime izere Neropa raJesu;",
-                    "Vanyangadzi vasamba’mo, Vanochena naro"
+                    "Iripo tsime izere, Neropa raJesu;",
+                    "Vanyangadzi vasamba’mo, vanochena naro.",
+                    "Vanochena naro, vanochena naro.",
+                    "Vanyangadzi vasamba’mo, vanochena naro."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Mbavha yokufa yafara Kuona tsime’yo",
-                    "Kana ini munyangadzi, Ndinochena nayo"
+                    "Mbavha yokufa yafara, kuona tsime’yo;",
+                    "Kana ini munyangadzi, ndinochena nayo.",
+                    "Ndinochena nayo, ndinochena nayo.",
+                    "Kana ini munyangadzi, ndinochena nayo."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Nyenye yaMwari, ropaIro, Harishaye simba",
-                    "Dakara vanhu vaJesu, Vese vaponeswa"
+                    "Nyenye yaMwari, ropa iro, harishaye simba;",
+                    "Dakara vanhu vaJesu, vese vaponeswa.",
+                    "Vese vaponeswa, vese vaponeswa.",
+                    "Dakara vanhu vaJesu, vese vaponeswa."
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Tenzi ndinodawirazve, Kana ndakatadza",
-                    "Vandigadzirira chipo, Chawanwa ngeropa"
+                    "Tenzi ndinodawirazve, kana ndakatadza;",
+                    "Vandigadzirira chipo, chawanwa ngeropa.",
+                    "Chawanwa ngeropa, chawanwa ngeropa.",
+                    "Vandigadzirira chipo, chawanwa ngeropa."
                 ]
             },
             {
                 "type": "verse",
                 "index": 5,
                 "lines": [
-                    "Nekudenga ndichaimba, Ngesimba nerudo",
-                    "Kuti ngeropa raJesu, Ndaponeswa naro"
+                    "Nekudenga ndichaimba, ngesimba nerudo;",
+                    "Kuti ngeropa raJesu, ndaponeswa naro.",
+                    "Ndaponeswa naro, ndaponeswa naro.",
+                    "Kuti ngeropa raJesu, ndaponeswa naro."
                 ]
             }
         ],
@@ -889,9 +988,9 @@
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Jesu, ndikukumbire nekupfava",
+                    "Jesu, ndikukumbire nekupfawa",
                     "Pamakumbo ako, Tenzi ndamira",
-                    "Ndachena ngeropa nge kudawira",
+                    "Ndachena ngeropa ngekudawira",
                     "Mundisambidze ndichachena kwazvo"
                 ]
             },
@@ -907,7 +1006,7 @@
                 "index": 4,
                 "lines": [
                     "Jesu, ndarindira nekutiwira",
-                    "Uyo mundipinze nemoyo mutsva",
+                    "Uya mundipinze nemoyo mutsva",
                     "Haurambe vese vakutsvaka’vo",
                     "Mundisambidze, ndichachena kwazvo"
                 ]
@@ -1002,14 +1101,16 @@
                     "Jesu wandidisa’ni,",
                     "Randiudza Bhaibheri;",
                     "Vana vanomudisa,",
-                    "Muponesi wavada"
+                    "Muponesi wavada."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Jesu wandida, Jesu wandida",
-                    "Jesu wandida, Bhuku randiudza"
+                    "Jesu wandida,",
+                    "Jesu wandida,",
+                    "Jesu wandida,",
+                    "Bhuku randiudza."
                 ]
             },
             {
@@ -1019,14 +1120,16 @@
                     "Jesu wakandifira,",
                     "Wakasiya’ro denga",
                     "Wakauya pasizve,",
-                    "Kuponesa’vo vese"
+                    "Kuponesa’vo vese."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Jesu wandida, Jesu wandida",
-                    "Jesu wandida, Bhuku randiudza"
+                    "Jesu wandida,",
+                    "Jesu wandida,",
+                    "Jesu wandida,",
+                    "Bhuku randiudza."
                 ]
             },
             {
@@ -1042,8 +1145,10 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Jesu wandida, Jesu wandida",
-                    "Jesu wandida, Bhuku randiudza"
+                    "Jesu wandida,",
+                    "Jesu wandida,",
+                    "Jesu wandida,",
+                    "Bhuku randiudza."
                 ]
             },
             {
@@ -1051,7 +1156,7 @@
                 "index": 4,
                 "lines": [
                     "Jesu wandidisa’ni,",
-                    "Uripetyo’zve neni;",
+                    "Uripedyo’zve neni;",
                     "Kuti ndikamuda’ye,",
                     "Unozonditorazve"
                 ]
@@ -1059,8 +1164,10 @@
             {
                 "type": "refrain",
                 "lines": [
-                    "Jesu wandida, Jesu wandida",
-                    "Jesu wandida, Bhuku randiudza"
+                    "Jesu wandida,",
+                    "Jesu wandida,",
+                    "Jesu wandida,",
+                    "Bhuku randiudza."
                 ]
             }
         ],
@@ -1076,16 +1183,18 @@
                 "index": 1,
                 "lines": [
                     "Nhasi maoko angu,",
-                    "Ndasamba’wo kwazvo",
+                    "Ndasamba’wo kwazvo;",
                     "Ndaapa kuna Jesu,",
-                    "Kuita basa’ro"
+                    "Kuita basa’ro."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Chengetai tukumbo, Apo twafamba;",
-                    "Zviro’zvo zvaJesu, Basi ndinoda"
+                    "Chengetai tukumbo,",
+                    "Apo twafamba;",
+                    "Zviro’zvo zvaJesu,",
+                    "Basi ndinoda."
                 ]
             },
             {
@@ -1093,16 +1202,18 @@
                 "index": 2,
                 "lines": [
                     "Nzeve dzangu ndaudza,",
-                    "Kuterera kunzwa",
+                    "Kuterera kunzwa;",
                     "Zvebasa’ro remutsa,",
-                    "Zvondingabatsira"
+                    "Zvondingabatsira."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Chengetai tukumbo, Apo twafamba;",
-                    "Zviro’zvo zvaJesu, Basi ndinoda"
+                    "Chengetai tukumbo,",
+                    "Apo twafamba;",
+                    "Zviro’zvo zvaJesu,",
+                    "Basi ndinoda."
                 ]
             },
             {
@@ -1110,16 +1221,18 @@
                 "index": 3,
                 "lines": [
                     "Maziso anangisa,",
-                    "Zvemaoko angu",
+                    "Zvemaoko angu;",
                     "Arege kunyangadza,",
-                    "Pam’sana paJesu"
+                    "Pam’sana paJesu."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Chengetai tukumbo, Apo twafamba;",
-                    "Zviro’zvo zvaJesu, Basi ndinoda"
+                    "Chengetai tukumbo,",
+                    "Apo twafamba;",
+                    "Zviro’zvo zvaJesu,",
+                    "Basi ndinoda."
                 ]
             }
         ],
@@ -1134,48 +1247,57 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Rudo runotifadza, Runonatsa nzira",
-                    "Runoita titeerere, Nekuva nemutsa"
+                    "Rudo runotifadza,",
+                    "Runonatsa nzira,",
+                    "Runoita titeerere,",
+                    "Nekuva nemutsa."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Mwari rudo, Tirivana vake, Mwari rudo",
-                    "Tifanane na’Ye. Rudo runotifadza, Runonatsa",
-                    "nzira, Runoita titeerere, Nekuva nemutsa"
+                    "Mwari rudo, tirivana vake,",
+                    "Mwari rudo, tifanane na’Ye.",
+                    "Rudo runotifadza, runonatsa nzira,",
+                    "Runoita titeerere, nekuva nemutsa."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Pasi rine urombo, Kurwara nekufa;",
-                    "Ngerudo tinobatsira, Vamwe kudawira"
+                    "Pasi rine urombo,",
+                    "Kurwara nekufa;",
+                    "Ngerudo tinobatsira,",
+                    "Vamwe kudawira"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Mwari rudo, Tirivana vake, Mwari rudo",
-                    "Tifanane na’Ye. Rudo runotifadza, Runonatsa",
-                    "nzira, Runoita titeerere, Nekuva nemutsa"
+                    "Mwari rudo, tirivana vake,",
+                    "Mwari rudo, tifanane na’Ye.",
+                    "Rudo runotifadza, runonatsa nzira,",
+                    "Runoita titeerere, nekuva nemutsa."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Apo basa rapera, Tatorwa kum’soro,",
-                    "Ngoma yedu tichaimba, NdiJesu nge-rudo"
+                    "Apo basa rapera,",
+                    "Tatorwa kum’soro,",
+                    "Ngoma yedu tichaimba,",
+                    "NdiJesu ngerudo"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Mwari rudo, Tirivana vake, Mwari rudo",
-                    "Tifanane na’Ye. Rudo runotifadza, Runonatsa",
-                    "nzira, Runoita titeerere, Nekuva nemutsa"
+                    "Mwari rudo, tirivana vake,",
+                    "Mwari rudo, tifanane na’Ye.",
+                    "Rudo runotifadza, runonatsa nzira,",
+                    "Runoita titeerere, nekuva nemutsa."
                 ]
             }
         ],
@@ -1200,75 +1322,75 @@
                 "type": "refrain",
                 "lines": [
                     "Fambanyi maKristu mubasa iri",
-                    "M’chinjiko waJesu uri pamberi"
+                    "M’chinjiko waJesu uri pamberi."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Chita cha Satani chichakurirwa",
-                    "Fambanyi pamberi, tine mabasa",
-                    "Ngerwiyo’rwo rwedu Jesu akudzwa",
-                    "Ngatiite basa, tinoripedza"
+                    "Chita chaSatani chichakurirwa,",
+                    "Fambanyi pamberi, tine mabasa;",
+                    "Ngerwiyo’rwo rwedu Jesu akudzwa,",
+                    "Ngatiite basa, tinoripedza."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
                     "Fambanyi maKristu mubasa iri",
-                    "M’chinjiko waJesu uri pamberi"
+                    "M’chinjiko waJesu uri pamberi."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Sangano raMwari sehondo huru",
-                    "Rinoenda mberi pamwe naJesu",
-                    "Hatipatsaniswe, tese ngerudo",
-                    "Rusimbiro rumwe nerudzidziso"
+                    "Sangano raMwari sehondo huru,",
+                    "Rinoenda mberi pamwe naJesu;",
+                    "Hatipatsaniswe, tese ngerudo,",
+                    "Rusimbiro rumwe nerudzidziso."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
                     "Fambanyi maKristu mubasa iri",
-                    "M’chinjiko waJesu uri pamberi"
+                    "M’chinjiko waJesu uri pamberi."
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Umambo hwepasi huchazoputswa",
-                    "Asi sangano’ro riri kukura",
-                    "Zano raSatani richakurirwa",
-                    "Chitsidzo chaKristu chinozogara"
+                    "Umambo hwepasi huchazoputswa,",
+                    "Asi sangano’ro riri kukura;",
+                    "Zano raSatani richakurirwa,",
+                    "Chitsidzo chaKristu chinozogara."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
                     "Fambanyi maKristu mubasa iri",
-                    "M’chinjiko waJesu uri pamberi"
+                    "M’chinjiko waJesu uri pamberi."
                 ]
             },
             {
                 "type": "verse",
                 "index": 5,
                 "lines": [
-                    "Ndizvo imwi vanhu, pamberi kwazvo",
-                    "Ngatiimbe tese rwerukuriro",
-                    "Mbiri nerukudzo rwaKristu Mambo",
-                    "Vanhu nengirozi dzichaimba’yo"
+                    "Ndizvo imwi vanhu, pamberi kwazvo,",
+                    "Ngatiimbe rwiyo rwerukuriro;",
+                    "Mbiri nerukudzo rwaKristu Mambo,",
+                    "Vanhu nengirozi dzichaimba’yo."
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
                     "Fambanyi maKristu mubasa iri",
-                    "M’chinjiko waJesu uri pamberi"
+                    "M’chinjiko waJesu uri pamberi."
                 ]
             }
         ],
@@ -1315,30 +1437,40 @@
                 "type": "verse",
                 "index": 1,
                 "lines": [
-                    "Izwi resimba raMwari,",
-                    "Rinokudaidzai,",
-                    "Anovapa zvipo zvavo,",
-                    "Kune vanodisa"
+                    "Muka mwoyo wangu muka,",
+                    "Fambanyi pamberi,",
+                    "Mwari anokudaidzai,",
+                    "Kugara narini."
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Mbovo zhinji dziri petyo,",
-                    "Dzirikunangisa,",
-                    "Siya nzira’yo yekare,",
-                    "Muende kudenga"
+                    "Izwi resimba raMwari,",
+                    "Rinokudaidzai,",
+                    "Anovapa zvipo zvavo,",
+                    "Kune vanodisa."
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
+                    "Mbovo zhinji dziri pedyo,",
+                    "Dzirikunangisa,",
+                    "Siya nzira’yo yekare,",
+                    "Muende kudenga."
+                ]
+            },
+            {
+                "type": "verse",
+                "index": 4,
+                "lines": [
                     "Muponesi matiisa,",
                     "Munzira kumusha,",
                     "Kuti apo takwirira,",
-                    "Tinozokutenda"
+                    "Tinozokutenda."
                 ]
             }
         ],
