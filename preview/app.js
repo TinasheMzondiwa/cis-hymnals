@@ -128,6 +128,18 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Kristu Mu Nyimbo",
             "language": "Icibemba",
             "refrain_label": "Cibwekesho"
+        },
+        {
+            "key": "twi",
+            "title": "SDA Twi Hymnal",
+            "language": "Twi",
+            "refrain_label": "Nnyeso"
+        },
+        {
+            "key": "afrikaans",
+            "title": "Advent Lofliedere",
+            "language": "Afrikaans",
+            "refrain_label": "Refrein"
         }
     ];
 

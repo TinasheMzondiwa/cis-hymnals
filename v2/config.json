@@ -127,5 +127,11 @@
         "title": "SDA Twi Hymnal",
         "language": "Twi",
         "refrain_label": "Nnyeso"
+    },
+    {
+        "key": "afrikaans",
+        "title": "Advent Lofliedere",
+        "language": "Afrikaans",
+        "refrain_label": "Refrein"
     }
 ]
