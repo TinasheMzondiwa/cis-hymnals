@@ -140,6 +140,12 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Advent Lofliedere",
             "language": "Afrikaans",
             "refrain_label": "Refrein"
+        },
+        {
+            "key": "luganda",
+            "title": "Enyimba Za Kristo",
+            "language": "Luganda",
+            "refrain_label": "CHORUS"
         }
     ];
 
