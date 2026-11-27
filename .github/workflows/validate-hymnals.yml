@@ -1,0 +1,39 @@
+name: Validate Hymnals (v2)
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'v2/**'
+      - 'preview/**'
+      - 'scripts/**'
+      - '.github/workflows/validate-hymnals.yml'
+  push:
+    branches:
+      - main
+    paths:
+      - 'v2/**'
+      - 'preview/**'
+      - 'scripts/**'
+      - '.github/workflows/validate-hymnals.yml'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Schema & Data Cleanliness
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Hymnal Validation
+        run: |
+          chmod +x scripts/validate_hymnals.py
+          python3 scripts/validate_hymnals.py --all --github-actions
