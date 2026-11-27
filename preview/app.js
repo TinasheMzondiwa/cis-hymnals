@@ -146,6 +146,12 @@ document.addEventListener('DOMContentLoaded', () => {
             "title": "Enyimba Za Kristo",
             "language": "Luganda",
             "refrain_label": "CHORUS"
+        },
+        {
+            "key": "silozi",
+            "title": "Kelesite Mwa Lipina",
+            "language": "Silozi",
+            "refrain_label": "Makutelo"
         }
     ];
 
