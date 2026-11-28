@@ -2967,69 +2967,73 @@
                     "Mwari ngaave nemwi mwese,",
                     "Dakara tikumbanezve,",
                     "Amutungamirirenyi,",
-                    "Mwari ngaawe nemwi mwese"
+                    "Mwari ngaave nemwi mwese"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Kuti tikumbane, Kuti tikumbanezve,",
                     "Kuti tikumbane,",
-                    "Mwari ngaawe nemwi mwese"
+                    "Kuti tikumbanezve,",
+                    "Kuti tikumbane,",
+                    "Mwari ngaave nemwi mwese"
                 ]
             },
             {
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Mwari ngaawe nemwi mwese,",
+                    "Mwari ngaave nemwi mwese,",
                     "Ndiye anomuchengeta,",
                     "Munopiwa mese kudya,",
-                    "Mwari ngaawe nemwi mwese"
+                    "Mwari ngaave nemwi mwese"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Kuti tikumbane, Kuti tikumbanezve,",
                     "Kuti tikumbane,",
-                    "Mwari ngaawe nemwi mwese"
+                    "Kuti tikumbanezve,",
+                    "Kuti tikumbane,",
+                    "Mwari ngaave nemwi mwese"
                 ]
             },
             {
                 "type": "verse",
                 "index": 3,
                 "lines": [
-                    "Mwari ngaawe nemwi mwese,",
+                    "Mwari ngaave nemwi mwese,",
                     "Apo mune matambudzo,",
                     "Munobatsirwa mwese’wo,",
-                    "Mwari ngaawe nemwi mwese"
+                    "Mwari ngaave nemwi mwese"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Kuti tikumbane, Kuti tikumbanezve,",
                     "Kuti tikumbane,",
-                    "Mwari ngaawe nemwi mwese"
+                    "Kuti tikumbanezve,",
+                    "Kuti tikumbane,",
+                    "Mwari ngaave nemwi mwese"
                 ]
             },
             {
                 "type": "verse",
                 "index": 4,
                 "lines": [
-                    "Mwari ngaawe nemwi mwese,",
+                    "Mwari ngaave nemwi mwese,",
                     "Amuonese’wo rudo,",
                     "Kudzinga hosha nerufu,",
-                    "Mwari ngaawe nemwi mwese"
+                    "Mwari ngaave nemwi mwese"
                 ]
             },
             {
                 "type": "refrain",
                 "lines": [
-                    "Kuti tikumbane, Kuti tikumbanezve,",
                     "Kuti tikumbane,",
-                    "Mwari ngaawe nemwi mwese"
+                    "Kuti tikumbanezve,",
+                    "Kuti tikumbane,",
+                    "Mwari ngaave nemwi mwese"
                 ]
             }
         ],
@@ -3652,7 +3656,7 @@
                 "type": "refrain",
                 "lines": [
                     "Tirikukuteta, Mambo Jesuzve",
-                    "Kubva muchitema mutisambidze"
+                    "Ngerudo neMweya, tibhabhatidze"
                 ]
             },
             {
@@ -3667,7 +3671,7 @@
                 "type": "refrain",
                 "lines": [
                     "Tirikukuteta, Mambo Jesuzve",
-                    "Kubva muchitema mutisambidze"
+                    "Ngerudo neMweya, tibhabhatidze"
                 ]
             },
             {
@@ -3682,7 +3686,7 @@
                 "type": "refrain",
                 "lines": [
                     "Tirikukuteta, Mambo Jesuzve",
-                    "Kubva muchitema mutisambidze"
+                    "Ngerudo neMweya, tibhabhatidze"
                 ]
             },
             {
@@ -3697,7 +3701,7 @@
                 "type": "refrain",
                 "lines": [
                     "Tirikukuteta, Mambo Jesuzve",
-                    "Kubva muchitema mutisambidze"
+                    "Ngerudo neMweya, tibhabhatidze"
                 ]
             }
         ],
@@ -11106,9 +11110,9 @@
                 "type": "verse",
                 "index": 2,
                 "lines": [
-                    "Ndidzi dzenyika dziri kunyongana",
+                    "Ndudzi dzenyika dziri kunyongana",
                     "Dziri kubvunda kwazvo nekutya",
-                    "Inzwa mzkumbo engoro dzobvunda",
+                    "Inzwa makumbo engoro dzobvunda",
                     "Mudyi wenhaka usanonoke"
                 ]
             },
